@@ -1,0 +1,17 @@
+.top-bar, .top-bar ul  {
+background: #343434;
+color: #adadad;
+font-family: "Open Sans",Helvetica,Roboto,Arial,sans-serif;
+font-weight: normal;
+}
+.cover {
+	border: 0px;
+	border-bottom: 5px solid #f3f3f3;
+	margin: 0 0 1rem;
+	padding: 1rem;
+	border-radius: 0;
+	position: relative;
+	background-color: #fff;
+
+}
+

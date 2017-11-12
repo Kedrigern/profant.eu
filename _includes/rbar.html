@@ -1,9 +1,26 @@
+<div id="fb-root"></div>
+{% comment %}
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = 'https://connect.facebook.net/cs_CZ/sdk.js#xfbml=1&version=v2.11';
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+{% endcomment %}
 <div class="medium-3 columns" data-sticky-container>
   <div class="sticky" data-sticky data-anchor="content">
+
     {% if site.twitter_username %}
     <a class="twitter-timeline" href="https://twitter.com/{{site.twitter_username}}" data-height="520">Krátce od @{{site.twitter_username}}</a>
     {% endif %}
+<iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fceska.piratska.strana&tabs=timeline&width=285&height=520&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" width="285" height="520" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
 
+{% comment %}
+<div style="height:520px">
+<div class="fb-page" data-href="https://www.facebook.com/ceska.piratska.strana" data-tabs="timeline" data-width="285" data-height="520" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/ceska.piratska.strana" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/ceska.piratska.strana">Česká pirátská strana</a></blockquote></div>
+</div>
+{% endcomment %}
     <h4>Kategorie</h4>
     <ul>
       <li><a href="#">opendata</a></li>
