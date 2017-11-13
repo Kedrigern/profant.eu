@@ -41,6 +41,10 @@
   
   <div class="row" id="content">
     <div class="medium-8 columns">
+<h3>{{ page.title }}</h3>
+{% if page.img %}
+  <img class="{{page.title}}" src="{{page.img}}">
+  {% endif %}
     {{ content }}
 {% if page.comments %}
 {% include disqus.html %}

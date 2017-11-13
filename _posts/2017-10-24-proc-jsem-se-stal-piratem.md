@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Proč jsem se stal Pirátemmm?"
+title:  "Proč jsem se stal Pirátem?"
 date:   2017-10-24 18:00:00 +0100
 categories: pirati
 comments: true
