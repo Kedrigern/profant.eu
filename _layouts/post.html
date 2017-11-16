@@ -38,13 +38,15 @@
 -->
   {% include top-menu.html %}
 
-  
+
   <div class="row" id="content">
     <div class="medium-8 columns">
 <h3>{{ page.title }}</h3>
+<small>{{page.date | date:"%d. %m. %Y"}} {{page.author}}</small></a>
 {% if page.img %}
   <img class="{{page.title}}" src="{{page.img}}">
   {% endif %}
+  <br /><br />
     {{ content }}
 {% if page.comments %}
 {% include disqus.html %}
@@ -53,7 +55,7 @@
     {% include rbar.html %}
   </div>
 
- 
+
 </body>
 
 </html>

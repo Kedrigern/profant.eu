@@ -4,8 +4,8 @@ title:  "Proč jsem se stal Pirátem?"
 date:   2017-10-24 18:00:00 +0100
 categories: pirati
 comments: true
+img: "/assets/img/profant-5d.jpg"
 ---
-
 V roce 2009 jsem se jako člen přípravného výboru podílel na založení Pirátské strany, protože jsem byl nespokojený s tehdejší politickou situací. Tuzemské politice dominoval konflikt mezi tehdy Topolánkovou ODS a Paroubkovou ČSSD, v České republice se naplno začaly projevovat dopady světové ekonomické krize a já si procházel značnou deziluzí o tom, co to znamená žít v takzvaně svobodné zemi.
 
 Z nabídky politických stran jsem si nedokázal vybrat. Zčásti proto, že se všemi se pojily nějaké korupční či jiné kauzy, ale především proto, že jsem chtěl politickou stranu, pro kterou je nejdůležitější svoboda. A to nikoliv jen nějaká její část nebo podoba, ale jednoduše řečeno svoboda existovat. Svoboda žít takový život, který nebude za trest. Jistě se tehdy i dnes našlo mnoho politických stran, které ve svých programech hlásaly rozumné věci, avšak jejich důvěryhodnost byla zcela minimální. Občas i někdo něco prosadil, ale byla to vždy spíš jednorázová úlitba před volbami, než že by se jednalo o dlouhodobou a systematickou práci.
@@ -24,5 +24,3 @@ Registr smluv https://smlouvy.pirati.cz/
 Bankovní účty https://wiki.pirati.cz/fo/seznam_uctu
 Evidence lobbistických kontaktů https://evidence.pirati.cz
 Pražští Piráti získali cenu za otevřenost https://www.pirati.cz/tiskove-zpravy/otevrenost.html
-
-
