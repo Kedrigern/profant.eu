@@ -5,7 +5,7 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>{{site.title}}</title>
-  <link rel="stylesheet" href="https://dhbhdrzi4tiry.cloudfront.net/cdn/sites/foundation.min.css">
+  <link rel="stylesheet" href="https://dhbhdrzi4tiry.cloudfront.net/cdn/sites/foundation.css">
   <link href='https://cdnjs.cloudflare.com/ajax/libs/foundicons/3.0.0/foundation-icons.css' rel='stylesheet' type='text/css'>
   <link href='/assets/styl.css' rel='stylesheet' type='text/css'>
 </head>
@@ -39,8 +39,11 @@
 
   {% if page.url == '/' %}
   <div class="cover large primary" style="min-height: 300px; background-image: url('{{site.cover_image}}'); background-repeat: no-repeat; background-position: center;background-color: white;">
-    <div class="row column text-center">
-      <h1 style="text-align:left">{{site.description}}</h1>
+    <div class="row column">
+      <h1 style="text-align:left">Ondřej Profant</h1>
+      <h3 style="text-align:left">pirátský poslanec</h3>
+      <img class="left" src="assets/img/logo.svg" style="height:100px;position: relative;
+    top: 50px;"/>
     </div>
   </div>
   {% endif %}

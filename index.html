@@ -5,18 +5,14 @@ comments: true
 
 {% for post in site.posts %}
 <div class="blog-post">
-  <a href="{{site.baseurl}}{{post.url}}"><h3>{{post.title}} <small>{{post.date | date:"%d. %m. %Y"}}</small></h3></a>
+  <a href="{{site.baseurl}}{{post.url}}"><h3>{{post.title}}</h3></a>
+  <small>{{post.date | date:"%d. %m. %Y"}} {{post.author}}</small>
   {% if post.img %}
   <img class="{{post.title}}" src="{{post.img}}">
   {% else%}
   <img class="thumbnail" src="https://placehold.it/850x350">
   {% endif %}
   <p>{{post.excerpt | markdownify }}</p>
-  <div class="callout">
-    <ul class="menu simple">
-      <li><a href="#">Author: {{post.author}}</a></li>
-
-    </ul>
-  </div>
+  <hr />
 </div>
 {% endfor %}
