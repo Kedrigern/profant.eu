@@ -1,18 +1,16 @@
 ---
-layout: my
+layout: main
 comments: true
 ---
 
 {% for post in site.posts %}
 <div class="blog-post">
   <a href="{{site.baseurl}}{{post.url}}"><h3>{{post.title}}</h3></a>
-  <small>{{post.date | date:"%d. %m. %Y"}} {{post.author}}</small>
+  <small>{{post.date | date:"%d. %m. %Y"}} {{post.author}}</small><br />
   {% if post.img %}
-  <img class="{{post.title}}" src="{{post.img}}">
-  {% else%}
-  <img class="thumbnail" src="https://placehold.it/850x350">
+  <img class="thumbnail" src="{{post.img}}">
   {% endif %}
-  <p>{{post.excerpt | markdownify }}</p>
+  {{post.excerpt | markdownify }}
   <hr />
 </div>
 {% endfor %}
