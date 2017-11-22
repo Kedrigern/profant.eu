@@ -7,7 +7,7 @@
   <title>{{site.title}}</title>
   <link rel="stylesheet" href="https://dhbhdrzi4tiry.cloudfront.net/cdn/sites/foundation.min.css">
   <link href='https://cdnjs.cloudflare.com/ajax/libs/foundicons/3.0.0/foundation-icons.css' rel='stylesheet' type='text/css'>
-  <link href='/assets/app.css' rel='stylesheet' type='text/css'>
+  <link href='{{ site.baseurl }}/assets/app.css' rel='stylesheet' type='text/css'>
   <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
 </head>
 
@@ -45,7 +45,7 @@
 <h2 style="padding-top: 5px;">{{ page.title }}</h2>
 <p><small>{{page.date | date:"%d. %m. %Y"}} {{page.author}}</small></p>
 {% if page.img %}
-  <img class="thumbnail" src="{{page.img}}">
+  <img class="thumbnail" src="{{ site.baseurl }}/{{page.img}}">
   {% endif %}
   <br /><br />
     {{ content }}
