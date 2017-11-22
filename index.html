@@ -5,10 +5,10 @@ comments: true
 
 {% for post in site.posts %}
 <div class="blog-post">
-  <a href="{{site.baseurl}}{{post.url}}"><h3>{{post.title}}</h3></a>
+  <a href="{{site.baseurl}}/{{post.url}}"><h3>{{post.title}}</h3></a>
   <small>{{post.date | date:"%d. %m. %Y"}} {{post.author}}</small><br />
   {% if post.img %}
-  <img class="thumbnail" src="{{post.img}}">
+  <img class="thumbnail" src="{{ site.baseurl }}/{{post.img}}">
   {% endif %}
   {{post.excerpt | markdownify }}
   <hr />
