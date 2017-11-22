@@ -5,14 +5,13 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>{{site.title}}</title>
-  <link rel="stylesheet" href="https://dhbhdrzi4tiry.cloudfront.net/cdn/sites/foundation.min.css">
+  <link rel="stylesheet" href="https://dhbhdrzi4tiry.cloudfront.net/cdn/sites/foundation.css">
   <link href='https://cdnjs.cloudflare.com/ajax/libs/foundicons/3.0.0/foundation-icons.css' rel='stylesheet' type='text/css'>
   <link href='/assets/app.css' rel='stylesheet' type='text/css'>
   <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
 </head>
 
 <body>
-
 
 <!--
   <script>
@@ -39,24 +38,45 @@
 -->
   {% include top-menu.html %}
 
+  {% if page.url == '/' %}
+  <div class="cover large primary" style="min-height: 300px; background-image: url('{{site.cover_image}}'); background-repeat: no-repeat; background-position: center;background-color: white;">
+    <div class="row column">
+      <h1 class="main-title">{{site.main_title}}</h1>
+      <h3 class="main-subtitle">{{site.main_subtitle}}</h3>
+      <img class="left" src="assets/img/logo.svg" style="height:100px;position: relative;
+    top: 50px;"/>
+    </div>
+  </div>
+  {% endif %}
 
   <div class="row" id="content">
     <div class="medium-8 columns">
-<h2 style="padding-top: 5px;">{{ page.title }}</h2>
-<p><small>{{page.date | date:"%d. %m. %Y"}} {{page.author}}</small></p>
-{% if page.img %}
-  <img class="thumbnail" src="{{page.img}}">
-  {% endif %}
-  <br /><br />
     {{ content }}
-{% if page.comments %}
-{% include disqus.html %}
-{% endif %}
   </div>
     {% include rbar.html %}
   </div>
 
-
+  <!--
+  <div class="row column">
+    <ul class="pagination" role="navigation" aria-label="Pagination">
+      <li class="disabled">Previous</li>
+      <li class="current"><span class="show-for-sr">You're on page</span> 1</li>
+      <li><a href="#" aria-label="Page 2">2</a></li>
+      <li><a href="#" aria-label="Page 3">3</a></li>
+      <li><a href="#" aria-label="Page 4">4</a></li>
+      <li class="ellipsis"></li>
+      <li><a href="#" aria-label="Page 12">12</a></li>
+      <li><a href="#" aria-label="Page 13">13</a></li>
+      <li><a href="#" aria-label="Next page">Next</a></li>
+    </ul>
+  </div>
+-->
+  <!--
+  <script src="bower_components/jquery/dist/jquery.js?hash=c49047dde69a9cb7a50ca40493937357"></script>
+  <script src="bower_components/what-input/what-input.js?hash=7bb7fea252899152ca0173913a02f1eb"></script>
+  <script src="bower_components/foundation-sites/dist/foundation.js?hash=91fea43a73487cc87eaf15f88cfe1529"></script>
+  <script src="js/app.js?hash=69ec9e4a5c39f580d627486494fdbb8c"></script>
+-->
 </body>
 
 </html>
@@ -81,7 +101,6 @@
     return t;
   }(document, "script", "twitter-wjs"));
 </script>
-<!--<script id="dsq-count-scr" src="//blog-w0bnt5a3fz.disqus.com/count.js" async></script>-->
 </body>
 
 </html>
