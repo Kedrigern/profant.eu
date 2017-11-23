@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.2">Jekyll</generator><link href="http://localhost:4000/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/blog/" rel="alternate" type="text/html" /><updated>2017-11-23T10:35:15+01:00</updated><id>http://localhost:4000/blog/</id><title type="html">Blog Ondřeje Profanta</title><subtitle>Zápisník poslance Ondřeje Profanta
+</subtitle><author><name>Ondřej Profant</name></author><entry><title type="html">Předpoklady úspěšné digitalizace státu</title><link href="http://localhost:4000/blog/pirati/2017/11/22/predpoklady-uspesne-digitalizace-statu.html" rel="alternate" type="text/html" title="Předpoklady úspěšné digitalizace státu" /><published>2017-11-22T18:00:00+01:00</published><updated>2017-11-22T18:00:00+01:00</updated><id>http://localhost:4000/blog/pirati/2017/11/22/predpoklady-uspesne-digitalizace-statu</id><content type="html" xml:base="http://localhost:4000/blog/pirati/2017/11/22/predpoklady-uspesne-digitalizace-statu.html">&lt;p&gt;Každý by si přál moderní a digitalizovaný stát, přesto všechny dosavadní pokusy o digitalizaci byly velmi rozpačité či je dokonce možné je považovat vysloveně za ukázku špatného přístupu. V čem je tedy problém, když poptávka po digitalizaci existuje? Co vše je potřeba, aby se digitalizace povedla?&lt;/p&gt;
+
+&lt;p&gt;Digitalizace státu zdaleka není jen o technologiích. Ty jsou dnes dostupné, jinak bychom nemohli mít komplexní služby, jakými jsou například Facebook či Google aplikace. Složitější je část pod povrchem, což jsou samotné procesy, které k digitalizaci vedou. Těch máme hned několik druhů:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Legislativa&lt;/strong&gt;     &lt;br /&gt;
+Legislativou nejsou myšleny pouze zákony, nýbrž i další předpisy a dokumenty, které určují postup digitalizace, jako jsou směrnice, koncepce, strategické dokumenty a stanoviska. Legislativa spojená s digitalizací a e-governmentem obecně je tedy značně rozsáhlá a komplexní, což při realizaci digitalizace představuje značná úskalí při snaze ji dodržet.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Interní procesy&lt;/strong&gt;      &lt;br /&gt;
+V úřadu, kde digitalizace probíhá, je nutné zaměstnance motivovat ke kvalitním a dotaženým řešením. To se však mnohdy neděje. Úředníci musí také dobře znát agendu vykonávanou úřadem, aby mohli pomoci při mapování procesů, které je možné převést do digitální a více automatizované podoby.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Vznik zadání&lt;/strong&gt;     &lt;br /&gt;
+Zadání samozřejmě určuje celý projekt. Pokud i velmi dobrý tým dostane špatné zadání, existuje vysoké riziko selhání. V politice to platí dvojnásob. Projekty se mnohdy zadávají čistě tak, aby se měl politik vedle čeho fotit a o čem mluvit v televizi, nikoliv tak, aby v budoucnu sloužily občanům či úředníkům.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Veřejné zakázky&lt;/strong&gt;     &lt;br /&gt;
+Zadávací řízení, která určují způsob nákupu daných řešení a směřují k výběru dodavatelů pro veřejné zakázky, jsou vzhledem k zákonným omezením a povětšinou nedostatečným zadáním další překážkou úspěšné digitalizace. Je nesmírně složité soutěžit software na kvalitu, protože stanovení hodnotících kriterií je činnost náročná na odbornost. Proto se často dává přednost jednoduchým zadáním a soutěžím na cenu, což pak má samozřejmě negativní výsledek na finální produkt.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Nejproblematičtější výzvou je tedy častá nedostatečná odbornost odpovědných pracovníků a již zmíněné zadání. Zadavatel a manažeři projektu si proto musí správně určit kriteria. Základním kritériem by rozhodně měla být proveditelnost požadovaného úkonu. To se může zdát jako automatický požadavek, nicméně praxe ukazuje, že se často nedaří naplnit ani základní funkcionality požadovaného systému, jak lze ilustrovat kupříkladu na výdeji elektronického receptu. Stanovení klíčových ukazatelů výkonnosti (KPI), které pomohou s bližší definicí požadovaného výsledku a sledovaného cíle, je pro projekty digitalizace naprosto nezbytné.&lt;/p&gt;
+
+&lt;p&gt;Mezi podstatná kritéria projektů digitalizace patří:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;využití již existujících dat      &lt;br /&gt;
+  Vyhnutí se duplicitnímu sběru dat a s tím spojená úspora nákladů by měla být v rámci digitalizace samozřejmostí. Strategické materiály vlády s tím již počítají, je ale třeba prostřednictvím prováděcích předpisů poskytnout rámec pro jejich plnění.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;uživatelská přívětivost     &lt;br /&gt;
+  Budoucí uživatelé musí být schopni systémy či aplikace snadno a rychle využívat. Je možné se orientovat kupříkladu dle počtu interakcí nebo „kliknutí“, které jsou po uživateli vyžadovány.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;výkon systému      &lt;br /&gt;
+  ???&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;udržitelnost systému     &lt;br /&gt;
+  Systémy musí mít dostatečnou udržitelnost, která zajistí jeho bezproblémový provoz. Udržitelnost musí zohledňovat nejen zajištění financování na provoz systému, ale i využívání standardizovaných komponent.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;možnosti integrace dalších služeb     &lt;br /&gt;
+  Je nutné zvážit podobnost některých procesů a jejich digitalizaci provádět koordinovaně. Kupříkladu vydávání pasu a občanského průkazu by bylo možné považovat za stejnou agendu a spojit a s tím k digitalizaci těchto služeb přistupovat.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;cena        &lt;br /&gt;
+  Vždy je třeba spočítat kompletní náklady na projekt a jeho provoz (TCO). K tomu je zapotřebí vyčíslit nejenom samotné vytvoření systému a jeho uvedení do provozu, ale i celkové náklady úřadu či organizace na zpracování a vypsání veřejné zakázky, dlouhodobé servisní náklady, nároky na hardware, které se do celkové ceny rovněž promítnou, poplatky za využité technologie (například licenční poplatky za databázi, kterou dodavatel vyžaduje) a další faktory.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Z praxe víme, že již tato základní kriteria není vůbec jednoduché naplnit. Hlavním problémem zpravidla bývá skutečnost, že při přípravě veřejných zakázek mají státní zaměstnanci často obavu z přípravy zadání. Dávají proto často přednost co nejjednodušším podkladům a mechanismům hodnocení zadávacího řízení, které už z principu upřednostňují hotové komerční produkty. Ty však v dlouhodobém horizontu častokrát neplní požadované funkce, případně jsou s nimi spojena rizika vysokých licenčních poplatků nebo monopol jednoho dodavatele.&lt;/p&gt;
+
+&lt;p&gt;Digitalizace může proběhnout úspěšně jen tehdy, když se k její realizaci bude přistupovat poctivě a pečlivě. Je proto nutné, aby příslušné resorty poskytly maximální možnou součinnost a metodickou podporu podřízeným organizacím a samy šly při digitalizaci státní správy příkladem.&lt;/p&gt;</content><author><name>Ondřej Profant</name></author><category term="digitalizace," /><category term="stát," /><category term="data," /><category term="systém" /><summary type="html">Každý by si přál moderní a digitalizovaný stát, přesto všechny dosavadní pokusy o digitalizaci byly velmi rozpačité či je dokonce možné je považovat vysloveně za ukázku špatného přístupu. V čem je tedy problém, když poptávka po digitalizaci existuje? Co vše je potřeba, aby se digitalizace povedla?</summary></entry><entry><title type="html">Důvody pro digitalizaci</title><link href="http://localhost:4000/blog/pirati/2017/11/22/duvody-pro-digitalizaci.html" rel="alternate" type="text/html" title="Důvody pro digitalizaci" /><published>2017-11-22T18:00:00+01:00</published><updated>2017-11-22T18:00:00+01:00</updated><id>http://localhost:4000/blog/pirati/2017/11/22/duvody-pro-digitalizaci</id><content type="html" xml:base="http://localhost:4000/blog/pirati/2017/11/22/duvody-pro-digitalizaci.html">&lt;p&gt;Jedno z nejpodstatnějších témat, kterým se Piráti v prostředí české politiky věnují, je problematika digitalizace státu. Piráti o digitalizaci usilují především z toho důvodu, že náš stát je svým vývojem v digitálním pravěku. A přestože i politici z ostatních stran chápou potřebu přizpůsobit chod státního aparátu možnostem moderních technologií, o digitalizaci většinou jen hezky mluví.&lt;/p&gt;
+
+&lt;p&gt;Skutečný stav úrovně digitalizace v ČR je však velmi tristní. Za IT projekty se utrácí nesmyslné peníze a dané projekty na konci ani pořádně nefungují. Na výsledných nákladech se navíc často velmi negativně projevují licenční politiky poskytovatelů služeb, kteří se mnohdy záměrně snaží stát jako objednavatele služeb dostat do nevýhodné a závislé pozice. Příklady takové praxe jsou třeba systém ADIS od IBM, nad kterým je postaveno EET, nebo účetní systém Ginis od společnosti Gordic.&lt;/p&gt;
+
+&lt;p&gt;Dalším znakem nedostatečné digitalizace je znemožnění či znesnadnění občanovi provádět základní úkony a řešit své životní situace digitálně. Pokud už nějaká taková možnost nebo nástroj existují, zpravidla bývají zcela neintuitivní a uživateli spíš přidělávají práci, než aby mu poskytly časovou úsporu. Typickým příkladem dosavadní špatné praxe je třeba povinnost podávat kontrolní hlášení, která přispívá k navýšení administrativní zátěže na straně podnikatelů přibližně o třicet hodin ročně. Nebo již zmíněná EET, která opět jen vytvořila pro podnikatele další povinnost, už ale nenabídla žádnou službu, kterou by podnikatelům jejich nový úkol usnadnila.&lt;/p&gt;
+
+&lt;p&gt;Právě kvůli těmto špatným zkušenostem lidé digitalizaci odmítají, protože ji považují za něco, co člověku pouze komplikuje život. A to je velmi špatně. Dobře provedená digitalizace může ušetřit státu i občanům peníze, zjednodušit a zrychlit procesy a v neposlední řadě zajistit lepší auditovatelnost. Avšak nic z toho se nemůže stát, dokud v Parlamentu sedí lidé, kteří si neuvědomují současnou technologickou realitu.&lt;/p&gt;
+
+&lt;p&gt;Motivacemi pro digitalizaci by měla být snaha o:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;zlepšení efektivity státní správy 
+  Čili ušetření času úředníků, kteří se mohou věnovat produktivnější činnosti, zároveň se zlepšuje míra a podrobnost zpětné kontroly, která přispívá k lepší vymahatelnosti práva.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;zvětšení občanské spokojenosti při kontaktu se státem 
+  Čili zjednodušení řešení životních situací pro občany, kteří pak mají s úřady méně starostí a mohou případně své potřeby řešit z domovan i mimo pracovní dobu úřadu.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;snadný přístup k informacím podporující zodpovědná rozhodnutí
+  Čili zpřístupnění dostatečných informací a podkladů jak pro politiky a úředníky, tak i pro občany.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;úsporu veřejných prostředků pro fungování státní a místní správy 
+  Čili takové provedení digitalizace, které veřejné rozpočty dlouhodobě nezatěžuje a naopak umožňuje jiné využití finančních prostředků.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;zjednodušení státních agend
+  Čili odstraňování přebytečné byrokracie a její celková automatizace, čímž dochází ke snižování administrativní zátěže.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Digitalizace veřejné správy založená na skutečných a aktualizovaných datech je užitečná a prospěšná pro všechny oblasti státního servisu a v konečném důsledku tedy i pro občana. K výzvám digitalizace je však nutné se postavit koncepčně a nespoléhat se jen na to, co státu naservírují proprietární dodavatelé.&lt;/p&gt;
+
+&lt;p&gt;##Odkazy:
+Digitální Česko https://www.pirati.cz/program/temata/digitalni-cesko/
+Digitalizace znamená méně úřadů - využijme odborníky, které máme https://www.piratskelisty.cz/clanek-1708-digitalizace-znamena-mene-uradu-vyuzijme-odborniky-ktere-mame&lt;/p&gt;</content><author><name>Ondřej Profant</name></author><summary type="html">Jedno z nejpodstatnějších témat, kterým se Piráti v prostředí české politiky věnují, je problematika digitalizace státu. Piráti o digitalizaci usilují především z toho důvodu, že náš stát je svým vývojem v digitálním pravěku. A přestože i politici z ostatních stran chápou potřebu přizpůsobit chod státního aparátu možnostem moderních technologií, o digitalizaci většinou jen hezky mluví.</summary></entry><entry><title type="html">Proč jsem se stal Pirátem?</title><link href="http://localhost:4000/blog/pirati/2017/10/24/proc-jsem-se-stal-piratem-kopie.html" rel="alternate" type="text/html" title="Proč jsem se stal Pirátem?" /><published>2017-10-24T19:00:00+02:00</published><updated>2017-10-24T19:00:00+02:00</updated><id>http://localhost:4000/blog/pirati/2017/10/24/proc-jsem-se-stal-piratem%20-%20kopie</id><content type="html" xml:base="http://localhost:4000/blog/pirati/2017/10/24/proc-jsem-se-stal-piratem-kopie.html">&lt;p&gt;V roce 2009 jsem se jako člen přípravného výboru podílel na založení Pirátské strany, protože jsem byl nespokojený s tehdejší politickou situací. Tuzemské politice dominoval konflikt mezi tehdy Topolánkovou ODS a Paroubkovou ČSSD, v České republice se naplno začaly projevovat dopady světové ekonomické krize a já si procházel značnou deziluzí o tom, co to znamená žít v takzvaně svobodné zemi.&lt;/p&gt;
+
+&lt;p&gt;Z nabídky politických stran jsem si nedokázal vybrat. Zčásti proto, že se všemi se pojily nějaké korupční či jiné kauzy, ale především proto, že jsem chtěl politickou stranu, pro kterou je nejdůležitější svoboda. A to nikoliv jen nějaká její část nebo podoba, ale jednoduše řečeno svoboda existovat. Svoboda žít takový život, který nebude za trest. Jistě se tehdy i dnes našlo mnoho politických stran, které ve svých programech hlásaly rozumné věci, avšak jejich důvěryhodnost byla zcela minimální. Občas i někdo něco prosadil, ale byla to vždy spíš jednorázová úlitba před volbami, než že by se jednalo o dlouhodobou a systematickou práci.&lt;/p&gt;
+
+&lt;p&gt;Liberální strany v Česku nemají moc šťastnou historii. Obecně se dá říci, že jsou Češi liberálové, ale liberálním stranám se zde příliš nedaří. A to převážně z toho důvodu, že se pod tíhou vnitřních rozporů a skandálů rozpadnou dříve, než mohou něco udělat. Obvykle to totiž byly jen politické projekty a nikoliv hnutí, které touží po boji za svůj životní styl a své osobní svobody. Avšak my, Piráti, jsme jiní. Kupříkladu já jsem příznivcem svobodné kultury, která je neustále utlačována ze strany kultury komerční, Ivan Bartoš měl přímou zkušenost s nepřiměřeným policejním zásahem na CzechTeku 2005 a řada dalších Pirátů do strany vstupovala na základě vlastních negativních zážitků se státní mocí a dalšími formami šikany. Ať už se jednalo třeba o nesmyslné obstrukce na úřadech, omezování přístupu k informacím nebo neoprávněné požadavky OSA a dalších kolektivních správců.&lt;/p&gt;
+
+&lt;p&gt;A právě tím se Piráti od většiny politiků odlišují. Jsme lidé, kteří zde žijí a politika si našla nás, nikoliv obráceně. Nestali jsme se politickou stranou kvůli vidině teplých místeček, nýbrž kvůli šanci na změnu poměrů v politice. Ostatně kdyby nám šlo o politickou kariéru, bylo z pozice mladých lidí mnohem snazší ji udělat v jakékoliv jiné straně.&lt;/p&gt;
+
+&lt;p&gt;Hned zpočátku jsme si uvědomili, co nám hrozí. Nekonečné hádky o definici svobody, odklon od původních ideálů, zákulisní vlivy, příliv kariéristů a prospěchářů a další neduhy začínající liberální strany. Zároveň jsme věděli, co je opravdovým problémem tohoto státu – korupce. Proto jsme si řekli, že to chceme dělat jinak. Nastavili jsme si mantinely a mechanismy, jak se případným korupčním tendencím efektivně bránit. Jako první jsme zavedli a dodnes silně zdokonalujeme principy transparence, které nám zaručují výrazně větší stabilitu a důvěryhodnost než jiným stranám. Příkladem je náš vlastní registr smluv, transparentní účty i účetnictví nebo třeba registr schůzek s lobbisty. Zastupitelský klub Pirátů na pražském magistrátu dokonce obdržel prestižní cenu Otevřeno za způsob, jakým vede svoji činnost.&lt;/p&gt;
+
+&lt;p&gt;Proto jsem se stal Pirátem. Abych mohl dělat věci jinak. Lépe.&lt;/p&gt;
+
+&lt;h2 id=&quot;odkazy&quot;&gt;Odkazy&lt;/h2&gt;
+
+&lt;p&gt;Registr smluv https://smlouvy.pirati.cz/
+Bankovní účty https://wiki.pirati.cz/fo/seznam_uctu
+Evidence lobbistických kontaktů https://evidence.pirati.cz
+Pražští Piráti získali cenu za otevřenost https://www.pirati.cz/tiskove-zpravy/otevrenost.html&lt;/p&gt;</content><author><name>Ondřej Profant</name></author><summary type="html">V roce 2009 jsem se jako člen přípravného výboru podílel na založení Pirátské strany, protože jsem byl nespokojený s tehdejší politickou situací. Tuzemské politice dominoval konflikt mezi tehdy Topolánkovou ODS a Paroubkovou ČSSD, v České republice se naplno začaly projevovat dopady světové ekonomické krize a já si procházel značnou deziluzí o tom, co to znamená žít v takzvaně svobodné zemi.</summary></entry></feed>
