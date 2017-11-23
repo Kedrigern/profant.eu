@@ -12,9 +12,9 @@
     <meta property="og:description"   content="{{site.description}}" />
     
 
-    <meta property="og:image"         content="{{ site.baseurl }}/{{site.img}}" />
+    <meta property="og:image"         content="{{ site.url }}{{ site.baseurl }}/{{site.img}}" />
     <meta property="og:type"          content="website" />
-    <meta property="og:url"           content="{{page.url | absolute_url }}" />
+    <meta property="og:url"           content="{{ site.url }}{{page.url | absolute_url }}" />
   <link rel="stylesheet" href="https://dhbhdrzi4tiry.cloudfront.net/cdn/sites/foundation.css">
   <link href='https://cdnjs.cloudflare.com/ajax/libs/foundicons/3.0.0/foundation-icons.css' rel='stylesheet' type='text/css'>
   <link href='{{ site.baseurl }}/assets/app.css' rel='stylesheet' type='text/css'>
