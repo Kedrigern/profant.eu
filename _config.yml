@@ -25,8 +25,8 @@ keywords: Ondřej Profant, piráti, poslanec
 twitter_username: ondrej_profant
 github_username:  kedrigern
 facebook_username: ondrej.profant
-cover_image: assets/img/cover.jpg
-img: assets/img/ondrej-profant.jpg
+cover_image: /assets/img/cover.jpg
+img: /assets/img/ondrej-profant.jpg
 disqus: blog-w0bnt5a3fz
 
 # Build settings

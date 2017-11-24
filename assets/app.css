@@ -36,20 +36,16 @@ h1, h2, h3, h4, h5, h6{
 }
 
 .thumbnail{
-	max-height: 245px;
+	max-width: 100%;
 	border: 0;
+	box-shadow: None;
 }
 
 .main-title{
 	font-weight: bold;
-	text-align:left;
-}
-
-.main-subtitle{
-	font-weight: normal;
-	text-align:left;
 
 }
+
 
 .icon {
 	font-size: 3em;
@@ -69,4 +65,11 @@ h1, h2, h3, h4, h5, h6{
 .fi-mail:hover, .fi-mail:focus  {
 	color: #f7941d;
 	
+}
+
+.noleftpadding {
+	padding-left: 0;
+	text-align: justify;
+	
+}
 }
