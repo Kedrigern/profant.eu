@@ -2,23 +2,21 @@
 <html class="no-js" lang="en">
 
 <head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>{{site.title}}</title>
-  <meta name="robots" content="index,follow" />
-    <meta name="description" content="{{site.description}}">
-    <meta name="keywords" content="{{site.keywords}}" />
-    <meta property="og:title"         content="{{site.title}}" />
-    <meta property="og:description"   content="{{site.description}}" />
-    
-
-    <meta property="og:image"         content="{{ site.url }}{{ site.baseurl }}/{{site.img}}" />
-    <meta property="og:type"          content="website" />
-    <meta property="og:url"           content="{{page.url | absolute_url }}" />
-  <link rel="stylesheet" href="https://dhbhdrzi4tiry.cloudfront.net/cdn/sites/foundation.css">
-  <link href='https://cdnjs.cloudflare.com/ajax/libs/foundicons/3.0.0/foundation-icons.css' rel='stylesheet' type='text/css'>
-  <link href='{{ site.baseurl }}/assets/app.css' rel='stylesheet' type='text/css'>
-  <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<title>{{site.title}}</title>
+	<meta name="robots" content="index,follow" />
+	<meta name="description" content="{{site.description}}">
+	<meta name="keywords" content="{{site.keywords}}" />
+	<meta property="og:title"         content="{{site.title}}" />
+	<meta property="og:description"   content="{{site.description}}" />
+	<meta property="og:image"         content="{{ site.url }}{{ site.baseurl }}/{{site.img}}" />
+	<meta property="og:type"          content="website" />
+	<meta property="og:url"           content="{{page.url | absolute_url }}" />
+	<link rel="stylesheet" href="https://dhbhdrzi4tiry.cloudfront.net/cdn/sites/foundation.css">
+	<link href='https://cdnjs.cloudflare.com/ajax/libs/foundicons/3.0.0/foundation-icons.css' rel='stylesheet' type='text/css'>
+	<link href='{{ site.baseurl }}/assets/app.css' rel='stylesheet' type='text/css'>
+	<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
 </head>
 
 <body>
@@ -48,14 +46,16 @@
 -->
   {% include top-menu.html %}
 
-  {% if page.url == '/' %}
-  <div class="cover large primary" style="min-height: 300px; background-image: url('{{ site.baseurl }}/{{site.cover_image}}'); background-repeat: no-repeat; background-position: center;background-color: white;">
+  <div class="cover large primary show-for-medium" style="height: 400px; background-image: url('{{ site.baseurl }}{{site.cover_image}}'); background-repeat: no-repeat; background-position: center;background-color: white;">
+  </div>
+  <div class="cover large primary show-for-small-only" style="background-color: white;text-align:center">
     <div class="row column">
       <h1 class="main-title">{{site.author}}</h1>
-	  <img class="left" src="{{ site.baseurl }}/assets/img/logo.svg" style="height:80px;position: relative;top: 130px;"/>
+	  <h3>poslanec</h3>
+	  <img src="{{ site.baseurl }}/assets/img/logo.svg" style="height:80px;"/>
     </div>
   </div>
-  {% endif %}
+  
 
   <div class="row" id="content">
     <div class="medium-8 columns">
