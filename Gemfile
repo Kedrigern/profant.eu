@@ -29,3 +29,6 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 # Sitemap plugin
 gem 'jekyll-sitemap'
 
+# Sitemap plugin
+gem 'jekyll-paginate-v2'
+
