@@ -1,11 +1,18 @@
 
-<div class="medium-3 columns" data-sticky-container>
-  <div class="sticky" data-sticky data-anchor="content">
-
+<div class="large-3 columns show-for-large" data-sticky-container data-options="sticky_on: ['large']">
+  <div class="sticky" data-sticky data-anchor="content" data-options="sticky_on: ['large']">
+	<div>
+		<a href="https://www.facebook.com/{{site.facebook_username}}"><i class="fi-social-facebook icon"></i></a>
+		<a href="https://twitter.com/{{site.twitter_username}}"><i class="fi-social-twitter icon"></i></a>
+		<a href="https://github.com/{{site.github_username}}"><i class="fi-social-github icon"></i></a>
+		<a href="mailto:{{site.email}}"><i class="fi-mail icon"></i></a>
+	</div>
     {% if site.twitter_username %}
-    <a class="twitter-timeline" href="https://twitter.com/{{site.twitter_username}}" data-height="520">Krátce od @{{site.twitter_username}}</a>
+    <div>
+	<a class="twitter-timeline" href="https://twitter.com/{{site.twitter_username}}" data-height="520">Krátce od @{{site.twitter_username}}</a>
+	</div>
     {% endif %}
-{% comment %}
+	{% comment %}
     <h4>Kategorie</h4>
     <ul>
 
@@ -16,11 +23,34 @@
 	  <li><a href="#">ostatní</a></li>
     </ul>
 	{% endcomment %}
+
+  </div>
+</div>
+
+<div class="hide-for-large">
+  <div>
 	<div>
-	<a href="https://www.facebook.com/{{site.facebook_username}}"><i class="fi-social-facebook icon"></i></a>
-	<a href="https://twitter.com/{{site.twitter_username}}"><i class="fi-social-twitter icon"></i></a>
-	<a href="https://github.com/{{site.github_username}}"><i class="fi-social-github icon"></i></a>
-	<a href="mailto:{{site.email}}"><i class="fi-mail icon"></i></a>
+		<a href="https://www.facebook.com/{{site.facebook_username}}"><i class="fi-social-facebook icon"></i></a>
+		<a href="https://twitter.com/{{site.twitter_username}}"><i class="fi-social-twitter icon"></i></a>
+		<a href="https://github.com/{{site.github_username}}"><i class="fi-social-github icon"></i></a>
+		<a href="mailto:{{site.email}}"><i class="fi-mail icon"></i></a>
 	</div>
+    {% if site.twitter_username %}
+    <div>
+	<a class="twitter-timeline" href="https://twitter.com/{{site.twitter_username}}" data-height="520">Krátce od @{{site.twitter_username}}</a>
+	</div>
+    {% endif %}
+	{% comment %}
+    <h4>Kategorie</h4>
+    <ul>
+
+      <li><a href="#">opendata</a></li>
+      <li><a href="#">e-government</a></li>
+	  <li><a href="#">sněmovna / politika</a></li>
+      <li><a href="#">cyklistika</a></li>
+	  <li><a href="#">ostatní</a></li>
+    </ul>
+	{% endcomment %}
+
   </div>
 </div>

@@ -1,16 +1,17 @@
 ---
 layout: main
-comments: true
+pagination: 
+  enabled: true
 ---
 
-{% for post in site.posts %}
+{% for post in paginator.posts %}
 <div class="blog-post">
   <a href="{{site.baseurl}}{{post.url}}"><h3>{{post.title}}</h3></a>
   <small>{{post.date | date:"%d. %m. %Y"}} {{post.author}}</small><br />
   {% if post.img %}
-  <div class="medium-6 columns noleftpadding">
+  <div class="large-6 columns noleftpadding">
   <img class="thumbnail" src="{{ site.baseurl }}/{{post.img}}">
-  </div><div class="medium-6 columns noleftpadding">
+  </div><div class="large-6 columns noleftpadding">
   {% else %}
   <div>
   {% endif %}
@@ -20,3 +21,16 @@ comments: true
   <hr />
 </div>
 {% endfor %}
+
+<!-- Pagination links -->
+{% if paginator.total_pages > 1 %}
+<div>
+  {% if paginator.previous_page %}
+  <span id="newer"><a href="{{ paginator.previous_page_path | prepend: site.baseurl }}">Novější</a></span>
+  
+  {% endif %}
+  {% if paginator.next_page %}
+  <span id="older"><a href="{{ paginator.next_page_path | prepend: site.baseurl }}">Starší</a></span>
+  {% endif %}
+</div>
+{% endif %}
