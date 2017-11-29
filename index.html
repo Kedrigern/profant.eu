@@ -1,10 +1,8 @@
 ---
 layout: main
-pagination:
-  enabled: true
 ---
 
-{% for post in paginator.posts %}
+{% for post in site.posts %}
 <div class="blog-post">
   <a href="{{site.baseurl}}{{post.url}}"><h2>{{post.title}}</h2></a>
   <br />
@@ -24,7 +22,7 @@ pagination:
 </div>
 {% endfor %}
 
-<!-- Pagination links -->
+<!-- Pagination links
 {% if paginator.total_pages > 1 %}
 <div>
   {% if paginator.previous_page %}
@@ -35,4 +33,4 @@ pagination:
   <span id="older"><a href="{{ paginator.next_page_path | prepend: site.baseurl }}">Starší</a></span>
   {% endif %}
 </div>
-{% endif %}
+{% endif %}-->
