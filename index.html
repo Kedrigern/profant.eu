@@ -1,13 +1,13 @@
 ---
 layout: main
-pagination: 
+pagination:
   enabled: true
 ---
 
 {% for post in paginator.posts %}
 <div class="blog-post">
-  <a href="{{site.baseurl}}{{post.url}}"><h3>{{post.title}}</h3></a>
-  <small>{{post.date | date:"%d. %m. %Y"}} {{post.author}}</small><br />
+  <a href="{{site.baseurl}}{{post.url}}"><h2>{{post.title}}</h2></a>
+  <br />
   {% if post.img %}
   <div class="large-6 columns noleftpadding">
   <img class="thumbnail" src="{{ site.baseurl }}/{{post.img}}">
@@ -16,7 +16,9 @@ pagination:
   <div>
   {% endif %}
   {{post.excerpt | markdownify }}
-  <p><a href="{{site.baseurl}}{{post.url}}">Číst dále</a></p>
+  <p class="read-more"><a href="{{site.baseurl}}{{post.url}}">Číst dále</a></p>
+  <p class="date-author"><small>{{post.date | date:"%d. %m. %Y"}}<br />
+    {{post.author}}</small></p>
   </div>
   <hr />
 </div>
@@ -27,7 +29,7 @@ pagination:
 <div>
   {% if paginator.previous_page %}
   <span id="newer"><a href="{{ paginator.previous_page_path | prepend: site.baseurl }}">Novější</a></span>
-  
+
   {% endif %}
   {% if paginator.next_page %}
   <span id="older"><a href="{{ paginator.next_page_path | prepend: site.baseurl }}">Starší</a></span>

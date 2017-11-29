@@ -6,6 +6,7 @@ categories: pirati
 comments: true
 tags: digitalizace, stát, data, systém
 img: "/assets/img/laptop-2838917_640.jpg"
+author: Ondřej Profant
 ---
 Každý by si přál moderní a digitalizovaný stát, přesto všechny dosavadní pokusy o digitalizaci byly velmi rozpačité či je dokonce možné je považovat vysloveně za ukázku špatného přístupu. V čem je tedy problém, když poptávka po digitalizaci existuje? Co vše je potřeba, aby se digitalizace povedla?
 
