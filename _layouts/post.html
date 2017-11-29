@@ -11,7 +11,7 @@
     <meta name="keywords" content="{{site.keywords}}{% if page.keywords %}, {{page.keywords}}{% endif %}{% if page.tags%}, {{page.tags}}{% endif %}" />
     <meta property="og:title"         content="Ondřej Profant: {% if page.ogtitle %}{{page.ogtitle}}{% elsif page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}" />
     <meta property="og:description"   content="{% if page.description %}{{page.description}}{% elsif page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 330 }}{%else%}{{site.description}}{% endif %}" />
-    
+
 
     <meta property="og:image"         content="{{ site.url }}{{ site.baseurl }}/{{page.img}}" />
     <meta property="og:type"          content="website" />
@@ -53,7 +53,7 @@
 
   <div class="row" id="content">
     <div class="medium-8 columns">
-<h2 style="padding-top: 5px;">{{ page.title }}</h2>
+<h1 style="padding-top: 5px;">{{ page.title }}</h1>
 <p><small>{{page.date | date:"%d. %m. %Y"}} {{page.author}}</small></p>
 {% if page.img %}
   <img class="thumbnail" src="{{ site.baseurl }}/{{page.img}}">
