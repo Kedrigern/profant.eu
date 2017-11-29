@@ -38,12 +38,17 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
 #  - jekyll-paginate-v2
-#  - jekyll-paginate
+  - jekyll-paginate
+
+
 
 exclude:
   - Gemfile
   - Gemfile.lock
 
+
+paginate_path: "/stranka/:num/"
+paginate: 2
 
 #  ############################################################
 # # Site configuration for the Jekyll 3 Pagination Gem
