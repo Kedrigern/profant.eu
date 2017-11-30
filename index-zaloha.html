@@ -4,24 +4,24 @@ layout: main
 
 {% for post in paginator.posts %}
 <div class="blog-post">
-  <a href="{{site.baseurl}}{{post.url}}"><h2 class="bottompadding">{{post.title}}</h2></a>
+  <a href="{{site.baseurl}}{{post.url}}"><h2>{{post.title}}</h2></a>
   <div class="row">
   <div class="large-6 columns imagebox">
   <img class="thumbnail" src="{{ site.baseurl }}{{post.img}}">
 </div><div class="large-6 columns textbox">
-  <div class="text-justify bottompadding">
+  <div class="text-justify">
   {{post.excerpt | markdownify }}
 </div>
   <!--<div class="clearfix date-author">-->
-  <div class="row date-author">
+  <div class="row">
     <!--<div class="float-left">-->
       <div class="small-6 columns">
       <a href="{{site.baseurl}}{{post.url}}">Číst dále</a>
     </div>
     <!--<div  class="float-right">-->
     <div class="small-6 columns text-right">
-      <small>{{post.date | date:"%d. %m. %Y"}}, {{post.author}}
-      </small>
+      <small>{{post.date | date:"%d. %m. %Y"}}<br />
+      {{post.author}}</small>
     </div>
   </div>
 </div>

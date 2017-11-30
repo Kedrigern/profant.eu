@@ -9,6 +9,7 @@ h1, h2, h3, h4, h5, h6{
 }
 
 
+
 .cover {
 	border: 0px;
 	border-bottom: 5px solid #f3f3f3;
@@ -39,6 +40,7 @@ h1, h2, h3, h4, h5, h6{
 	max-width: 100%;
 	border: 0;
 	box-shadow: None;
+  margin-bottom: 0px;
 }
 
 .main-title{
@@ -48,9 +50,9 @@ h1, h2, h3, h4, h5, h6{
 
 
 .icon {
-	font-size: 3em;
-	padding: 10px;
-	color: #343434;
+	font-size: 2em;
+	padding: 5px;
+	color: white;
 }
 
 .fi-social-facebook:hover, .fi-social-facebook:focus {
@@ -66,34 +68,34 @@ h1, h2, h3, h4, h5, h6{
 	color: #f7941d;
 
 }
+.bottompadding{
 
-.noleftpadding {
-	padding-left: 0;
-	text-align: justify;
+  padding-bottom: 1rem;
 }
 
 .rbox {
 	padding-left: 70px;
 }
 
+/*.blog-post{
+  position: relative;
+}*/
+
+.textbox {
+  position: relative;
+  height: 100%;
+  /*min-height: 250px;*/
+}
+
 .date-author {
-  text-align: right;
+  position: absolute;
+  bottom: 0;
+  width:100%;
+}
+
+/*.read-more {
   margin-bottom: 0.2rem;
-  line-height: 1;
-}
 
-.read-more {
-  margin-bottom: 0.2rem;
+}*/
 
-}
-
-
-
-#older{
-	float: left;
-}
-
-#newer{
-	float: right;
-}
 }
