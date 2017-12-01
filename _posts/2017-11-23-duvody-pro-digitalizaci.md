@@ -5,6 +5,7 @@ date:   2017-11-22 18:00:00 +0100
 categories: pirati
 comments: true
 img: "/assets/img/concept-2959615_640.jpg"
+author: Ondřej Profant
 ---
 Jedno z nejpodstatnějších témat, kterým se Piráti v prostředí české politiky věnují, je problematika digitalizace státu. Piráti o digitalizaci usilují především z toho důvodu, že náš stát je svým vývojem v digitálním pravěku. A přestože i politici z ostatních stran chápou potřebu přizpůsobit chod státního aparátu možnostem moderních technologií, o digitalizaci většinou jen hezky mluví.
 
