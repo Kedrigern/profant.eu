@@ -28,10 +28,11 @@ Důležité je také podotknout, že jedním z důvodů, proč čeští Piráti 
 
 DiEM rovněž správně identifikuje nebezpečí současných politických trendů, kdy zažíváme vzestup misantropie a xenofobie, které přikrmují populističtí a nacionalističtí politici v členských státech EU. Snaží se proto navrhnout třetí cestu, která představuje změnu fungování EU, nikoliv její rozvrat a opětovné uzavření se do národních států.
 
-DiEM tedy není protievropské hnutí založené na radikálních myšlenkách, jak se ho jeho oponenti často snaží vykreslit. Ve zkratce by bylo možné DiEM popsat jako politické a aktivistické hnutí založené na principech otevřenosti a sdílení. A to je nejen plně v souladu s politickým programem České pirátské strany, ale i v souladu s mými osobními názory. Proto se dobrovolně snažím zásady DiEM uplatňovat ve svých politických rozhodnutích i ve svém každodenním životě. Snaha o kooperaci, komunikaci a participaci zaměřené na hlubší demokratizaci EU mi totiž v současnosti připadá zásadní.
+DiEM tedy není protievropské hnutí založené na radikálních myšlenkách, jak se ho jeho oponenti často snaží vykreslit. Ve zkratce by bylo možné DiEM popsat jako politické a aktivistické hnutí založené na principech otevřenosti a sdílení. A to je nejen plně v souladu s politickým programem České pirátské strany, ale i v souladu s mými osobními názory. Proto se dobrovolně snažím zásady DiEM uplatňovat ve svých politických rozhodnutích i ve svém každodenním životě. Snaha o kooperaci, komunikaci a participaci zaměřené na hlubší demokratizaci EU mi totiž v současnosti připadá zásadní. Tento způsob totiž připomíná princip fungování open source komunit.
 
 Co je tedy DiEM 25? Na tuto otázku neexistuje snadná a stručná odpověď. Pokud bych se ale měl o nějakou pokusit, pak je DiEM snahou o nové pojetí politické spolupráce napříč Evropou.
 
 **Odkazy:**
 
-Manifest DiEM https://diem25.org/manifest-plna-verze/
+- [Manifest DiEM](https://diem25.org/manifest-plna-verze/)
+- [Nový úděl pro Evropu. Bývalý řecký ministr Varufakis navrhuje reformu Unie](http://www.rozhlas.cz/plus/svet/_zprava/novy-udel-pro-evropu-byvaly-recky-ministr-varufakis-navrhuje-reformu-unie--1761888)
