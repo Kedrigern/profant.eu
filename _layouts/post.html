@@ -56,7 +56,7 @@
 <h1 style="padding-top: 5px;">{{ page.title }}</h1>
 <p><small>{{page.date | date:"%d. %m. %Y"}} {{page.author}}</small></p>
 {% if page.img %}
-  <img class="thumbnail" src="{{ site.baseurl }}/{{page.img}}">
+  <img class="thumbnail" src="{{page.img | relative_url}}">
   <br />
   {% endif %}
   <br />
