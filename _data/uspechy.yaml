@@ -1,5 +1,5 @@
-fotka,datum,Název věci,Popis úspěchu,link,,,,
 - img: https://wiki.pirati.cz/_media/lide/ondrej.profant2.jpg
+  icon: fa-flag
   date: 2009-06-17
   title: Spoluzaložení Pirátů
   description: "Stál jsem u zrodu Pirátské strany a jsem v ní od samého počátku. Nejprve se nám různí politici (např. Miroslav Kalousek) smáli, dnes jsme respektovaným politickým subjektem. Pomohl jsem, aby Piráti získali oceňovaný rozhled v oblasti IT, který současným samosprávám ale i státní správě zoufale chybí."
@@ -29,7 +29,9 @@ fotka,datum,Název věci,Popis úspěchu,link,,,,
 - date: 2015-03-02
   title: Konec Opencard
   description: "Když jsem přišel na Magistrát, byla Praha rukojmím provozovatele Opencard. Děsivé smlouvy z doby Pavla Béma zavazovaly město používat Opencard skoro na všechno a platit za ní tučné peníze. Podařilo se mi najít řešení, jak s tímto vydíráním Prahy skončit, neuvrhnout metropoli do rizika placení pokut nebo soudních sporů. Dnes je Opencard už minulostí; kdo chce může mít Lítačku, kdo chce má papírový kupon a jízdné lze platit dokonce i platební kartou."
-  link: [ https://praha.idnes.cz/pirati-chteji-plnou-nahradu-pro-ty-kterym-konci-platnost-opencard-103-/praha-zpravy.aspx?c=A150307_2145446_praha-zpravy_nub, https://www.tyden.cz/rubriky/domaci/politika/opencard-skoncila-ve-sparech-piratu_334253.html]
+  link:
+  - https://praha.idnes.cz/pirati-chteji-plnou-nahradu-pro-ty-kterym-konci-platnost-opencard-103-/praha-zpravy.aspx?c=A150307_2145446_praha-zpravy_nub
+  - https://www.tyden.cz/rubriky/domaci/politika/opencard-skoncila-ve-sparech-piratu_334253.html
 - img: https://www.flickr.com/photos/pirati/21108256109/in/photolist-A5iNAb-z9H9Tk-z5P46G-zvAb11-zvAhHj-zwPwj1-yz39Rc-yyTQHf-yz38oc-zuR3HN-yqQLhy-yagk9a-uyv3qB-uRd9aM-tr8291-s9xSTv-s7Tqiq-rQzeG4-rNGxA6-qSAoXX-rwNkD5-rPgzp5-roMcRm-rFmFBg-qJmRG5-qvQVKh-rbg3tf-r9w6ye-rbgYQy-rm9uAo-q7V2Nt-r4H4YX-r5hU82-r5rQd4-qMgaEX-qRH7vo-qTVATL-qBxWug-qmAWWj-qoJRNS-q8rd2Z-qpF3ik-qcKKed-qcJBeF-p61cC9-pr15if-oyyuRk-xps4sW-oFoHrp-ofk7ck
   date: 2015-09-17
   title: Teze digitální strategie
@@ -39,7 +41,9 @@ fotka,datum,Název věci,Popis úspěchu,link,,,,
   date: 2016-02-20
   title: Spoluorganizace demonstrace za svob. internet
   description: "Blokování hazardních webů může znít ušlechtile, ale cesta do pekla bývá dlážděná dobrými úmysly. Jakmile připustíme blokování webů, nemůžeme si být jisti, kde skončí. Cenzura se nám může vrátit rychleji, než si myslíme. Na demonstraci, která prošla kolem budovy vlády, jsme řekli jasné NE rizikovým cenzurním paragrafům loterijního zákona. Na naší straně stáli i zástupci řady internetových firem a občanských sdružení. "
-  link: [https://echo24.cz/a/w4WrJ/svobodny-internet-v-ohrozeni-pirati-demonstrovali-proti-loterijnimu-zakonu,https://feedit.cz/2016/02/18/demonstrace-za-svobodny-internet-v-praze-na-klarove-uz-tuto-sobotu/]
+  link:
+  - https://echo24.cz/a/w4WrJ/svobodny-internet-v-ohrozeni-pirati-demonstrovali-proti-loterijnimu-zakonu
+  - https://feedit.cz/2016/02/18/demonstrace-za-svobodny-internet-v-praze-na-klarove-uz-tuto-sobotu/
 - img: https://www.flickr.com/photos/pirati/27039831091/in/photolist-HcqcJk-Go6URc-G5sX6P-GzJAdC-FKueYP-GwE4G5-EHtRtF-EFaNmY-EHtPw4-DKKPMh-Ex2uhm-DSXvHG-DnmvnE-Ek5ZB2-Ek5Sy4-DCTqvf-BmoMm1-AvfDWK-AcbZXE-J4Nek3-Go6TbP-AcjZhV-AJZtJK-zaHu3M-A5iNAb-z9H9Tk-z5P46G-zvAb11-zwPwj1-zvAhHj-yyTQHf-yz39Rc-yz38oc-zuR3HN-yqQLhy-yagk9a-uRd9aM-uyv3qB-tr8291-s9xSTv-s7Tqiq-rNGxA6-rQzeG4-rwNkD5-rPgzp5-rFmFBg-roMcRm-qJmRG5-rbg3tf-rm9uAo
   date: 2016-02-26
   title: boj za Libeňský most
@@ -49,12 +53,14 @@ fotka,datum,Název věci,Popis úspěchu,link,,,,
   date: 2016-09-14
   title: radiový systém policie nezabezpečen
   description: "Odhalil jsem, že Praha používá zcela nezabezpečený systém komunikace mezi složkami záchranného systému a policie. Každý jej dokáže odposlouchávat rádiem za 300 korun. Úředníci zapomněli, že zločincům otevřeli zlatý důl. Město svojí chybu přiznalo a slíbilo nápravu."
-  link: [https://technet.idnes.cz/odposlech-site-tetra-a-mestske-policie-dhy-/tec_technika.aspx?c=A160913_145939_tec_technika_vse,https://praha.pirati.cz/odposlouchavani.html]
-- img: https://www.piratskelisty.cz/upload/thumbs/w600/1699.jpg
-  date: 2016-09-29
-  title: získání ceny Otevřeno
-  description: "Náš klub na Magistrátě získal cenu Otevřeno za ""hypetransparentnost"". Zavedl jsem systém Redmine, kde se každý mohl podívat, jak zastupitelé za Piráty pracují a čemu se kdy věnovali. Zveřejňovali jsme naše odměny a veškerou spisovou dokumentaci klubu. Porazili jsme dalších několik desítek subjektů, které se do soutěže přihlásily."
-  link: https://wiki.pirati.cz/tiskove-zpravy/hypertransparentni_klub._prazsti_pirati_ziskali_cenu_za_otevrenost
+  link:
+  - https://technet.idnes.cz/odposlech-site-tetra-a-mestske-policie-dhy-/tec_technika.aspx?c=A160913_145939_tec_technika_vse
+  - https://praha.pirati.cz/odposlouchavani.html
+#- img: https://www.piratskelisty.cz/upload/thumbs/w600/1699.jpg
+#  date: 2016-09-29
+#  title: získání ceny Otevřeno
+#  description: "Náš klub na Magistrátě získal cenu Otevřeno za ""hypetransparentnost"". Zavedl jsem systém Redmine, kde se každý mohl podívat, jak zastupitelé za Piráty pracují a čemu se kdy věnovali. Zveřejňovali jsme naše odměny a veškerou spisovou dokumentaci klubu. Porazili jsme dalších několik desítek subjektů, které se do soutěže přihlásily."
+#  link: https://wiki.pirati.cz/tiskove-zpravy/hypertransparentni_klub._prazsti_pirati_ziskali_cenu_za_otevrenost
 - img: https://www.flickr.com/photos/pirati/22844298828/in/photolist-ANF1ab-L64UZT-JaFtmG-HoESkW-HcqcJk-Go6URc-G5sX6P-GzJAdC-FKueYP-GwE4G5-EHtRtF-EFaNmY-EHtPw4-DKKPMh-Ex2uhm-DSXvHG-DnmvnE-Ek5ZB2-Ek5Sy4-DCTqvf-BmoMm1-AvfDWK-AcbZXE-J4Nek3-Go6TbP-AcjZhV-AJZtJK-zaHu3M-A5iNAb-z9H9Tk-z5P46G-zvAb11-zwPwj1-zvAhHj-yyTQHf-yz39Rc-yz38oc-zuR3HN-yqQLhy-yagk9a-uRd9aM-uyv3qB-tr8291-s9xSTv-s7Tqiq-rNGxA6-rQzeG4-rwNkD5-rPgzp5-rFmFBg
   date: 2016-11-16
   title: Sídliště Písnice
@@ -69,13 +75,16 @@ fotka,datum,Název věci,Popis úspěchu,link,,,,
   date: 2017-01-03
   title: hlavní kritik Smart Cities
   description: "Odpadové koše, které potřebují software za tisíce, lavičky za dva miliony s reklamním displejem, wifi v lanovce, která jede 3 minuty. Praha se rozhodla utrácet ve velkém. Projekty za statisíce, které ale málokdo využije. Apeloval jsem na vedení města, aby namísto nesmyslů zajistilo raději wifi v metru, zjednodušilo kontakt občanů s úřadu, nebo zavedlo smart technologie v oblasti parkování. Odhalil jsem, že Smart Cities jsou v Praze nástrojem ANO 2011 k získávání lukrativních zakázek v oblasti IT, které navíc stojí stamiliony ročně. "
-  link: [https://www.lupa.cz/clanky/ondrej-profant-v-projektu-smart-prague-jde-o-to-rychle-utratit-hodne-penez/,https://praha.pirati.cz/smart-cities-podle-piratu.html]
-- img:
-https://www.flickr.com/photos/pirati/35568345926/in/photolist-Wc454y-rQzeG4-rPgzp5-6w9pZ2-EjM7eb-Z4bSDx-UBaJoX-UX9BVX-Cgfaib-21ygYD6-SDfqrf-21vuQ3w-8HqGez-DCTqvf-SA9qsT-BmoMm1-VfwsNG-HcqcJk-Rm7FSe-edbbKL-qBxWug-p61cC9-Te7HkH-obys6s-yz39Rc-214sD4C-yyTQHf-PPEHpk-yqQLhy-dEqpZu-PLVFrb-Go6URc-yagk9a-xps4sW-obyAYL-owRaQv-6wdBWb-r5rQd4-gzZGm-qMgaEX-pr15if-qcJBeF-gzZGj-oFoHrp-uhjYC-dNih6-RwK5os-RwK6vC-uhfiD-SmhMo5
+  link:
+  - https://www.lupa.cz/clanky/ondrej-profant-v-projektu-smart-prague-jde-o-to-rychle-utratit-hodne-penez/
+  - https://praha.pirati.cz/smart-cities-podle-piratu.html
+- img: https://www.flickr.com/photos/pirati/35568345926/in/photolist-Wc454y-rQzeG4-rPgzp5-6w9pZ2-EjM7eb-Z4bSDx-UBaJoX-UX9BVX-Cgfaib-21ygYD6-SDfqrf-21vuQ3w-8HqGez-DCTqvf-SA9qsT-BmoMm1-VfwsNG-HcqcJk-Rm7FSe-edbbKL-qBxWug-p61cC9-Te7HkH-obys6s-yz39Rc-214sD4C-yyTQHf-PPEHpk-yqQLhy-dEqpZu-PLVFrb-Go6URc-yagk9a-xps4sW-obyAYL-owRaQv-6wdBWb-r5rQd4-gzZGm-qMgaEX-pr15if-qcJBeF-gzZGj-oFoHrp-uhjYC-dNih6-RwK5os-RwK6vC-uhfiD-SmhMo5
   date: 2017-01-27
   title: Představení vize dopravního odbavení
   description: "Možnost volby. Ve vizi dopravního odbavení, kterou jsem spolu s odborníky z komise ICT připravil, jsem se jako první věnoval dalším technologickým řešením, která mohou do pražské dopravy přijít – mobilní aplikace, platební karty nebo paypal. Aby Praha nevymýšlela vlastní platební služby, různé peněženky a další monolitické zbytečnosti, které ve výsledku budou stát miliony a budou k ničemu."
-  link: [https://praha.pirati.cz/vize-dopravniho-odbavovani.html,https://zpravy.aktualne.cz/domaci/pirati-litacka-je-hloupejsi-papir-praha-by-mela-zavest-syste/r~7057c630bd3c11e6b628002590604f2e/]
+  link:
+  - https://praha.pirati.cz/vize-dopravniho-odbavovani.html
+  - https://zpravy.aktualne.cz/domaci/pirati-litacka-je-hloupejsi-papir-praha-by-mela-zavest-syste/r~7057c630bd3c11e6b628002590604f2e/
 - img: https://www.flickr.com/photos/pirati/34528527923/in/photolist-UBaJoX-VfwsNG-UX9BVX-SVJuPw-Te7HkH-SDfqrf-SA9qsT-Rm7FSe-SmhMo5-U4oJkN-RwK5os-RwK6vC-PPEHb4-PLVFrb-PPEHpk-NkqnXm-NNH3U1-ANF1ab-L64UZT-JaFtmG-HoESkW-HcqcJk-Go6URc-G5sX6P-GzJAdC-FKueYP-GwE4G5-EHtRtF-EFaNmY-EHtPw4-DKKPMh-Ex2uhm-DSXvHG-DnmvnE-Ek5ZB2-Ek5Sy4-DCTqvf-BmoMm1-AvfDWK-AcbZXE-J4Nek3-Go6TbP-AcjZhV-AJZtJK-zaHu3M-A5iNAb-z9H9Tk-z5P46G-zvAb11-zwPwj1
   date: 2017-06-15
   title: Městský okruh
@@ -85,7 +94,9 @@ https://www.flickr.com/photos/pirati/35568345926/in/photolist-Wc454y-rQzeG4-rPgz
   date: 2017-06-21
   title: upozornění na zakázku na Datové centrum
   description: "Megalomanský projekt, kam se firmy měli šanci přihlásit jen během 11 dnů. Specifikace požadavků byla přepsána z letáků předem zvažovaného vítěze; server srovnatelný s Centrálním Mozkem Lidstva. Technologie, které se neosvědčily (wm-ware, Oracle). To byla zakázka na vybavení Datového centra, do které Praha šla a před kterou jsem opakovaně varoval."
-  link: [https://praha.pirati.cz/zakazka-psana-na-miru.html,https://www.euro.cz/praha/praha-vybrala-dodavatele-datoveho-centra-zakazka-byla-sita-na-miru-tvrdi-opozice-1355684]
+  link:
+  - https://praha.pirati.cz/zakazka-psana-na-miru.html
+  - https://www.euro.cz/praha/praha-vybrala-dodavatele-datoveho-centra-zakazka-byla-sita-na-miru-tvrdi-opozice-1355684
 - img: https://www.flickr.com/photos/pirati/38433937631/in/photolist-21ygYD6-214sD4C-Cgfaib-Z4bSDx-Xtzfrt-Wc454y-UBaJoX-VfwsNG-UX9BVX-SVJuPw-Te7HkH-SDfqrf-SA9qsT-Rm7FSe-SmhMo5-U4oJkN-RwK5os-RwK6vC-PPEHb4-PLVFrb-PPEHpk-NkqnXm-NNH3U1-ANF1ab-L64UZT-JaFtmG-HoESkW-HcqcJk-Go6URc-G5sX6P-GzJAdC-FKueYP-GwE4G5-EHtRtF-EFaNmY-EHtPw4-DKKPMh-Ex2uhm-DSXvHG-DnmvnE-Ek5ZB2-Ek5Sy4-DCTqvf-BmoMm1-AvfDWK-AcbZXE-J4Nek3-Go6TbP-AcjZhV-AJZtJK
   date: 2017-10-22
   title: zvolen do sněmovny

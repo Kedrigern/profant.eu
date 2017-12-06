@@ -93,6 +93,12 @@ h1, h2, h3, h4, h5, h6{
   width:100%;
 }
 
+.uspech-icon {
+  font-size:26px;
+  position:relative;
+  left:12px;
+  top:12px
+}
 
 .timeline .timeline-item::after, .timeline .timeline-item::before {
   clear: both;
