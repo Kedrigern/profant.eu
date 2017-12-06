@@ -19,9 +19,9 @@ Hned zpočátku jsme si uvědomili, co nám hrozí. Nekonečné hádky o definic
 
 Proto jsem se stal Pirátem. Abych mohl dělat věci jinak. Lépe.
 
-## Odkazy
+### Odkazy
 
-Registr smluv https://smlouvy.pirati.cz/
-Bankovní účty https://wiki.pirati.cz/fo/seznam_uctu
-Evidence lobbistických kontaktů https://evidence.pirati.cz
-Pražští Piráti získali cenu za otevřenost https://www.pirati.cz/tiskove-zpravy/otevrenost.html
+- [Registr smluv Pirátské strany](https://smlouvy.pirati.cz)
+- [Bankovní účty](https://wiki.pirati.cz/fo/seznam_uctu)
+- [Evidence lobbistických kontaktů](https://evidence.pirati.cz)
+- [Pražští Piráti získali cenu za otevřenost](https://www.pirati.cz/tiskove-zpravy/otevrenost.html)
