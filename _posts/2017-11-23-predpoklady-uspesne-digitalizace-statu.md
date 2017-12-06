@@ -5,23 +5,23 @@ date:   2017-11-22 18:00:00 +0100
 categories: pirati
 c omments: true
 tags: digitalizace, stát, data, systém
-img: "/assets/img/laptop-2838917_640.jpg"
+img: "/assets/img/posts/laptop-relax.jpg"
 author: Ondřej Profant
 ---
 Každý by si přál moderní a digitalizovaný stát, přesto všechny dosavadní pokusy o digitalizaci byly velmi rozpačité či je dokonce možné je považovat vysloveně za ukázku špatného přístupu. V čem je tedy problém, když poptávka po digitalizaci existuje? Co vše je potřeba, aby se digitalizace povedla?
 
 Digitalizace státu zdaleka není jen o technologiích. Ty jsou dnes dostupné, jinak bychom nemohli mít komplexní služby, jakými jsou například Facebook či Google aplikace. Složitější je část pod povrchem, což jsou samotné procesy, které k digitalizaci vedou. Těch máme hned několik druhů:
 - **Legislativa**
-	
+
 	Legislativou nejsou myšleny pouze zákony, nýbrž i další předpisy a dokumenty, které určují postup digitalizace, jako jsou směrnice, koncepce, strategické dokumenty a stanoviska. Legislativa spojená s digitalizací a e-governmentem obecně je tedy značně rozsáhlá a komplexní, což při realizaci digitalizace představuje značná úskalí při snaze ji dodržet.
 - **Interní procesy**
-	
+
 	V úřadu, kde digitalizace probíhá, je nutné zaměstnance motivovat ke kvalitním a dotaženým řešením. To se však mnohdy neděje. Úředníci musí také dobře znát agendu vykonávanou úřadem, aby mohli pomoci při mapování procesů, které je možné převést do digitální a více automatizované podoby.
 - **Vznik zadání**
-	
+
 	Zadání samozřejmě určuje celý projekt. Pokud i velmi dobrý tým dostane špatné zadání, existuje vysoké riziko selhání. V politice to platí dvojnásob. Projekty se mnohdy zadávají čistě tak, aby se měl politik vedle čeho fotit a o čem mluvit v televizi, nikoliv tak, aby v budoucnu sloužily občanům či úředníkům.
 - **Veřejné zakázky**
-	
+
 	Zadávací řízení, která určují způsob nákupu daných řešení a směřují k výběru dodavatelů pro veřejné zakázky, jsou vzhledem k zákonným omezením a povětšinou nedostatečným zadáním další překážkou úspěšné digitalizace. Je nesmírně složité soutěžit software na kvalitu, protože stanovení hodnotících kriterií je činnost náročná na odbornost. Proto se často dává přednost jednoduchým zadáním a soutěžím na cenu, což pak má samozřejmě negativní výsledek na finální produkt.
 
 Největší výzvou je tedy častá nedostatečná odbornost odpovědných pracovníků a již zmíněné zadání. Zadavatel a manažeři projektu si proto musí správně určit kriteria. Základním kritériem by rozhodně měla být proveditelnost požadovaného úkonu. To se může zdát jako automatický požadavek, nicméně praxe ukazuje, že se často nedaří naplnit ani základní funkcionality požadovaného systému, jak lze ilustrovat kupříkladu na výdeji elektronického receptu. Stanovení klíčových ukazatelů výkonnosti (KPI), které pomohou s bližší definicí požadovaného výsledku a sledovaného cíle, je pro projekty digitalizace naprosto nezbytné.
@@ -29,10 +29,10 @@ Největší výzvou je tedy častá nedostatečná odbornost odpovědných praco
 Mezi podstatná kritéria projektů digitalizace patří:
 
 - **udržitelnost systému**
-	
+
 	Systémy musí být dostatečně udržitelné, aby bylo možné zajistit jejich bezproblémový provoz. Udržitelnost, kterou se rozumí dlouhodobá údržba a podpora, musí zohledňovat nejen zajištění financování na provoz systému, ale i využívání standardizovaných komponent.
 - **uživatelská přívětivost**
-	
+
 	Budoucí uživatelé musí být schopni systémy či aplikace snadno a rychle využívat. Je možné se orientovat kupříkladu dle počtu interakcí nebo „kliknutí“, které jsou po uživateli vyžadovány.
 - **využití již existujících dat**
 
