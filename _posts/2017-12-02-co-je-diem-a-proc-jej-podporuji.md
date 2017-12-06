@@ -20,17 +20,18 @@ DiEM je celoevropské hnutí se silnou proevropskou a prointegrační politikou.
 
 Důležité je také podotknout, že jedním z důvodů, proč čeští Piráti a s nimi i další Pirátské strany v Evropě s DiEM sympatizují, je skutečnost, že DiEM má v mnoha ohledech stejné požadavky jako Pirátské strany po celém světě. Jedním z příkladů jsou třeba požadavky DiEM v oblasti transparence:
 
-**úplná transparentnost rozhodovacího procesu**
-* Přímé internetové přenosy z jednání Evropské rady, ECOFIN, FTT a Euroskupiny.
-* Zápisy z jednání Evropské centrální banky budou zveřejněny do několika týdnů po jednání.
-* Všechny dokumenty týkající se klíčových vyjednávání (např. obchodní smlouva TTIP, „záchranné“ úvěry, status Británie), která ovlivňují každý aspekt budoucnosti evropských občanů, mají být dostupné na internetu.
-* Povinný registr lobbistů, který obsahuje jména klientů, jejich odměňování a záznam schůzek s úředníky (volenými i nevolenými).
+> ### Úplná transparentnost rozhodovacího procesu
+>
+> * Přímé internetové přenosy z jednání Evropské rady, ECOFIN, FTT a Euroskupiny.
+> * Zápisy z jednání Evropské centrální banky budou zveřejněny do několika týdnů po jednání.
+> * Všechny dokumenty týkající se klíčových vyjednávání (např. obchodní smlouva TTIP, „záchranné“ úvěry, status Británie), která ovlivňují každý aspekt budoucnosti evropských občanů, mají být dostupné na internetu.
+> * Povinný registr lobbistů, který obsahuje jména klientů, jejich odměňování a záznam schůzek s úředníky (volenými i nevolenými).
 
 DiEM rovněž správně identifikuje nebezpečí současných politických trendů, kdy zažíváme vzestup misantropie a xenofobie, které přikrmují populističtí a nacionalističtí politici v členských státech EU. Snaží se proto navrhnout třetí cestu, která představuje změnu fungování EU, nikoliv její rozvrat a opětovné uzavření se do národních států.
 
 DiEM tedy není protievropské hnutí založené na radikálních myšlenkách, jak se ho jeho oponenti často snaží vykreslit. Ve zkratce by bylo možné DiEM popsat jako politické a aktivistické hnutí založené na principech otevřenosti a sdílení. A to je nejen plně v souladu s politickým programem České pirátské strany, ale i s mými osobními názory. Proto se dobrovolně snažím zásady DiEM uplatňovat ve svých politických rozhodnutích i ve svém každodenním životě. Snaha o kooperaci, komunikaci a participaci zaměřené na hlubší demokratizaci EU mi totiž v současnosti připadá zásadní. Tento způsob pojetí politiky mi totiž připomíná princip fungování open source komunit, a proto se s jeho metodami dokážu ztotožnit.
 
-**Odkazy:**
+### Odkazy
 
 - [Manifest DiEM](https://diem25.org/manifest-plna-verze/)
 - [Nový úděl pro Evropu. Bývalý řecký ministr Varufakis navrhuje reformu Unie](http://www.rozhlas.cz/plus/svet/_zprava/novy-udel-pro-evropu-byvaly-recky-ministr-varufakis-navrhuje-reformu-unie--1761888)

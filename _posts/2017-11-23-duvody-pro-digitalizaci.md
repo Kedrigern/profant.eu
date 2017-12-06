@@ -34,8 +34,7 @@ Motivacemi pro digitalizaci by měla být snaha o:
 
 Digitalizace veřejné správy založená na skutečných a aktualizovaných datech je užitečná a prospěšná pro všechny oblasti státního servisu a v konečném důsledku tedy i pro občana. K výzvám digitalizace je však nutné se postavit koncepčně a nespoléhat se jen na to, co státu naservírují proprietární dodavatelé.
 
-**Odkazy:**
+### Odkazy
 
-[Digitální Česko](https://www.pirati.cz/program/temata/digitalni-cesko/)
-
-[Digitalizace znamená méně úřadů - využijme odborníky, které máme](https://www.piratskelisty.cz/clanek-1708-digitalizace-znamena-mene-uradu-vyuzijme-odborniky-ktere-mame)
+- [Digitální Česko](https://www.pirati.cz/program/temata/digitalni-cesko/)
+- [Digitalizace znamená méně úřadů - využijme odborníky, které máme](https://www.piratskelisty.cz/clanek-1708-digitalizace-znamena-mene-uradu-vyuzijme-odborniky-ktere-mame)
