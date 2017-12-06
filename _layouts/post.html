@@ -13,7 +13,7 @@
     <meta property="og:description"   content="{% if page.description %}{{page.description}}{% elsif page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 330 }}{%else%}{{site.description}}{% endif %}" />
 
 
-    <meta property="og:image"         content="{{ site.url }}{{ site.baseurl }}/{{page.img}}" />
+    <meta property="og:image"         content="{{'/assets/img/posts' | prepend: page.img | relative_url}}" />
     <meta property="og:type"          content="website" />
     <meta property="og:url"           content="{{page.url | absolute_url }}" />
   <link rel="stylesheet" href="https://dhbhdrzi4tiry.cloudfront.net/cdn/sites/foundation.min.css">
