@@ -4,10 +4,14 @@ body, h1, h2, h3, h4, h5, h6, body {
     line-height: 1.3;
     color: #0a0a0a;
 }
-h1, h2, h3, h4, h5, h6{
+h1, h2, h3, h4, h5, h6 {
 	margin:0;
 }
-
+footer {
+  background-color: darkgray;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
 
 
 .cover {
