@@ -8,7 +8,7 @@ permalink: "bio/"
 
 ### Můj život před Piráty
 
-/obrázek: Zlenice v pirátském kostýmu
+/obrázek1
 
 Narodil jsem se 2. května 1988 v Praze, kde jsem strávil i většinu svého života. Vystudoval jsem všeobecné gymnázium, kde jsem rozvinul svou přirozenou zvědavost a touhu po získávání nových informací. Kromě matematiky a informatiky jsem se zajímal i o historii a filosofii. To mě naučilo o věcech uvažovat systematicky a v kontextu společenského dění a jeho minulosti.
 
@@ -18,7 +18,7 @@ Po skončení střední školy jsem dále studoval na Matematicko-fyzikální fa
 
 ### Začátky působení ve veřejném životě
 
-/obrázek: demonstrace v anon masce
+/obrázek2
 
 Odjakživa jsem věřil tomu, že politika má být o dialogu a co nejširší participaci. K tomuto přesvědčení mě vedly závěry mnoha antických i moderních filosofů a hlavně způsob fungování open source komunit. Nebylo proto žádným překvapením, že mé nadšení pro nové technologie a hlavně nové pojetí politiky mě přivedlo k Pirátům.
 
@@ -28,25 +28,27 @@ Fenomén Pirátských stran jsem sledoval již od jeho počátku v roce 2006, kd
 
 ### Vstup do politiky
 
-/obrázek: na zastupitelstvu u pultíku v neformálním oděvu
+/obrázek3
 
-Jako rodilý Pražan jsem vždy intenzivně zajímal o politiku hlavního města a jeho městských částí. Jako občan a aktivista jsem se angažoval v protestech proti předraženým veřejným zakázkám nebo různým pochybným developerským projektům.
+Jako rodilý Pražan jsem vždy intenzivně zajímal o politiku hlavního města a jeho městských částí. Ještě jako občan a aktivista jsem se angažoval v protestech proti předraženým veřejným zakázkám nebo různým pochybným developerským projektům. V roce 2014 jsem se jako předseda pražských Pirátů podílel na kampani do Zastupitelstva hlavního města Prahy, kam jsem byl i zvolen. Začala pro mě zcela nová etapa, kdy jsem se začal politice věnovat naplno. Přesto jsem se nadále snažil dodržovat ideály otevřenosti a sdílení, na kterých je Pirátská strana postavena.
 
-- zvolení na Magoš
-- příklady činnosti, open data, komise pro informatiku, teze digitální strategie, otevřená města
+Na Magistrátě jsem se věnoval řadě témat. Do mé odbornosti spadala informatika, v této oblasti se mi podařilo z pozice člena Komise pro informatiku prosadit do strategického dokumentu města pro rozvoj informačních technologí větší důraz na využívání otevřených řešení a na vyvarování se chyb z minulosti. Obzvláště hrdý jsem na prosazení otevřených dat, která Praha nyní poskytuje ve vysoké kvalitě.
+
+Věnoval jsem se však i jiným tématům než pouze informatice. Například jsem upozornil na předraženou zakázku na svoz odpadu, aktivně jsem vystupoval proti zbourání libeňského mostu nebo jsem apeloval na vedení města, aby odkoupilo sídliště Písnice, které se jeho vlastník (ČEZ) rozhodl prodat developerům. V roce 2015 jsem se také podílel na založení spolku Otevřená města, který v roce získal ocenění za svou aplikaci Cityvizor, která nabízí obcím zveřejnění jejich rozpočtu.
 
 ### Zlomové volby
 
-/obrázek: ve sněmovně v tiskovém centru v obleku
+/obrázek4
 
-- stal jsem se poslancem a chci být dostupný politik
-- snažím se o maximální transparentnost, na mém webu naleznete přiznání, kalendář, registr, kontakt
+Ve volbách v roce 2017 jsem byl po úžasném úspěchu pirátské volební kampaně zvolen do Poslanecké sněmovny. Stal jsem se členem Výboru pro veřejnou správu, kde se i nadále hodlám věnovat problematice informačních technologií a digitalizaci veřejné správy.
+
+Jako poslanec si kladu za cíl se zodpovědně připravovat na jednání pléna a výborů. Protože jsem příznivcem tvrdých dat a faktů, hodlám se vždy se všemi návrhy pečlivě seznámit, než se rozhodnu, zdali je mám podpořit. Zároveň chci zůstat dostupným politikem, se kterým je možné si sjednat schůzku a předat mu své podněty.
+
+Zvláštní důraz budu klást na osobní transparenci. Proto na mých webových stránkách naleznete můj kalendář i majetková přiznání. Své schůzky s lobbisty zapisuji do pirátského registru lobbistických kontaktů.
 
 ### Jaký jsem osobně
 
-/obrázek: na kole s helmou v pozadí město
+/obrázek5
 
 - zájmy
 - cyklistika
-
-/doplnit odkazy
