@@ -1,0 +1,241 @@
+body, h1, h2, h3, h4, h5, h6, body {
+    font-family: "Open Sans",Helvetica,Roboto,Arial,sans-serif;
+    font-weight: normal;
+    line-height: 1.3;
+    color: #0a0a0a;
+}
+h1, h2, h3, h4, h5, h6 {
+	margin:0;
+}
+footer {
+  background-color: #cacaca;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+
+.cover {
+	border: 0px;
+	border-bottom: 5px solid #f3f3f3;
+	margin: 0 0 1rem;
+	padding: 1rem;
+	border-radius: 0;
+	position: relative;
+	background-color: #fff;
+
+}
+
+.top-bar, .top-bar a {
+    color: #fff;
+		}
+.top-bar, .top-bar ul  {
+  background-color: #343434;
+}
+
+.top-bar li:hover, .top-bar li:focus  {
+  background-color: #646464;
+}
+
+.menu-text{
+  padding:0;
+}
+
+.thumbnail{
+	max-width: 100%;
+	border: 0;
+	box-shadow: None;
+  margin-bottom: 0px;
+}
+
+.main-title{
+	font-weight: bold;
+
+}
+
+
+.icon {
+	font-size: 2em;
+	padding: 5px;
+	color: white;
+}
+
+.fi-social-facebook:hover, .fi-social-facebook:focus {
+	color: #3b5998;
+}
+.fi-social-twitter:hover, .fi-social-twitter:focus {
+	color: #0084b4;
+}
+.fi-social-github:hover, .fi-social-github:focus {
+	color: #913399;
+}
+.fi-mail:hover, .fi-mail:focus  {
+	color: #f7941d;
+
+}
+.bottompadding{
+
+  padding-bottom: 1rem;
+}
+
+.rbox {
+	padding-left: 70px;
+}
+
+/*.blog-post{
+  position: relative;
+}*/
+
+.textbox {
+  position: relative;
+  height: 100%;
+  /*min-height: 250px;*/
+}
+
+.date-author {
+  position: absolute;
+  bottom: 0;
+  width:100%;
+}
+
+.timeline .timeline-item::after, .timeline .timeline-item::before {
+  clear: both;
+  content: '';
+  display: block;
+  width: 100%;
+}
+
+.timeline {
+  margin: 30px auto;
+  padding: 0 10px;
+  position: relative;
+  transition: all 0.25s ease-in;
+  width: 100%;
+}
+
+.timeline::before {
+  background: #adadad;
+  content: '';
+  height: 100%;
+  left: 50%;
+  position: absolute;
+  top: 0;
+  width: 3px;
+}
+
+.timeline::after {
+  clear: both;
+  content: '';
+  display: table;
+  width: 100%;
+}
+
+.timeline a {
+  color: black;
+  font-weight: bold;
+  transition: all 0.25s ease-in;
+}
+
+.timeline a:hover {
+  box-shadow: 0 1px 0px 0px #fefefe;
+  transition: all 0.25s ease-in;
+}
+
+.timeline .timeline-item {
+  margin-bottom: 50px;
+  position: relative;
+}
+
+.timeline .timeline-item .timeline-icon {
+  background: #adadad;
+  border-radius: 50%;
+  height: 50px;
+  left: 50%;
+  margin-left: -23px;
+  overflow: hidden;
+  position: absolute;
+  top: 0;
+  width: 50px;
+  text-align: center;
+}
+
+.timeline .timeline-item .timeline-icon i {
+  font-size:26px;
+  position:relative;
+  /*left:12px;*/
+  top:12px
+}
+
+.timeline .timeline-item .timeline-icon img,
+.timeline .timeline-item .timeline-icon svg {
+  left: 14px;
+  position: relative;
+  top: 11px;
+}
+
+.timeline .timeline-item .timeline-icon svg {
+  top: 14px;
+}
+
+.timeline .timeline-item .timeline-content {
+  padding: 20px;
+  text-align: right;
+  transition: all 0.25s ease-in;
+  width: 45%;
+  background: transparent;
+}
+
+.timeline .timeline-item .timeline-content p {
+  color: black;
+}
+
+.timeline .timeline-item .timeline-content p {
+  font-size: 16px;
+  line-height: 1.4;
+  margin-bottom: 0;
+}
+
+.timeline .timeline-item .timeline-content .timeline-content-date {
+  font-size: 16px;
+  font-weight: bold;
+  margin-bottom: 0;
+}
+
+.timeline .timeline-item .timeline-content .timeline-content-month {
+  font-size: 0.875rem;
+  text-transform: uppercase;
+  font-weight: 400;
+}
+
+.timeline .timeline-item .timeline-content.right {
+  float: right;
+  text-align: left;
+}
+
+@media screen and (max-width: 39.9375em) {
+  .timeline {
+    margin: 30px;
+    padding: 0;
+    width: 90%;
+  }
+  .timeline::before {
+    left: 0;
+  }
+  .timeline .timeline-item .timeline-content {
+    float: right;
+    text-align: left;
+    width: 90%;
+  }
+  .timeline .timeline-item .timeline-content::before, .timeline .timeline-item .timeline-content.right::before {
+    border-left: 0;
+    border-right: 7px solid #adadad;
+    left: 10%;
+    margin-left: -6px;
+  }
+  .timeline .timeline-item .timeline-icon {
+    left: 0;
+  }
+}
+
+
+
+}
