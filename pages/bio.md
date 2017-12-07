@@ -1,8 +1,7 @@
 ---
-layout: post
+layout: page
 title:  "Bio"
 date:   2017-11-22 08:00:00 +0100
-categories: static-page
 permalink: "bio/"
 ---
 Ondřej Profant (2. května 1988) je pirátský poslanec v PSP ČR za Prahu, pražský zastupitel a předseda krajského [sdružení v Praze][]. Byl členem přípravného výboru České pirátské strany.
