@@ -7,7 +7,7 @@ layout: main
   <a href="{{site.baseurl}}{{post.url}}"><h2 class="bottompadding">{{post.title}}</h2></a>
   <div class="row">
   <div class="large-6 columns imagebox">
-  <img class="thumbnail" src="{{ site.baseurl }}{{post.img}}">
+  <img class="thumbnail" src="{{post.img | prepend: 'assets/img/posts/' | relative_url}}">
 </div><div class="large-6 columns textbox">
   <div class="text-justify bottompadding">
   {{post.excerpt | markdownify | truncatewords:50 }}
@@ -66,5 +66,3 @@ layout: main
 </ul>
 
 {% assign site.posts = paginator.posts %}
-
-
