@@ -1,8 +1,6 @@
 ---
-layout: post
+layout: page
 title:  "Transparentnost"
-date:   2017-11-22 08:00:00 +0100
-categories: static-page
 permalink: "transparentnost/"
 ---
 
@@ -12,10 +10,10 @@ Moje hlasování v [Poslanecké sněmovně Parlamentu](http://www.psp.cz/sqw/hla
 
 ### Zastupitelstvo
 
-Výroční zprávy klubu Pirátů v Zastupitelstvu hlavního města Prahy: 
+Výroční zprávy klubu Pirátů v Zastupitelstvu hlavního města Prahy:
 [2015](https://github.com/pirati-cz/KlubPraha/blob/master/materialy/vyrocni-zprava/vyrocni-zprava.pdf),
 [2016](https://github.com/pirati-cz/KlubPraha/blob/master/materialy/vyrocni-zprava-2016/vyrocni-zprava-2016.pdf)
-v kterých najdete na čem jsme pracovali a jakou odměnu jsme za práci obdrželi. 
+v kterých najdete na čem jsme pracovali a jakou odměnu jsme za práci obdrželi.
 
 ### Veřejný kalendář
 

@@ -15,6 +15,7 @@
     <meta property="og:type"          content="website" />
     <meta property="og:url"           content="{{page.url | absolute_url }}" />
 {% include link.html %}
+
 </head>
 
 <body>
@@ -23,14 +24,9 @@
 
   <div class="row" id="content" style="padding-top: 1rem">
     <div class="large-8 columns">
-<h1 style="padding-top: 5px;">{{ page.title }}</h1>
-<p><small>{{page.date | date:"%d. %m. %Y"}} {{page.author}}</small></p>
-{% if page.img %}
-  <img class="thumbnail" src="{{page.img | relative_url}}">
-  <br />
-  {% endif %}
-  <br />
+
     {{ content }}
+
 {% if page.comments %}
 {% include disqus.html %}
 {% endif %}
