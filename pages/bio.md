@@ -50,5 +50,6 @@ Zvláštní důraz budu klást na osobní transparenci. Proto na mých webových
 
 /obrázek5
 
-- zájmy
-- cyklistika
+Mezi mé zájmy a koníčky patří plavání, hraní deskových a počítačových her, četba satirické fantasy a občasné sledování převážně zahraničních televizních seriálů. Z programovacích jazyků mám nejraději Python a jako operační systém používám Fedoru.
+
+Z dopravních prostředků preferuji kolo.
