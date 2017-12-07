@@ -1,11 +1,11 @@
 ---
-layout: post
-title:  "Proč jsem se stal Pirátem?"
-date:   2017-10-24 18:00:00 +0100
-categories: pirati
-comments: true
-img: "/assets/img/posts/profant-pirat.jpg"
-author: Ondřej Profant
+layout:       post
+title:        "Proč jsem se stal Pirátem?"
+date:         2017-10-24 18:00:00 +0100
+categories:   pirati
+comments:     true
+img:          profant-pirat.jpg
+author:       Ondřej Profant
 ---
 V roce 2009 jsem se jako člen přípravného výboru podílel na založení Pirátské strany, protože jsem byl nespokojený s tehdejší politickou situací. Tuzemské politice dominoval konflikt mezi tehdy Topolánkovou ODS a Paroubkovou ČSSD, v České republice se naplno začaly projevovat dopady světové ekonomické krize a já si procházel značnou deziluzí o tom, co to znamená žít v takzvaně svobodné zemi.
 
