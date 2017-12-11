@@ -69,7 +69,12 @@ footer {
 	color: #913399;
 }
 .fi-mail:hover, .fi-mail:focus  {
-	color: #f7941d;
+	color: #c71610;
+
+}
+
+.fi-rss:hover, .fi-rss:focus  {
+	color: #ee802f;
 
 }
 .bottompadding{
