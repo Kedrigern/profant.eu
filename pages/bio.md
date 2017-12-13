@@ -16,7 +16,7 @@ Jako mladší jsem pravidelně jezdil na [LARPy](https://cs.wikipedia.org/wiki/L
 
 Po skončení střední školy jsem dále studoval na Matematicko-fyzikální fakultě Univerzity Karlovy, nicméně tato doba se již kryla s mými začátky v Pirátech. Školu jsem proto kvůli stranickým a pracovním povinnostem nedokončil. Svůj osobní rozvoj jsem ale nezanedbával a zdokonaloval jsem své schopnosti v oblasti programování, skriptování a digitální sazby knih.
 
-![alt text]({{ '/assets/img/bio-obrazek1.jpg' | relative_url }} "Logo Title Text 1")
+![alt text]({{ '/assets/img/bio-obrazek1.jpg' | relative_url }} "V pirátském kostýmu")
 
 ### Začátky působení ve veřejném životě
 
@@ -26,6 +26,8 @@ Odjakživa jsem věřil tomu, že politika má být o dialogu a co nejširší p
 
 [České Piráty](https://cs.wikipedia.org/wiki/%C4%8Cesk%C3%A1_pir%C3%A1tsk%C3%A1_strana) jsem jako člen přípravného výboru strany pomáhal zakládat a jsem v nich aktivní celou dobu od jejich zrodu. Působil jsem v řadě vnitrostranických funkcí, mezi jinými například v republikovém předsednictvu, republikovém výboru, předsednictvu krajského sdružení Praha nebo na pozici vedoucího technického odboru. Aktivně jsem se zapojoval i do všech možných akcí a kampaní, které Piráti během své existence organizovali. Jako ty nejzajímavější příklady mohu uvést třeba [Festival svobodných filmů](https://wiki.pirati.cz/mo/fsf), kampaň [Hrajeme svobodnou hudbu](https://wiki.pirati.cz/hudba/start) a veřejné hudební produkce [VyOsení](http://www.vyoseni.cz/), kampaň proti mezinárodním dohodám [ACTA](https://wiki.pirati.cz/kci/acta_clanek) a [TTIP](https://wiki.pirati.cz/ttip) nebo sérii přednášek o počítačové bezpečnosti [CryptoParty](http://cryptoparty.cz/).
 
+![alt text]({{ '/assets/img/bio-obrazek2.jpg' | relative_url }} "Kontaktní kampaň")
+
 ### Vstup do politiky
 
 Jako rodilý Pražan jsem vždy intenzivně zajímal o politiku hlavního města a jeho městských částí. Ještě jako občan a aktivista jsem se angažoval v protestech proti předraženým veřejným zakázkám nebo různým pochybným developerským projektům. V roce 2014 jsem se jako předseda pražských Pirátů podílel na kampani do Zastupitelstva hlavního města Prahy, kam jsem byl i zvolen. Začala pro mě zcela nová etapa, kdy jsem se začal politice věnovat naplno. Přesto jsem se nadále snažil dodržovat ideály otevřenosti a sdílení, na kterých je Pirátská strana postavena.
@@ -33,6 +35,8 @@ Jako rodilý Pražan jsem vždy intenzivně zajímal o politiku hlavního města
 Na Magistrátě jsem se věnoval řadě témat. Do mé odbornosti spadala informatika, v této oblasti se mi podařilo z pozice člena [Komise Rady hl. m. Prahy pro ICT](http://www.praha.eu/jnp/cz/o_meste/primator_a_volene_organy/rada/komise_rady/index.html?commissionId=30405) prosadit do strategického dokumentu města pro rozvoj informačních technologí větší důraz na využívání otevřených řešení a na vyvarování se chyb z minulosti. Obzvláště hrdý jsem na prosazení [otevřených dat](http://opendata.praha.eu/), která Praha nyní poskytuje ve vysoké kvalitě.
 
 Věnoval jsem se však i jiným tématům než pouze informatice. Například jsem upozornil na [předraženou zakázku na svoz odpadu](https://praha.pirati.cz/ondra.html), aktivně jsem vystupoval proti [zbourání libeňského mostu](https://praha.pirati.cz/libensky-most.html) nebo jsem apeloval na vedení města, aby odkoupilo [sídliště Písnice](https://praha.pirati.cz/pisnicti-pres-palubu.html), které se jeho vlastník (ČEZ) rozhodl prodat developerům. V roce 2015 jsem se také podílel na založení spolku [Otevřená města](http://www.otevrenamesta.cz/), který v roce 2017 získal ocenění za svou aplikaci [Cityvizor](https://cityvizor.cz/), která nabízí obcím zveřejnění jejich rozpočtu.
+
+![alt text]({{ '/assets/img/bio-obrazek3.jpg' | relative_url }} "Na zasedání ZHMP")
 
 ### Zlomové volby
 
