@@ -16,6 +16,8 @@ Jako mladší jsem pravidelně jezdil na [LARPy](https://cs.wikipedia.org/wiki/L
 
 Po skončení střední školy jsem dále studoval na Matematicko-fyzikální fakultě Univerzity Karlovy, nicméně tato doba se již kryla s mými začátky v Pirátech. Školu jsem proto kvůli stranickým a pracovním povinnostem nedokončil. Svůj osobní rozvoj jsem ale nezanedbával a zdokonaloval jsem své schopnosti v oblasti programování, skriptování a digitální sazby knih.
 
+![alt text]({{ '/assets/img/bio-obrazek1.jpg' | relative_url }} "Logo Title Text 1")
+
 ### Začátky působení ve veřejném životě
 
 Odjakživa jsem věřil tomu, že politika má být o dialogu a co nejširší participaci. K tomuto přesvědčení mě vedly závěry mnoha antických i moderních filosofů a hlavně způsob fungování open source komunit. Nebylo proto žádným překvapením, že mé nadšení pro nové technologie a hlavně nové pojetí politiky mě přivedlo k Pirátům.
