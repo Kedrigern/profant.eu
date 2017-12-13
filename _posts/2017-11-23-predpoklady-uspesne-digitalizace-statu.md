@@ -9,7 +9,7 @@ img: 			laptop-relax.jpg
 author: 	Ondřej Profant
 ---
 Každý by si přál moderní a digitalizovaný stát, přesto všechny dosavadní pokusy o digitalizaci byly velmi rozpačité či je dokonce možné je považovat vysloveně za ukázku špatného přístupu. V čem je tedy problém, když poptávka po digitalizaci existuje? Co vše je potřeba, aby se digitalizace povedla?
-
+<!--more-->
 Digitalizace státu zdaleka není jen o technologiích. Ty jsou dnes dostupné, jinak bychom nemohli mít komplexní služby, jakými jsou například Facebook či Google aplikace. Složitější je část pod povrchem, což jsou samotné procesy, které k digitalizaci vedou. Těch máme hned několik druhů:
 - **Legislativa**
 

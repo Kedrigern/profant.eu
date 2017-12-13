@@ -45,3 +45,4 @@ exclude:
 
 paginate_path: "/stranka/:num/"
 paginate: 5
+excerpt_separator: <!--more-->
