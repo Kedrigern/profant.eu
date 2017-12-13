@@ -10,9 +10,7 @@ author:     Ondřej Profant
 ---
 
 O DiEM 25 (Democracy in Europe Movement 2025 – Demokracie v Evropě hnutí 2025) se v českých médiích příliš nepíše. A když už, tak převážně v negativních souvislostech jako třeba ve spojitosti s označováním tohoto hnutí za neomarxistické. Taková interpretace je značně zkratkovitá a nepřesná. Možná by se dokonce dalo ji označit za vyloženě nepravdivou, neboť DiEM je proevropským, demokratickým a liberálním hnutím. A to je důvod, proč s ním Piráti sympatizují.
-
-<!--more--->
-
+<!--more-->
 Hnutí DiEM vzniklo 9. února 2016 v Berlíně. Jeho zformování navazovalo na politické události v Evropě v roce 2015, přičemž u jeho zrodu stáli bývalý řecký ministr financí Yanis Varoufakis a chorvatský filosof Srećko Horvat. Osobnosti zakladatelů hnutí zcela přirozeně nahráli kritikům hnutí, kteří jej už od počátku označovali za radikální, levičácké a žertovali o DiEM jako o Varoufakisově malé internacionále.
 
 Určité konzervativní kruhy, které jsou schopny i dostupnou základní zdravotní péči nebo vyplácení důchodů označit za přežitek komunismu, popisují DiEM jako extrémistické hnutí. Toto pochopení DiEM je od základu špatné. A mylně DiEM vnímá i řada politologů, kteří se k jeho hodnocení pokoušejí přistupovat neutrálně.
