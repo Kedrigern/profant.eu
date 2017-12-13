@@ -17,7 +17,7 @@ v kterých najdete na čem jsme pracovali a jakou odměnu jsme za práci obdrže
 
 ### Veřejný kalendář
 
-<iframe src="https://calendar.google.com/calendar/embed?showTitle=0&amp;showPrint=0&amp;showCalendars=0&amp;showTz=0&amp;height=600&amp;wkst=2&amp;hl=cs&amp;bgcolor=%23FFFFFF&amp;src=re22cium9203etd7jv7crbf7ck%40group.calendar.google.com&amp;color=%231B887A&amp;ctz=Europe%2FPrague" style="border-width:0" scrolling="no" width="750" height="600" frameborder="0"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?showTitle=0&amp;showPrint=0&amp;showTz=0&amp;mode=WEEK&amp;height=600&amp;wkst=2&amp;hl=cs&amp;bgcolor=%23FFFFFF&amp;src=re22cium9203etd7jv7crbf7ck%40group.calendar.google.com&amp;color=%231B887A&amp;src=a8kmu41ck1j2kpp7jnvs945nbk%40group.calendar.google.com&amp;color=%23711616&amp;ctz=Europe%2FPrague" style="border-width:0" width="750" height="600" frameborder="0" scrolling="no"></iframe>
 
 ### Majetkové přiznání
 
