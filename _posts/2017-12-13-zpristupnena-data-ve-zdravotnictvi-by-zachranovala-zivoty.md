@@ -5,7 +5,7 @@ date:       2017-12-12 18:00:00 +0100
 categories: opendata
 comments:   true
 tags:       opendata, zdravotnictví, otevřená data, transparence
-img:        kruh-0101.jpg
+img:        opendata-zdravotnictvi.png
 author:     Eliška Applová
 ---
 Zachraňování a zkvalitňování životů by mělo být v případě nemocnic prioritou číslo jedna. Proč se tedy neinspirujeme Británií a podle jejího vzoru nezpřístupníme statistiky jednotlivých zdravotních zařízení široké veřejnosti? Britové dokázali, že open data ve zdravotnictví zachrání ročně tisíce životů, navíc vyvrátili obavy některých skeptiků ohledně negativních dopadů. Proč to tedy nemůže fungovat i u nás?
