@@ -216,6 +216,20 @@ footer {
   text-align: left;
 }
 
+.timeline .timeline-item .timeline-content.right.image {
+  text-align: center;
+}
+
+.timeline .timeline-item .timeline-content.image {
+  text-align: center;
+}
+
+.timeline-image {
+  padding-top: 0.3rem;
+  max-width: 300px;
+  max-height: 300px;
+}
+
 @media screen and (max-width: 39.9375em) {
   .timeline {
     margin: 30px;
@@ -239,6 +253,12 @@ footer {
   .timeline .timeline-item .timeline-icon {
     left: 0;
   }
+  .timeline-image, .timeline-image-attr{
+    display: none;
+  }
+
+
+
 }
 
 
