@@ -18,9 +18,6 @@ comments: false
      {% assign mod = forloop.index | modulo:2 %}
      {% if  mod == 0 %}
      <div class="timeline-content right">
-     {% else %}
-     <div class="timeline-content">
-     {% endif %}
        <p class="timeline-content-date">{{uspech.date | date:"%d. %m. %Y"}}</p>
        <p class="timeline-content-date">{{uspech.title}}</p>
        <p>{{uspech.description}}</p>
@@ -30,6 +27,38 @@ comments: false
       {% endfor %}
        {% endif %}
      </div>
+     {% if uspech.img %}
+
+     <div class="timeline-content image">
+     <img class="timeline-image" src="{{uspech.img}}" alt= "{{uspech.title}}"/>
+     {% if uspech.img-attribution %}
+     <small class="timeline-image-attr">Foto: {{uspech.img-attribution}}</small>
+     {% endif %}
+     </div>
+      {% endif %}
+     {% else %}
+     {% if uspech.img %}
+
+       <div class="timeline-content right image">
+       <img class="timeline-image" src="{{uspech.img}}" alt= "{{uspech.title}}"/>
+       {% if uspech.img-attribution %}
+       <small class="timeline-image-attr">Foto: {{uspech.img-attribution}}</small>
+       {% endif %}
+     </div>
+      {% endif %}
+
+     <div class="timeline-content">
+        <p class="timeline-content-date">{{uspech.date | date:"%d. %m. %Y"}}</p>
+       <p class="timeline-content-date">{{uspech.title}}</p>
+       <p>{{uspech.description}}</p>
+       {% if uspech.link %}
+       {% for odkaz in uspech.link  %}
+       <p><a href= {{odkaz}}>Odkaz</a></p>
+      {% endfor %}
+       {% endif %}
+     </div>
+       {% endif %}
+
 
    </div>
    {% endfor %}
