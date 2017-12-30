@@ -46,8 +46,10 @@ Jako poslanec si kladu za cíl se zodpovědně připravovat na jednání pléna 
 
 Zvláštní důraz budu klást na osobní transparenci. Proto na mých [webových stránkách](http://www.profant.eu/transparentnost/) naleznete můj kalendář i majetková přiznání. Své schůzky s lobbisty zapisuji do [pirátského registru lobbistických kontaktů](http://evidence.pirati.cz).
 
+![alt text]({{ '/assets/img/uspechy/poslanec.jpg' | relative_url }} "V Poslanecké sněmovně")
+
 ### Jaký jsem osobně
 
-Mezi mé zájmy a koníčky patří plavání, hraní deskových a počítačových her, četba satirické fantasy a občasné sledování převážně zahraničních televizních seriálů. Z programovacích jazyků mám nejraději Python a jako operační systém používám Fedoru.
+Mezi mé zájmy a koníčky patří plavání, hraní deskových a počítačových her, četba satirické fantasy a občasné sledování převážně zahraničních televizních seriálů. Z programovacích jazyků mám nejraději [Python](https://cs.wikipedia.org/wiki/Python) a jako operační systém používám [Fedoru](https://cs.wikipedia.org/wiki/Fedora).
 
-Z dopravních prostředků preferuji kolo.
+Když mám čas a je hezké počasí, rád si vyrazím na nějakou [šifrovací hru](https://cs.wikipedia.org/wiki/%C5%A0ifrovac%C3%AD_hra). Z dopravních prostředků preferuji kolo. Kromě snadné údržby mi vyhovuje především proto, že jeho používáním pro přepravu zároveň i dělám něco pro své zdraví.
