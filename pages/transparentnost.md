@@ -8,12 +8,17 @@ permalink: "transparentnost/"
 
 Moje hlasování v [Poslanecké sněmovně Parlamentu](http://www.psp.cz/sqw/hlasovani.sqw?id=6526) a v [Zastupitelstvu Hl. m. Prahy](http://www.praha.eu/jnp/cz/o_meste/primator_a_volene_organy/zastupitelstvo/vysledky_hlasovani/index.html?memberId=4929)
 
+
+### Činnost
+
+- [Měsíční reporty činnosti poslance](https://forum.pirati.cz/poslanci-f884/report-poslance-ondrej-profant-t39019.html)
+- [Evidence lobbistických kontaktů](https://forum.pirati.cz/vstupy-a-vystupy-f570/evidence-lobbistickych-kontaktu-t13315.html) - s kým se při své politické činnosti scházím já a další představitelé strany
+
 ### Zastupitelstvo
 
 Výroční zprávy klubu Pirátů v Zastupitelstvu hlavního města Prahy:
 [2015](https://github.com/pirati-cz/KlubPraha/blob/master/materialy/vyrocni-zprava/vyrocni-zprava.pdf),
-[2016](https://github.com/pirati-cz/KlubPraha/blob/master/materialy/vyrocni-zprava-2016/vyrocni-zprava-2016.pdf)
-v kterých najdete na čem jsme pracovali a jakou odměnu jsme za práci obdrželi.
+[2016](https://github.com/pirati-cz/KlubPraha/blob/master/materialy/vyrocni-zprava-2016/vyrocni-zprava-2016.pdf), v kterých najdete na čem jsme pracovali a jakou odměnu jsme za práci obdrželi.
 
 ### Veřejný kalendář
 
