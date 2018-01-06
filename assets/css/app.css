@@ -49,9 +49,7 @@ footer {
 
 .main-title{
 	font-weight: bold;
-
 }
-
 
 .icon {
 	font-size: 2em;
@@ -68,20 +66,15 @@ footer {
 .fi-social-github:hover, .fi-social-github:focus {
 	color: #913399;
 }
-.fi-mail:hover, .fi-mail:focus  {
+.fi-mail:hover, .fi-mail:focus {
 	color: #f4c22a;
-
 }
-
-.fi-rss:hover, .fi-rss:focus  {
+.fi-rss:hover, .fi-rss:focus {
 	color: #ee802f;
-
 }
-.bottompadding{
-
+.bottompadding {
   padding-bottom: 1rem;
 }
-
 .rbox {
 	padding-left: 70px;
 }
@@ -230,7 +223,7 @@ footer {
   max-height: 300px;
 }
 
-@media screen and (max-width: 39.9375em) {
+@media screen and (max-width:padding 39.9375em) {
   .timeline {
     margin: 30px;
     padding: 0;
@@ -256,11 +249,5 @@ footer {
   .timeline-image, .timeline-image-attr{
     display: none;
   }
-
-
-
 }
-
-
-
 }

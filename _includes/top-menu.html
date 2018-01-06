@@ -3,7 +3,7 @@
   <div class="row">
   <div class="large-4  small-6 columns">
     <ul class="menu">
-      <li class="menu-text "><a style="color: #adadad;" href="{{ site.baseurl }}/">{{site.author}}</a></li>
+      <li class="menu-text{% if page.permalink == 'bio/' %} is-active{% endif %}"><a href="{{ site.baseurl }}/">{{site.author}}</a></li>
     </ul>
   </div>
   <div class="large-4  small-6 columns">
@@ -11,16 +11,16 @@
   		<a href="https://www.facebook.com/{{site.facebook_username}}"><i class="fi-social-facebook icon"></i></a>
   		<a href="https://twitter.com/{{site.twitter_username}}"><i class="fi-social-twitter icon"></i></a>
   		<a href="https://github.com/{{site.github_username}}"><i class="fi-social-github icon"></i></a>
-		<a href="{{ site.baseurl }}/feed.xml" alt="ATOM/RSS"><i class="fi-rss icon" alt="ATOM/RSS"></i></a>  		
+		<a href="{{ site.baseurl }}/feed.xml" alt="ATOM/RSS"><i class="fi-rss icon" alt="ATOM/RSS"></i></a>
 		<a href="mailto:{{site.email}}"><i class="fi-mail icon"></i></a>
-		
+
   	</div>
   </div>
   <div class="large-4 columns" >
     <ul class="menu large-right"  >
-      <li class="menu-text"><a href="{{ site.baseurl }}/bio/">Bio</a></li>
-      <li class="menu-text"><a href="{{ site.baseurl }}/transparentnost/">Transparentnost</a></li>
-      <li class="menu-text"><a href="{{ site.baseurl }}/uspechy/">Úspěchy</a></li>
+      <li class="menu-text{% if page.permalink == 'bio/' %} is-active{% endif %}"><a href="{{ site.baseurl }}/bio/">Bio</a></li>
+      <li class="menu-text{% if page.permalink == 'transparentnost/' %} is-active{% endif %}"><a href="{{ site.baseurl }}/transparentnost/">Transparentnost</a></li>
+      <li class="menu-text{% if page.permalink == 'uspechy/' %} is-active{% endif %}"><a href="{{ site.baseurl }}/uspechy/">Úspěchy</a></li>
     </ul>
   </div>
 </div>
