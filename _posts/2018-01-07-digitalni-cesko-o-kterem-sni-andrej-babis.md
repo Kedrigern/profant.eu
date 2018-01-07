@@ -23,8 +23,7 @@ Piráti vítají snahu rozbít velké a složité IT zakázky a soutěžit jen m
 >“Uděláme pořádek v tom, co který́ systém dělá, jaké má kvalitativní parametry, kdo za něj odpovídá, kolik stojí. Vytvoříme jednotné standardy, rozbijeme velké monolitické systémy na spolupracující vrstvy a komponenty.”
 (Návrh programového prohlášení vlády, Digitální Česko)
 
-Systém EET byl nakonec vytvořen jako doplněk k systému ADIS, nikoliv jako samostatný systém. To, že se EET stalo jeho nedílnou součástí, tento monolitický systém z devadesátých let ještě zvětšilo a do budoucna to komplikuje jeho údržbu či případné nahrazení. [Lidovky.cz: Kritika EET: Systém starý dvacet let a tajnosti kolem zakázky]
-(https://www.lidovky.cz/kritika-eet-system-stary-dvacet-let-a-tajnosti-kolem-zakazky-p5r-/zpravy-domov.aspx?c=A161129_104023_ln_domov_ele)
+Systém EET byl nakonec vytvořen jako doplněk k systému ADIS, nikoliv jako samostatný systém. To, že se EET stalo jeho nedílnou součástí, tento monolitický systém z devadesátých let ještě zvětšilo a do budoucna to komplikuje jeho údržbu či případné nahrazení. [Lidovky.cz: Kritika EET: Systém starý dvacet let a tajnosti kolem zakázky](https://www.lidovky.cz/kritika-eet-system-stary-dvacet-let-a-tajnosti-kolem-zakazky-p5r-/zpravy-domov.aspx?c=A161129_104023_ln_domov_ele)
 
 >“Digitální infrastrukturu považujeme za stejně důležitou jako dopravní nebo energetickou infrastrukturu. Proto zásadně urychlíme budování vysokorychlostního internetu a maximálně k tomu využijeme evropské fondy. Připravíme zákon o právu každého občana mít přístup k internetu. Pokud chceme budovat moderní digitální stát, občané musí mít zajištěno, že jejich přístup k internetu nebude omezován. V úzké spolupráci s podnikatelskou sférou, vědou a výzkumem zajistíme implementaci projektu Průmysl 4.0 a Smart projekty v energetice. Zpracujeme analýzu možných dopadů robotizace na domácí průmysl.”
 (Návrh programového prohlášení vlády, Průmysl a obchod)
