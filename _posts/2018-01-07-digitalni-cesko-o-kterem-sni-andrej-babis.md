@@ -11,6 +11,8 @@ author:     Ondřej Profant
 
 V návrhu programového prohlášení vlády Andreje Babiše je kapitola, kterou vládní experti z velké části převzali z pirátského programu. Se samotným kopírováním a sdílením myšlenek nemám nejmenší problém. Silně ale pochybuji o tom, že vláda Andreje Babiše dostojí svým slibům. Z praxe na zastupitelstvu hlavního města Prahy totiž vím, že hnutí ANO velice ochotně něco slíbí, ale realizaci patřičných opatření je vždy na hony vzdálena od původních dohod.
 
+ 
+
 Kapitola v programovém prohlášení vlády nese název “Digitální Česko”. To je zcela totožný název, jaký měl materiál o digitalizaci a e-governmentu v pirátském volebním programu. Inspiraci Pirátskou stranou tedy hnutí ANO vůbec nezakrývá.
 
 Zdá se však, že inspirací to začíná i končí. Hnutí ANO totiž vyniká ve velkolepých slibech, jejich plnění už ale Andreji Babišovi příliš nejde. Na následujících příkladech bych proto rád ukázal pokrytectví hnutí ANO v přístupu k digitalizaci státní správy.
