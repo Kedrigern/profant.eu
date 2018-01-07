@@ -36,7 +36,7 @@ V Praze jsme se pak setkali s tím, že Rada města pod vedením primátorky Adr
 
 Záměry hnutí ANO v oblasti digitalizace a e-governmentu jsou tedy moc krásné na papíře, ale dosavadní zkušenost z jejich realizace je značně negativní. Proto by hnutí ANO mělo kromě hezkých slibů podniknout i reálné kroky ke zlepšení současného stavu. Takže namísto vytváření stále novějších a modernějších strategických konceptů využít stávajícího právního rámce a pomocí exekutivních pravomocí postupně současnou praxi zlepšovat. Příkladem takového exekutivního rozhodnutí, které může výrazně přispět ke zlepšení současné situace, může být třeba metodický pokyn k požadování plných majetkových práv při předání nových systémů vytvořených při plnění veřejných zakázek v oblasti informačních a komunikačních technologií.
 
-Proto bych celému hnutí ANO chtěl v reakci na programové prohlášení vlády s nadsázkou vzkázat následující: Přestaňte kecat, začněte makat. Není to tak složité.
+Proto bych celému hnutí ANO chtěl v reakci na programové prohlášení vlády s nadsázkou vzkázat následující: Přestaňte blábolit a začněte makat. Není to tak složité.
 
 ### Odkazy
 
