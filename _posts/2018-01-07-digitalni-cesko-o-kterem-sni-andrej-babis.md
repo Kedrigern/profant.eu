@@ -38,6 +38,8 @@ Záměry hnutí ANO v oblasti digitalizace a e-governmentu jsou tedy moc krásn�
 
 Proto bych celému hnutí ANO chtěl v reakci na programové prohlášení vlády s nadsázkou vzkázat následující: Přestaňte blábolit a začněte makat. Není to tak složité.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j8c5KXJTtIg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 ### Odkazy
 
 - [Piráti: Digitální Česko](https://www.pirati.cz/program/temata/digitalni-cesko/)
