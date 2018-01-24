@@ -22,7 +22,7 @@ Po skončení střední školy jsem dále studoval na Matematicko-fyzikální fa
 
 Odjakživa jsem věřil tomu, že politika má být o dialogu a co nejširší participaci. K tomuto přesvědčení mě vedly závěry mnoha antických i moderních filosofů a hlavně způsob fungování open source komunit. Nebylo proto žádným překvapením, že mé nadšení pro nové technologie a hlavně nové pojetí politiky mě přivedlo k Pirátům.
 
-[Fenomén Pirátských stran](https://cs.wikipedia.org/wiki/Pir%C3%A1tsk%C3%A1_politika) jsem sledoval již od jeho počátku v roce 2006, kdy byla založena [Švédská pirátská strana](https://cs.wikipedia.org/wiki/Pir%C3%A1tsk%C3%A1_strana_(%C5%A0v%C3%A9dsko)), která byla první svého druhu na světě. V následujících letech byly založeny Pirátské strany po celém světě, v roce 2009 i v České republice. 
+[Fenomén Pirátských stran](https://cs.wikipedia.org/wiki/Pir%C3%A1tsk%C3%A1_politika) jsem sledoval již od jeho počátku v roce 2006, kdy byla založena [Švédská pirátská strana](https://cs.wikipedia.org/wiki/Pir%C3%A1tsk%C3%A1_strana_(%C5%A0v%C3%A9dsko)), která byla první svého druhu na světě. V následujících letech byly založeny Pirátské strany po celém světě, v roce 2009 i v České republice.
 
 [České Piráty](https://cs.wikipedia.org/wiki/%C4%8Cesk%C3%A1_pir%C3%A1tsk%C3%A1_strana) jsem jako člen přípravného výboru strany pomáhal zakládat a jsem v nich aktivní celou dobu od jejich zrodu. Působil jsem v řadě vnitrostranických funkcí, mezi jinými například v republikovém předsednictvu, republikovém výboru, předsednictvu krajského sdružení Praha nebo na pozici vedoucího technického odboru. Aktivně jsem se zapojoval i do všech možných akcí a kampaní, které Piráti během své existence organizovali. Jako ty nejzajímavější příklady mohu uvést třeba [Festival svobodných filmů](https://wiki.pirati.cz/mo/fsf), kampaň [Hrajeme svobodnou hudbu](https://wiki.pirati.cz/hudba/start) a veřejné hudební produkce [VyOsení](http://www.vyoseni.cz/), kampaň proti mezinárodním dohodám [ACTA](https://wiki.pirati.cz/kci/acta_clanek) a [TTIP](https://wiki.pirati.cz/ttip) nebo sérii přednášek o počítačové bezpečnosti [CryptoParty](http://cryptoparty.cz/).
 
@@ -53,3 +53,5 @@ Zvláštní důraz budu klást na osobní transparenci. Proto na mých [webovýc
 Mezi mé zájmy a koníčky patří plavání, hraní deskových a počítačových her, četba satirické fantasy a občasné sledování převážně zahraničních televizních seriálů. Z programovacích jazyků mám nejraději [Python](https://cs.wikipedia.org/wiki/Python) a jako operační systém používám [Fedoru](https://cs.wikipedia.org/wiki/Fedora).
 
 Když mám čas a je hezké počasí, rád si vyrazím na nějakou [šifrovací hru](https://cs.wikipedia.org/wiki/%C5%A0ifrovac%C3%AD_hra). Z dopravních prostředků preferuji kolo. Kromě snadné údržby mi vyhovuje především proto, že jeho používáním pro přepravu zároveň i dělám něco pro své zdraví.
+
+[Klasické CV]({{'/assets/pdf/cv-ondrej-profant.pdf' | relative_url}})
