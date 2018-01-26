@@ -4,6 +4,20 @@ title:  "O mně"
 date:   2017-11-22 08:00:00 +0100
 permalink: "bio/"
 ---
+
+<h1>Můj příběh
+  <small>
+    &nbsp;
+    <a href="{{'/assets/pdf/cv-ondrej-profant.pdf' | relative_url}}">
+      <i class="fi-download medium"></i>
+      Klasické CV
+      <i class="fi-page-pdf medium"></i>
+    </a>
+  </small>
+</h1>
+
+<br>
+
 ### Motto
 
 > „Jen ten, kdo je zaslepen lakotou, nenechá přítele kopírovat.“ -- *[Aaron Swartz](https://cs.wikipedia.org/wiki/Aaron_Swartz)*.
@@ -16,11 +30,11 @@ Jako mladší jsem pravidelně jezdil na [LARPy](https://cs.wikipedia.org/wiki/L
 
 Po skončení střední školy jsem dále studoval na Matematicko-fyzikální fakultě Univerzity Karlovy, nicméně tato doba se již kryla s mými začátky v Pirátech. Školu jsem proto kvůli stranickým a pracovním povinnostem nedokončil. Svůj osobní rozvoj jsem ale nezanedbával a zdokonaloval jsem své schopnosti v oblasti programování, skriptování a digitální sazby knih.
 
-![alt text]({{ '/assets/img/bio-obrazek1.jpg' | relative_url }} "V pirátském kostýmu")
-
 ### Začátky působení ve veřejném životě
 
 Odjakživa jsem věřil tomu, že politika má být o dialogu a co nejširší participaci. K tomuto přesvědčení mě vedly závěry mnoha antických i moderních filosofů a hlavně způsob fungování open source komunit. Nebylo proto žádným překvapením, že mé nadšení pro nové technologie a hlavně nové pojetí politiky mě přivedlo k Pirátům.
+
+![alt text]({{ '/assets/img/bio-obrazek1.jpg' | relative_url }} "V pirátském kostýmu"){: .float-right}
 
 [Fenomén Pirátských stran](https://cs.wikipedia.org/wiki/Pir%C3%A1tsk%C3%A1_politika) jsem sledoval již od jeho počátku v roce 2006, kdy byla založena [Švédská pirátská strana](https://cs.wikipedia.org/wiki/Pir%C3%A1tsk%C3%A1_strana_(%C5%A0v%C3%A9dsko)), která byla první svého druhu na světě. V následujících letech byly založeny Pirátské strany po celém světě, v roce 2009 i v České republice.
 
@@ -53,5 +67,3 @@ Zvláštní důraz budu klást na osobní transparenci. Proto na mých [webovýc
 Mezi mé zájmy a koníčky patří plavání, hraní deskových a počítačových her, četba satirické fantasy a občasné sledování převážně zahraničních televizních seriálů. Z programovacích jazyků mám nejraději [Python](https://cs.wikipedia.org/wiki/Python) a jako operační systém používám [Fedoru](https://cs.wikipedia.org/wiki/Fedora).
 
 Když mám čas a je hezké počasí, rád si vyrazím na nějakou [šifrovací hru](https://cs.wikipedia.org/wiki/%C5%A0ifrovac%C3%AD_hra). Z dopravních prostředků preferuji kolo. Kromě snadné údržby mi vyhovuje především proto, že jeho používáním pro přepravu zároveň i dělám něco pro své zdraví.
-
-[Klasické CV]({{'/assets/pdf/cv-ondrej-profant.pdf' | relative_url}})

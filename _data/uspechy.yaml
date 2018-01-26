@@ -11,7 +11,8 @@
   title: Spoluorganizace demonstrací proti ACTA
   description: "Pomáhal jsem s organizací demonstrace proti ACTA v Praze. Pochod na hrad, kterého se účastilo 2-3 tisíce lidí, byl první vskutku větší akci Pirátů. I díky němu si naší strany všimla média a začala nás brát jako skutečnou politickou stranu, a ne jen jako recesisty."
   link: https://www.lidovky.cz/lide-demonstrovali-proti-acta-v-praze-se-jich-sesly-dva-tisice-p6o-/zpravy-domov.aspx?c=A120211_151827_ln_domov_rka
-- date: 2014-10-14
+- img: /assets/img/uspechy/praha.png
+  date: 2014-10-14
   icon: users
   title: Zvolen do ZHMP
   description: "V komunálních volbách v říjnu 2014 jsem byl zvolen do pražského zastupitelstva. Po zvolení jsem se rozhodl věnovat problematice informatiky, která byla na Magistrátu v žalostném stavu, hospodaření s majetkem a bezpečnosti."
@@ -34,7 +35,8 @@
   title: založení Otevřených měst
   description: "Přes šest tisíc obcí řeší stejný problém - jak fungovat efektivně. S problémy se ale dosud potýkaly samostatně. Proto jsem se podílel na vzniku spolku Otevřená města, aby mohly obce sdílet své zkušenosti. Jak zrychlit fungování úřadu? Jak transparentně rozhodovat? Jak zvýšit participaci, zavádět otevřená data a svobodný software. Proč by města měla kupovat předražený software, když jinde jsou k dispozici svobodná, vyzkoušená a dobře fungující řešení."
   link: https://www.root.cz/clanky/otevrena-mesta-iniciativa-chhttps://farm2.staticflickr.com/1467/24785828289_f173e9268d_k.jpgce-open-source-na-radnice/
-- date: 2015-03-02
+- img: /assets/img/uspechy/opencard.jpg
+  date: 2015-03-02
   icon: id-card-o
   title: Konec Opencard
   description: "Když jsem přišel na Magistrát, byla Praha rukojmím provozovatele Opencard. Děsivé smlouvy z doby Pavla Béma zavazovaly město používat Opencard skoro na všechno a platit za ní tučné peníze. Podařilo se mi najít řešení, jak s tímto vydíráním Prahy skončit, neuvrhnout metropoli do rizika placení pokut nebo soudních sporů. Dnes je Opencard už minulostí; kdo chce může mít Lítačku, kdo chce má papírový kupon a jízdné lze platit dokonce i platební kartou."
@@ -118,12 +120,13 @@
   link:
   - https://praha.pirati.cz/zakazka-psana-na-miru.html
   - https://www.euro.cz/praha/praha-vybrala-dodavatele-datoveho-centra-zakazka-byla-sita-na-miru-tvrdi-opozice-1355684
-- img: /assets/img/uspechy/poslanec.jpg
+- img: /assets/img/uspechy/psp.jpg
   icon: users
   date: 2017-10-22
   title: zvolen do sněmovny
   description: "V podzimních sněmovních volbách jsem byl zvolen z třetího místa pražské kandidátky Pirátů do PSP ČR. Tím jsem dostal příležitost své zkušenosti z pražského zastupitelstva, kde jsem hlídal problematiku IT, uplatnit i na celostátní úrovni. Přislíbil jsem, že se mandátu pražského zastupitele vzdám, neboť kumulovat funkce odmítám."
-- date: 2017-11-22
+- img: /assets/img/uspechy/cityvizor.jpg
+  date: 2017-11-22
   icon: thumbs-up
   title: cena za Cityvizor
   description: "Podílím se na tvorbě aplikace Cityvizor, která pomáhá obcím zveřejňovat informace o tom, jak hospodaří. Města a obce už tak nemusí kupovat předražený software, ale mohou využít takový, který jsme připravili spolu s Ministerstvem financí. Za nástroj jsme obdrželi ocenění Fondu Otakara Motejla."
