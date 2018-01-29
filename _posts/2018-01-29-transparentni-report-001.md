@@ -27,17 +27,29 @@ Nemalým úkolem bylo též sestavit tým. Jako poslanec mám 45 000 Kč na asis
 
 **Absolvoval jsem schůzky s:**
 - S OHA MVČR (Petr Kuchař, Ondřej Felix): Krátce jsem se setkal s hlavním architektem e-governmentu Petrem Kuchařem a nestorem českého e-gov Ondřej Felixem. S Ondřejem Felixem jsem dlouhodobě spolupracoval na magistrátu, čili se docela dobře známe. Bavili jsme se hodně technicky. Těžiště debaty bylo okolo datových schránek a nového portálu občana. Domluvili jsme se na další spolupráci.
+
 - Se senátory Ladislavem Kosem a Václavem Láskou ohledně kandidátů do senátních voleb, zápis: 
 
 https://forum.pirati.cz/vstupy-a-vystupy-f570/evidence-lobbistickych-kontaktu-t13315-860.html#p525608
+
 - Markéta Pavlíková a Jarmila Hnilicová, schůzka k open datům ve zdravotnictví, zápis: 
 
 https://forum.pirati.cz/vstupy-a-vystupy-f570/evidence-lobbistickych-kontaktu-t13315-890.html#p527118
+
 - S národním koordinátorem digitální agendy a národním koordinátorem opendat (Ondřej Malý, Michal Kubáň): Schůzka o tom jak se daří prosazovat opendat v ČR. Co je portřeba udělat legislativně a co organizačně.
-Schůzka s Red Hat (Iveta Babulenková): Obecné setkání o situaci v ČR. Řešili jsme open source ve veřejné správě. Nakousli jsme i téma prodejní politiky RedHatu a velikost partnerské sítě.
+
+- Schůzka s Red Hat (Iveta Babulenková): Obecné setkání o situaci v ČR. Řešili jsme open source ve veřejné správě. Nakousli jsme i téma prodejní politiky RedHatu a velikost partnerské sítě.
+
 - Martin Šebek, informatik z Černošic, jedna z nejtransparentnějších obcích. Řešili jsme reálie IT na obcích.
-- Pavel Staněk (ANO), diskuse o výboru pro egov, zápis: https://forum.pirati.cz/vstupy-a-vystupy-f570/evidence-lobbistickych-kontaktu-t13315-890.html#p527121
-- Helena Svatošová (IuRe): Schůzka k expertní činnosti a semináři o GDPR, zápis: https://forum.pirati.cz/vstupy-a-vystupy-f570/evidence-lobbistickych-kontaktu-t13315-930.html#p529142
+
+- Pavel Staněk (ANO), diskuse o výboru pro egov, zápis: 
+
+https://forum.pirati.cz/vstupy-a-vystupy-f570/evidence-lobbistickych-kontaktu-t13315-890.html#p527121
+
+- Helena Svatošová (IuRe): Schůzka k expertní činnosti a semináři o GDPR, zápis:
+
+https://forum.pirati.cz/vstupy-a-vystupy-f570/evidence-lobbistickych-kontaktu-t13315-930.html#p529142
+
 - Hana Marvanová: Schůzka ohledně komunální politiky Prahy 7
 
 Další zápisy ze schůzek: 
