@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Transparentní report říjen 2017 - prosinec 2017"
+title:      "Zpráva o transparentnosti říjen 2017 - prosinec 2017"
 date:       2018-01-29 11:00:00 +0100
 categories: report
 comments:   true
