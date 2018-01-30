@@ -38,6 +38,7 @@ permalink: "transparentnost/"
     <h2><i class="fi-dollar-bill medium"></i> Majetkové přiznání</h2>
       <p>  
   Majetkové přiznání dle zákona <a href="https://www.zakonyprolidi.cz/cs/2006-159">č. 159/2006 Sb.</a> o střetu zájmů <a href="https://cro.justice.cz/verejnost/funkcionari/605352ba-64c3-494a-8ac9-c06ef05544cf/oznameni/25ac0fb7-27a3-4fbc-973c-d54123fd8432">naleznete na webu Ministertsva spravedlnosti</a>.   
+  </p>
   </div>
   <div class="large-12 columns">
     <h2><i class="fi-calendar medium"></i> Veřejný kalendář</h2>
