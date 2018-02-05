@@ -21,7 +21,7 @@ permalink: "transparentnost/"
     <p>
       <ul>
         <li>Můj blog, sociální sítě:</li>
-        <li><a href="https://forum.pirati.cz/poslanci-f884/report-poslance-ondrej-profant-t39019.html)">Měsíční reporty činnosti poslance</a></li>
+        <li><a href="https://forum.pirati.cz/poslanci-f884/report-poslance-ondrej-profant-t39019.html">Měsíční reporty činnosti poslance</a></li>
         <li><a href="https://forum.pirati.cz/vstupy-a-vystupy-f570/evidence-lobbistickych-kontaktu-t13315.html">Evidence lobbistických kontaktů</a> - s kým se při své politické činnosti scházím já a další představitelé strany</li>
       </ul>
     </p>
