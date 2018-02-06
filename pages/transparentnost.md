@@ -31,7 +31,7 @@ permalink: "transparentnost/"
     <p>
     Výroční zprávy klubu Pirátů v Zastupitelstvu hlavního města Prahy:
     <a href="https://github.com/pirati-cz/KlubPraha/blob/master/materialy/vyrocni-zprava/vyrocni-zprava.pdf">2015</a>,
-    <a href="https://github.com/pirati-cz/KlubPraha/blob/master/materialy/vyrocni-zprava-2016/vyrocni-zprava-2016.pdf">2016</a>, v kterých najdete na čem jsme pracovali a jakou odměnu jsme za práci obdrželi.
+    <a href="https://github.com/pirati-cz/KlubPraha/blob/master/materialy/vyrocni-zprava-2016/vyrocni-zprava-2016.pdf">2016</a>, ve kterých najdete, na čem jsme pracovali a jakou odměnu jsme za práci obdrželi.
     </p>
   </div>
   <div class="large-12 columns">
