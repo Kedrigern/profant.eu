@@ -1,0 +1,130 @@
+---
+layout:
+title:  "eGov legislativa"
+permalink: "leg/"
+---
+
+<!doctype html>
+<html>
+  <head>
+    <title>Legislativa</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jsPlumb/2.6.5/js/jsplumb.min.js"></script>
+    <link rel="stylesheet" type="text/css" href='https://cdnjs.cloudflare.com/ajax/libs/jsPlumb/2.6.5/css/jsplumbtoolkit-defaults.min.css' />
+    <style>
+    #diagramContainer {
+      padding: 20px;
+      width:80%; height: 600px;
+      border: 1px solid gray;
+    }
+    .strip {
+      height: 250px; width: 85%;
+    }
+    .item {
+      height: 120px; width: 120px;
+      border: 1px solid blue;
+      float: left;
+      margin-right: 80px;
+    }
+    </style>
+  </head>
+  <body>
+    <header>
+    </header>
+    <main>
+      <div id="diagramContainer">
+        <div id="eu" class="strip" style="background-color: lightblue;">
+          eu
+          <div id="gdpr" class="item">gdpr
+          </div>
+          <div id="eidas" class="item">eidas
+          </div>
+          <div id="nis" class="item">nis
+          </div>
+          <div id="inspire" class="item">inspire
+          </div>
+        </div>
+        <div id="cr" class="strip" style="background-color: lightgray;">
+          cr
+          <div id="info" class="item">
+            106/1999 o svobodném přístupu k informacím
+          </div>
+          <div id="101" class="item">
+            101/2000 o ochraně osobních dat
+          </div>
+
+
+          <div id="127" class="item">
+             127/2005 o elektronické komunikaci
+          </div>
+          <div id="297" class="item">
+            297/2016 o službách vytvářejících důvěru
+          </div>
+
+
+          <div id="365" class="item">
+             <a href="https://www.zakonyprolidi.cz/cs/2000-365">365/2000 o informačních systémech veřejné správy</a>
+          </div>
+          <div id="kybez" class="item">
+            o kybernetické bezpečnosti
+          </div>
+
+          <div id="123" class="item">
+            123/1998 o právu na informace o životním prostředí
+          </div>
+
+
+
+        </div>
+      </div>
+    </main>
+    <footer>
+      <script>
+        jsPlumb.ready(function() {
+          // your jsPlumb related init code goes here
+          console.log("READY");
+          var common = {
+                anchor: ["Bottom", "Top"],
+                endpoint:"Dot"
+          };
+
+          jsPlumb.connect({
+                source: "gdpr",
+                target: "info"
+          }, common);
+          jsPlumb.connect({
+                source: "gdpr",
+                target: "101"
+          }, common);
+
+          jsPlumb.connect({
+                source: "eidas",
+                target: "127",
+                endpoint: "Blank"
+          }, common);
+          jsPlumb.connect({
+                source: "eidas",
+                target: "297",
+                endpoint: "Blank"
+          }, common);
+
+          jsPlumb.connect({
+                source: "nis",
+                target: "kybez",
+                endpoint: "Blank"
+          }, common);
+          jsPlumb.connect({
+                source: "nis",
+                target: "365",
+                endpoint: "Blank"
+          }, common);
+
+          jsPlumb.connect({
+                source: "inspire",
+                target: "123",
+                endpoint: "Blank"
+          }, common);
+        });
+      </script>
+    </footer>
+  </body>
+</html>
