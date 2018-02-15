@@ -21,7 +21,7 @@ permalink: "transparentnost/"
     <p>
       <ul>
         <li>Můj blog, sociální sítě:</li>
-        <li><a href="https://forum.pirati.cz/poslanci-f884/report-poslance-ondrej-profant-t39019.html)">Měsíční reporty činnosti poslance</a></li>
+        <li><a href="https://forum.pirati.cz/poslanci-f884/report-poslance-ondrej-profant-t39019.html">Měsíční reporty činnosti poslance</a></li>
         <li><a href="https://forum.pirati.cz/vstupy-a-vystupy-f570/evidence-lobbistickych-kontaktu-t13315.html">Evidence lobbistických kontaktů</a> - s kým se při své politické činnosti scházím já a další představitelé strany</li>
       </ul>
     </p>
@@ -31,14 +31,14 @@ permalink: "transparentnost/"
     <p>
     Výroční zprávy klubu Pirátů v Zastupitelstvu hlavního města Prahy:
     <a href="https://github.com/pirati-cz/KlubPraha/blob/master/materialy/vyrocni-zprava/vyrocni-zprava.pdf">2015</a>,
-    <a href="https://github.com/pirati-cz/KlubPraha/blob/master/materialy/vyrocni-zprava-2016/vyrocni-zprava-2016.pdf">2016</a>, v kterých najdete na čem jsme pracovali a jakou odměnu jsme za práci obdrželi.
+    <a href="https://github.com/pirati-cz/KlubPraha/blob/master/materialy/vyrocni-zprava-2016/vyrocni-zprava-2016.pdf">2016</a>, ve kterých najdete, na čem jsme pracovali a jakou odměnu jsme za práci obdrželi.
     </p>
   </div>
   <div class="large-12 columns">
     <h2><i class="fi-dollar-bill medium"></i> Majetkové přiznání</h2>
-    <p>
-Majetkové přiznání dle zákona o střetu zájmů dodám v řádném termínu, ale zatím není hotové. K dispozici je <a href="https://github.com/pirati-cz/KlubPraha/blob/master/priznani/ondrej-profant.md">majetkové přiznání</a>, které nás klub v zastupitelstvu dobrovolně zveřejňoval.    
-    </p>
+      <p>  
+  Majetkové přiznání dle zákona <a href="https://www.zakonyprolidi.cz/cs/2006-159">č. 159/2006 Sb.</a> o střetu zájmů <a href="https://cro.justice.cz/verejnost/funkcionari/605352ba-64c3-494a-8ac9-c06ef05544cf/oznameni/25ac0fb7-27a3-4fbc-973c-d54123fd8432">naleznete na webu Ministertsva spravedlnosti</a>.   
+  </p>
   </div>
   <div class="large-12 columns">
     <h2><i class="fi-calendar medium"></i> Veřejný kalendář</h2>

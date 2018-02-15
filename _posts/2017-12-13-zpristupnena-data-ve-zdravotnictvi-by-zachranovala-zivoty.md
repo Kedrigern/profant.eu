@@ -6,11 +6,13 @@ categories: opendata
 comments:   true
 tags:       opendata, zdravotnictví, otevřená data, transparence
 img:        opendata-zdravotnictvi.png
-author:     Eliška Applová
+author:     Eliška Applová, Ondřej Profant
 ---
-Zachraňování a zkvalitňování životů by mělo být v případě nemocnic prioritou číslo jedna. Proč se tedy neinspirujeme Británií a podle jejího vzoru nezpřístupníme statistiky jednotlivých zdravotních zařízení široké veřejnosti? Britové dokázali, že open data ve zdravotnictví zachrání ročně tisíce životů, navíc vyvrátili obavy některých skeptiků ohledně negativních dopadů. Proč to tedy nemůže fungovat i u nás?
+Otevřená data zůstávají pro většinu občanů značně abstraktním pojmem. Přesto můžou mít výrazný přínos v oblasti zefektivňování veřejné správy a zlepšování jejího servisu pro občany. Následující článek připravala má spolupracovnice, která se věnuje problematice otevřených dat ve zdravotnictví. A jak se v článku dále dočtete, otevřená data mohou přispět i k záchraně lidských životů.
 
 <!--more-->
+
+Zachraňování a zkvalitňování životů by mělo být v případě nemocnic prioritou číslo jedna. Proč se tedy neinspirujeme Británií a podle jejího vzoru nezpřístupníme statistiky jednotlivých zdravotních zařízení široké veřejnosti? Britové dokázali, že open data ve zdravotnictví zachrání ročně tisíce životů, navíc vyvrátili obavy některých skeptiků ohledně negativních dopadů. Proč to tedy nemůže fungovat i u nás?
 
 Snad každý, kdo absolvoval úmorná martýria po doktorech, to zná. Ten pocit, že jste jen položka na běžícím pásu. Že nemáte šanci cokoliv ovlivnit. Jdete k lékaři, který vám byl určen, dělají vám zákroky, které vám často řádně nevysvětlí, zobete léky, s jejichž účinky vás nikdo neseznámil. Být plně v rukou lékařů může být pro některé lidi značně frustrující.
 
@@ -22,7 +24,7 @@ Emma Doyle pracuje v National Health Service England. NHS je britský zdravotnic
 
 ---
 
-Pokud bychom otevřeli data veřejnosti, jaké by to mohlo mít další pozitivní dopady? Zeptejme se třeba britských kardiochirurgů. Odpovědí vám čísli: 21% a 1000. O 21% se snížila úmrtnost pacientů, prodělali operaci srdce. Tedy přežije až 1000 pacientů ročně! Tisíc lidí, kteří by umřeli, kdyby si nemocnice dál škudlily svá data pro sebe. Kdo ví, možná by můj děda žil, kdybychom měli open data i u nás. Britská kardiochirurgie je jen jedním z mnoha oborů, kteří vykazují po otevření dat zvyšování kvality lékařské péče.
+Pokud bychom otevřeli data veřejnosti, jaké by to mohlo mít další pozitivní dopady? Zeptejme se třeba britských kardiochirurgů. Odpovědí vám čísly: 21% a 1000. O 21% se snížila úmrtnost pacientů, kteří prodělali operaci srdce. Tedy přežije až 1000 pacientů ročně! Tisíc lidí, kteří by umřeli, kdyby si nemocnice dál škudlily svá data pro sebe. Kdo ví, možná by můj děda žil, kdybychom měli open data i u nás. Britská kardiochirurgie je jen jedním z mnoha oborů, které vykazují po otevření dat zvyšování kvality lékařské péče.
 
 ### Časté pochybnosti
 
@@ -43,7 +45,3 @@ Bohužel, v českých luzích si zatím o open datech ve zdravotnictví můžem
 - <https://www.england.nhs.uk/about/about-nhs-england/>
 - <https://www.england.nhs.uk/ourwork/tsd/data-info/open-data/>
 - <https://www.theguardian.com/lifeandstyle/2009/jul/30/heart-surgery-death-rates-fall>
-
-
-
-
