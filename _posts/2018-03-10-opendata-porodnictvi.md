@@ -20,7 +20,7 @@ Nerozporuji, že subjektivní zkušenost má váhu, zvlášť pokud čerpám mou
 Možná si říkáte, že na tyhle informace máme ze zákona právo už teď. To je sice pravda. Jenže navzdory tomu leží data jednotlivých porodnic bez užitku pod nánosy statistického prachu uschovány před veřejností.
 
 ---
-106. Pro některé již chronicky známé číslo. Pro ostatní krátké shrnutí: zákon sto šest zaručuje občanům právo na informace. Co to v praxi znamená? Tak například nutnost zpřístupnit data a statistiky jednotlivých nemocničních zařízení. 
+106.Pro některé již chronicky známé číslo. Pro ostatní krátké shrnutí: zákon sto šest zaručuje občanům právo na informace. Co to v praxi znamená? Tak například nutnost zpřístupnit data a statistiky jednotlivých nemocničních zařízení. 
 
 ---
 
