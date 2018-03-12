@@ -5,7 +5,7 @@ date:       2018-03-10 18:00:00 +0100
 categories: opendata
 comments:   true
 tags:       opendata, zdravotnictví, otevřená data, transparence
-img:        jak-se-kde-rodi.jpg
+img:        jak-se-rodi.jpg
 author:     Eliška Applová, Ondřej Profant
 ---
 
