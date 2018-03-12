@@ -4,7 +4,7 @@ title:      "Seminář GDPR mýtů zbavené"
 date:       2018-03-12 14:00:00 +0100
 categories: opendata
 comments:   true
-tags:       EU, e-government, osobní údaje, soukromí
+tags:       EU, e-government, osobní údaje, soukromí, gdpr
 img:        gdpr-seminar.jpg
 author:     Ondřej Profant
 ---
@@ -23,30 +23,22 @@ Pro účely semináře vznikla i analýza dopadů GDPR na organizace územní sa
 
 **Materiály**
 
-[Analýza s manuálem pro obce](https://github.com/Kedrigern/Kedrigern.github.io/blob/master/assets/pdf/GDPR-analyza.pdf?raw=true)
-
-[Editovatelná verze analýzy](https://github.com/Kedrigern/Kedrigern.github.io/blob/master/assets/md/gdpr-analyza.md)
+- [Analýza s manuálem pro obce](https://github.com/Kedrigern/Kedrigern.github.io/blob/master/assets/pdf/GDPR-analyza.pdf?raw=true), [editovatelná verze analýzy (markdown)](https://github.com/Kedrigern/Kedrigern.github.io/blob/master/assets/md/gdpr-analyza.md)
 
 Záznam - bude zveřejněno
 
 **Prezentace**
 
-[Úvod](https://github.com/Kedrigern/Kedrigern.github.io/blob/master/assets/pptx/1-GDPR-mytu-zbavene-OP.pptx?raw=true)
-
-[GDPR obecně](https://github.com/Kedrigern/Kedrigern.github.io/blob/master/assets/pptx/2-GDPR-JV.pptx?raw=true)
-
-[GDPR prakticky](https://github.com/Kedrigern/Kedrigern.github.io/blob/master/assets/pptx/3-GDPR-prakticky-HS.pptx?raw=true)
-
-[Obce a implementace GDPR](https://github.com/Kedrigern/Kedrigern.github.io/blob/master/assets/pptx/4-Obce-a-GDPR-DJ.pptx?raw=true)
-
-[GDPR a otevřená data](https://github.com/Kedrigern/Kedrigern.github.io/blob/master/assets/pptx/5-Opendata-a-GDPR-OP.pptx?raw=true)
+1. [Úvod (Ondřej Profant)](https://github.com/Kedrigern/Kedrigern.github.io/blob/master/assets/pptx/1-GDPR-mytu-zbavene-OP.pptx?raw=true)
+2. [GDPR obecně (Jan Vobořil)](https://github.com/Kedrigern/Kedrigern.github.io/blob/master/assets/pptx/2-GDPR-JV.pptx?raw=true)
+3. [GDPR prakticky (Helena Svatošová)](https://github.com/Kedrigern/Kedrigern.github.io/blob/master/assets/pptx/3-GDPR-prakticky-HS.pptx?raw=true)
+4. [Obce a implementace GDPR (Dan Jiránek)](https://github.com/Kedrigern/Kedrigern.github.io/blob/master/assets/pptx/4-Obce-a-GDPR-DJ.pptx?raw=true)
+5.
+[GDPR a otevřená data (Ondřej Profant)](https://github.com/Kedrigern/Kedrigern.github.io/blob/master/assets/pptx/5-Opendata-a-GDPR-OP.pptx?raw=true)
 
 **Odkazy**
 
-[GDPR mýtů zbavené](https://www.profant.eu/soukrom%C3%AD/2018/01/23/gdpr-mytu-zbavene.html)
-
-[Piráti ve Sněmovně pořádají seminář k nařízení o ochraně osobních údajů](https://www.pirati.cz/tiskove-zpravy/gdpr-seminar.html)
-
-[GDPR - strašák nebo ochránce? Více se dozvíte na besedě o ochraně osobních údajů](https://wiki.pirati.cz/regiony/vysocina/tiskove-zpravy/gdpr_-_strasak_nebo_ochrance_vice_se_dozvite_na_besede_o_ochrane_osobnich_udaju)
-
-[Piráti prosadili ověření skutečných dopadů zavedení GDPR na podnikatele](https://www.pirati.cz/tiskove-zpravy/pirati-posoudili-vliv-gdpr-na-podnikatele.html)
+- [GDPR mýtů zbavené](https://www.profant.eu/soukrom%C3%AD/2018/01/23/gdpr-mytu-zbavene.html)
+- [Piráti ve Sněmovně pořádají seminář k nařízení o ochraně osobních údajů](https://www.pirati.cz/tiskove-zpravy/gdpr-seminar.html)
+- [GDPR - strašák nebo ochránce? Více se dozvíte na besedě o ochraně osobních údajů](https://wiki.pirati.cz/regiony/vysocina/tiskove-zpravy/gdpr_-_strasak_nebo_ochrance_vice_se_dozvite_na_besede_o_ochrane_osobnich_udaju)
+- [Piráti prosadili ověření skutečných dopadů zavedení GDPR na podnikatele](https://www.pirati.cz/tiskove-zpravy/pirati-posoudili-vliv-gdpr-na-podnikatele.html)

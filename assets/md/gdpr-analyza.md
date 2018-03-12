@@ -10,7 +10,7 @@ Druhá část, která tvoří přílohu Analýzy, přistupuje k popsaným povinn
 
 Tento materiál vznikl za spolupráce spolků Iuridicum Remedium a Otevřená města s podporou kanceláře poslance Ondřeje Profanta. Více informací na: https://www.profant.eu
 
-![Iuridicum Remedium, Otevřená města, Kancelář poslance Ondřeje Profanta][../img/iure-om-psp.png]
+![Iuridicum Remedium, Otevřená města, Kancelář poslance Ondřeje Profanta](../img/iure-om-psp.png)
 
 # Analýza dopadů GDPR na organizace územní samosprávy  
 
@@ -565,7 +565,7 @@ Vaše osobní údaje budeme zpracovávat v našich interních počítačových s
 
 Tento materiál vznikl za spolupráce spolků Iuridicum Remedium a Otevřená města s podporou kanceláře poslance Ondřeje Profanta. Licence: CC BY-SA 4.0.
 
-![Iuridicum Remedium, Otevřená města, Kancelář poslance Ondřeje Profanta][../img/iure-om-psp.png]
+![Iuridicum Remedium, Otevřená města, Kancelář poslance Ondřeje Profanta](../img/iure-om-psp.png)
 
 - https://www.profant.eu
 - http://www.otevrenamesta.cz
