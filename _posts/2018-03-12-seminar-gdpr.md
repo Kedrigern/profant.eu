@@ -33,8 +33,7 @@ Záznam - bude zveřejněno
 2. [GDPR obecně (Jan Vobořil)](https://github.com/Kedrigern/Kedrigern.github.io/blob/master/assets/pptx/2-GDPR-JV.pptx?raw=true)
 3. [GDPR prakticky (Helena Svatošová)](https://github.com/Kedrigern/Kedrigern.github.io/blob/master/assets/pptx/3-GDPR-prakticky-HS.pptx?raw=true)
 4. [Obce a implementace GDPR (Dan Jiránek)](https://github.com/Kedrigern/Kedrigern.github.io/blob/master/assets/pptx/4-Obce-a-GDPR-DJ.pptx?raw=true)
-5.
-[GDPR a otevřená data (Ondřej Profant)](https://github.com/Kedrigern/Kedrigern.github.io/blob/master/assets/pptx/5-Opendata-a-GDPR-OP.pptx?raw=true)
+5. [GDPR a otevřená data (Ondřej Profant)](https://github.com/Kedrigern/Kedrigern.github.io/blob/master/assets/pptx/5-Opendata-a-GDPR-OP.pptx?raw=true)
 
 **Odkazy**
 
