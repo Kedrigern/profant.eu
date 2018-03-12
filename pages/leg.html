@@ -106,7 +106,7 @@ background-color: rgba(255,255, 255, 0.6);
       visibility: visible;
   }
 
-
+#psi {left: 50px}
 #gdpr {left: 150px}
 #eidas {left: 425px}
 #nis {left: 750px}
@@ -162,6 +162,9 @@ background-color: rgba(255,255, 255, 0.6);
     </div>
     <div id="inspire" class="item eu"><a href="http://eur-lex.europa.eu/legal-content/CS/ALL/?uri=CELEX:32007L0002" target="_blank">INSPIRE</a>
       <span class="tooltiptext">Směrnice č. 2007/2/ES o zřízení Infrastruktury pro prostorové informace v Evropském společenství (INSPIRE)</span>
+    </div>
+    <div id="psi" class="item eu"><a href="">PSI</a>
+      <span class="tooltiptext">Public Sector Information Directive</span>
     </div>
      <div id="z106" class="item cr">
       <a href="https://www.zakonyprolidi.cz/cs/1999-106" target="_blank">106/1999</a><br> o svobodném přístupu k informacím
@@ -260,6 +263,11 @@ var instance = jsPlumb.getInstance({
       /*connector: "Bezier",*/
       detachable:false
     };
+
+    instance.connect({
+      source: "psi",
+      target: "z106"
+    }, common);
 
     instance.connect({
       source: "gdpr",
