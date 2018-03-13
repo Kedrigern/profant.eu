@@ -23,17 +23,17 @@ Pro účely semináře vznikla i analýza dopadů GDPR na organizace územní sa
 
 **Materiály**
 
-- [Analýza s manuálem pro obce](https://github.com/Kedrigern/Kedrigern.github.io/blob/master/assets/pdf/GDPR-analyza.pdf?raw=true), [editovatelná verze analýzy (markdown)](https://github.com/Kedrigern/Kedrigern.github.io/blob/master/assets/md/gdpr-analyza.md)
+- [Analýza s manuálem pro obce](assets/pdf/GDPR-analyza.pdf), [editovatelná verze analýzy (markdown)](https://github.com/Kedrigern/Kedrigern.github.io/blob/master/assets/md/gdpr-analyza.md)
 
 Záznam - bude zveřejněno
 
 **Prezentace**
 
-1. [Úvod (Ondřej Profant)](https://github.com/Kedrigern/Kedrigern.github.io/blob/master/assets/pptx/1-GDPR-mytu-zbavene-OP.pptx?raw=true)
-2. [GDPR obecně (Jan Vobořil)](https://github.com/Kedrigern/Kedrigern.github.io/blob/master/assets/pptx/2-GDPR-JV.pptx?raw=true)
-3. [GDPR prakticky (Helena Svatošová)](https://github.com/Kedrigern/Kedrigern.github.io/blob/master/assets/pptx/3-GDPR-prakticky-HS.pptx?raw=true)
-4. [Obce a implementace GDPR (Dan Jiránek)](https://github.com/Kedrigern/Kedrigern.github.io/blob/master/assets/pptx/4-Obce-a-GDPR-DJ.pptx?raw=true)
-5. [GDPR a otevřená data (Ondřej Profant)](https://github.com/Kedrigern/Kedrigern.github.io/blob/master/assets/pptx/5-Opendata-a-GDPR-OP.pptx?raw=true)
+1. [Úvod (Ondřej Profant)](assets/pptx/1-GDPR-mytu-zbavene-OP.pptx)
+2. [GDPR obecně (Jan Vobořil, Iure)](assets/pptx/2-GDPR-JV.pptx), [(PDF)](assets/pdf/2-GDPR-JV.pdf)
+3. [GDPR prakticky (Helena Svatošová, Iure)](/assets/pptx/3-GDPR-prakticky-HS.pptx), [(PDF)](assets/pdf/3-GDPR-prakticky-HS.pdf)
+4. [Obce a implementace GDPR (Dan Jiránek)](assets/pptx/4-Obce-a-GDPR-DJ.pptx)
+5. [GDPR a otevřená data (Ondřej Profant)](assets/pptx/5-Opendata-a-GDPR-OP.pptx)
 
 **Odkazy**
 
