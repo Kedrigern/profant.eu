@@ -29,11 +29,11 @@ Záznam - bude zveřejněno
 
 **Prezentace**
 
-1. [Úvod (Ondřej Profant)](assets/pptx/1-GDPR-mytu-zbavene-OP.pptx)
-2. [GDPR obecně (Jan Vobořil, Iure)](assets/pptx/2-GDPR-JV.pptx), [(PDF)](assets/pdf/2-GDPR-JV.pdf)
-3. [GDPR prakticky (Helena Svatošová, Iure)](/assets/pptx/3-GDPR-prakticky-HS.pptx), [(PDF)](assets/pdf/3-GDPR-prakticky-HS.pdf)
-4. [Obce a implementace GDPR (Dan Jiránek)](assets/pptx/4-Obce-a-GDPR-DJ.pptx)
-5. [GDPR a otevřená data (Ondřej Profant)](assets/pptx/5-Opendata-a-GDPR-OP.pptx)
+1. [Úvod (Ondřej Profant)]({{'assets/pptx/1-GDPR-mytu-zbavene-OP.pptx' | relative_url }})
+2. [GDPR obecně (Jan Vobořil, Iure)]({{'assets/pptx/2-GDPR-JV.pptx' | relative_url }}), [(PDF)]({{'assets/pdf/2-GDPR-JV.pdf' | relative_url }})
+3. [GDPR prakticky (Helena Svatošová, Iure)]({{'/assets/pptx/3-GDPR-prakticky-HS.pptx' | relative_url }}), [(PDF)]({{'assets/pdf/3-GDPR-prakticky-HS.pdf' | relative_url }})
+4. [Obce a implementace GDPR (Dan Jiránek)]({{'assets/pptx/4-Obce-a-GDPR-DJ.pptx' | relative_url }})
+5. [GDPR a otevřená data (Ondřej Profant)]({{'assets/pptx/5-Opendata-a-GDPR-OP.pptx' | relative_url }})
 
 **Odkazy**
 
