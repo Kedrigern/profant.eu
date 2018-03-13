@@ -2,7 +2,7 @@
 layout:     post
 title:      "Seminář GDPR mýtů zbavené"
 date:       2018-03-12 14:00:00 +0100
-categories: opendata
+categories: soukromí
 comments:   true
 tags:       EU, e-government, osobní údaje, soukromí, gdpr
 img:        gdpr-seminar.jpg
@@ -19,7 +19,7 @@ To však není účelem GDPR. Účelem GDPR je posílit práva občanů v oblast
 
 Největším problémem GDPR je tedy z velké části právě nedostatečná informovanost o jeho obsahu a rozsahu. Jako Piráti chceme tuto neinformovanost prolomit vlastní iniciativou, když toho současná vláda nebyla schopna. Kromě obcí chceme přispět i k lepšímu informování dalších dotčených skupin, jako jsou například podnikatelé. Můj kolega od Pirátů Martin Jiránek již na Hospodářském výboru prosadil, aby Ministerstvo průmyslu a obchodu zpracovalo modelové příklady dopadů na podnikatele.
 
-Pro účely semináře vznikla i analýza dopadů GDPR na organizace územní samosprávy s manuálem se vzory dokumentů k implementaci GDPR pro obce. Analýzu s manuálem i s nejzajímavějšími dotazy z praktické části semináře jsem ve spolupráci s Iuridicum Remedium a Otevřenými městy vydal jako brožuru pod otevřenou licencí. Obce v této brožure mohou najít řadu doporučení, která jim mohou usnadnit přechod na režim GDPR. Brožuru naleznete k bezplatnému stažení zde.
+Pro účely semináře vznikla i analýza dopadů GDPR na organizace územní samosprávy s manuálem se vzory dokumentů k implementaci GDPR pro obce. Analýzu s manuálem i s nejzajímavějšími dotazy z praktické části semináře jsem ve spolupráci s Iuridicum Remedium a Otevřenými městy vydal jako brožuru pod otevřenou licencí. Obce v této brožure mohou najít řadu doporučení, která jim mohou usnadnit přechod na režim GDPR. Brožura byla publikována pod otevřenou licencí a naleznete ji k bezplatnému stažení níže společně s prezentacemi ze semináře.
 
 **Materiály**
 
