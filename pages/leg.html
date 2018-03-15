@@ -28,7 +28,7 @@ margin: 5px 0px;
   #diagramContainer {
     font-size: 80%;
     padding: 0px;
-    width: 1252px;
+    width: 1302px;
     height: 602px;
     border: 1px solid gray;
 
@@ -39,7 +39,7 @@ margin: 5px 0px;
 
   .strip {
     padding: 10px;
-    width: 1250px;
+    width: 1300px;
     height: 150px;
     left: 0;
     z-index: -100;
@@ -110,15 +110,16 @@ background-color: rgba(255,255, 255, 0.6);
 #gdpr {left: 150px}
 #eidas {left: 425px}
 #nis {left: 750px}
-#inspire {left: 950px}
+#inspire {left: 1100px}
 #z106 {left: 50px}
 #z101 {left: 200px}
 #z127 {left: 350px}
+#z240 {left: 950px}
 #z297 {left: 500px}
 #z181 {left: 650px}
 #z365 {left: 800px}
-#z123 {left: 950px}
-#z134 {left: 1100px}
+#z123 {left: 1050px}
+#z134 {left: 1200px}
 #n425 {left: 10px}
 #v260 {left: 1100px}
 #v316 {left: 230px}
@@ -187,6 +188,11 @@ background-color: rgba(255,255, 255, 0.6);
       <a href="https://www.zakonyprolidi.cz/cs/2014-181" target="_blank">181/2014</a><br> o kybernetické bezpečnosti
       <span class="tooltiptext">Zákon o kybernetické bezpečnosti</span>
     </div>
+    <div id="z240" class="item cr">
+      <a href="https://www.zakonyprolidi.cz/cs/2000-240" target="_blank">240/2000</a><br>krizový zákon
+      <span class="tooltiptext">Zákon o krizovém řízení</span>
+    </div>
+
     <div id="z123" class="item cr">
       <a href="https://www.zakonyprolidi.cz/cs/1998-123" target="_blank">123/1998</a><br> o právu na informace o životním prostředí
       <span class="tooltiptext">Zákon o právu na informace o životním prostředí</span>
@@ -288,6 +294,10 @@ var instance = jsPlumb.getInstance({
     instance.connect({
       source: "nis",
       target: "z181"
+    }, common);
+    instance.connect({
+      source: "nis",
+      target: "z240"
     }, common);
     instance.connect({
       source: "nis",
