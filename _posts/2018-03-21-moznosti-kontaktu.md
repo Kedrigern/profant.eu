@@ -13,11 +13,11 @@ Jako poslanec se snažím být v maximální míře dostupný pro občany a jeji
 
 <!--more-->
 
-Kromě běžných komunikačních prostředků ([mail](profanto@psp.cz), 726 362 025) jsem dostupný též prostřednictvím sociálních sítích ([Facebook](https://www.facebook.com/ondrej.profant), [Twitter](https://twitter.com/ondrej_profant), [Diaspora](https://diasp.cz/people/052175c1e4ffbe63)). Snažím se zodpovědně odpovídat na všechny dotazy a komentáře, někdy ale zabere čas, než se dostanu k tomu vašemu. Na obchodní nabídky, řetězové maily a jiný spam nicméně nereaguji.
+Kromě běžných komunikačních prostředků (mail [profanto@psp.cz](profanto@psp.cz), tel 726 362 025) jsem dostupný též prostřednictvím sociálních sítích ([Facebook](https://www.facebook.com/ondrej.profant), [Twitter](https://twitter.com/ondrej_profant), [Diaspora](https://diasp.cz/people/052175c1e4ffbe63)). Snažím se zodpovědně odpovídat na všechny dotazy a komentáře, někdy ale zabere čas, než se dostanu k tomu vašemu. Na obchodní nabídky, řetězové maily a jiný spam nicméně nereaguji.
 
 Nejrychlejší je klást dotazy během některého z vysílání streamu “**Kancl s poslancem**”, kterého se můžete účastnit na [Facebooku](https://www.facebook.com/groups/332114030527834/) a záznamy jsou na [Youtube](https://www.youtube.com/watch?v=K2c-6xzKkr0&list=PLKqQxo2sZ8NeLbPNUQWgUYyMkzMhLgBP2) kanále Pirátů. Během vysílání se snažím sledovat všechny komunikační platformy a zodpovídám vaše otázky.
 
-Máte-li složitější požadavek, který obsahuje třeba i nutnost nastudování dalších podkladů, doporučuji vám napsat na [mail](profanto@psp.cz), Zkuste nejdříve stručně shrnout, co je problémem, a přiložte či odkažte relevantní dokumenty. 
+Máte-li složitější požadavek, který obsahuje třeba i nutnost nastudování dalších podkladů, doporučuji vám napsat na mail [profanto@psp.cz](profanto@psp.cz), Zkuste nejdříve stručně shrnout, co je problémem, a přiložte či odkažte relevantní dokumenty. 
 
 Pokud dáváte přednost osobnímu kontaktu, můžete k tomu přistoupit hned dvojím způsobem. Nepravidelně pořádáme **snídani s poslancem**. Tato akce má otevřený formát a pro setkání s občany ji preferuji, protože není třeba řešit přijetí návštěvy na recepci Sněmovny, což zbytečně ubírá čas pro schůzku. Navíc se stihne probrat více témat, čili nemusíte chodit s ničím konkrétním. Chcete-li se zúčastnit, opět napište na mail a my vám dáme včas vědět. Obvyklý čas je 9-11 hodin. V létě se k tomuto formátu nejspíše ještě přidá **na pivo s poslancem**. 
 
