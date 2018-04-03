@@ -2,11 +2,12 @@
 layout:     post
 title:      "Co je DiEM a proč jej podporuji"
 date:       2017-12-02 18:00:00 +0100
-categories: pirati
+categories: Piráti
 comments:   true
 tags:       DiEM, EU, společnost, transparence, demokracie
 img:        diem25.png
 author:     Ondřej Profant
+redirect_from: "/pirati/2017/12/02/co-je-diem-a-proc-jej-podporuji.html"
 ---
 
 O DiEM 25 (Democracy in Europe Movement 2025 – Demokracie v Evropě hnutí 2025) se v českých médiích příliš nepíše. A když už, tak převážně v negativních souvislostech jako třeba ve spojitosti s označováním tohoto hnutí za neomarxistické. Taková interpretace je značně zkratkovitá a nepřesná. Možná by se dokonce dalo ji označit za vyloženě nepravdivou, neboť DiEM je proevropským, demokratickým a liberálním hnutím. A to je důvod, proč s ním Piráti sympatizují.

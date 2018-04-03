@@ -7,6 +7,7 @@ comments:   true
 tags:       EU, e-government, osobní údaje, soukromí, gdpr
 img:        gdpr-seminar.jpg
 author:     Ondřej Profant
+redirect_from: "/soukromí/2018/03/12/seminar-gdpr.html"
 ---
 
 Dne 12. 3. 2018 proběhl v Poslanecké sněmovně seminář, který jsem uspořádal ve spolupráci se spolky Iuridicum Remedium a Otevřená města. Cílem semináře bylo představení povinností, které se vztahují na obecní úřady a je třeba je v souvislosti s GDPR splnit.

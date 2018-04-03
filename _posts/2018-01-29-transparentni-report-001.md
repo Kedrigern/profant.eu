@@ -7,6 +7,7 @@ comments:   true
 tags:       transparence, report, Piráti
 img:        report001.jpg
 author:     Ondřej Profant
+redirect_from: "/report/2018/01/29/transparentni-report-001.html"
 ---
 
 K jedním z mých nejdůležitějších závazků, které jsem si jako politik osobně uložil, je snaha o co nejvyšší míru transparence. Zároveň si uvědomuji, že nestačí pouze informace zveřejnit, ale je třeba je i dostatečně třídit a prezentovat. Jinak se totiž stávají nesrozumitelnými a původní účel zveřejňování se tak vytrácí. Na svém osobním blogu tedy budu pravidelně publikovat souhrnné reporty mé činnosti za poslední tři měsíce shromážděné z dalších pirátských systémů určených k vykazování aktivity a informování o ní.
@@ -28,11 +29,11 @@ Nemalým úkolem bylo též sestavit tým. Jako poslanec mám 45 000 Kč na asis
 **Absolvoval jsem schůzky s:**
 - S OHA MVČR (Petr Kuchař, Ondřej Felix): Krátce jsem se setkal s hlavním architektem e-governmentu Petrem Kuchařem a nestorem českého e-gov Ondřej Felixem. S Ondřejem Felixem jsem dlouhodobě spolupracoval na magistrátu, čili se docela dobře známe. Bavili jsme se hodně technicky. Těžiště debaty bylo okolo datových schránek a nového portálu občana. Domluvili jsme se na další spolupráci.
 
-- Se senátory Ladislavem Kosem a Václavem Láskou ohledně kandidátů do senátních voleb: 
+- Se senátory Ladislavem Kosem a Václavem Láskou ohledně kandidátů do senátních voleb:
 
 [Zápis v registru lobbistických kontaktů](https://forum.pirati.cz/vstupy-a-vystupy-f570/evidence-lobbistickych-kontaktu-t13315-860.html#p525608)
 
-- Markéta Pavlíková a Jarmila Hnilicová, schůzka k open datům ve zdravotnictví: 
+- Markéta Pavlíková a Jarmila Hnilicová, schůzka k open datům ve zdravotnictví:
 
 [Zápis v registru lobbistických kontaktů](https://forum.pirati.cz/vstupy-a-vystupy-f570/evidence-lobbistickych-kontaktu-t13315-890.html#p527118)
 
@@ -42,7 +43,7 @@ Nemalým úkolem bylo též sestavit tým. Jako poslanec mám 45 000 Kč na asis
 
 - Martin Šebek, informatik z Černošic, jedna z nejtransparentnějších obcích. Řešili jsme reálie IT na obcích.
 
-- Pavel Staněk (ANO), diskuse o výboru pro egov: 
+- Pavel Staněk (ANO), diskuse o výboru pro egov:
 
 [Zápis v registru lobbistických kontaktů](https://forum.pirati.cz/vstupy-a-vystupy-f570/evidence-lobbistickych-kontaktu-t13315-890.html#p527121)
 
@@ -65,7 +66,7 @@ Další významné akce, kterých jsem se v listopadu zúčastnil mimo Sněmovnu
 
 [Facebook](https://www.facebook.com/ondrej.profant/posts/10210349508960780)
 
-- Na zastupitelstvu se řešil také městský okruh. Podrobnosti o projednávaném projektu naleznete v mém postu na Facebooku a v tiskové zprávě Pirátů: 
+- Na zastupitelstvu se řešil také městský okruh. Podrobnosti o projednávaném projektu naleznete v mém postu na Facebooku a v tiskové zprávě Pirátů:
 
 [Facebook](https://www.facebook.com/photo.php?fbid=10210351408728273&set=a.1201348920569.2028682.1433957499&type=3)
 
@@ -93,7 +94,7 @@ Další významné akce, kterých jsem se v listopadu zúčastnil mimo Sněmovnu
 ### Prosinec 2017
 
 **Radiová síť města:**
-- Již před časem jsem upozornil na nedostatečné zabezpečení rádiové sítě v Praze. Nyní se magistrát pokusil objednat upgrade sítě bez řádného výběrového řízení za zcela nesmyslné ceny. Díky našemu upozornění byl daný bod stažen z Rady: 
+- Již před časem jsem upozornil na nedostatečné zabezpečení rádiové sítě v Praze. Nyní se magistrát pokusil objednat upgrade sítě bez řádného výběrového řízení za zcela nesmyslné ceny. Díky našemu upozornění byl daný bod stažen z Rady:
 
 [Zakázka za 93 milionů na radiový systém: předražená a bez soutěže](https://praha.pirati.cz/jrbu-na-mrs.html)
 
@@ -119,6 +120,6 @@ Další významné akce, kterých jsem se v listopadu zúčastnil mimo Sněmovnu
 - Byl jsem dle dohody s ostatními kluby za Piráty nominován do čela komise pro správu poslanecké sněmovny. Po mém představení s vizí otevřenosti poslanci v tajné volbě raději zvolili komunistu Pavla Kovačíka (107 vs 49 hlasů). Beru to jako velmi zajímavé vyjádření politického názoru.
 
 **MPSV a OKsystem:**
-- S Lukášem Kolaříkem jsem pracoval na kauze OKsystému na MPSV: 
+- S Lukášem Kolaříkem jsem pracoval na kauze OKsystému na MPSV:
 
 [MPSV roky utrácí za nevyhovující software, upozorňuje Pirát Kolářík.](https://www.pirati.cz/tiskove-zpravy/software-je-nevyhodny.html)

@@ -7,6 +7,7 @@ comments:   true
 tags:       opendata, zdravotnictví, otevřená data, transparence
 img:        opendata-zdravotnictvi.png
 author:     Eliška Applová, Ondřej Profant
+redirect_from: "/opendata/2017/12/12/zpristupnena-data-ve-zdravotnictvi-by-zachranovala-zivoty.html"
 ---
 Otevřená data zůstávají pro většinu občanů značně abstraktním pojmem. Přesto můžou mít výrazný přínos v oblasti zefektivňování veřejné správy a zlepšování jejího servisu pro občany. Následující článek připravila má spolupracovnice, která se věnuje problematice otevřených dat ve zdravotnictví. A jak se v článku dále dočtete, otevřená data mohou přispět i k záchraně lidských životů.
 

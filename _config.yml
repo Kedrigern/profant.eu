@@ -29,6 +29,7 @@ facebook_username: ondrej.profant
 cover_image: /assets/img/design/cover.jpg
 img: /assets/img/ondrej-profant.jpg
 disqus: profant-eu
+permalink: /:year/:title:output_ext
 
 # Build settings
 markdown: kramdown
@@ -37,6 +38,7 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-paginate
+  - jekyll-redirect-from
 
 exclude:
   - Gemfile

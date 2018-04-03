@@ -2,11 +2,12 @@
 layout: 	post
 title:  	"Předpoklady úspěšné digitalizace státu"
 date:   	2017-11-22 18:00:00 +0100
-categories: pirati
+categories: Piráti
 comments: true
 tags: 		digitalizace, stát, data, systém
 img: 			laptop-relax.jpg
 author: 	Ondřej Profant
+redirect_from: "/pirati/2017/11/22/predpoklady-uspesne-digitalizace-statu.html"
 ---
 Každý by si přál moderní a digitalizovaný stát, přesto všechny dosavadní pokusy o digitalizaci byly velmi rozpačité či je dokonce možné je považovat vysloveně za ukázku špatného přístupu. V čem je tedy problém, když poptávka po digitalizaci existuje? Co vše je potřeba, aby se digitalizace povedla?
 <!--more-->

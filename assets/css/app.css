@@ -32,7 +32,7 @@ footer {
   background-color: #343434;
 }
 
-.top-bar li:hover, .top-bar li:focus  {
+.top-bar li:hover, .top-bar li:focus, .top-bar li.is-active  {
   background-color: #646464;
 }
 

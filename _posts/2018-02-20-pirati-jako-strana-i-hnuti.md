@@ -2,11 +2,12 @@
 layout:     post
 title:      "Piráti jako politická strana i kulturní hnutí"
 date:       2018-02-20 18:00:00 +0100
-categories: pirati
+categories: Piráti
 comments:   true
 tags:       Piráti, společnost, demokracie, kultura
 img:        pirati-pruvod-vlajky.jpg
 author:     Ondřej Profant
+redirect_from: "/pirati/2018/02/20/pirati-jako-strana-i-hnuti.html"
 ---
 
 Piráti se od ostatních politických stran značně liší. Nejen svým moderním pojetím politiky, kterým odmítáme tradiční dělení na pravici a levici. To i po více jak osmileté historii českých Pirátů novináře i politology mate. Vzhledem k výrazné odlišnosti Pirátů od jiných stran a hnutí se to však dá pochopit. Piráti totiž vskutku fungují jinak a příběh jejich vzniku je zcela odlišný od všech subjektů, které se na české politické scéně od devadesátých let objevovaly.
@@ -18,4 +19,3 @@ Piráty v Česku i zahraničí dal dohromady digitální aktivismus. Brzy však 
 Po letech poctivé a pečlivé politické práce a neustávající aktivity se českým Pirátům podařilo prokázat, že nejsme žádným sezónním politickým úkazem ani bandou recesistů. Že náš politický program dává smysl, že se snažíme pozitivně působit na své okolí i bez politických funkcí a mimo období volebních kampaní. A především že máme vizi, která nekončí v příštím volebním období. Piráti se od svého založení snaží dělat maximum pro udržení a kultivování občanské společnosti. S tím souvisejí i všechny naše informační a protestní kampaně o nevýhodných mezinárodních smlouvách a špatně připravených zákonech. Ale také veškeré volnočasové aktivity, které Piráti uspořádali nebo sponzorovali, ať již se jednalo o hudební produkce nebo veřejné besedy. Piráti jako jediné politické hnutí mají i svou vlastní kulturu, která je založena na neustálé výměně informací a poznatků a vyrostla na základě Internetu, který nezná hranic. Naše kultura je moderní a globální a díky své otevřenosti stále roste.
 
 Díky naší autenticitě a transparenci se nám podařilo získat důvěru a podporu voličů a od roku 2014, kdy jsme uspěli v komunálních volbách, jsme napřímo zapojeni do politického rozhodování. Díky našemu konzistentnímu fungování a absenci skandálů našich politických představitelů se nám v české politice daří působit jako pozitivní příklad. Během svého politického působení klademe důraz především na důkladnou práci s informacemi v jejich kontextu, při svém rozhodování se striktně držíme skutečnosti a ověřitelných dat. Minulost Pirátů jasně dokazuje, že jsme opravdovým občanským hnutím, které rostlo odspoda. Ne pouze marketingovým projektům kmotrů nebo oligarchů, kteří se snaží opít voliče rohlíkem nebo koblihou. Naše vize budoucnosti nelpí na konzervativních tradicích, nýbrž se dívá kupředu. Díky tomu jsou Piráti jako politické hnutí jedinou skutečně progresivní silou nejen v České republice, nýbrž i v celé Evropské unii a na celém světě.
-
