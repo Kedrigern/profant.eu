@@ -7,6 +7,7 @@ comments:   true
 tags:       digitalizace, vláda, programové prohlášení, e-government
 img:        logo-urad-vlady.png
 author:     Ondřej Profant
+redirect_from: "/digitalizace/2018/01/07/digitalni-cesko-o-kterem-sni-andrej-babis.html"
 ---
 
 V návrhu programového prohlášení vlády Andreje Babiše je kapitola, kterou vládní experti z velké části převzali z pirátského programu. Se samotným kopírováním a sdílením myšlenek nemám nejmenší problém. Silně ale pochybuji o tom, že vláda Andreje Babiše dostojí svým slibům. Z praxe na zastupitelstvu hlavního města Prahy totiž vím, že hnutí ANO velice ochotně něco slíbí, ale realizaci patřičných opatření je vždy na hony vzdálena od původních dohod.
@@ -46,5 +47,3 @@ Proto bych celému hnutí ANO chtěl v reakci na programové prohlášení vlád
 - [Návrh programového prohlášení vlády: Digitální Česko](https://www.vlada.cz/cz/jednani-vlady/navrh-programoveho-prohlaseni-vlady-162319/#Digitalni_Cesko)
 - [Piráti odmítají nový návrh na zavedení cenzury Internetu z dílny Andreje Babiše](https://wiki.pirati.cz/tiskove-zpravy/pirati_odmitaji_novy_navrh_na_zavedeni_cenzury_internetu_z_dilny_andreje_babise)
 - [Piráti hlásí výsledky rozhodnutí Ústavního soudu ve věci cenzury Internetu.](https://wiki.pirati.cz/tiskove-zpravy/pirati_hlasi_vysledky_rozhodnuti_ustavniho_soudu_ve_veci_cenzury_internetu._boj_proti_plosnemu_smirovani_obcanu_vojenskou_rozvedkou_pokracuje)
-
-
