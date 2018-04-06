@@ -561,6 +561,29 @@ Vaše osobní údaje budeme zpracovávat v našich interních počítačových s
 
 **Obec XY, kontaktní údaje: Obecní úřad XY, adresa, PSČ, vyřizuje: pan/í YZ, odbor     tel.:       , e-mail.:      , kontakt na pověřence obce pro ochranu osobních údajů:**
 
+## Příklady často dotazovaných agend
+
+### Zveřejňování záznamů ze zasedání obecního zastupitelstva
+
+Nedochází k žádné změně. Zveřejňování záznamů je v současnosti považováno za přijatelné s výjimkou případů, kdy jsou na zastupitelstvu projednávány body, jako je např. odpuštění dluhu, což může být spojeno s prezentací zvláštních skupin údajů (např. údaje o zdravotním stavu) či citlivých informací týkajících se sociálních poměrů konkrétních osob. Takové informace by měly být anonymizovány. Rovněž je vhodné odstranit doplňující osobní údaje, které nejsou podstatné pro pochopení projednávané věci (např. telefonní čísla, rodná čísla apod.).
+
+### Pověřenec pro ochranu osobních údajů jako kontaktní osoba pro subjekt údajů
+
+Subjekt údajů se může obracet dle Nařízení na pověřence a uplatnit práva vyplývající z Nařízení, zejména přístup k osobním údajům. Pověřenec ovšem nemusí být tím, kdo žádost vyřizuje. Pověřenec by zde měl fungovat zejména jako zprostředkovatel, který osloví příslušné osoby, které zpracovávají dané osobní údaje, následně buď informaci předá zpět žadateli, případně je předána ze strany úřadu jiným způsobem. Není naopak vhodné, aby měl Pověřenec přístup do informačních systémů, protože zřejmě dle doprovodné legislativy nebude vázán mlčenlivostí a nedají se vyloučit ani incidenty (např. pozměnění či smazání údajů apod.).
+
+### Vítání občánků
+
+Žádné změny. Obec může zpracovávat údaje za uvedenými účely. Lze doporučit postup, kdy matka ve chvíli, kdy přijde na matriku, má možnost vyjádřit svůj souhlas s pozváním na vítání občánků, případně uveřejnit výzvu k zaslání souhlasu v radničním periodiku. 
+
+### Zveřejňování fotografií volených zástupců a zaměstnanců úřadu
+
+Zejména u zaměstnanců může být problematické stavění zveřejňování fotografií na souhlasu, což ostatně platí obecně u zaměstnanců. Obecně je třeba zkoumat přiměřenost. U volených zástupců, tajemníka a zřejmě i vedoucích odborů (byť zde se názory různí), lze zveřejnění fotografie považovat za přiměřený nástroj k výkonu agendy úřadu. Naopak u řadových referentů, zejména pokud nepřicházejí do pravidelného styku s občany, by takové zveřejnění fotografie bylo problematické.
+
+### Zveřejnění dokumentů na úředních deskách
+
+Je třeba se řídit zákony, které ukládají povinnost zveřejňovat, ať už dokumenty vydané jinými orgány (např. exekutorskými úřady) nebo dokumenty vydané orgány obce. Pokud jde o dobu zveřejnění, je třeba se řídit zákonem, který obvykle ukládá dobu, po níž mají být dokumenty zveřejněny. V případech, kde to zákon neukládá, tak by se měla obec zveřejnění vyhnout – například zveřejňování dokumentů z archivu elektronické úřední desky.
+
+
 ---
 
 Tento materiál vznikl za spolupráce spolků Iuridicum Remedium a Otevřená města s podporou kanceláře poslance Ondřeje Profanta. Licence: CC BY-SA 4.0.
