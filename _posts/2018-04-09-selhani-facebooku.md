@@ -27,7 +27,7 @@ Samozřejmě příchod GDPR nemá jen samá pozitiva. Kupříkladu nedostatek me
 
 **Odkazy**
 
-[Programový bod Soukromí](https://www.pirati.cz/program/dlouhodoby/soukromi/)
-[Pirátské listy: Skrýt před reklamními giganty těhotenství znamená vypadat jako zločinec](https://www.piratskelisty.cz/clanek-1317-skryt-pred-reklamnimi-giganty-tehotenstvi-znamena-vypadat-jako-zlocinec)
-[Novinky: Facebook sbíral od uživatelů informace o telefonních hovorech a SMS zprávách](https://www.novinky.cz/internet-a-pc/468433-facebook-sbiral-od-uzivatelu-informace-o-telefonnich-hovorech-a-sms-zpravach.html)
-[Seminář GDPR mýtů zbavené](https://www.profant.eu/2018/seminar-gdpr.html)
+- [Programový bod Soukromí](https://www.pirati.cz/program/dlouhodoby/soukromi/)
+- [Pirátské listy: Skrýt před reklamními giganty těhotenství znamená vypadat jako zločinec](https://www.piratskelisty.cz/clanek-1317-skryt-pred-reklamnimi-giganty-tehotenstvi-znamena-vypadat-jako-zlocinec)
+- [Novinky: Facebook sbíral od uživatelů informace o telefonních hovorech a SMS zprávách](https://www.novinky.cz/internet-a-pc/468433-facebook-sbiral-od-uzivatelu-informace-o-telefonnich-hovorech-a-sms-zpravach.html)
+- [Seminář GDPR mýtů zbavené](https://www.profant.eu/2018/seminar-gdpr.html)
