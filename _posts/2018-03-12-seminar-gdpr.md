@@ -25,8 +25,7 @@ Pro účely semináře vznikla i analýza dopadů GDPR na organizace územní sa
 **Materiály**
 
 - [Analýza s manuálem pro obce](https://github.com/Kedrigern/Kedrigern.github.io/blob/master/assets/pdf/GDPR-analyza.pdf), [editovatelná verze analýzy (markdown)](https://github.com/Kedrigern/Kedrigern.github.io/blob/master/assets/md/gdpr-analyza.md)
-
-[Záznam](https://www.youtube.com/watch?v=c3zQYGBdots)
+- [Záznam](https://www.youtube.com/watch?v=c3zQYGBdots)
 
 **Prezentace**
 
