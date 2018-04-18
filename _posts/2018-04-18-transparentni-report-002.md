@@ -39,7 +39,7 @@ V rámci PKS jsem se podílel na vyjednávání o komunálních a senátních vo
 
 **Schůzky**
 
-Absolvoval jsem řadu pracovních schůzek, z nichž ta nejdůležitější se týkala eHealth na Slovensku (zápis). Dále jsem řešil pražskou politiku na úrovni celého města i jednotlivých městských částí v souvislosti s komunálními volbami.
+Absolvoval jsem řadu pracovních schůzek, z nichž ta nejdůležitější se týkala eHealth na Slovensku ([zápis v evidenci](https://forum.pirati.cz/vstupy-a-vystupy-f570/evidence-lobbistickych-kontaktu-t13315-1060.html#p536352)). Dále jsem řešil pražskou politiku na úrovni celého města i jednotlivých městských částí v souvislosti s komunálními volbami.
 
 **Významné události ve Sněmovně**
 
@@ -132,3 +132,5 @@ Začal jsem řešit také NEN. To je centrální systém pro zadávání veřejn
 **Provoz**
 
 Dále jsem se věnoval organizaci práce v technickém odboru a předsednictvu krajského sdružení (výběrová řízení, koordinace, vyjednávání, podpora místních sdružení).
+
+24. - 25. 3. jsem se také zúčastnil společného jednání poslaneckého klubu a republikového výboru Pirátů.
