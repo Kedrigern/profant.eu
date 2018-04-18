@@ -133,4 +133,4 @@ Začal jsem řešit také NEN. To je centrální systém pro zadávání veřejn
 
 Dále jsem se věnoval organizaci práce v technickém odboru a předsednictvu krajského sdružení (výběrová řízení, koordinace, vyjednávání, podpora místních sdružení).
 
-24. - 25. 3. jsem se také zúčastnil společného jednání poslaneckého klubu a republikového výboru Pirátů.
+Ve dnech 24. - 25. 3. jsem se také zúčastnil společného jednání poslaneckého klubu a republikového výboru Pirátů.
