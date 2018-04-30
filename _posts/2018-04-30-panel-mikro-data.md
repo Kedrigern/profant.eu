@@ -9,7 +9,7 @@ img:        seminar-mikro-data.jpg
 author:     Ondřej Profant
 ---
 
-Dne 27. 4. 2018 jsem se zúčastnil [semináře](https://www.facebook.com/events/426035127836504/) pořádaného think-tankem IDEA (Institut pro demokracii a ekonomickou analýzu) ve spolupráci s Akademií věd. Tématem semináře byly možnosti využití mikro dat pro posílení politiky založené na skutečných a co nejvíce přesných informacích, tzv. evidence based policy, občas též fact based policy.
+Dne 27. 4. 2018 jsem se zúčastnil [semináře](https://www.facebook.com/events/426035127836504/) pořádaného think-tankem IDEA (Institut pro demokracii a ekonomickou analýzu) ve spolupráci s Akademií věd. Tématem semináře byly možnosti využití mikro dat pro posílení politiky založené na skutečných a co nejvíce přesných informacích, tzv. [evidence based policy](https://en.wikipedia.org/wiki/Evidence-based_policy), občas též fact based policy.
 
 <!--more-->
 
