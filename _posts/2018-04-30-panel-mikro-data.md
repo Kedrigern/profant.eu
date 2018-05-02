@@ -29,6 +29,6 @@ Na základě těchto negativních zkušeností jsem proto ve svém vystoupení n
 
 1. Naučit se s daty pracovat, ale zároveň dodržet nezbytnou míru ochrany soukromí
 2. Podporovat funkční a smysluplnou výměnu dat mezi veřejnými institucemi
-3. Pracovat s realtime daty, nikoliv výročními zprávami
+3. Pracovat s průběžnými daty, nikoliv výročními zprávami
 
 Legislativa by ve vztahu k využívání dostatečně zabezpečených a anonymizovaných dat mohla být příznivější. Nicméně hlavní současnou překážkou je spíše konzervativní mentalita a strach úředníků. Tomu je třeba se postavit nezbytnou osvětou. Politika založená na faktech totiž chrání jednotlivé instituce i celou Českou republiku před zbrklými rozhodnutími. V neposlední řadě pak tento způsob rozhodování také může výrazně zlepšit politickou kulturu v zemi.
