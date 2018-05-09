@@ -17,7 +17,7 @@ Udrželi jsme si i své liberální postoje. V programových prioritách ani v p
 
 Piráti ale baštu racionální a liberální politiky se ctí hájí. V hlasování ve Sněmovně jsme jednou z nejjednotnějších stran. A to i přes skutečnost, že na spoustu věci nemáme silný názor. Jak tomu je ostatně i ve společnosti. Kdykoliv ale přišlo na podstatná hlasování, pirátští poslanci se svědomitě na projednávání připravili a hlasování se zúčastnili. Svou roli konstruktivní opozice tedy bereme skutečně vážně.
 
-![alt text]({{ '/assets/img/hlasovaci-koalice.jpg' | relative_url }} "Hlasovací koalice")
+![alt text]({{ '/assets/img/posts/hlasovaci-koalice.jpg' | relative_url }} "Hlasovací koalice")
 
 *Kdo jak hlasuje, více informací v článku* [iRozhlas: Hlasovací koalice ve sněmovně? ANO se nejvíc shodne s komunisty, méně už s ČSSD a SPD](https://www.irozhlas.cz/zpravy-domov/hlasovani-poslanci-koalice-vlada-snemovna-ano-cssd-kscm-spd_1804130605_pek)
 
