@@ -13,7 +13,7 @@ Od historického úspěchu českých Pirátů v říjnových volbách 2017 uplyn
 
 <!--more-->
 
-Udrželi jsme si i své liberální postoje. V programových prioritách ani v provozním fungování strany nedošlo k žádnému odklonu od původních pirátkýsch principů. Nestalo se nám tedy něco, co často potkává nové strany ve Sněmovně. Vzdálení se voličům i členské základně. To dříve potkalo například Unii svobody, Stranu zelených nebo Věci veřejné.
+Udrželi jsme si i své liberální postoje. V programových prioritách ani v provozním fungování strany nedošlo k žádnému odklonu od původních pirátských principů. Nestalo se nám tedy něco, co často potkává nové strany ve Sněmovně. Vzdálení se voličům i členské základně. To dříve potkalo například Unii svobody, Stranu zelených nebo Věci veřejné.
 
 Piráti ale baštu racionální a liberální politiky se ctí hájí. V hlasování ve Sněmovně jsme jednou z nejjednotnějších stran. A to i přes skutečnost, že na spoustu věci nemáme silný názor. Jak tomu je ostatně i ve společnosti. Kdykoliv ale přišlo na podstatná hlasování, pirátští poslanci se svědomitě na projednávání připravili a hlasování se zúčastnili. Svou roli konstruktivní opozice tedy bereme skutečně vážně.
 
