@@ -1,8 +1,12 @@
 ---
 layout: default
-title:  "main"
+title:  "Veřejné zakázky"
 permalink: "verejne-zakazky/"
 ---
+
+# Veřejné zakázky
+
+Příklady zajímavých veřejných zakázek v kterých figuruje opensource či plné předání majetkových práv.
 
 <table>
   <thead>
