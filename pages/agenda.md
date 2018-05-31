@@ -5,29 +5,14 @@ date:   2017-11-22 08:00:00 +0100
 permalink: "agenda/"
 ---
 
-## Přehled
+## Sněmovna
 
-### Sněmovna
-
-Přehledy poskytnuté webem sněmovny
-
-- [Zpravodajované tisky](http://www.psp.cz/sqw/tisky.sqw?sn=6526)
 - [Předkládané pozměňovací návrhy](http://www.psp.cz/sqw/ppn.sqw?id=6526)
 - [Vedení výboru pro e-Government](http://www.psp.cz/sqw/hp.sqw?k=4427)
 - [Interpelace](http://www.psp.cz/sqw/interp.sqw?ic=6526)
 - [Proslovy na plénu sněmovny](http://www.psp.cz/eknih/2017ps/rejstrik/jmenny/6526.html)
 
-### Pirátská politika
-
-Úkoly jsou zaneseny v systému redmine:
-
-- [Všechny úkoly](https://redmine.pirati.cz/projects/snemovna/issues?utf8=%E2%9C%93&set_filter=1&f%5B%5D=status_id&op%5Bstatus_id%5D=o&f%5B%5D=assigned_to_id&op%5Bassigned_to_id%5D=%3D&v%5Bassigned_to_id%5D%5B%5D=3&f%5B%5D=&c%5B%5D=subject&c%5B%5D=assigned_to&c%5B%5D=status&c%5B%5D=done_ratio&group_by=fixed_version&t%5B%5D=)
-- [-- 1. rok ve sněmovně](https://redmine.pirati.cz/projects/snemovna/issues?utf8=%E2%9C%93&set_filter=1&f%5B%5D=status_id&op%5Bstatus_id%5D=o&f%5B%5D=assigned_to_id&op%5Bassigned_to_id%5D=%3D&v%5Bassigned_to_id%5D%5B%5D=3&f%5B%5D=fixed_version_id&op%5Bfixed_version_id%5D=%3D&v%5Bfixed_version_id%5D%5B%5D=28&f%5B%5D=&c%5B%5D=subject&c%5B%5D=assigned_to&c%5B%5D=status&c%5B%5D=done_ratio&group_by=fixed_version&t%5B%5D=)
-- [-- Priority volebního programu](https://redmine.pirati.cz/projects/snemovna/issues?utf8=%E2%9C%93&set_filter=1&f%5B%5D=status_id&op%5Bstatus_id%5D=o&f%5B%5D=assigned_to_id&op%5Bassigned_to_id%5D=%3D&v%5Bassigned_to_id%5D%5B%5D=3&f%5B%5D=fixed_version_id&op%5Bfixed_version_id%5D=%3D&v%5Bfixed_version_id%5D%5B%5D=27&f%5B%5D=&c%5B%5D=subject&c%5B%5D=assigned_to&c%5B%5D=status&c%5B%5D=done_ratio&group_by=fixed_version&t%5B%5D=)
-
-## Podrobněji
-
-### Zpravodajování
+### Zpravodajováné sněmovní tisky
 
 <table>
     <thead>
@@ -39,6 +24,11 @@ Přehledy poskytnuté webem sněmovny
             <th>Poznámka</th>
         </tr>
     </thead>
+    <tfoot>
+        <tr>
+            <td colspan="5"><a href="http://www.psp.cz/sqw/tisky.sqw?sn=6526">Zpravodajované tisky na webu sněmovny</a></td>
+        </tr>
+    </tfoot>
     <tbody>
         <tr>
             <td>Evidence obyvatel</td>
@@ -67,6 +57,43 @@ Přehledy poskytnuté webem sněmovny
             <td>1.</td>
             <td><a href="https://forum.pirati.cz/viewtopic.php?t=41765">link</a></td>
             <td></td>
+        </tr>
+    </tbody>
+
+</table>
+
+## Pirátské cíle 
+
+V [redmine](https://redmine.pirati.cz/projects/snemovna/issues?utf8=%E2%9C%93&set_filter=1&f%5B%5D=status_id&op%5Bstatus_id%5D=o&f%5B%5D=assigned_to_id&op%5Bassigned_to_id%5D=%3D&v%5Bassigned_to_id%5D%5B%5D=3&f%5B%5D=&c%5B%5D=subject&c%5B%5D=assigned_to&c%5B%5D=status&c%5B%5D=done_ratio&group_by=fixed_version&t%5B%5D=).
+
+<table>
+    <tbody>
+        <tr>
+            <th>První rok ve sněmovně (<a href="https://redmine.pirati.cz/projects/snemovna/issues?utf8=%E2%9C%93&set_filter=1&f%5B%5D=status_id&op%5Bstatus_id%5D=o&f%5B%5D=assigned_to_id&op%5Bassigned_to_id%5D=%3D&v%5Bassigned_to_id%5D%5B%5D=3&f%5B%5D=fixed_version_id&op%5Bfixed_version_id%5D=%3D&v%5Bfixed_version_id%5D%5B%5D=28&f%5B%5D=&c%5B%5D=subject&c%5B%5D=assigned_to&c%5B%5D=status&c%5B%5D=done_ratio&group_by=fixed_version&t%5B%5D=">rm</a>)</th>
+        </tr>
+        <tr>
+            <td><a href="https://redmine.pirati.cz/issues/9066">Otevřená města jako best practise</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://redmine.pirati.cz/issues/9065">Kontrola vlády v oblasti eGov</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://redmine.pirati.cz/issues/9064">Otevřená data (opendata)</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://redmine.pirati.cz/issues/9063">Nový portál občana</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://redmine.pirati.cz/issues/9062">GDPR mýtu zbavené</a></td>
+        </tr>
+        <tr>
+            <th>Z 20 priorit pirátského programu (<a href="https://redmine.pirati.cz/projects/snemovna/issues?utf8=%E2%9C%93&set_filter=1&f%5B%5D=status_id&op%5Bstatus_id%5D=o&f%5B%5D=assigned_to_id&op%5Bassigned_to_id%5D=%3D&v%5Bassigned_to_id%5D%5B%5D=3&f%5B%5D=fixed_version_id&op%5Bfixed_version_id%5D=%3D&v%5Bfixed_version_id%5D%5B%5D=27&f%5B%5D=&c%5B%5D=subject&c%5B%5D=assigned_to&c%5B%5D=status&c%5B%5D=done_ratio&group_by=fixed_version&t%5B%5D=">rm</a>)</th>
+        </tr>
+        <tr>
+            <td><a href="https://redmine.pirati.cz/issues/8098">12. Na úřad z domova - možnost vyřídit si 90 % papírování přes internet bez obíhání úřadů</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://redmine.pirati.cz/issues/8099">13. Podpora malých podnikatelů - založení firmy za 1 den</a></td>
         </tr>
     </tbody>
 </table>
