@@ -1,9 +1,10 @@
 ---
-layout: page
-title:  "Agenda"
-date:   2017-11-22 08:00:00 +0100
+layout: default
+title:  "Aktuální agenda"
 permalink: "agenda/"
 ---
+
+Přehled aktuální agendy poslance Ondřeje Profanta
 
 ## Sněmovna
 
@@ -62,7 +63,7 @@ permalink: "agenda/"
 
 </table>
 
-## Pirátské cíle 
+## Pirátské cíle
 
 V [redmine](https://redmine.pirati.cz/projects/snemovna/issues?utf8=%E2%9C%93&set_filter=1&f%5B%5D=status_id&op%5Bstatus_id%5D=o&f%5B%5D=assigned_to_id&op%5Bassigned_to_id%5D=%3D&v%5Bassigned_to_id%5D%5B%5D=3&f%5B%5D=&c%5B%5D=subject&c%5B%5D=assigned_to&c%5B%5D=status&c%5B%5D=done_ratio&group_by=fixed_version&t%5B%5D=).
 
@@ -97,4 +98,3 @@ V [redmine](https://redmine.pirati.cz/projects/snemovna/issues?utf8=%E2%9C%93&se
         </tr>
     </tbody>
 </table>
-
