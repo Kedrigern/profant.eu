@@ -1,8 +1,10 @@
 ---
-layout: default
+layout: wide
 title:  "Aktuální agenda"
 permalink: "agenda/"
 ---
+
+# Aktuální agenda
 
 Přehled aktuální agendy poslance Ondřeje Profanta
 
