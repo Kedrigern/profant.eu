@@ -4,13 +4,13 @@
 	<meta charset="utf-8" />
 
 	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-	<title>{{site.title}}</title>
+	<title>{% if page.title %}Profant: {{page.title}}{% else %}{{site.title}}{% endif%}</title>
 	<meta name="robots" content="index,follow" />
 	<meta name="description" content="{{site.description}}">
 	<meta name="keywords" content="{{site.keywords}}" />
-	<meta property="og:title"         content="{{site.title}}" />
+	<meta property="og:title"         content="{% if page.title %}Profant: {{page.title}}{% else %}{{site.title}}{% endif%}" />
 	<meta property="og:description"   content="{% if page.description %}{{page.description}}{% elsif page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 330 }}{%else%}{{site.description}}{% endif %}" />
-	<meta property="og:image"         content="{{ site.url }}{{ site.baseurl }}/{{site.img}}" />
+	<meta property="og:image"         content="{% if site.img %}{{site.img | absolute_url}}{% else%}{{ site.cover_image | baseurl}}{% endif %}" />
 	<meta property="og:type"          content="website" />
 	<meta property="og:url"           content="{{page.url | absolute_url }}" />
 {% include link.html %}
