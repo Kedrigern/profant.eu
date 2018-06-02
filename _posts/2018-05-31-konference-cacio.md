@@ -9,7 +9,7 @@ img:        konference-cacio.jpg
 author:     Ondřej Profant
 ---
 
-Konference České asociace manažerů informačních technologií (CACIO) [konaná dne 15. 5. 2018](http://www.cacio.cz/akce/2018/kdy-a-proc-zvolit-reseni-open-source-2018) byla zaměřená na využívání open source řešení ve veřejné správě. Měl jsem to štěstí se této konference zúčastnit a dozvěděl jsem se hned o dvou pozitivních příkladech nasazení open source ve veřejné správě. Rád bych se o ně prostřednictvím tohoto článku podělil. 
+Konference České asociace manažerů informačních technologií (CACIO) [konaná dne 15. 5. 2018](http://www.cacio.cz/akce/2018/kdy-a-proc-zvolit-reseni-open-source-2018) byla zaměřená na využívání open source řešení ve veřejné správě. Měl jsem to štěstí se této konference zúčastnit a dozvěděl jsem se hned o dvou pozitivních příkladech nasazení open source ve veřejné správě. Rád bych se o ně prostřednictvím tohoto článku podělil.
 
 <!--more-->
 
@@ -27,10 +27,21 @@ Když tedy NTK vyhlašovala výběrové řízení na nový systém, vložila si 
 
 ## MČ Praha 10
 
-[Prezentace ke stažení](https://github.com/Kedrigern/Kedrigern.github.io/raw/master/assets/pdf/180515-p10-cacio234.pdf)
+[Prezentace ke stažení](http://www.cacio.cz/Frontend/Webroot/uploads/files/2018/05/180515-p10-cacio234.pdf)
 
 Druhým zmiňovaným příkladem je situace na Úřadu městské části Praha 10, kde rovněž významným způsobem měnili svou infrastrukturu. Z původního stavu, kdy využívali specializovaný hardware a nesourodý mix uzavřeného a otevřeného software, se dokázali přeorientovat na hardwarové vybavení tvořené ze standardních komponent a plně otevřená řešení, například i nástroje pro virtualizační infrastrukturu.
 
 Nejlépe se dá úspěch Prahy 10 při přechodu na open source ukázat na realizaci zadání na diskové úložiště. Oproti původnímu korporátnímu řešení za téměř pět milionů dokázala Praha 10 v novém zadání srazit cenu skoro na tři miliony, zároveň došlo k výraznému nárůstu kapacity úložiště. Opět se tedy ukázalo, že otevřená řešení jsou výhodná, úsporná i užitečná.
+
+|            | Původně        | Nově           |
+|------------| :------------- | :------------- |
+| Cena v Kč  | **4.900.000**  | **3.042.000**  |
+|Vendor      | IBM Pole       |  Standardní komponenty vysoutěženo dle zákona o VZ      |
+|Technologie | FiberChannel, SAS, HW RAID | IP (iSCSI) |
+|Kapacita    | **30TB**       |  2x pole 9,6TB SSD + **180TB HDD**, 1x pole 288TB HDD |
+
+Srovnání 2: podrobnosti v prezentaci
+
+## Závěr
 
 Já osobně jsem za tyto dva příspěvky z konference velmi vděčný, protože pomáhají nabořit mýtus, že open source je pro širší využití ve státní správě a samosprávách nepoužitelný.
