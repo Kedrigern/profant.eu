@@ -2,8 +2,8 @@
 layout: default
 ---
 
-<div class="row" id="content" style="padding-top: 1rem">
-  <div class="large-8 columns text-justify">
+<div class="row" style="padding-top: 1rem">
+  <div class="large-8 columns">
     <h1 style="padding-top: 5px;">{{ page.title }}</h1>
     <p>
       <small>{{page.date | date:"%d. %m. %Y"}} {{page.author}}</small>
@@ -11,7 +11,7 @@ layout: default
     {% if page.img %}
     <img class="thumbnail" src="{{page.img | prepend: 'assets/img/posts/' | relative_url}}">
     <br /> {% endif %}
-    <div id="main-article" style="margin-top: 30px; margin-bottom: 60px;">
+    <div id="content" style="margin-top: 30px; margin-bottom: 60px;" class="text-justify">
     {{ content }}
     </div>
     {% if page.comments %}<hr> {% include disqus.html %} {% endif %}
