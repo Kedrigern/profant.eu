@@ -15,7 +15,9 @@ Přehled aktuální agendy poslance Ondřeje Profanta
 - [Interpelace](http://www.psp.cz/sqw/interp.sqw?ic=6526)
 - [Proslovy na plénu sněmovny](http://www.psp.cz/eknih/2017ps/rejstrik/jmenny/6526.html)
 
-### Zpravodajováné sněmovní tisky
+### Zpravodajováné sněmovní tisky (<a href="http://www.psp.cz/sqw/tisky.sqw?sn=6526">web psp</a>)
+
+Sněmovní materiály (tisky), které zpravodajuji. Ať už jen pro náš klub, výbor pro veřejnou správu (VVSRR) nebo pro celé plénum sněmovny.
 
 <table>
     <thead>
@@ -24,20 +26,17 @@ Přehled aktuální agendy poslance Ondřeje Profanta
             <th>Č. tisku</th>
             <th>Další čtení</th>
             <th>Forum</th>
+            <th>Zpravodajování</th>
             <th>Poznámka</th>
         </tr>
     </thead>
-    <tfoot>
-        <tr>
-            <td colspan="5"><a href="http://www.psp.cz/sqw/tisky.sqw?sn=6526">Zpravodajované tisky na webu sněmovny</a></td>
-        </tr>
-    </tfoot>
     <tbody>
         <tr>
             <td>Evidence obyvatel</td>
             <td><a href="http://www.psp.cz/sqw/historie.sqw?o=8&T=19">19</a></td>
             <td>2.</td>
             <td>-</td>
+            <td><b>psp</b>/td>
             <td><a href="https://www.pirati.cz/tiskove-zpravy/pirati-odmitli-omezeni-pristupu-k-informacim.html">TZ 1</a></td>
         </tr>
         <tr>
@@ -45,13 +44,31 @@ Přehled aktuální agendy poslance Ondřeje Profanta
             <td><a href="http://www.psp.cz/sqw/historie.sqw?o=8&T=50">50</a></td>
             <td>2.</td>
             <td>-</td>
+            <td>výbor</td>
             <td>Pirátská novela, která rozšiřuje povinné subjekty v registru smluv a přidává infopříkaz. <a href="https://www.pirati.cz/tiskove-zpravy/vybor-doporucil-zverejnovani-smluv.html">TZ 1</a></td>
+        </tr>
+        <tr>
+          <td>GDPR</td>
+          <td><a href="http://www.psp.cz/sqw/historie.sqw?o=8&T=138">138</a></td>
+          <td>výbory</td>
+          <td>-</td>
+          <td>klub</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>GDPR - doprovodné</td>
+          <td><a href="http://www.psp.cz/sqw/historie.sqw?o=8&T=130">139</a></td>
+          <td>výbory</td>
+          <td>-</td>
+          <td>klub</td>
+          <td></td>
         </tr>
         <tr>
             <td>Přístupnost web. stránek a mob. aplikací</td>
             <td><a href="http://www.psp.cz/sqw/historie.sqw?o=8&T=170">170</a></td>
             <td>výbor a 2.</td>
             <td><a href="https://forum.pirati.cz/viewtopic.php?f=566&t=41711">link</a></td>
+            <td><b>psp</b></td>
             <td></td>
         </tr>
         <tr>
@@ -59,15 +76,14 @@ Přehled aktuální agendy poslance Ondřeje Profanta
             <td><a href="http://www.psp.cz/sqw/historie.sqw?o=8&T=177">177</a></td>
             <td>1.</td>
             <td><a href="https://forum.pirati.cz/viewtopic.php?t=41765">link</a></td>
+            <td>klub</td>
             <td></td>
         </tr>
     </tbody>
-
 </table>
 
-## Pirátské cíle
+## Pirátské cíle ( [redmine](https://redmine.pirati.cz/projects/snemovna/issues?utf8=%E2%9C%93&set_filter=1&f%5B%5D=status_id&op%5Bstatus_id%5D=o&f%5B%5D=assigned_to_id&op%5Bassigned_to_id%5D=%3D&v%5Bassigned_to_id%5D%5B%5D=3&f%5B%5D=&c%5B%5D=subject&c%5B%5D=assigned_to&c%5B%5D=status&c%5B%5D=done_ratio&group_by=fixed_version&t%5B%5D=))
 
-V [redmine](https://redmine.pirati.cz/projects/snemovna/issues?utf8=%E2%9C%93&set_filter=1&f%5B%5D=status_id&op%5Bstatus_id%5D=o&f%5B%5D=assigned_to_id&op%5Bassigned_to_id%5D=%3D&v%5Bassigned_to_id%5D%5B%5D=3&f%5B%5D=&c%5B%5D=subject&c%5B%5D=assigned_to&c%5B%5D=status&c%5B%5D=done_ratio&group_by=fixed_version&t%5B%5D=).
 
 <table>
     <tbody>
