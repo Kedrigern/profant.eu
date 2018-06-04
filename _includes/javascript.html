@@ -8,18 +8,19 @@
   $(function() {
     $("#redmine-table > tbody > tr.redmine").each(function(val) {
       var id = $(this).attr('id');
-      var el = $(this).find('td.percent');
+      var el_name = $(this).find('td.name');
+      var el_percent = $(this).find('td.percent');
       var url = "https://redmine.pirati.cz/issues/" + id + ".json";
       var percent = $.get(url, function(data) {})
       .done(function(data) {
         var cur_percent = data.issue.done_ratio;
-        el.text(cur_percent);
+        var cur_description = data.issue.description;
+        el_name.attr('title', cur_description);
+        el_percent.text(cur_percent);
       })
       .fail(function() {
-        console.error( "error: connect to redmine" );
+        console.error("Error: connect to redmine");
       });
-      var text = "ahoj";
-
     });
   });
 
