@@ -97,23 +97,23 @@ Sněmovní materiály (tisky), které zpravodajuji. Ať už jen pro náš klub, 
 
         </tr>
         <tr class="redmine" id="9066">
-            <td><a href="https://redmine.pirati.cz/issues/9066">Otevřená města jako best practise</a></td>
+            <td class="name"><a href="https://redmine.pirati.cz/issues/9066">Otevřená města jako best practise</a></td>
             <td class="percent"></td>
         </tr>    
         <tr class="redmine" id="9065">
-            <td><a href="https://redmine.pirati.cz/issues/9065">Kontrola vlády v oblasti eGov</a></td>
+            <td class="name"><a href="https://redmine.pirati.cz/issues/9065">Kontrola vlády v oblasti eGov</a></td>
             <td class="percent"></td>
         </tr>
         <tr class="redmine" id="9064">
-            <td><a href="https://redmine.pirati.cz/issues/9064">Otevřená data (opendata)</a></td>
+            <td class="name"><a href="https://redmine.pirati.cz/issues/9064">Otevřená data (opendata)</a></td>
             <td class="percent"></td>
         </tr>
         <tr class="redmine" id="9063">
-            <td><a href="https://redmine.pirati.cz/issues/9063">Nový portál občana</a></td>
+            <td class="name"><a href="https://redmine.pirati.cz/issues/9063">Nový portál občana</a></td>
             <td class="percent"></td>
         </tr>
         <tr class="redmine" id="9062">
-            <td><a href="https://redmine.pirati.cz/issues/9062">GDPR mýtu zbavené</a></td>
+            <td class="name"><a href="https://redmine.pirati.cz/issues/9062">GDPR mýtu zbavené</a></td>
             <td class="percent"></td>
         </tr>
         <tr>
@@ -122,11 +122,11 @@ Sněmovní materiály (tisky), které zpravodajuji. Ať už jen pro náš klub, 
             </th>
         </tr>
         <tr class="redmine" id="8098">
-            <td><a href="https://redmine.pirati.cz/issues/8098">12. Na úřad z domova - možnost vyřídit si 90 % papírování přes internet bez obíhání úřadů</a></td>
+            <td class="name"><a href="https://redmine.pirati.cz/issues/8098">12. Na úřad z domova - možnost vyřídit si 90 % papírování přes internet bez obíhání úřadů</a></td>
             <td class="percent"></td>
         </tr>
         <tr class="redmine" id="8099">
-            <td><a href="https://redmine.pirati.cz/issues/8099">13. Podpora malých podnikatelů - založení firmy za 1 den</a></td>
+            <td class="name"><a href="https://redmine.pirati.cz/issues/8099">13. Podpora malých podnikatelů - založení firmy za 1 den</a></td>
             <td class="percent"></td>
         </tr>
     </tbody>
