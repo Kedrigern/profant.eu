@@ -57,7 +57,7 @@ Sněmovní materiály (tisky), které zpravodajuji. Ať už jen pro náš klub, 
         </tr>
         <tr>
           <td>GDPR - doprovodné</td>
-          <td><a href="http://www.psp.cz/sqw/historie.sqw?o=8&T=130">139</a></td>
+          <td><a href="http://www.psp.cz/sqw/historie.sqw?o=8&T=139">139</a></td>
           <td>výbory</td>
           <td>-</td>
           <td>klub</td>
@@ -83,7 +83,7 @@ Sněmovní materiály (tisky), které zpravodajuji. Ať už jen pro náš klub, 
 </table>
 
 
-## Pirátské cíle ( [redmine][rm-cile])
+## Pirátské cíle ([redmine][rm-cile])
 
 
 <table>
