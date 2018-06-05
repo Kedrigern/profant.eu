@@ -136,5 +136,13 @@ Sněmovní materiály (tisky), které zpravodajuji. Ať už jen pro náš klub, 
           <td class="name"></td>
           <td class="percent"></td>
         </tr>
+        <tr class="redmine" id="11520">
+          <td class="name"></td>
+          <td class="percent"></td>
+        </tr>
+        <tr class="redmine" id="11521">
+          <td class="name"></td>
+          <td class="percent"></td>
+        </tr>
     </tbody>
 </table>
