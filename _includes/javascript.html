@@ -13,8 +13,10 @@
       var url = "https://redmine.pirati.cz/issues/" + id + ".json";
       var percent = $.get(url, function(data) {})
       .done(function(data) {
+        var cur_name = data.issue.subject;
         var cur_percent = data.issue.done_ratio;
         var cur_description = data.issue.description;
+        el_name.text(cur_name);
         el_name.attr('title', cur_description);
         el_percent.text(cur_percent);
       })

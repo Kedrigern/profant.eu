@@ -129,5 +129,12 @@ Sněmovní materiály (tisky), které zpravodajuji. Ať už jen pro náš klub, 
             <td class="name"><a href="https://redmine.pirati.cz/issues/8099">13. Podpora malých podnikatelů - založení firmy za 1 den</a></td>
             <td class="percent"></td>
         </tr>
+        <tr>
+          <th colspan="2">Ostatní</th>
+        </tr>
+        <tr class="redmine" id="11519">
+          <td class="name"></td>
+          <td class="percent"></td>
+        </tr>
     </tbody>
 </table>
