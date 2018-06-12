@@ -4,7 +4,7 @@ title:      "Selhání Facebooku ukazuje na potřebu společného rámce pro och
 date:       2018-04-09 20:00:00 +0100
 categories: Soukromí
 comments:   true
-tags:       soukromí, Facebook, GDPR
+tags:       soukromí Facebook GDPR
 img:        gdpr-vs-facebook.jpg
 author:     Ondřej Profant
 ---
