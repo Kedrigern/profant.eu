@@ -2,7 +2,7 @@
 layout:     post
 title:      "GDPR mýtů zbavené"
 date:       2018-01-23 11:00:00 +0100
-categories: soukromí
+categories: Soukromí
 comments:   true
 tags:       EU, e-government, osobní údaje, soukromí
 img:        gdpreu.jpg

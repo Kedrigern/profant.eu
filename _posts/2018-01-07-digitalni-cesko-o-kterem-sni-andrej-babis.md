@@ -2,7 +2,7 @@
 layout:     post
 title:      "Digitální Česko, o kterém sní Andrej Babiš"
 date:       2018-01-07 18:00:00 +0100
-categories: digitalizace
+categories: Digitalizace
 comments:   true
 tags:       digitalizace, vláda, programové prohlášení, e-government
 img:        logo-urad-vlady.png

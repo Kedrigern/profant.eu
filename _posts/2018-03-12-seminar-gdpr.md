@@ -2,7 +2,7 @@
 layout:     post
 title:      "Seminář GDPR mýtů zbavené"
 date:       2018-03-12 14:00:00 +0100
-categories: soukromí
+categories: Soukromí
 comments:   true
 tags:       EU, e-government, osobní údaje, soukromí, gdpr
 img:        gdpr-seminar.jpg

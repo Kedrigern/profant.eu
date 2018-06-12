@@ -2,7 +2,7 @@
 layout: 			post
 title:  			"Důvody pro digitalizaci"
 date:   			2017-11-22 18:00:00 +0100
-categories: 	Piráti
+categories: 	Digitalizace
 comments: 		true
 img: 					kruh-0101.jpg
 author: 			Ondřej Profant
