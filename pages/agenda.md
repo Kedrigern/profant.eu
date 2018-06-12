@@ -2,6 +2,7 @@
 layout: wide
 title:  "Aktuální agenda"
 permalink: "agenda/"
+customjs: redmineTable.html
 ---
 
 # Aktuální agenda
@@ -17,7 +18,7 @@ Přehled aktuální agendy pirátského poslance Ondřeje Profanta.
 
 ### Zpravodajováné sněmovní tisky ([web psp](http://www.psp.cz/sqw/tisky.sqw?sn=6526))
 
-Sněmovní materiály (tisky), které zpravodajuji. Ať už jen pro náš klub, výbor pro veřejnou správu (VVSRR) nebo pro celé plénum sněmovny.
+Sněmovní materiály (tisky), které zpravodajuji či se na nich více podílím. Ať už jen pro náš klub, výbor pro veřejnou správu (VVSRR) nebo pro celé plénum sněmovny.
 
 <table>
     <thead>
@@ -45,7 +46,7 @@ Sněmovní materiály (tisky), které zpravodajuji. Ať už jen pro náš klub, 
             <td>2.</td>
             <td>-</td>
             <td><b>psp</b></td>
-            <td>Pirátská novela, která rozšiřuje povinné subjekty v registru smluv a přidává infopříkaz. <a href="https://www.pirati.cz/tiskove-zpravy/vybor-doporucil-zverejnovani-smluv.html">TZ 1</a></td>
+            <td>Pirátská novela, která rozšiřuje povinné subjekty v registru smluv a přidává infopříkaz. <a href="https://www.pirati.cz/tiskove-zpravy/vybor-doporucil-zverejnovani-smluv.html">TZ 1</a>, <a href="https://www.facebook.com/ceska.piratska.strana/photos/a.117963484038.102324.109323929038/10155833966604039/?type=3">FB</a>, <a href="https://twitter.com/PiratskaStrana/status/999936810569621505">TW 1</a>, <a href="https://twitter.com/PiratskaStrana/status/1001845155186597888">TW 2</a>, <a href="http://wwww.profant.eu/kategorie/#Soukrom%C3%AD">blog</a></td>
         </tr>
         <tr>
           <td>GDPR</td>
@@ -53,7 +54,7 @@ Sněmovní materiály (tisky), které zpravodajuji. Ať už jen pro náš klub, 
           <td>výbory</td>
           <td>-</td>
           <td>klub</td>
-          <td>Zpravodaj PSP: Marek Benda</td>
+          <td>Zpravodaj PSP: Marek Benda, <a href="https://www.pirati.cz/tiskove-zpravy/gdpr-internetova-samostatnost-od-13.html">TZ 1</a>,</td>
         </tr>
         <tr>
           <td>GDPR - doprovodné</td>
@@ -61,7 +62,7 @@ Sněmovní materiály (tisky), které zpravodajuji. Ať už jen pro náš klub, 
           <td>výbory</td>
           <td>-</td>
           <td>klub</td>
-          <td></td>
+          <td>Zpravodaj PSP: Marek Benda</td>
         </tr>
         <tr>
             <td>Přístupnost web. stránek a mob. aplikací</td>
@@ -79,70 +80,84 @@ Sněmovní materiály (tisky), které zpravodajuji. Ať už jen pro náš klub, 
             <td>klub</td>
             <td>Zpravodaj PSP: Jana Pastouchová</td>
         </tr>
+        <tr>
+            <td>Úmluva o počítačové kriminalitě</td>
+            <td><a href="http://www.psp.cz/sqw/historie.sqw?o=8&T=151">151</a></td>
+            <td>1.</td>
+            <td>-</td>
+            <td>-</td>
+            <td>Zpravodaj PSP: Mikuláš Peksa</td>
+        </tr>
     </tbody>
 </table>
 
-<table id="redmine-table">
+<div id="table">
+  <table>
     <thead>
-      <tr>
-        <th><a href="https://redmine.pirati.cz/projects/snemovna/issues?utf8=%E2%9C%93&set_filter=1&f%5B%5D=status_id&op%5Bstatus_id%5D=o&f%5B%5D=assigned_to_id&op%5Bassigned_to_id%5D=%3D&v%5Bassigned_to_id%5D%5B%5D=3&f%5B%5D=&c%5B%5D=subject&c%5B%5D=assigned_to&c%5B%5D=status&c%5B%5D=done_ratio&group_by=fixed_version&t%5B%5D=">Pirátské cíle</a></th>
-        <th>Postup % </th>
-      </tr>
+      <th>
+        Name
+      </th>
+      <th>
+        Splněno
+      </th>
+      <th>
+        Popis
+      </th>
     </thead>
+    <tfoot>
+      <tr>
+        <th colspan="3">Úkoly převzaty ze systémy <a href="https://redmine.pirati.cz/projects/snemovna/issues?utf8=%E2%9C%93&set_filter=1&f%5B%5D=status_id&op%5Bstatus_id%5D=o&f%5B%5D=assigned_to_id&op%5Bassigned_to_id%5D=%3D&v%5Bassigned_to_id%5D%5B%5D=3&f%5B%5D=&c%5B%5D=subject&c%5B%5D=assigned_to&c%5B%5D=status&c%5B%5D=done_ratio&group_by=fixed_version&t%5B%5D=">Redmine</a></th>
+      </tr>
+    </tfoot>
     <tbody>
-        <tr>
-            <th colspan="2">
-            <a href="https://redmine.pirati.cz/projects/snemovna/issues?utf8=%E2%9C%93&set_filter=1&f%5B%5D=status_id&op%5Bstatus_id%5D=o&f%5B%5D=assigned_to_id&op%5Bassigned_to_id%5D=%3D&v%5Bassigned_to_id%5D%5B%5D=3&f%5B%5D=fixed_version_id&op%5Bfixed_version_id%5D=%3D&v%5Bfixed_version_id%5D%5B%5D=28&f%5B%5D=&c%5B%5D=subject&c%5B%5D=assigned_to&c%5B%5D=status&c%5B%5D=done_ratio&group_by=fixed_version&t%5B%5D=">První rok ve sněmovně</a>
-            </th>
-
-        </tr>
-        <tr class="redmine" id="9066">
-            <td class="name"><a href="https://redmine.pirati.cz/issues/9066">Otevřená města jako best practise</a></td>
-            <td class="percent"></td>
-        </tr>    
-        <tr class="redmine" id="9065">
-            <td class="name"><a href="https://redmine.pirati.cz/issues/9065">Kontrola vlády v oblasti eGov</a></td>
-            <td class="percent"></td>
-        </tr>
-        <tr class="redmine" id="9064">
-            <td class="name"><a href="https://redmine.pirati.cz/issues/9064">Otevřená data (opendata)</a></td>
-            <td class="percent"></td>
-        </tr>
-        <tr class="redmine" id="9063">
-            <td class="name"><a href="https://redmine.pirati.cz/issues/9063">Nový portál občana</a></td>
-            <td class="percent"></td>
-        </tr>
-        <tr class="redmine" id="9062">
-            <td class="name"><a href="https://redmine.pirati.cz/issues/9062">GDPR mýtu zbavené</a></td>
-            <td class="percent"></td>
-        </tr>
-        <tr>
-            <th colspan="2">
-              <a href="https://redmine.pirati.cz/projects/snemovna/issues?utf8=%E2%9C%93&set_filter=1&f%5B%5D=status_id&op%5Bstatus_id%5D=o&f%5B%5D=assigned_to_id&op%5Bassigned_to_id%5D=%3D&v%5Bassigned_to_id%5D%5B%5D=3&f%5B%5D=fixed_version_id&op%5Bfixed_version_id%5D=%3D&v%5Bfixed_version_id%5D%5B%5D=27&f%5B%5D=&c%5B%5D=subject&c%5B%5D=assigned_to&c%5B%5D=status&c%5B%5D=done_ratio&group_by=fixed_version&t%5B%5D=">Z 20 priorit pirátského programu</a>
-            </th>
-        </tr>
-        <tr class="redmine" id="8098">
-            <td class="name"><a href="https://redmine.pirati.cz/issues/8098">12. Na úřad z domova - možnost vyřídit si 90 % papírování přes internet bez obíhání úřadů</a></td>
-            <td class="percent"></td>
-        </tr>
-        <tr class="redmine" id="8099">
-            <td class="name"><a href="https://redmine.pirati.cz/issues/8099">13. Podpora malých podnikatelů - založení firmy za 1 den</a></td>
-            <td class="percent"></td>
-        </tr>
-        <tr>
-          <th colspan="2">Ostatní</th>
-        </tr>
-        <tr class="redmine" id="11519">
-          <td class="name"></td>
-          <td class="percent"></td>
-        </tr>
-        <tr class="redmine" id="11520">
-          <td class="name"></td>
-          <td class="percent"></td>
-        </tr>
-        <tr class="redmine" id="11521">
-          <td class="name"></td>
-          <td class="percent"></td>
-        </tr>
+      <tr>
+        <th colspan="3"><a href="https://redmine.pirati.cz/projects/snemovna/issues?utf8=%E2%9C%93&set_filter=1&f%5B%5D=status_id&op%5Bstatus_id%5D=o&f%5B%5D=assigned_to_id&op%5Bassigned_to_id%5D=%3D&v%5Bassigned_to_id%5D%5B%5D=3&f%5B%5D=fixed_version_id&op%5Bfixed_version_id%5D=%3D&v%5Bfixed_version_id%5D%5B%5D=27&f%5B%5D=&c%5B%5D=subject&c%5B%5D=assigned_to&c%5B%5D=status&c%5B%5D=done_ratio&group_by=fixed_version&t%5B%5D=">Úkoly z volebního programu</a></th>
+      </tr>
+      <tr v-for="task in tasksProgram">
+        <td :title="task.description">
+          <a :href="url.redmine + 'issues/' + task.id">
+            {({task.subject})}
+          </a>
+        </td>
+        <td>
+          {({task.done_ratio})}
+        </td>
+        <td>
+          {({task.description})}
+        </td>
+      </tr>
+      <tr>
+        <th colspan="3"><a href="https://redmine.pirati.cz/projects/snemovna/issues?utf8=%E2%9C%93&set_filter=1&f%5B%5D=status_id&op%5Bstatus_id%5D=o&f%5B%5D=assigned_to_id&op%5Bassigned_to_id%5D=%3D&v%5Bassigned_to_id%5D%5B%5D=3&f%5B%5D=fixed_version_id&op%5Bfixed_version_id%5D=%3D&v%5Bfixed_version_id%5D%5B%5D=28&f%5B%5D=&c%5B%5D=subject&c%5B%5D=assigned_to&c%5B%5D=status&c%5B%5D=done_ratio&group_by=fixed_version&t%5B%5D=">Úkoly pro první rok</a></th>
+      </tr>
+      <tr v-for="task in tasksFirstYear">
+        <td :title="task.description">
+          <a :href="url.redmine + 'issues/' + task.id">
+            {({task.subject})}
+          </a>
+        </td>
+        <td>
+          {({task.done_ratio})}
+        </td>
+        <td>
+          {({task.description})}
+        </td>
+      </tr>
+      <tr>
+        <th colspan="3"><a href="">Další úkoly</a></th>
+      </tr>
+      <tr v-for="task in tasksOther">
+        <td :title="task.description">
+          <a :href="url.redmine + 'issues/' + task.id">
+            {({task.subject})}
+          </a>
+        </td>
+        <td>
+          {({task.done_ratio})}
+        </td>
+        <td>
+          {({task.description})}
+        </td>
+      </tr>
     </tbody>
-</table>
+  </table>
+</div>

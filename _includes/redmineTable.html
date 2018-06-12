@@ -1,0 +1,49 @@
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/vue/2.5.16/vue.js"></script>
+<script>
+  var groupBy = function(xs, key) {
+    return xs.reduce(function(rv, x) {
+      (rv[x[key]] = rv[x[key]] || []).push(x);
+      return rv;
+    }, {});
+  };
+
+  var data = {
+    ids: [8098, 8099, 9062, 9063, 9064, 9065, 9066, 11519, 11520, 11521],
+    url: {
+      'redmine':'https://redmine.pirati.cz/',
+      'path': 'issues.json',
+      'filter': '?issue_id=',
+    },
+    tasksAll: [],
+    tasksFirstYear: [],
+    tasksProgram: [],
+    tasksOther: []
+  };
+
+  var app = new Vue({
+    delimiters: ["{({", "})}"],
+    el: '#table',
+    data: data,
+    mounted() {
+      var fullurl = this.url.redmine + this.url.path + this.url.filter + this.ids.join(',');
+      $.get(fullurl).done(response => {
+        this.tasksAll = response.issues;
+        var first = this.tasksFirstYear;
+        var program = this.tasksProgram;
+        var other = this.tasksOther;
+        $.each(response.issues, function(index, val) {
+          if('fixed_version' in val) {
+            if(val.fixed_version.id == 28) {
+              first.push(val);
+            } else {
+              program.push(val);
+            }
+          } else {
+            other.push(val);
+          }
+        });
+      });
+    }
+  });
+</script>

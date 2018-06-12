@@ -5,27 +5,6 @@
 <script>
   $(document).foundation();
 
-  $(function() {
-    $("#redmine-table > tbody > tr.redmine").each(function(val) {
-      var id = $(this).attr('id');
-      var el_name = $(this).find('td.name');
-      var el_percent = $(this).find('td.percent');
-      var url = "https://redmine.pirati.cz/issues/" + id + ".json";
-      var percent = $.get(url, function(data) {})
-      .done(function(data) {
-        var cur_name = data.issue.subject;
-        var cur_percent = data.issue.done_ratio;
-        var cur_description = data.issue.description;
-        el_name.text(cur_name);
-        el_name.attr('title', cur_description);
-        el_percent.text(cur_percent);
-      })
-      .fail(function() {
-        console.error("Error: connect to redmine");
-      });
-    });
-  });
-
   /* Twitter */
   window.twttr = (function(d, s, id) {
     var js, fjs = d.getElementsByTagName(s)[0],
