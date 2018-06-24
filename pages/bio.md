@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title:  "O mně"
 date:   2017-11-22 08:00:00 +0100
 permalink: "bio/"
