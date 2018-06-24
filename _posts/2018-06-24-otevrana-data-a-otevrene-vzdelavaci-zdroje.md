@@ -24,7 +24,7 @@ Partner: projekt DigiStrategie 2020, který realizuje Fond dalšího vzdělává
 **Kdy**: 25.6.2018, 13:00 – 15:00  
 **Kde**: Sněmovní 4, Praha 1  
 
-Je nutné, aby se zájemci o účast na akci přihlásili prostřednictvím [webové stránky](www.digistrategie.cz/otevrena-data).
+Je nutné, aby se zájemci o účast na akci přihlásili prostřednictvím [webové stránky](http://www.digistrategie.cz/otevrena-data).
 
 Vstup do budovy, v níž se akce koná, je možný pouze po předložení občanského průkazu nebo pasu.
 
