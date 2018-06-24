@@ -21,7 +21,7 @@ Pořádá: Aliance pro otevřené vzdělávání
 Pod záštitou: Pirátské strany, Poslanecké sněmovny Parlamentu České republiky  
 Partner: projekt DigiStrategie 2020, který realizuje Fond dalšího vzdělávání
 
-**Kdy**: 25.6.2018, 13:00 – 15:00  
+**Kdy**: 25.6.2018, 13:00–15:00  
 **Kde**: Sněmovní 4, Praha 1  
 
 Je nutné, aby se zájemci o účast na akci přihlásili prostřednictvím [webové stránky](http://www.digistrategie.cz/otevrena-data).
