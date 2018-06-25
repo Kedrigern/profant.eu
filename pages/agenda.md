@@ -54,7 +54,7 @@ Sněmovní materiály (tisky), které zpravodajuji či se na nich více podílí
           <td>výbory</td>
           <td>-</td>
           <td>klub</td>
-          <td>Zpravodaj PSP: Marek Benda, <a href="https://www.pirati.cz/tiskove-zpravy/gdpr-internetova-samostatnost-od-13.html">TZ 1</a>, <a href="https://www.facebook.com/ceska.piratska.strana/photos/a.117963484038.102324.109323929038/10155833966604039/?type=3">FB</a>, <a href="https://twitter.com/PiratskaStrana/status/999936810569621505">TW 1</a>, <a href="https://twitter.com/PiratskaStrana/status/1001845155186597888">TW 2</a>, <a href="http://wwww.profant.eu/kategorie/#Soukrom%C3%AD">blog</a></td>
+          <td>Zpravodaj PSP: Marek Benda, <a href="https://www.pirati.cz/tiskove-zpravy/gdpr-internetova-samostatnost-od-13.html">TZ 1</a>, <a href="https://www.facebook.com/ceska.piratska.strana/photos/a.117963484038.102324.109323929038/10155833966604039/?type=3">FB</a>, <a href="https://twitter.com/PiratskaStrana/status/999936810569621505">TW 1</a>, <a href="https://twitter.com/PiratskaStrana/status/1001845155186597888">TW 2</a>, <a href="http://wwww.profant.eu/kategorie/#Soukrom%C3%AD">soukromí blog</a>, <a href="https://www.profant.eu/2018/gdpr-ve-snemovne.html">blog: GDPR ve sněmovně</a></td>
         </tr>
         <tr>
           <td>GDPR - doprovodné</td>
