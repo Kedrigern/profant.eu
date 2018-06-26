@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "GDPR ve sněmovně"
+title:      "Ze života GDPR: Cesta Sněmovnou"
 date:       2018-06-25 09:00:00 +0100
 categories: Soukromí
 comments:   true
