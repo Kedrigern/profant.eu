@@ -27,6 +27,8 @@ Implementační zákony vznikaly na Ministerstvu vnitra velmi dlouho a prošly �
 
 ## Pozměňovací návrhy
 
+Pozměňovacích návrhů se sešla celá řada. Ještě další mohou být představeny během druhého čtení. O jejich úspěšnosti rozhodne až třetí čtení, kdy se všechny představené návrhy ze čtení druhého hlasují a následně se hlasuje zákon jako celek.
+
 ### Pirátské pozměňovací návrhy
 
 **Snížení “internetové plnoletosti” na 13 let:** Dostatek informací a možnost svobodné volby vede k rozvoji kritického myšlení. Používání internetu tomu napomáhá, proto navrhujeme nejnižší možnou hranici internetové plnoletosti, tj. od 13 let. Ministerstvo vnitra původně též navrhlo 13 let, ale v poslední chvíli na vládě byla tato hranice zvýšena na 15 let. Piráti toto považuji za zcela nepřiměřené. Domníváme se, že to vede ke zbytečnému omezování mladistvých a administrativní zátěži pro podnikatele. [Pozměňovací návrh 579](http://www.psp.cz/sqw/text/orig2.sqw?idd=134828) navrhuje Tomáš Martínek, ale na Výboru pro veřejnou správu a regionální rozvoj byli proti poslanci za ANO, KSČM a návrh neprošel jako návrh výborový. Více se můžete dočíst v [článku](https://www.piratskelisty.cz/clanek-2043-proc-chceme-vekovou-hranici-13-let-u-zpracovani-osobnich-udaju)
