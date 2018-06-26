@@ -9,13 +9,13 @@ img:        gdpr-ve-snemovne.jpg
 author:     Ondřej Profant
 ---
 
-GDPR je v současnosti velmi probírané téma. Piráti se mu také ve Sněmovně velmi podrobně věnují. Pojďme se blíže podívat jak.
+O GDPR už slyšel snad každý a každý druhý odpřísáhne, že je to převtělený ďábel. Není to ale až tak úplně pravda. Samotná směrnice žádný horor není, o tom můžeme mluvit až ve spojení s její implementací do české legislativy naší vládou. A protože to byly někdy skutečně psí kusy Piráti to ve Sněmovně bedlivě sledovali a přešlapy hlídali a napravovali. Jak vypadala cesta GDPR Sněmovnou a kdy a jak Piráti zasahovali? Pojďme se blíže podívat.
 
 <!--more-->
 
-Je dobré si uvědomit, že se jedná o posílení práv jednotlivců proti neoprávněnému zpracování osobních údajů. Jak je hezky shrnuto v následujícím [infovideu](https://twitter.com/Europarl_CS/status/999951580240728064) od Evropského parlamentu. Nejedná se tedy o euronesmysl, nýbrž o posílení moderních práv v digitálním prostředí.
+Hned na začátku je dobré si uvědomit, že GDPR posiluje práva jednotlivců proti neoprávněnému zpracování osobních údajů. Nejedná se tedy o euronesmysl, nýbrž o posílení moderních práv každého z nás v digitálním prostředí. To je hezky shrnuto v následujícím [infovideu](https://twitter.com/Europarl_CS/status/999951580240728064) od Evropského parlamentu.
 
-Nařízení GDPR má skoro 90 stran a to hovoří převážně obecně. Jeho transformace do českého legislativního řádu samozřejmě není nic snadného. Primárně se implementuje v zákonu 101/2000 Sb. o ochraně osobních údajů a o změně některých zákonů (sněmovní tisk 138), nicméně vedle toho je zde sněmovní tisk 139, který dále novelizuje 36 stávajících zákonů.
+Nařízení GDPR má skoro 90 stran a celý dokument hovoří převážně obecně. Jeho transformace do českého legislativního řádu samozřejmě není nic snadného, není to ale nemožné. Primárně se implementuje v zákonu [101/2000 Sb](https://www.zakonyprolidi.cz/cs/2000-101). o ochraně osobních údajů a o změně některých zákonů ([sněmovní tisk 138](http://www.psp.cz/sqw/historie.sqw?o=8&T=138)), nicméně vedle toho je zde sněmovní tisk [139](http://www.psp.cz/sqw/historie.sqw?o=8&T=139), který dále novelizuje 36 stávajících zákonů.
 
 ## Prostor pro přílepky
 
@@ -27,15 +27,7 @@ Implementační zákony vznikaly na Ministerstvu vnitra velmi dlouho a prošly �
 
 ## Pozměňovací návrhy
 
-### Konsensuální pozměňovací návrhy
-
-Samo ministerstvo vnitra, které předpisy připravovalo, ihned přiznalo, že ve spoustě věcí jsou možné a žádoucí změny. Z těchto změn vznikly konsenzuální pozměňovací návrhy, které obvykle předkládají koaliční poslanci. Nicméně na jejich znění se podíleli i další. Například Piráti či zpravodaj Marek Benda (ODS).
-
-**Novinářská výjimka:** za Piráty vedl diskusi na Volebním výboru Tomáš Martínek, který s dalšími členy výboru vyjednával s novináři a ministerstvem na konečné úpravě. Velmi liberálně a silně zaručuje práva pro novináře. Přijaté usnesení je sněmovní tisk [138/9](http://www.psp.cz/sqw/text/tiskt.sqw?O=8&CT=138&CT1=9).
-
-**Výjimky pro vědecký a historický výzkum a statistiku:** Nařízení samo umožňuje zpracování údajů pro tyto účely. Výjimka tedy pouze obsahuje seznam opatření, jejichž zavedení by vědci měli zvážit v rámci své činnosti, například anonymizace, šifrování, omezení přístupu jen pro určité osoby (nejde však o výčet úplný, ani nejde o opatření povinná). Povinné opatření je jen jedno: Pokud se nakládá s citlivými údaji (zdravotní stav, sexuální orientace apod.) a je-li to vzhledem k povaze výzkumu možné, je nutné data anonymizovat. Výjimka dále omezuje přístup k údajům, právo na opravu či na omezení zpracování, protože plné uplatňování těchto práv není v podmínkách výzkumu možné.
-
-### Pozměňovací návrhy Pirátů
+### Pirátské pozměňovací návrhy
 
 **Snížení “internetové plnoletosti” na 13 let:** Dostatek informací a možnost svobodné volby vede k rozvoji kritického myšlení. Používání internetu tomu napomáhá, proto navrhujeme nejnižší možnou hranici internetové plnoletosti, tj. od 13 let. Ministerstvo vnitra původně též navrhlo 13 let, ale v poslední chvíli na vládě byla tato hranice zvýšena na 15 let. Piráti toto považuji za zcela nepřiměřené. Domníváme se, že to vede ke zbytečnému omezování mladistvých a administrativní zátěži pro podnikatele. [Pozměňovací návrh 579](http://www.psp.cz/sqw/text/orig2.sqw?idd=134828) navrhuje Tomáš Martínek, ale na Výboru pro veřejnou správu a regionální rozvoj byli proti poslanci za ANO, KSČM a návrh neprošel jako návrh výborový. Více se můžete dočíst v [článku](https://www.piratskelisty.cz/clanek-2043-proc-chceme-vekovou-hranici-13-let-u-zpracovani-osobnich-udaju)
 
@@ -44,6 +36,14 @@ Samo ministerstvo vnitra, které předpisy připravovalo, ihned přiznalo, že v
 **Rozpoznávání obličejů bez rizika:** Mezi novelizovanými zákony je i zákon o policii, kde se dává policii přístup k fotkám z dokladů (občanky, řidičáky, pasy, …). To je samozřejmě ohromný zásah do soukromí, který se nám nelíbí. Avšak zas nechceme policii znemožnit plnit její poslání. Naštěstí jsme našli kompromisní technické řešení, které je přesně v duchu článku 25 GDPR “privacy by design”. Chceme, aby úřady policii předávaly jen DB již předpracovaných markantů (signifikatních rysů obličeje z dané fotografie). V této DB pak policie může najít shodu a vyžádat si jen ty fotografie, které opravdu potřebuje. Jedná se [PN 967](http://www.psp.cz/sqw/text/orig2.sqw?idd=135806).
 
 **Infozákon bez obstrukcí:** Jakub Michálek navrhuje větší úpravu infozákona, která by ÚOOÚ svěřila řešení sporů a umožnila vydat “informační příkaz”. Řešily by se tím situace, kdy odvolací místo sice rozhodne, že důvod zamítnutí žádosti je neopodstatněný, ale dotazovaný úřad si vymýšlí stále další neopodstatněné důvody. Tento ping pong může mít i velmi mnoho iterací. Setkali jsme se i s více jak deseti koly odvolání.
+
+### Konsensuální pozměňovací návrhy
+
+Samo ministerstvo vnitra, které předpisy připravovalo, ihned přiznalo, že ve spoustě věcí jsou možné a žádoucí změny. Z těchto změn vznikly konsenzuální pozměňovací návrhy, které obvykle předkládají koaliční poslanci. Nicméně na jejich znění se podíleli i další. Například Piráti či zpravodaj Marek Benda (ODS).
+
+**Novinářská výjimka:** za Piráty vedl diskusi na Volebním výboru Tomáš Martínek, který s dalšími členy výboru vyjednával s novináři a ministerstvem na konečné úpravě. Velmi liberálně a silně zaručuje práva pro novináře. Přijaté usnesení je sněmovní tisk [138/9](http://www.psp.cz/sqw/text/tiskt.sqw?O=8&CT=138&CT1=9).
+
+**Výjimky pro vědecký a historický výzkum a statistiku:** Nařízení samo umožňuje zpracování údajů pro tyto účely. Výjimka tedy pouze obsahuje seznam opatření, jejichž zavedení by vědci měli zvážit v rámci své činnosti, například anonymizace, šifrování, omezení přístupu jen pro určité osoby (nejde však o výčet úplný, ani nejde o opatření povinná). Povinné opatření je jen jedno: Pokud se nakládá s citlivými údaji (zdravotní stav, sexuální orientace apod.) a je-li to vzhledem k povaze výzkumu možné, je nutné data anonymizovat. Výjimka dále omezuje přístup k údajům, právo na opravu či na omezení zpracování, protože plné uplatňování těchto práv není v podmínkách výzkumu možné.
 
 ### Problematické pozměňovací návrhy
 
