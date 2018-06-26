@@ -9,7 +9,7 @@ img:        gdpr-ve-snemovne.jpg
 author:     Ondřej Profant
 ---
 
-O GDPR už slyšel snad každý a každý druhý odpřísáhne, že je to převtělený ďábel. Není to ale až tak úplně pravda. Samotná směrnice žádný horor není, o tom můžeme mluvit až ve spojení s její implementací do české legislativy naší vládou. A protože to byly někdy skutečně psí kusy Piráti to ve Sněmovně bedlivě sledovali a přešlapy hlídali a napravovali. Jak vypadala cesta GDPR Sněmovnou a kdy a jak Piráti zasahovali? Pojďme se blíže podívat.
+O GDPR už slyšel snad každý a každý druhý odpřísáhne, že je to převtělený ďábel. Není to ale až tak úplně pravda. Samotná směrnice žádný horor není, o tom můžeme mluvit až ve spojení s její implementací do české legislativy naší vládou. A protože to byly někdy skutečně psí kusy, Piráti to ve Sněmovně bedlivě sledovali a přešlapy hlídali a napravovali. Jak vypadala cesta GDPR Sněmovnou a kdy a jak Piráti zasahovali? Pojďme se blíže podívat.
 
 <!--more-->
 
