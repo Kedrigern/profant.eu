@@ -21,9 +21,11 @@ Piráti proto spustili informační kampaň Zachraň Internet o znění a význa
 
 Nezávislost Internetu jako neutrálního místa pro výměnu informací je nutné hájit. Internet není jen technologií, jen prostředkem pro práci nebo zábavu. Internet umožňuje lidem spolu napřímo komunikovat, přestože mohou být z naprosto odlišných podmínek. Internet umožnil vznik moderní globální kultury. Tuto kulturu je třeba dále rozvíjet, nikoliv omezovat kvůli čistě zištným zájmům vydavatelské lobby.
 
-[Kampaň Zachraň Internet](https://zachraninternet.cz/)
-[Argumentace proti článkům 11 a 13](https://pirati.cloud/s/t0iTuuu8OtV3j9D#pdfviewer)
-[Návrh směrnice ](https://eur-lex.europa.eu/legal-content/CS/TXT/PDF/?uri=CELEX:52016PC0593&from=CS)
-[Piráti zesilují kampaň proti cenzuře internetu. Výbor EP schválil kritizovanou směrnici ](https://www.pirati.cz/tiskove-zpravy/ep-ve-vyboru-schvalil-cenzuru-internetu.html)
-[Piráti apelují na europoslance, aby zítra hlasovali proti návrhu na zavedení cenzury internetu ](https://www.pirati.cz/tiskove-zpravy/pirati-apeluji-na-poslance-v-cenzure-internetu.html)
+**Odkazy**
+
+- [Kampaň Zachraň Internet](https://zachraninternet.cz/)
+- [Argumentace proti článkům 11 a 13](https://pirati.cloud/s/t0iTuuu8OtV3j9D#pdfviewer)
+- [Návrh směrnice ](https://eur-lex.europa.eu/legal-content/CS/TXT/PDF/?uri=CELEX:52016PC0593&from=CS)
+- [Piráti zesilují kampaň proti cenzuře internetu. Výbor EP schválil kritizovanou směrnici ](https://www.pirati.cz/tiskove-zpravy/ep-ve-vyboru-schvalil-cenzuru-internetu.html)
+- [Piráti apelují na europoslance, aby zítra hlasovali proti návrhu na zavedení cenzury internetu ](https://www.pirati.cz/tiskove-zpravy/pirati-apeluji-na-poslance-v-cenzure-internetu.html)
 
