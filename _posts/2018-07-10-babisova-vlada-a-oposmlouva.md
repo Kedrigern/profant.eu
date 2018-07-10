@@ -5,7 +5,7 @@ date:       2018-07-09 18:00:00 +0100
 categories: Sněmovna
 comments:   true
 tags:       Sněmovna, Piráti, vláda
-img:        thanos.jpg
+img:        babisova-vlada.png
 author:     Ondřej Profant
 ---
 
