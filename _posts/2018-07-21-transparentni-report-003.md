@@ -9,7 +9,7 @@ img:        report003.png
 author:     Ondřej Profant
 ---
 
-Souhrnný mé činnosti v období duben až červen 2018. Nejčerstvější informace o mých aktivitách naleznete na mých profilech na sociálních sítích a zde na blogu v sekci [Transparentnost](https://www.profant.eu/transparentnost/).
+Souhrnný přehled mé činnosti v období duben až červen 2018. Nejčerstvější informace o mých aktivitách naleznete na mých profilech na sociálních sítích a zde na blogu v sekci [Transparentnost](https://www.profant.eu/transparentnost/).
 
 <!--more-->
 
