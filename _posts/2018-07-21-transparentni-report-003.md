@@ -31,7 +31,7 @@ Více informací si můžete přečíst v příspěvcích na Facebooku a v tisko
 
 **Schůzka odborné skupiny pro kyberbezpečnost**
 
-Zúčastnil jsem se schůzky nové odborné skupiny Pirátů pro kyberbezpečnost. Tato odborná skupina, která je tvořena poslanci Pirátů, odborníky na kybernetickou bezpečnost a právníky se specializací na digitální práva, má fungovat jako poradní těleso pro vytváření racionální bezpečnostní politiky. První materiál, který jsem na schůzi skupiny probírali, se týkal novely zákona o vojenském zpravodajství. V rámci posouzení materiálu jsme dospěli k závěru, že situace není tak kritická jako u předchozích úprav zákona, největší riziko hrozí ale v souvislosti s možnými paranoidními tendencemi v podobě pozměňovacích návrhů od některých poslanců. Mezi další témata schůzky patřilo i probírání rámce koncepce informační bezpečnosti ČR. Další informace o rizicích extenzivních úprav zákona o vojenském zpravodajství naleznete na webu [Přichází rozvědka](https://prichazi.rozvedka.cz).
+Zúčastnil jsem se schůzky nové odborné skupiny Pirátů pro kyberbezpečnost. Tato odborná skupina, která je tvořena poslanci Pirátů, odborníky na kybernetickou bezpečnost a právníky se specializací na digitální práva, má fungovat jako poradní těleso pro vytváření racionální bezpečnostní politiky. První materiál, který jsme na schůzi skupiny probírali, se týkal novely zákona o vojenském zpravodajství. V rámci posouzení materiálu jsme dospěli k závěru, že situace není tak kritická jako u předchozích úprav zákona, největší riziko hrozí ale v souvislosti s možnými paranoidními tendencemi v podobě pozměňovacích návrhů od některých poslanců. Mezi další témata schůzky patřilo i probírání rámce koncepce informační bezpečnosti ČR. Další informace o rizicích extenzivních úprav zákona o vojenském zpravodajství naleznete na webu [Přichází rozvědka](https://prichazi.rozvedka.cz).
 
 **Schůzka odborné skupiny pro egovernment**
 
@@ -153,7 +153,7 @@ Nicméně podvýbor i výbor schválily tento návrh doprovodného usnesení:
 
 Sněmovna [zamítla](https://domaci.ihned.cz/c1-66166930-snemovna-zamitla-navrh-zuzit-eet-jen-na-platce-dph-prosadili-to-ano-cssd-a-komuniste) zúžení EET pouze na plátce DPH. Já jsem hlasoval pro. Piráti následně obdobný návrhl předložili znovu.
 
-Proběhlo také hlasování o prověrce pro hradního kancléře, Piráti hlasovali pro. Hlasování krásně ukázalo, které strany se přihlásily k bezpodmínečně věrnosti k Miloši Zemanovi. Hlasovalo se o zamitnutí, čili jsem hlasoval [proti zamítnutí](http://www.psp.cz/sqw/hlasy.sqw?G=67871).
+Proběhlo také hlasování o prověrce pro hradního kancléře, Piráti hlasovali pro. Hlasování krásně ukázalo, které strany se přihlásily k bezpodmínečně věrnosti k Miloši Zemanovi. Hlasovalo se o zamítnutí, čili jsem hlasoval [proti zamítnutí](http://www.psp.cz/sqw/hlasy.sqw?G=67871).
 
 Zajímavá situace nastala při schvalování fiskální paktu. Ten stanovuje rámec pro rozpočtovou kázeň a koordinaci hospodářských politik členských států EU. ODS společně s SPD tak bojovala proti zastropování dluhu pod záminkou odporu proti euru. Přestože fiskální pakt samotný s přijetím eura nijak nesouvisí.
 
