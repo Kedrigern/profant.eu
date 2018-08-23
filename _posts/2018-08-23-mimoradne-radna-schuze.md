@@ -9,7 +9,7 @@ img:        invaze-1968.png
 author:     Ondřej Profant
 ---
 
-Včera proběhla mimořádná řádná schůze sněmovny. Piráti docela uspěli. Na programu byly tři body jednání: 1) Důchody, 2) Platy poslanců, 3) Invaze v srpnu 1968.
+22\. srpna proběhla mimořádná řádná schůze sněmovny. Piráti docela uspěli. Na programu byly tři body jednání: 1. Důchody, 2. Platy poslanců, 3. Invaze v srpnu 1968.
 
 <!--more-->
 
