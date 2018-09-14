@@ -17,7 +17,7 @@ Směrnice je samozřejmě rozsáhlá, ale většinu problémů přinášejí pou
 
 ### Autofiltry: cenzura 21. století
 
-Připravte se na novou realitu, kde veškerý obsah nahrávaný na Internet (youtube, flickr, github, ...) bude podléhat automatickému filtru. A ten rozhodne o tom, zda obsah smíte umístit. Žádné odvolání nebude možné, protože nikdo kvůli jednotlivci nebude upravovat filtovací algoritmy. Pokud se ve videu z vaší dovolené objeví příliš mnoho obsahu podobného jinému autorsky chráněnému obsahu, nekompromisně vás zaříznou.
+Připravte se na novou realitu, kde veškerý obsah nahrávaný na Internet (youtube, flickr, github, ...) bude podléhat automatickému filtru. A ten rozhodne o tom, zda obsah smíte umístit. Žádné odvolání nebude možné, protože nikdo kvůli jednotlivci nebude upravovat filtrovací algoritmy. Pokud se ve videu z vaší dovolené objeví příliš mnoho obsahu podobného jinému autorsky chráněnému obsahu, nekompromisně vás zaříznou.
 
 Jak toho europoslanci docílili? Vždyť tohle je zcela evidentní nesmysl. Ano je, avšak jen pro lidi, kteří se někdy pohybovali na Internetu. Poslanci, zvláště pak z řad lidovců, ukázali, že stále žijí ve zcela jiném století.
 
@@ -33,11 +33,12 @@ Protokol HTTP je založen na linkování původně relativně jednoduchých doku
 
 Tento nesmysl prosazují evropské mediální domy, které jsou neschopné nabídnout obsah, za který by uživatelé platili. V různé míře toto již zavedlo Španělsko a Německo. Problémem je, že takto restriktivní a plošná úprava zcela jasně naruší fungování Wikipedie (ta nebude moci citovat), vědeckých článků (opět budou problémem citace), agregátorů zpráv (Google news a podobné) a služeb pro uchovávání odkazů (Pocket, Feedly apod). Jenže tyto služby jsou páteří přidané hodnoty Internetu. Opravdu neznalí a viditelně zlobbovaní europoslanci se snaží z Internetu, zázraku 21. století, udělat běžné tištěné noviny, kde banda pantátů rozhoduje o jejich obsahu.
 
-Zvláště závažné je toto rozhodnutí v kombinaci s vlnou fake news a demagogie, které čelíme. Fake news weby samozřejmě nebudou omezovat šíření odkazů na ně. Čili tento návrh lidovců a socialistů povede k tomu, že si přečteme Sputnik news, ale odkaz na BBC bude zakázán (nebo zpoplatněn).
+Zvláště závažné je toto rozhodnutí v kombinaci s vlnou fake news a demagogie, které čelíme. Fake news weby samozřejmě nebudou omezovat šíření odkazů na ně. Čili tento návrh lidovců a socialistů povede k tomu, že si přečteme Sputnik news, ale odkaz na der Spiegel bude zakázán (nebo zpoplatněn).
 
 ### Jak to zastavíme?
 
-To je samozřejmě hlavní otázka, kterou si v Pirátské straně klademe. Evropský parlament jasně rozhodl. Nyní jde návrh do trialogu, kde se k diskusi přidá Rada ministrů. Čili jediný, kdo může v této chvíli přinést nový pohled, jsou národní vlády. Těm však opět dominují lidovci, kteří jsou hlavními aktéry této tragédie. Největší nadějí jsou Evropské volby na jaře příštího roku. Ty mohou změnit rozložení sil v EU, rozbít koalici eurolidovců a eurosocialistů a vnést do EU nějaký pokrok.
+To je samozřejmě hlavní otázka, kterou si v Pirátské straně klademe. Evropský parlament jasně rozhodl. Nyní jde návrh do trialogu. V trialogu jak název napovídá, se setkávají při jednáních tři strany: poslanci Evropského parlamentu, úředníci Evropské komise a ministři nebo vysocí úředníci země, která EU právě předsedá. V průměru se koná zhruba 25 takových trialogů za týden.
+Čili jediný, kdo může v této chvíli přinést nový pohled, jsou národní vlády. Těm však opět dominují lidovci, kteří jsou hlavními aktéry této tragédie. Největší nadějí jsou Evropské volby na jaře příštího roku. Ty mohou změnit rozložení sil v EU, rozbít koalici eurolidovců a eurosocialistů a vnést do EU nějaký pokrok.
 
 ### Kdo je za to zodpovědný
 
@@ -45,10 +46,10 @@ Podobná reforma nevznikla ze dne na den. Naše pirátská europoslankyně Julia
 
 Důležité je také podívat se na konkrétní jména těch, kteří hlasovali pro tuto destrukci Internetu. V klíčovém hlasování o současné podobě článku 13 hlasovali pro zachování tito čeští europoslanci:
 
-* **Luděk Niedermayer (TOP 09, zvolen za TOP 09/STAN)**
-* **Michaela Šojdrová (KDU-ČSL)**
-* **Evžen Tošenovský (ODS)**
-* **Jan Zahradil (ODS)**
-* **Tomáš Zdechovský (KDU-ČSL)**
+* **[Luděk Niedermayer](https://cs.wikipedia.org/wiki/Lud%C4%9Bk_Niedermayer) (TOP 09, zvolen za TOP 09/STAN)**
+* **[Michaela Šojdrová](https://cs.wikipedia.org/wiki/Michaela_%C5%A0ojdrov%C3%A1) (KDU-ČSL)**
+* **[Evžen Tošenovský](https://cs.wikipedia.org/wiki/Ev%C5%BEen_To%C5%A1enovsk%C3%BD) (ODS)**
+* **[Jan Zahradil](https://cs.wikipedia.org/wiki/Jan_Zahradil) (ODS)**
+* **[Tomáš Zdechovský](https://cs.wikipedia.org/wiki/Tom%C3%A1%C5%A1_Zdechovsk%C3%BD) (KDU-ČSL)**
 
 Proti byli **Dlabajová, Charanzová, Ježek, Keller, Konečná, Payne, Maštálka, Poc, Poche, Kohlíček, Sehnalová, Svoboda, Štětina, Telička** a dva další se zdrželi (**Polčák, Pospíšil**).
