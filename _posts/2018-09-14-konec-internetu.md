@@ -45,10 +45,10 @@ Podobná reforma nevznikla ze dne na den. Naše pirátská europoslankyně Julia
 
 Důležité je také podívat se na konkrétní jména těch, kteří hlasovali pro tuto destrukci Internetu. V klíčovém hlasování o současné podobě článku 13 hlasovali pro zachování tito čeští europoslanci:
 
-    - Luděk Niedermayer (TOP 09, zvolen za TOP 09/STAN)
-    - Michaela Šojdrová (KDU-ČSL)
-    - Evžen Tošenovský (ODS)
-    - Jan Zahradil (ODS)
-    - Tomáš Zdechovský (KDU-ČSL)
+* **Luděk Niedermayer (TOP 09, zvolen za TOP 09/STAN)**
+* **Michaela Šojdrová (KDU-ČSL)**
+* **Evžen Tošenovský (ODS)**
+* **Jan Zahradil (ODS)**
+* **Tomáš Zdechovský (KDU-ČSL)**
 
-Proti byli Dlabajová, Charanzová, Ježek, Keller, Konečná, Payne, Maštálka, Poc, Poche, Kohlíček, Sehnalová, Svoboda, Štětina, Telička a dva další se zdrželi (Polčák, Pospíšil).
+Proti byli **Dlabajová, Charanzová, Ježek, Keller, Konečná, Payne, Maštálka, Poc, Poche, Kohlíček, Sehnalová, Svoboda, Štětina, Telička** a dva další se zdrželi (**Polčák, Pospíšil**).
