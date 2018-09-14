@@ -21,7 +21,7 @@ Připravte se na novou realitu, kde veškerý obsah nahrávaný na Internet (you
 
 Jak toho europoslanci docílili? Vždyť tohle je zcela evidentní nesmysl. Ano je, avšak jen pro lidi, kteří se někdy pohybovali na Internetu. Poslanci, zvláště pak z řad lidovců, ukázali, že stále žijí ve zcela jiném století.
 
-Ale zpět k tomu, co nám článek 13 nařizuje. Obrací dosavadní princip. Velcí provozovate (ang. označeni ISSP, např. Google, uložto.cz, leteckapošta.cz, vimeo) dnes provozují jen službu a uživatel služby odpovídá za to, co jejím prostřednictvím provede. Např. pokud nahraju video na youtube, odpovídám za to já, nikoliv Google (který vlastní YouTube a zároveň je vlastněn společností Alphabet). Avšak směrnice toto otáčí. A chce, aby byl primárně zodpovědný ISSP. Je to cesta nejjednodušší šikany, protože velcí hráči neuhnou ani se nikam neschovají. Proto těmto společnostem nezbude nic jiného než nasadit právě automatické filtry. V těchto filtrech uvízne spousta autorsky chráněného obsahu, ale i spousta obsahu nepodléhajícího takové ochraně.
+Ale zpět k tomu, co nám článek 13 nařizuje. Obrací dosavadní princip. Velcí provozovate (ang. označeni ISSP[^1], např. Google, uložto.cz, leteckapošta.cz, vimeo) dnes provozují jen službu a uživatel služby odpovídá za to, co jejím prostřednictvím provede. Např. pokud nahraju video na youtube, odpovídám za to já, nikoliv Google (který vlastní YouTube a zároveň je vlastněn společností Alphabet). Avšak směrnice toto otáčí. A chce, aby byl primárně zodpovědný ISSP. Je to cesta nejjednodušší šikany, protože velcí hráči neuhnou ani se nikam neschovají. Proto těmto společnostem nezbude nic jiného než nasadit právě automatické filtry. V těchto filtrech uvízne spousta autorsky chráněného obsahu, ale i spousta obsahu nepodléhajícího takové ochraně.
 
 Možná si někdo myslí, že velcí hráči mají dost peněz a nějak to zvládnou. Ti největší opravdu ano. Budou mít přísné autofiltry, které zcenzurují téměř vše. Budou lobbovat za to, aby přesný výklad vyhovoval jejich potřebám. Ale co se stane s malými provozovateli? Ti nebudou mít prostředky na nasazení a udržování filtrů a budou muset zavřít krám. To je ale cílem mediálního průmyslu, který tuto cenzuru tlačí.
 
@@ -53,3 +53,7 @@ Důležité je také podívat se na konkrétní jména těch, kteří hlasovali 
 * **[Tomáš Zdechovský](https://cs.wikipedia.org/wiki/Tom%C3%A1%C5%A1_Zdechovsk%C3%BD) (KDU-ČSL)**
 
 Proti byli **Dlabajová, Charanzová, Ježek, Keller, Konečná, Payne, Maštálka, Poc, Poche, Kohlíček, Sehnalová, Svoboda, Štětina, Telička** a dva další se zdrželi (**Polčák, Pospíšil**).
+
+---
+
+[^1]: Nezaměňovat s ISP - to je provozovatel internetového připojení.
