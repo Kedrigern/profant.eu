@@ -29,7 +29,7 @@ Praktickým důsledkem tohoto článku je tedy cenzura a likvidace drobných pro
 
 ### Konec odkazů
 
-Protokol HTTP je založen na linkování původně relativně jednoduchých dokumentů. Krásně tento princip ilustruje Wikipedia. Proto je opět zcela absurdní, že by byly odkazování omezeno. Samozřejmě je normální, že provozovatel stránky odkazovaný obsah podmíní přihlášením, ale článek 11 navrhuje něco zcela jiného. Navrhuje, že by byl autor textu odpovědný za to, co odkazuje!
+Protokol HTTP je založen na linkování původně relativně jednoduchých dokumentů. Krásně tento princip ilustruje Wikipedia. Proto je opět zcela absurdní, že by bylo odkazování omezeno. Samozřejmě je normální, že provozovatel stránky odkazovaný obsah podmíní přihlášením, ale článek 11 navrhuje něco zcela jiného. Navrhuje, že by byl autor textu odpovědný za to, co odkazuje!
 
 Tento nesmysl prosazují evropské mediální domy, které jsou neschopné nabídnout obsah, za který by uživatelé platili. V různé míře toto již zavedlo Španělsko a Německo. Problémem je, že takto restriktivní a plošná úprava zcela jasně naruší fungování Wikipedie (ta nebude moci citovat), vědeckých článků (opět budou problémem citace), agregátorů zpráv (Google news a podobné) a služeb pro uchovávání odkazů (Pocket, Feedly apod). Jenže tyto služby jsou páteří přidané hodnoty Internetu. Opravdu neznalí a viditelně zlobbovaní europoslanci se snaží z Internetu, zázraku 21. století, udělat běžné tištěné noviny, kde banda pantátů rozhoduje o jejich obsahu.
 
@@ -41,13 +41,14 @@ To je samozřejmě hlavní otázka, kterou si v Pirátské straně klademe. Evro
 
 ### Kdo je za to zodpovědný
 
-Podobná reforma nevznikla ze dne na den. Naše pirátská europoslankyně Julia Reda na problematice pracovala pilně, avšak naše frakce nemá většinu. Jak již bylo zmíněno, reforma zčásti přebírá špatnou legislativu z Německa a Španělska, kde mají velké slovo tradiční média. Když problematické články 11 a 13 prošly hlasováním výboru, tak jsme samozřejmě reagovali. Spustili jsme web [zachraninternet.cz](https://zachraninternet.cz/) a svolali postupně dvě demonstrace (reportáž). Samozřejmě jsme také informovali media, ale pro ta je to velmi složitá problematika, kterou příliš nechtějí řešit. Čestnou výjimkou je Nový deník, kde Petr Koubský [situaci popsal velmi přesně](https://www.facebook.com/notes/nov%C3%BD-den%C3%ADk/europoslanci-se-rozhodli-osekat-internet-m%C3%A9dia-dostanou-drobky-od-stolu-kde-hodu/262552087927941/). Avšak až po hlasování.
+Podobná reforma nevznikla ze dne na den. Naše pirátská europoslankyně Julia Reda na problematice pracovala pilně, avšak naše frakce nemá většinu. Jak již bylo zmíněno, reforma zčásti přebírá špatnou legislativu z Německa a Španělska, kde mají velké slovo tradiční média. Když problematické články 11 a 13 prošly hlasováním výboru, tak jsme samozřejmě reagovali. Spustili jsme web [zachraninternet.cz](https://zachraninternet.cz/) a svolali postupně dvě demonstrace. Samozřejmě jsme také informovali media, ale pro ta je to velmi složitá problematika, kterou příliš nechtějí řešit. Čestnou výjimkou je Nový deník, kde Petr Koubský [situaci popsal velmi přesně](https://www.facebook.com/notes/nov%C3%BD-den%C3%ADk/europoslanci-se-rozhodli-osekat-internet-m%C3%A9dia-dostanou-drobky-od-stolu-kde-hodu/262552087927941/). Avšak až po hlasování.
 
-Důležité je také podívat se na konkrétní jména těch, kteří hlasovali pro tuto destrukci Internetu. V klíčovém hlasování o současné podobě článku 13 hlasovali pro zachování tito čeští europoslanci: 
-    • Luděk Niedermayer (TOP 09, zvolen za TOP 09/STAN)
-    • Michaela Šojdrová (KDU-ČSL)
-    • Evžen Tošenovský (ODS)
-    • Jan Zahradil (ODS)
-    • Tomáš Zdechovský (KDU-ČSL)
+Důležité je také podívat se na konkrétní jména těch, kteří hlasovali pro tuto destrukci Internetu. V klíčovém hlasování o současné podobě článku 13 hlasovali pro zachování tito čeští europoslanci:
 
-Proti byli Dlabajová, Charanzová, Ježek, Keller, Konečná, Payne, Maštálka, Poc, Poche, Kohlíček, Sehnalová, Svoboda, Štětina, Telička a dva další se zdrželi: Polčák, Pospíšil.
+    - Luděk Niedermayer (TOP 09, zvolen za TOP 09/STAN)
+    - Michaela Šojdrová (KDU-ČSL)
+    - Evžen Tošenovský (ODS)
+    - Jan Zahradil (ODS)
+    - Tomáš Zdechovský (KDU-ČSL)
+
+Proti byli Dlabajová, Charanzová, Ježek, Keller, Konečná, Payne, Maštálka, Poc, Poche, Kohlíček, Sehnalová, Svoboda, Štětina, Telička a dva další se zdrželi (Polčák, Pospíšil).
