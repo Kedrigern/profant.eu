@@ -52,7 +52,7 @@ Důležité je také podívat se na konkrétní jména těch, kteří hlasovali 
 * **[Jan Zahradil](https://cs.wikipedia.org/wiki/Jan_Zahradil) (ODS)**
 * **[Tomáš Zdechovský](https://cs.wikipedia.org/wiki/Tom%C3%A1%C5%A1_Zdechovsk%C3%BD) (KDU-ČSL)**
 
-Proti byli **Dlabajová, Charanzová, Ježek, Keller, Konečná, Payne, Maštálka, Poc, Poche, Kohlíček, Sehnalová, Svoboda, Štětina, Telička** a dva další se zdrželi (**Polčák, Pospíšil**).
+Proti byli **Dlabajová, Charanzová, Ježek, Keller, Konečná, Payne, Maštálka, Poc, Poche, Kohlíček, Sehnalová, Svoboda, Štětina, Telička** a dva další se zdrželi **Polčák**, **Pospíšil**.
 
 ---
 
