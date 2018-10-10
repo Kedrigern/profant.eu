@@ -19,9 +19,9 @@ Zmíněný negativní příklad se týká veřejné zakázky Magistrátu hlavní
 
 Celkem byly vybrány tyto tři společnosti s následujícími sazbami:
 
-* PragoData a.s. (15 800 Kč za den, tedy 1 975 Kč za hod. bez DPH)
-* ADVICE.CZ Solutions s.r.o. (17 200 Kč za den, tedy 2 150 Kč za hod. bez DPH)
-* NESS Czech s.r.o. (17 500 Kč za den, tedy 2 187,50 Kč za hod. bez DPH)
+* PragoData a.s. (15 800 Kč za den, tedy **1 975 Kč za hod.** bez DPH)
+* ADVICE.CZ Solutions s.r.o. (17 200 Kč za den, tedy **2 150 Kč za hod.** bez DPH)
+* NESS Czech s.r.o. (17 500 Kč za den, tedy **2 187,50 Kč za hod.** bez DPH)
 
 Všechny tři společnosti jsou partnery společnosti Gordic, která je výrobcem platformy GINIS+. Do výběrového řízení se tak mohli přihlásit pouze dodavatelé, kteří byli zároveň certifikováni jako GORDIC PARTNER. Už jen to představuje v případě tak velké zakázky problém, nicméně to v praxi není nic neobvyklého.
 
@@ -35,11 +35,11 @@ Konzervativní přístup veřejné správy, kdy se raději alibisticky nakupuje 
 
 Varianty lepšího řešení pro příklad informačního systému pro ERP a ESSS agendy MHMP jsou následující:
 
-Magistrát by při svém rozpočtu mohl investovat do pořízení informačního systému na míru, který by pak mohl nabízet jako otevřený software ostatním krajským městům, a stále by proti současnému stavu ušetřil. Zvláště pak ve chvíli, kdy by se rozvoje chopila i ostatní města,
-případně by mohl Magistrát upustit od rozšiřování proprietárního systému, při jehož užívání je závislý na jeho jediném výrobci, a naopak jeho roli omezit a rozvíjet vlastní nadstavby, u kterých by bylo možné dodavatele skutečně volit na základě otevřené soutěže.
+* Magistrát by při svém rozpočtu mohl investovat do pořízení **informačního systému na míru**, který by pak mohl nabízet jako otevřený software ostatním krajským městům, a stále by proti současnému stavu ušetřil. Zvláště pak ve chvíli, kdy by se rozvoje chopila i ostatní města,
+* případně by mohl Magistrát upustit od rozšiřování proprietárního systému, při jehož užívání je závislý na jeho jediném výrobci, a naopak jeho roli omezit a **rozvíjet vlastní nadstavby**, u kterých by bylo možné dodavatele skutečně volit na základě otevřené soutěže.
 
 I kdybychom ale přistoupili na argumentaci aktuální potřeby určité systémové kontinuity, tedy že MHMP zkrátka z více či méně objektivních důvodů v současnosti musí používat právě platformu GINIS+, vykazuje tato veřejná zakázka výrazné prvky nehospodárnosti. Kupříkladu ve srovnání s podobnou zakázkou, kterou soutěžil Magistrát města Brna rovněž na údržbu a podporu software Ginis. V Brně dokázali vybrat dodavatele za jedenáctkrát nižší cenu, ve srovnání s Prahou tedy za čtyři roky ušetří zhruba 308 000 000,- korun. A to už nejsou zanedbatelné prostředky. Na tento problém jsem [upozornil již na zastupitelstvu 26. 1. 2017](https://github.com/pirati-byro/spisy-zk-pha-2016/blob/master/4382-gordic/2017-01-26-500M-zakazka/prezentace.pdf).
 
-Pokud bychom pro srovnání vycházeli z [Přehledu obvyklých cen ICT prací](http://www.mvcr.cz/clanek/prehled-obvyklych-cen-ict-praci.aspx) prací k dnešnímu datu, dalo by se pouze za rozdíl mezi náklady Prahy a Brna pořídit například 10 000 člověkohodin administrátorů, 10 000 člověkohodin programátorů, 10 000 člověkohodin podpory a 10 000 člověkohodin specialistů v nejvyšší cenové hladině a stále by se ušetřilo téměř 100 000 000,- korun! Tolik zbytečně promrhaných prostředků, které se daly využít daleko efektivněji. Když se ale podíváme do přehledu cen, zjistíme, kde vězí problém. Kupříkladu administrátor platformy Ginis je totiž v průměru dvojnásobně dražší než linuxový administrátor.
+Pokud bychom pro srovnání vycházeli z [Přehledu obvyklých cen ICT prací](http://www.mvcr.cz/clanek/prehled-obvyklych-cen-ict-praci.aspx) prací k dnešnímu datu, dalo by se pouze za rozdíl mezi náklady Prahy a Brna pořídit například **10 000 člověkohodin administrátorů, 10 000 člověkohodin programátorů, 10 000 člověkohodin podpory a 10 000 člověkohodin specialistů v nejvyšší cenové hladině a stále by se ušetřilo téměř 100 000 000,- korun!** Tolik zbytečně promrhaných prostředků, které se daly využít daleko efektivněji. Když se ale podíváme do přehledu cen, zjistíme, kde vězí problém. Kupříkladu administrátor platformy Ginis je totiž v průměru dvojnásobně dražší než linuxový administrátor.
 
 Veřejné zakázky na informační systémy a software obecně proto nadále zůstávají pro veřejnou správu značnou překážkou na cestě k efektivnímu egovernmentu. Aplikace stejných metod, které se pro rozvoj egovernmentu v ČR využívají od počátku devadesátých let, nás skutečně nikam neposune.
