@@ -37,7 +37,7 @@ Pozměňovacích návrhů se sešla celá řada. Ještě další mohou být pře
 
 **Rozpoznávání obličejů bez rizika:** Mezi novelizovanými zákony je i zákon o policii, kde se dává policii přístup k fotkám z dokladů (občanky, řidičáky, pasy, …). To je samozřejmě ohromný zásah do soukromí, který se nám nelíbí. Avšak zas nechceme policii znemožnit plnit její poslání. Naštěstí jsme našli kompromisní technické řešení, které je přesně v duchu článku 25 GDPR “privacy by design”. Chceme, aby úřady policii předávaly jen DB již předpracovaných markantů (signifikatních rysů obličeje z dané fotografie). V této DB pak policie může najít shodu a vyžádat si jen ty fotografie, které opravdu potřebuje. Jedná se [PN 967](http://www.psp.cz/sqw/text/orig2.sqw?idd=135806).
 
-**Infozákon bez obstrukcí:** Jakub Michálek navrhuje větší úpravu infozákona, která by ÚOOÚ svěřila řešení sporů a umožnila vydat “informační příkaz”. Řešily by se tím situace, kdy odvolací místo sice rozhodne, že důvod zamítnutí žádosti je neopodstatněný, ale dotazovaný úřad si vymýšlí stále další neopodstatněné důvody. Tento ping pong může mít i velmi mnoho iterací. Setkali jsme se i s více jak deseti koly odvolání.
+**Infozákon bez obstrukcí:** Jakub Michálek navrhuje větší úpravu infozákona, která by ÚOOÚ svěřila řešení sporů a umožnila vydat “informační příkaz”. Řešily by se tím situace, kdy odvolací místo sice rozhodne, že důvod zamítnutí žádosti je neopodstatněný, ale dotazovaný úřad si vymýšlí stále další neopodstatněné důvody. Tento ping pong může mít i velmi mnoho iterací. Setkali jsme se i s více jak deseti koly odvolání. [SD 1074](http://www.psp.cz/sqw/text/orig2.sqw?idd=136143)
 
 ### Konsensuální pozměňovací návrhy
 
