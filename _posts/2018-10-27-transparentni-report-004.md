@@ -69,8 +69,8 @@ Samozřejmě jsem se zúčastnil i další demonstrace za svobodný internet, kt
 
 **Schůzky**
 
-* 21. 8. jsem se setkal s Věrou Průchovou ze Seznam.cz ohledně GDPR a legislativy dopadající na media. Probrali jsme pozměňovací návrhy, které předkládám, a další návrhy, jako je například e-privacy z EU.
-* 30. 8. jsme se já, Ivan Bartoš, Jakub Michálek a Jan Hamal Dvořák setkali s Lukášem Kulovaným ze Státní tiskárny cenin. Řešili jsme rozvoj této organizace. Převážilo téma rozpoznávání padělaných dokladů.
+* 21.8. jsem se setkal s Věrou Průchovou ze Seznam.cz ohledně GDPR a legislativy dopadající na media. Probrali jsme pozměňovací návrhy, které předkládám, a další návrhy, jako je například e-privacy z EU.
+* 30.8. jsme se já, Ivan Bartoš, Jakub Michálek a Jan Hamal Dvořák setkali s Lukášem Kulovaným ze Státní tiskárny cenin. Řešili jsme rozvoj této organizace. Převážilo téma rozpoznávání padělaných dokladů.
 
 Na doporučení Olgy Richterové jsem se opakovaně v průběhu srpna sešel s představiteli SFRB a probíral jsem s nimi zakázku na nový informační systém. Sepisujeme řadu doporučení, která jsme již vyjádřili ústně. Tato práce bude dále použita v metodickém materiálu proti vendor lock-in.
 
@@ -98,8 +98,8 @@ Také proběhlo druhé čtení transpozice GDPR do českého právního řádu. 
 
 **Schůzky**
 
-* 24. 9. jsem se setkal s mým prastrýčkem Stanislavem Profantem, který působí v Nadačním fondu maltézského kříže. Mírně jsme zmínili mou i jeho práci a politické poměry. Nicméně naše setkání bylo převážně rodinné.
-* 24. 9. Jsem se setkal s Davidem Klímkem ohledně zákonu o digitální službě a našem pozměňovacím návrhu o "espis" ke GDPR.
-* 25. 9. Jsem se setkal s Petr Říhou ohledně egovernmentu. Na základě jeho zkušeností jsme se dohodli i na budoucí volné spolupráci.
+* 24.9. jsem se setkal s mým prastrýčkem Stanislavem Profantem, který působí v Nadačním fondu maltézského kříže. Mírně jsme zmínili mou i jeho práci a politické poměry. Nicméně naše setkání bylo převážně rodinné.
+* 24.9. jsem se setkal s Davidem Klímkem ohledně zákonu o digitální službě a našem pozměňovacím návrhu o "espis" ke GDPR.
+* 25.9. jsem se setkal s Petr Říhou ohledně egovernmentu. Na základě jeho zkušeností jsme se dohodli i na budoucí volné spolupráci.
 
 Opakovaně jsem se též setkal se Zdeňkem Zajíčkem, prezidentem ICT unie, se kterým jsem obvykle řešil připravovaný poslanecký zákon o digitální službě a náš pozměňovací návrh "espis". Občas jsme lehce zabrousili i do pražské politiky. Nicméně jen na velmi odměřené bázi.
