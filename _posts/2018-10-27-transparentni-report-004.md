@@ -5,7 +5,7 @@ date:       2018-10-27 19:00:00 +0100
 categories: report
 comments:   true
 tags:       transparence, report, Piráti
-img:        report004.jpg
+img:        report004.png
 author:     Ondřej Profant
 ---
 
