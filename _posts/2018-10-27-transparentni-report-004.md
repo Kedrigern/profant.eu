@@ -69,7 +69,7 @@ Samozřejmě jsem se zúčastnil i další demonstrace za svobodný internet, kt
 
 **Schůzky**
 
-* 21.8. jsem se setkal s Věrou Průchovou ze Seznam.cz ohledně GDPR a legislativy dopadající na media. Probrali jsme pozměňovací návrhy, které předkládám, a další návrhy, jako je například e-privacy z EU.
+* 21.8. jsem se setkal s Věrou Průchovou ze Seznam.cz ohledně GDPR a legislativy dopadající na média. Probrali jsme pozměňovací návrhy, které předkládám, a další návrhy, jako je například e-privacy z EU.
 * 30.8. jsme se já, Ivan Bartoš, Jakub Michálek a Jan Hamal Dvořák setkali s Lukášem Kulovaným ze Státní tiskárny cenin. Řešili jsme rozvoj této organizace. Převážilo téma rozpoznávání padělaných dokladů.
 
 Na doporučení Olgy Richterové jsem se opakovaně v průběhu srpna sešel s představiteli SFRB a probíral jsem s nimi zakázku na nový informační systém. Sepisujeme řadu doporučení, která jsme již vyjádřili ústně. Tato práce bude dále použita v metodickém materiálu proti vendor lock-in.
