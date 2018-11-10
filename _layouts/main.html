@@ -5,8 +5,10 @@ layout: default
 {% include tagcloud.html %}
 
 <div class="row" id="content">
-  <div class="large-8 columns">
+  <div class="small-12 medium-8 columns">
   {{ content }}
-	</div>
-  {% include rbar.html %}
+  </div>
+  <div class="medium-4 show-for-medium columns">
+    {% include rbar.html %}
+  </div>
 </div>

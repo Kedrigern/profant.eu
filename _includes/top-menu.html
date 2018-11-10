@@ -5,10 +5,10 @@
         <li class="sitenav-items__item sitenav-items__item--main{% if page.permalink == '' %} sitenav-items__item--active{% endif %}">
           <div class="sitenav-profile">
               <div class="sitenav-profile__brand">
-                <a href="{{ site.baseurl }}"><img src="{{ 'assets/img/brand/logo_napis_white.svg' | relative_url }}" /></a>
+                <a href="{{ '/' | relative_url }}"><img src="{{ 'assets/img/brand/logo_napis_white.svg' | relative_url }}" /></a>
               </div>
               <div class="sitenav-profile__author">
-                <a class="sitenav-profile__author-name" href="{{ site.baseurl }}/">{{ site.author }}</a>
+                <a class="sitenav-profile__author-name" href="{{ '/' | relative_url }}">{{ site.author }}</a>
                 <div class="sitenav-social">
                   <a class="sitenav-social__link" href="https://www.facebook.com/{{site.facebook_username}}"><i class="fi-social-facebook icon"></i></a>
                   <a class="sitenav-social__link" href="https://twitter.com/{{site.twitter_username}}"><i class="fi-social-twitter icon"></i></a>

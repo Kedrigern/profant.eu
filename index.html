@@ -3,32 +3,24 @@ layout: main
 ---
 
 {% for post in paginator.posts %}
-<div class="blog-post">
-  <a href="{{site.baseurl}}{{post.url}}"><h2 class="bottompadding">{{post.title}}</h2></a>
+<div class="blog-posting">
   <div class="row">
-  <div class="large-6 columns imagebox">
-  <img class="thumbnail" src="{{post.img | prepend: 'assets/img/posts/' | relative_url}}">
-</div><div class="large-6 columns textbox">
-  <div class="text-justify bottompadding">
-  {{post.excerpt | markdownify }}
-</div>
-  <!--<div class="clearfix date-author">-->
-  <div class="row date-author">
-    <!--<div class="float-left">-->
-      <div class="small-6 columns">
-      <a href="{{site.baseurl}}{{post.url}}">Číst dále</a>
+    <div class="small-12 medium-4 columns imagebox">
+      <a href="{{ post.url | relative_url }}">
+        <img class="thumbnail blog-posting__media" src="{{ post.img | prepend: 'assets/img/posts/' | relative_url }}">
+      </a>
     </div>
-    <!--<div  class="float-right">-->
-    <div class="small-6 columns text-right">
-      <small>{{post.date | date:"%d. %m. %Y"}}, {{post.author}}
-      </small>
+    <div class="small-12 medium-8 columns">
+      <h2 class="blog-posting__headline t-h4"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+      <p class="blog-posting__excerpt">
+        <i class="blog-posting__pubdate">{{ post.date | date:"%d. %m. %Y" }}</i>&nbsp;&mdash;&nbsp;<span>{{ post.excerpt | truncatewords: 33 | strip_html  }}</span>
+      </p>
+      <p>
+        <a class="blog-posting__readmore" href="{{ post.url | relative_url }}">Číst dále &raquo;</a>
+      </p>
     </div>
   </div>
 </div>
-  </div>
-  </div>
-  <hr />
-
 {% endfor %}
 
 <ul class="pagination text-center" role="navigation" aria-label="Pagination">

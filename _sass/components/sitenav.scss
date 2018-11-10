@@ -85,9 +85,12 @@
     }
 
     &__author-name {
-        color: map-get($foundation-palette, secondary);
-
         @include headerStyle('h5', main);
+
+        &,
+        &:hover {
+            color: map-get($foundation-palette, secondary);
+        }
     }
 }
 

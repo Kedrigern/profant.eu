@@ -1,0 +1,13 @@
+.tagcloud__tag {
+  transition: opacity .3s ease-in-out;
+}
+
+.tagcloud {
+  &:hover .tagcloud__tag {
+    opacity: .1 !important;
+  }
+}
+
+.tagcloud .tagcloud__tag:hover {
+  opacity: 1 !important;
+}

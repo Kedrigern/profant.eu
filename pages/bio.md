@@ -1,8 +1,9 @@
 ---
-layout: post
+layout: page
 title:  "O mně"
 date:   2017-11-22 08:00:00 +0100
 permalink: "bio/"
+include_rbar: true
 ---
 
 <h1>Můj příběh
