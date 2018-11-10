@@ -4,8 +4,6 @@ title:  "Veřejné zakázky"
 permalink: "verejne-zakazky/"
 ---
 
-# Veřejné zakázky
-
 Vybrané příklady zajímavých veřejných zakázek v kterých figuruje opensource či plné předání majetkových práv.
 
 <table>
