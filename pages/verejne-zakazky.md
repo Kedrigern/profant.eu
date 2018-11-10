@@ -1,5 +1,5 @@
 ---
-layout: wide
+layout: page
 title:  "Veřejné zakázky"
 permalink: "verejne-zakazky/"
 ---

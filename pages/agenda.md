@@ -1,11 +1,9 @@
 ---
-layout: wide
+layout: page
 title:  "Aktuální agenda"
 permalink: "agenda/"
 customjs: redmineTable.html
 ---
-
-# Aktuální agenda
 
 Přehled aktuální agendy pirátského poslance Ondřeje Profanta.
 

@@ -1,63 +1,57 @@
 ---
-layout: page
+layout: default
 categories: static-page
 title: "Úspěchy"
 permalink: "uspechy/"
 comments: false
 ---
 
-<div class="timeline">
-  {% for uspech in site.data.uspechy %}
+<div class="page">
+  <div class="row">
+    <div class="small-12 columns">
+      <h1 class="page__headline timeline-headline">{{ page.title }}</h1>
+    </div>
+  </div>
 
-   <div class="timeline-item">
-     <div class="timeline-icon">
-       <i class="fa fa-{{uspech.icon}}" aria-hidden="true"></i>
-     </div>
-     {% assign mod = forloop.index | modulo:2 %}
-     {% if  mod == 0 %}
-     <div class="timeline-content right">
-       <p class="timeline-content-date">{{uspech.date | date:"%d. %m. %Y"}}</p>
-       <p class="timeline-content-date">{{uspech.title}}</p>
-       <p>{{uspech.description}}</p>
-       {% if uspech.link %}
-       {% for odkaz in uspech.link  %}
-       <p><a href= {{odkaz}}>Odkaz</a></p>
-      {% endfor %}
-       {% endif %}
-     </div>
-     {% if uspech.img %}
+  <div class="row">
+    <div class="small-12 columns">
+      <div class="timeline">
+        {% for uspech in site.data.uspechy %}
+          <div class="timeline-item">
+            <div class="timeline-icon">
+              <i class="fa fa-{{uspech.icon}}" aria-hidden="true"></i>
+            </div>
 
-     <div class="timeline-content image">
-     <img class="timeline-image" src="{{uspech.img}}" alt= "{{uspech.title}}"/>
-     {% if uspech.img-attribution %}
-     <small class="timeline-image-attr">Foto: {{uspech.img-attribution}}</small>
-     {% endif %}
-     </div>
-      {% endif %}
-     {% else %}
-     {% if uspech.img %}
+            {% assign mod = forloop.index | modulo:2 %}
 
-       <div class="timeline-content right image">
-       <img class="timeline-image" src="{{uspech.img}}" alt= "{{uspech.title}}"/>
-       {% if uspech.img-attribution %}
-       <small class="timeline-image-attr">Foto: {{uspech.img-attribution}}</small>
-       {% endif %}
-     </div>
-      {% endif %}
+            <div class="timeline-content {% if  mod == 0 %}timeline-content--right{% endif %}">
+              <div class="timeline-content__desc">
+                <p class="timeline-content__date">{{ uspech.date | date:"%d. %m. %Y" }}</p>
+                <h2 class="timeline-content__title">{{ uspech.title }}</h2>
+                <p>{{ uspech.description }}</p>
 
-     <div class="timeline-content">
-        <p class="timeline-content-date">{{uspech.date | date:"%d. %m. %Y"}}</p>
-       <p class="timeline-content-date">{{uspech.title}}</p>
-       <p>{{uspech.description}}</p>
-       {% if uspech.link %}
-       {% for odkaz in uspech.link  %}
-       <p><a href= {{odkaz}}>Odkaz</a></p>
-      {% endfor %}
-       {% endif %}
-     </div>
-       {% endif %}
+                {% if uspech.link %}
+                  {% for odkaz in uspech.link  %}
+                  <div><a class="t-anchor" href="{{ odkaz }}" rel="noopener" target="_blank">Odkaz</a></div>
+                  {% endfor %}
+                {% endif %}
+              </div>
 
+              <div class="timeline-content__media">
+                {% if uspech.img %}
+                  <img class="timeline-image" src="{{uspech.img}}" alt= "{{uspech.title}}"/>
 
-   </div>
-   {% endfor %}
+                  {% if uspech.img-attribution %}
+                    <p>
+                      <small class="timeline-image-attr">Foto: {{uspech.img-attribution}}</small>
+                    </p>
+                  {% endif %}
+                {% endif %}
+                </div>
+            </div>
+          </div>
+        {% endfor %}
+      </div>
+    </div>
+  </div>
 </div>

@@ -17,6 +17,12 @@ $body-font-color: map-get($foundation-palette, primary);
 $body-font-family: 'Roboto Condensed', Helvetica, Arial, sans-serif;
 $body-antialiased: true;
 
+$global-weight-normal: 300;
+$global-weight-bold: 700;
+
+$thumbnail-border: none;
+$thumbnail-shadow: none;
+
 $breakpoints: (
   small: 0,
   middle: 480px,
