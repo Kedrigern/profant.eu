@@ -1,0 +1,16 @@
+@each $headingClass, $headingSettings in $headers {
+  @if ($headingClass == 'main') {
+    @each $variant in map-get($headingSettings, variants) {
+      #{$variant},
+      .t-#{$variant} {
+        @include headerStyle($variant, $headingClass);
+      }
+    }
+  } @else {
+    @each $variant in map-get($headingSettings, variants) {
+      .t-#{$variant}-#{$headingClass} {
+        @include headerStyle($variant, $headingClass);
+      }
+    }
+  }
+}

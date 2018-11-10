@@ -1,0 +1,41 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto+Condensed:300,400,700&subset=latin-ext");
+
+@font-face {
+    font-family: "Bebas Neue Book";
+    src: url("/assets/fonts/BebasNeueBook.woff") format("woff"),
+        url("/assets/fonts/BebasNeueBook.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Bebas Neue";
+    src: url("/assets/fonts/BebasNeue-Thin.woff") format("woff"),
+        url("/assets/fonts/BebasNeue-Thin.ttf") format("truetype");
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Bebas Neue";
+    src: url("/assets/fonts/BebasNeueLight.woff") format("woff"),
+        url("/assets/fonts/BebasNeueLight.ttf") format("truetype");
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Bebas Neue";
+    src: url("/assets/fonts/BebasNeueRegular.woff") format("woff"),
+        url("/assets/fonts/BebasNeueRegular.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Bebas Neue";
+    src: url("/assets/fonts/BebasNeueBold.woff") format("woff"),
+        url("/assets/fonts/BebasNeueBold.ttf") format("truetype");
+    font-weight: bold;
+    font-style: normal;
+}
