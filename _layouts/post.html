@@ -2,19 +2,39 @@
 layout: default
 ---
 
-<div class="row" style="padding-top: 1rem">
-  <div class="large-8 columns">
-    <h1 style="padding-top: 5px;">{{ page.title }}</h1>
-    <p>
-      <small>{{page.date | date:"%d. %m. %Y"}} {{page.author}}</small>
-    </p>
-    {% if page.img %}
-    <img class="thumbnail" src="{{page.img | prepend: 'assets/img/posts/' | relative_url}}">
-    <br /> {% endif %}
-    <div id="content" style="margin-top: 30px; margin-bottom: 60px;" class="text-justify">
-    {{ content }}
+<div class="page post">
+  <div class="row">
+    <div class="small-12 columns">
+      <h1 class="page__headline">{{ page.title }}</h1>
     </div>
-    {% if page.comments %}<hr> {% include disqus.html %} {% endif %}
   </div>
-  {% include rbar.html %}
+
+  <div class="row">
+    <div class="small-12 medium-8 columns">
+      {% if page.img %}
+      <div class="post__thumbnail">
+        <img class="thumbnail" src="{{ page.img | prepend: 'assets/img/posts/' | relative_url }}">
+      </div>
+      {% endif %}
+
+      <p class="post__excerpt content-block">
+          <i>{{ page.date | date:"%d. %m. %Y" }}</i> &mdash; {{ page.excerpt | strip_html }}
+      </p>
+
+      <div id="content" class="post__content content-block">
+        {{ content | remove: page.excerpt }}
+      </div>
+
+      {% if page.comments %}
+        <div class="post__comments">
+          {% include disqus.html %}
+        </div>
+      {% endif %}
+    </div>
+
+    <div class="medium-4 columns show-for-medium">
+      {% include rbar.html %}
+    </div>
+  </div>
 </div>
+
