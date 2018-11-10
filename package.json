@@ -1,0 +1,22 @@
+{
+  "name": "profant.eu",
+  "version": "1.0.0",
+  "description": "Personal profile page.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kedrigern/Kedrigern.github.io.git"
+  },
+  "author": "",
+  "license": "CC-BY-3.0",
+  "bugs": {
+    "url": "https://github.com/Kedrigern/Kedrigern.github.io/issues"
+  },
+  "homepage": "https://github.com/Kedrigern/Kedrigern.github.io#readme",
+  "dependencies": {
+    "foundation-sites": "^6.3.1"
+  }
+}

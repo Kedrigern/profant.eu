@@ -41,9 +41,20 @@ plugins:
   - jekyll-redirect-from
 
 exclude:
+  - README.md
   - Gemfile
   - Gemfile.lock
+  - vendor
+  - node_modules
+  - package.json
+  - package-lock.json
 
+
+sass:
+  style: compressed
+  load_paths:
+    - _sass
+    - node_modules
 
 paginate_path: "/stranka/:num/"
 paginate: 5

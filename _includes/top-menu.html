@@ -1,26 +1,32 @@
-
-<div class="top-bar">
+<div class="sitenav">
   <div class="row">
-  <div class="large-4  small-6 columns">
-    <ul class="menu">
-      <li class="menu-text{% if page.permalink == '' %} is-active{% endif %}"><a href="{{ site.baseurl }}/">{{site.author}}</a></li>
-    </ul>
+    <div class="columns small-12">
+      <ul class="sitenav-items">
+        <li class="sitenav-items__item sitenav-items__item--main{% if page.permalink == '' %} sitenav-items__item--active{% endif %}">
+          <div class="sitenav-profile">
+              <div class="sitenav-profile__brand">
+                <a href="{{ site.baseurl }}"><img src="{{ 'assets/img/brand/logo_napis_white.svg' | relative_url }}" /></a>
+              </div>
+              <div class="sitenav-profile__author">
+                <a class="sitenav-profile__author-name" href="{{ site.baseurl }}/">{{ site.author }}</a>
+                <div class="sitenav-social">
+                  <a class="sitenav-social__link" href="https://www.facebook.com/{{site.facebook_username}}"><i class="fi-social-facebook icon"></i></a>
+                  <a class="sitenav-social__link" href="https://twitter.com/{{site.twitter_username}}"><i class="fi-social-twitter icon"></i></a>
+                  <a class="sitenav-social__link" href="https://github.com/{{site.github_username}}"><i class="fi-social-github icon"></i></a>
+                  <a class="sitenav-social__link" href="{{ site.baseurl }}/feed.xml" alt="ATOM/RSS"><i class="fi-rss icon" alt="ATOM/RSS"></i></a>
+                  <a class="sitenav-social__link" href="mailto:{{site.email}}"><i class="fi-mail icon"></i></a>
+                </div>
+              </div>
+          </div>
+        </li>
+        <li class="sitenav-items__item">
+          <ul class="sitenav-links">
+            <li class="sitenav-links__link{% if page.permalink == 'bio/' %} sitenav-links__link--active{% endif %}"><a href="{{ site.baseurl }}/bio/">Bio</a></li>
+            <li class="sitenav-links__link{% if page.permalink == 'transparentnost/' %} sitenav-links__link--active{% endif %}"><a  href="{{ site.baseurl }}/transparentnost/">Transparentnost</a></li>
+            <li class="sitenav-links__link{% if page.permalink == 'uspechy/' %} sitenav-links__link--active{% endif %}"><a  href="{{ site.baseurl }}/uspechy/">Úspěchy</a></li>
+          </ul>
+        </li>
+      </ul>
+    </div>
   </div>
-  <div class="large-4  small-6 columns">
-    <div class="large-text-center small-text-right small-right">
-  		<a href="https://www.facebook.com/{{site.facebook_username}}"><i class="fi-social-facebook icon"></i></a>
-  		<a href="https://twitter.com/{{site.twitter_username}}"><i class="fi-social-twitter icon"></i></a>
-  		<a href="https://github.com/{{site.github_username}}"><i class="fi-social-github icon"></i></a>
-		  <a href="{{ site.baseurl }}/feed.xml" alt="ATOM/RSS"><i class="fi-rss icon" alt="ATOM/RSS"></i></a>
-		  <a href="mailto:{{site.email}}"><i class="fi-mail icon"></i></a>
-  	</div>
-  </div>
-  <div class="large-4 columns" >
-    <ul class="menu large-right"  >
-      <li class="menu-text{% if page.permalink == 'bio/' %} is-active{% endif %}"><a href="{{ site.baseurl }}/bio/">Bio</a></li>
-      <li class="menu-text{% if page.permalink == 'transparentnost/' %} is-active{% endif %}"><a href="{{ site.baseurl }}/transparentnost/">Transparentnost</a></li>
-      <li class="menu-text{% if page.permalink == 'uspechy/' %} is-active{% endif %}"><a href="{{ site.baseurl }}/uspechy/">Úspěchy</a></li>
-    </ul>
-  </div>
-</div>
 </div>
