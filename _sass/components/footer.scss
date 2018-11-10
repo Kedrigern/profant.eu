@@ -1,0 +1,36 @@
+.footer {
+  background-color: map-get($foundation-palette, ternary);
+  padding: 2rem 0 0;
+  color: $dark-gray;
+
+  a {
+    color: $dark-gray;
+    @include anchorStyle();
+  }
+}
+
+.footer-nav__headline {
+  text-transform: uppercase;
+
+  @include headerStyle('h5', sub);
+}
+
+.footer__copy {
+  margin-top: 2rem;
+  padding: 2rem 0;
+  background-color: map-get($foundation-palette, primary);
+
+  &,
+  a {
+    color: $dark-gray;
+  }
+
+  small {
+    margin-left: 1rem;
+  }
+}
+
+.footer__copy-line {
+  display: flex;
+  align-items: center;
+}

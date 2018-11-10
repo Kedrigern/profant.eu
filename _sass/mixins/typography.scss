@@ -1,3 +1,11 @@
+@mixin anchorStyle {
+  text-decoration: underline;
+
+  &.active {
+    font-weight: bold;
+  }
+}
+
 @mixin headerStyle($header, $type: main) {
   $settings: map-get($headers, $type);
 
