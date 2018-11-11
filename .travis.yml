@@ -2,6 +2,7 @@ language: ruby
 rvm:
     - 2.5.1
 script:
+  - npm install
   - JEKYLL_ENV=production bundle exec jekyll build
   - bundle exec htmlproofer ./site
 
