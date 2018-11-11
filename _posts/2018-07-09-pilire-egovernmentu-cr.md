@@ -4,7 +4,7 @@ title:      "Pilíře e-governementu ČR"
 date:       2018-07-09 18:00:00 +0100
 categories: Egovernment
 comments:   true
-tags:       egovernment, digitalizace, informatika, veřejná správa
+tags:       [egovernment, digitalizace, informatika, veřejná správa]
 img:        egov-cr.jpg
 author:     Ondřej Profant
 ---
@@ -24,7 +24,7 @@ V rámci ČR jsou k tomu 3 hlavní prostředky:
 * **Elektronické občanky**: Jsou všem vydávány od 1. 7. 2018, občanka nově elektronicky identifikuje osobu, ale není v ní certifikát pro podepisování dokumentů. Podpisový certifikát by mělo být možné přidat dodatečně.
 * **Důvěryhodní poskytovatelé identit**: Jedná se o společnosti, které splní veškeré náležitosti a zapojí se do sítě jednotných identit. V ČR se o to budou ucházet banky či [mojeid.cz](https://www.mojeid.cz/).
 
-Eidas navíc rozlišuje tři úrovně záruky identity, které se liší svými požadavky. Např. zdravotnickou dokumentaci dostanete pouze na tu nejvyšší, zatímco jednoduchý výpis můžete udělat i s tou nejnižší. Díky tomu se nemusíme bát digitalizovat ani velmi citlivé údaje, protože budou řádně zabezpečeny. 
+Eidas navíc rozlišuje tři úrovně záruky identity, které se liší svými požadavky. Např. zdravotnickou dokumentaci dostanete pouze na tu nejvyšší, zatímco jednoduchý výpis můžete udělat i s tou nejnižší. Díky tomu se nemusíme bát digitalizovat ani velmi citlivé údaje, protože budou řádně zabezpečeny.
 
 Možnosti by měly být shrnuty na webu [eIdentita](https://www.eidentita.cz).
 
@@ -57,7 +57,7 @@ Portál občana je nástroj, který spojuje tři základní pilíře egov do jed
 
 Jedná se o moderní portál, kam se občan může přihlásit pomocí celoevropské identity. Následně má možnost si nechat vypsat informace ze základních rejstříků veřejné správy, např. z katastru nemovitostí. Může spravovat všechny své datové schránky v prostředí výrazně přívětivějším, než je mojedatovaschranka.cz. A v neposlední řadě může podávat různé předpřipravené formuláře. V současnosti je tam však pouze žádost o informace.
 
-Nicméně portál je rozšiřitelný. Což ukazuje jeho pravý potenciál. Jednotlivé instituce tam mohou přidávat různé dlaždice. Např. ČSSZ vám vyměří důchod či SÚKL ukáže, jaké recepty jste měl a máte předepsané. 
+Nicméně portál je rozšiřitelný. Což ukazuje jeho pravý potenciál. Jednotlivé instituce tam mohou přidávat různé dlaždice. Např. ČSSZ vám vyměří důchod či SÚKL ukáže, jaké recepty jste měl a máte předepsané.
 Pokud se instituce veřejné správy naučí tento portál používat, tak se můžeme dostat k velmi ucelenému systému, přes který půjde zjistit spoustu podstatných informací a vyřídit spoustu životních situací. Dobrým příkladem může být portál [podej.to](https://podejto.cz/), kde obdobná podání dělá skupina soukromých subjektů za využití dnešních možností datových schránek.
 
 Za zmínku také stojí, že je to místo, kde můžete reklamovat data ze základních registrů.
@@ -69,5 +69,5 @@ Za zmínku také stojí, že je to místo, kde můžete reklamovat data ze zákl
 3. **Znalost a ochota úředníků**: Znalost a ochota přijímat elektronickou formu, či dokonce kvalifikovaně poradit s problémy je slabá. Úřady mnohdy digitální cestu vnímají spíše jako prostředek šikany občana než preferovanou cestu vyřízení. Mnohdy je výrazně snazší dojít na úřad a vyřídit věci papírově než poslat formulář elektronicky.
 4. **Ucelenost**: Možnosti mnohdy existují, ale nejsou propagovány či jsou uživatelsky zcela nepřívětivé. Tento problém řeší právě [podej.to](https://podejto.cz/) a do budoucna snad portál občana
 5. **Motivace z nejvyšších míst**: Podporu digitalizace sice deklarují skoro všichni, avšak reálné kroky nedělá téměř nikdo. Když se zjistí pochybení, tak ministři pouze mávnou rukou.
-6. **Kvalitní dodavatelé**: Dodávané systémy jsou mnohdy nefunkční, nepřívětivé a předražené. To se děje, protože není reálná konkurence. Trh má rozděleno několik firem specializujících se na veřejnou správu. Příkladem za všechny je NEN. 
+6. **Kvalitní dodavatelé**: Dodávané systémy jsou mnohdy nefunkční, nepřívětivé a předražené. To se děje, protože není reálná konkurence. Trh má rozděleno několik firem specializujících se na veřejnou správu. Příkladem za všechny je NEN.
 7. **Legislativa**: Je příliš složitá. Je potřeba, aby jasněji řekla, že digitalizace je dobrá. Současná legislativa je spíše defenzívou vůči papíru. Vhodná vždy pro konkrétní účel, avšak nezaštiťující digitalizaci jako celek.

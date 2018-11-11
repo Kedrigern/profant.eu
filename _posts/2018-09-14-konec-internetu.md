@@ -4,7 +4,7 @@ title:      "Konec Internetu jak ho známe"
 date:       2018-09-14 19:00:00 +0100
 categories: Piráti
 comments:   true
-tags:       Piráti, EU, copyright, cenzura, internet
+tags:       [Piráti, EU, copyright, cenzura, internet]
 img:        copyright-cenzura.jpg
 author:     Ondřej Profant
 ---

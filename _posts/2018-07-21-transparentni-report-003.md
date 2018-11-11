@@ -4,7 +4,7 @@ title:      "Zpráva o transparentnosti duben 2018 - červen 2018"
 date:       2018-07-21 19:00:00 +0100
 categories: report
 comments:   true
-tags:       transparence, report, Piráti
+tags:       [transparence, report, Piráti]
 img:        report003.png
 author:     Ondřej Profant
 ---

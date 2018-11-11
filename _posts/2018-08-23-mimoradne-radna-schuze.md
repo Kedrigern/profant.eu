@@ -4,7 +4,7 @@ title:      "18. mimořádně řádná schůze Sněmovny"
 date:       2018-08-23 15:00:00 +0100
 categories: Sněmovna
 comments:   true
-tags:       Piráti, Sněmovna
+tags:       [Piráti, Sněmovna]
 img:        invaze-1968.png
 author:     Ondřej Profant
 ---
@@ -35,7 +35,7 @@ Bitva však není vybojována. Toto bylo jen první čtení. Ještě nám zbýva
 
 Bod k invazi v srpnu 1968 byl přehlídkou obhajoby KSČ ze strany KSČM. Nakonec jsme schválili usnesení:
 
->"Poslanecká sněmovna prohlašuje, že vtrhnutí vojsk pěti států Varšavské smlouvy v srpnu 1968 do Československa bylo aktem invaze a následné okupace a bylo v rozporu s mezinárodním právem." 
+>"Poslanecká sněmovna prohlašuje, že vtrhnutí vojsk pěti států Varšavské smlouvy v srpnu 1968 do Československa bylo aktem invaze a následné okupace a bylo v rozporu s mezinárodním právem."
 
 Je velmi smutné, že toto není jasné, ale je z toho potřeba dělat usnesení. Takovéto usnesení navíc samozřejmě nic nezmění.
 

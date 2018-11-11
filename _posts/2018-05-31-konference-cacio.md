@@ -4,7 +4,7 @@ title:      "Konference CACIO: Pozitivní příklady open source"
 date:       2018-05-31 16:00:00 +0100
 categories: Egovernment
 comments:   true
-tags:       digitalizace, open source, informatika, egovernment
+tags:       [digitalizace, opensource, informatika, egovernment]
 img:        konference-cacio.jpg
 author:     Ondřej Profant
 ---

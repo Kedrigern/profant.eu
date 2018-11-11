@@ -4,7 +4,7 @@ title:      "Co je DiEM a proč jej podporuji"
 date:       2017-12-02 18:00:00 +0100
 categories: Piráti
 comments:   true
-tags:       DiEM, EU, společnost, transparence, demokracie
+tags:       [DiEM, EU, společnost, transparence, demokracie]
 img:        diem25.png
 author:     Ondřej Profant
 redirect_from: "/pirati/2017/12/02/co-je-diem-a-proc-jej-podporuji.html"

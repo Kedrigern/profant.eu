@@ -4,7 +4,7 @@ title:      "Digitální Česko, o kterém sní Andrej Babiš"
 date:       2018-01-07 18:00:00 +0100
 categories: Digitalizace
 comments:   true
-tags:       digitalizace, vláda, programové prohlášení, e-government
+tags:       [digitalizace, vláda, programové prohlášení, egovernment]
 img:        logo-urad-vlady.png
 author:     Ondřej Profant
 redirect_from: "/digitalizace/2018/01/07/digitalni-cesko-o-kterem-sni-andrej-babis.html"

@@ -4,7 +4,7 @@ title:      "GINIS+ na MHMP: Příklad úskalí české digitalizace"
 date:       2018-10-10 19:00:00 +0100
 categories: Egovernment
 comments:   true
-tags:       egovernment, digitalizace, informatika, veřejná správa
+tags:       [egovernment, digitalizace, informatika, veřejná správa]
 img:        ginis.jpg
 author:     Ondřej Profant
 ---

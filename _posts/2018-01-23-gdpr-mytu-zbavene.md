@@ -4,7 +4,7 @@ title:      "GDPR mýtů zbavené"
 date:       2018-01-23 11:00:00 +0100
 categories: Soukromí
 comments:   true
-tags:       EU, e-government, osobní údaje, soukromí
+tags:       [EU, egovernment, osobní-údaje, soukromí]
 img:        gdpreu.jpg
 author:     Ondřej Profant
 redirect_from: "/soukromí/2018/01/23/gdpr-mytu-zbavene.html"

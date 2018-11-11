@@ -4,7 +4,7 @@ title:      "Pozvánka: Otevřená data a otevřené vzdělávací zdroje"
 date:       2018-06-24 10:00:00 +0100
 categories: opendata
 comments:   true
-tags:       open-access opendata
+tags:       [open-access opendata]
 img:        pozvanka-opendata.jpg
 author:     Ondřej Profant
 ---
@@ -17,12 +17,12 @@ Opendata jsme již na tomto blogu [představili](https://www.profant.eu/2017/zpr
 
 ## Panelová diskuze – návrhy a doporučení pro efektivnější implementaci otevřených dat a OER v ČR
 
-Pořádá: Aliance pro otevřené vzdělávání  
-Pod záštitou: Pirátské strany, Poslanecké sněmovny Parlamentu České republiky  
+Pořádá: Aliance pro otevřené vzdělávání
+Pod záštitou: Pirátské strany, Poslanecké sněmovny Parlamentu České republiky
 Partner: projekt DigiStrategie 2020, který realizuje Fond dalšího vzdělávání
 
-**Kdy**: 25.6.2018, 13:00–15:00  
-**Kde**: Sněmovní 4, Praha 1  
+**Kdy**: 25.6.2018, 13:00–15:00
+**Kde**: Sněmovní 4, Praha 1
 
 Je nutné, aby se zájemci o účast na akci přihlásili prostřednictvím [webové stránky](http://www.digistrategie.cz/otevrena-data).
 
@@ -36,8 +36,8 @@ Obě studie jsou v plném znění na [webu](http://www.digistrategie.cz/).
 
 Příspěvek ve stručnosti představí sadu doporučení pro efektivnější implementaci OER do vzdělávání v ČR.
 
-*Moderátor*: Michal Kaderka  
-*Prezentující*: Tamara Kováčová  
+*Moderátor*: Michal Kaderka
+*Prezentující*: Tamara Kováčová
 *Panelisté*: Pavel Baran, Michal Černý, Jiří Marek, Ondřej Neumajer, Lucie Straková, Martin Sycha
 
 Coffee Break
@@ -50,6 +50,6 @@ Zaměří se rovněž na nejčastější problémy a překážky, které se při
 
 V závěru shrne možné vyhlídky do budoucna v podobě navrhované novely evropské PSI směrnice.
 
-*Moderátor*: Tamara Kováčová  
-*Prezentující*: Jakub Míšek  
+*Moderátor*: Tamara Kováčová
+*Prezentující*: Jakub Míšek
 *Panelisté*: Benedikt Kotmel, Lenka Kováčová, Michal Kubáň, Ondřej Profant

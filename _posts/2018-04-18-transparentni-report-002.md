@@ -4,7 +4,7 @@ title:      "Zpráva o transparentnosti leden 2018 - březen 2018"
 date:       2018-04-18 20:00:00 +0100
 categories: report
 comments:   true
-tags:       transparence, report, Piráti
+tags:       [transparence, report, Piráti]
 img:        report002.jpg
 author:     Ondřej Profant
 ---
@@ -54,7 +54,7 @@ Schůze zabraly v lednu mnoho času.
 * Asi největší událostí ve sněmovně bylo hlasování o vydání Babiše a Faltýnka. V obou případech jsem samozřejmě hlasoval pro vydání.
 * [Prodej o svátcích](http://www.psp.cz/sqw/historie.sqw?o=8&t=21), hlasoval se návrh na zamitnutí novely již v 1. Čtení. Zdržel jsem se [hlasování](http://www.psp.cz/sqw/hlasy.sqw?G=67307), jelikož nemám silný názor. Myslím si, že jisté rituály typu svátky jsou potřeba pro psychické zdraví populace. Na druhou stranu v zákonu vidím mnoho chyb. Byl bych pro konstruktivní změnu.
 * E-recept: Byl návrh na zamítnutí v prvním čtení. [Hlasoval jsem proti](http://www.psp.cz/sqw/hlasy.sqw?G=67321), jelikož si myslím, že s e-recepty by se dalo pohnout směrem k lepšímu. Ale byli jsme přehlasováni.
-* Interpeloval jsem opendata na Ministerstvu zdravotnictví (viz [schůzka](https://forum.pirati.cz/vstupy-a-vystupy-f570/evidence-lobbistickych-kontaktu-t13315-1220.html#p544725)) a na Ministerstvu financí. 
+* Interpeloval jsem opendata na Ministerstvu zdravotnictví (viz [schůzka](https://forum.pirati.cz/vstupy-a-vystupy-f570/evidence-lobbistickych-kontaktu-t13315-1220.html#p544725)) a na Ministerstvu financí.
 * Výjezdní zasedání výboru VVSRR v Lipnici nad Sázavou (Ombudsmanka Anna Šabatová, hejtman kraje Vysočina Jiří Běhounek a nezávislý expert na eGovernment Michal Bláha), více v [tiskové zprávě](https://www.pirati.cz/tiskove-zpravy/ctyri-podvybory-vyboru-pro-verejnou-spravu.html)
 
 ### Únor 2018

@@ -1,26 +1,21 @@
 ---
-layout: post
+layout: page
 permalink: /kategorie/
 title: Články podle kategorií
 ---
 
-
-<div id="archives">
-{% for category in site.categories %}
-  <div class="archive-group">
-    {% capture category_name %}{{ category | first }}{% endcapture %}
-    <div id="#{{ category_name | slugize }}"></div>
-    <p></p>
-
-    <h3 class="category-head">{{ category_name | capitalize }}</h3>
-    <a name="{{ category_name | slugize }}"></a>
-    <ul>
-    {% for post in site.categories[category_name] %}
-    <article class="archive-item">
-      <li><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></li>
-    </article>
-    {% endfor %}
-  </ul>
-  </div>
-{% endfor %}
+<div class="content-block">
+  {% for category in site.categories %}
+    <div class="archive-group">
+      {% capture category_name %}{{ category | first }}{% endcapture %}
+      <h3 class="category-head" id="{{ category_name | slugify}}">{{ category_name | capitalize }}</h3>
+      <ul>
+        {% for post in site.categories[category_name] %}
+          <article class="archive-item">
+            <li><a href="{{ post.url | relative_url }}">{{ post.title }}</a></li>
+          </article>
+        {% endfor %}
+      </ul>
+    </div>
+  {% endfor %}
 </div>

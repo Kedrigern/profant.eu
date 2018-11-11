@@ -4,7 +4,7 @@ title:      "Panelová diskuze think-tanku IDEA k využití mikro dat"
 date:       2018-04-30 12:00:00 +0100
 categories: Egovernment
 comments:   true
-tags:       egovernment, data, informace
+tags:       [egovernment, data, informace]
 img:        seminar-mikro-data.jpg
 author:     Ondřej Profant
 ---

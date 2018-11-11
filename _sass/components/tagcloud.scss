@@ -1,13 +1,24 @@
-.tagcloud__tag {
-  transition: opacity .3s ease-in-out;
+
+
+.tagcloud__canvas {
+  text-align: center;
+  max-width: 23rem;
 }
 
-.tagcloud {
+.tagcloud__tag {
+  transition: opacity .3s ease-in-out;
+  margin: .1rem .5rem;
+  line-height: 1;
+
+  @include headerStyle('h1', super);
+}
+
+.tagcloud__canvas {
   &:hover .tagcloud__tag {
     opacity: .1 !important;
   }
 }
 
-.tagcloud .tagcloud__tag:hover {
+.tagcloud__canvas .tagcloud__tag:hover {
   opacity: 1 !important;
 }

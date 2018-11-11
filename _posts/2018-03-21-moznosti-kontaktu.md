@@ -4,7 +4,7 @@ title:      "Možnosti kontaktu"
 date:       2018-03-21 22:00:00 +0100
 categories: Sněmovna
 comments:   true
-tags:       kontakt, Piráti, transparence, Sněmovna
+tags:       [kontakt, Piráti, transparence, Sněmovna]
 img:        foto-setkani-kancelar.jpg
 author:     Ondřej Profant
 redirect_from: "/snemovna/2018/03/21/moznosti-kontaktu.html"
