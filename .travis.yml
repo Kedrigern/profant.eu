@@ -1,20 +1,18 @@
 language: ruby
 rvm:
-- 2.5.1
-
-# Assume bundler is being used, therefore
-# the `install` step will run `bundle install` by default.
+    - 2.5.1
 script:
-  - bundle exec jekyll build
+  - JEKYLL_ENV=production bundle exec jekyll build
   - bundle exec htmlproofer ./site
 
-# branch whitelist, only for GitHub Pages
-branches:
-  only:
-  - master
-
-env:
-  global:
-  - NOKOGIRI_USE_SYSTEM_LIBRARIES=true # speeds up installation of html-proofer
-
-sudo: false # route your build to the container-based infrastructure for a faster build
+deploy:
+  provider: pages
+  fqdn: www.profant.eu
+  local-dir: _site
+  skip-cleanup: true
+  # https://docs.travis-ci.com/user/deployment/pages/#setting-the-github-token
+  # https://help.github.com/articles/creating-a-personal-access-token-for-the-command-line/#creating-a-token
+  github-token: $GH_PAGES_DEPLOY_TOKEN  # Set in the settings page of your repository, as a secure variable
+  keep-history: true
+  on:
+      branch: master
