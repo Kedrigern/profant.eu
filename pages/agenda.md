@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content-page
 title:  "Aktuální agenda"
 permalink: "agenda/"
 customjs: redmineTable.html

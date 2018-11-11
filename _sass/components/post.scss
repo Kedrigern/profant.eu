@@ -1,3 +1,7 @@
+.post__author {
+  @include headerStyle('h5', sub);
+}
+
 .post__thumbnail {
   margin-bottom: 1rem;
 }

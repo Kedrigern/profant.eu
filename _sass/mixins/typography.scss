@@ -16,9 +16,14 @@
       font-weight: map-get($settings, weight);
 
       $letter-spacing: map-get($settings, letter-spacing);
+      $line-height: map-get($settings, line-height);
 
       @if ($letter-spacing) {
         letter-spacing: $letter-spacing;
+      }
+
+      @if ($line-height) {
+        line-height: $line-height;
       }
     }
   }
