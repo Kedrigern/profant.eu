@@ -42,6 +42,11 @@
   @include breakpoint(medium up) {
     margin-bottom: 3rem;
   }
+
+  &:last-of-type {
+    background: $body-background;
+    margin-bottom: 0;
+  }
 }
 
 .timeline-icon {

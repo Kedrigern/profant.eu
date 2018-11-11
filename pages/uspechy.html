@@ -16,7 +16,9 @@ comments: false
   <div class="row">
     <div class="small-12 columns">
       <div class="timeline">
-        {% for uspech in site.data.uspechy %}
+        {% assign uspechy = site.data.uspechy | sort: 'date' %}
+        {% assign uspechy = uspechy | reverse %}
+        {% for uspech in uspechy %}
           <div class="timeline-item">
             <div class="timeline-icon">
               <i class="fa fa-{{uspech.icon}}" aria-hidden="true"></i>
