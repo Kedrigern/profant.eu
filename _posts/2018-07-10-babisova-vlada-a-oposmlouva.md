@@ -4,7 +4,7 @@ title:      "Babišova nová vláda a malá oposmlouva"
 date:       2018-07-10 19:00:00 +0100
 categories: Sněmovna
 comments:   true
-tags:       Sněmovna, Piráti, vláda
+tags:       [Sněmovna, Piráti, vláda]
 img:        babisova-vlada.png
 author:     Ondřej Profant
 ---

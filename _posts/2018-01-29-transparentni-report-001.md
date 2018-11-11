@@ -4,7 +4,7 @@ title:      "Zpráva o transparentnosti říjen 2017 - prosinec 2017"
 date:       2018-01-29 11:00:00 +0100
 categories: report
 comments:   true
-tags:       transparence, report, Piráti
+tags:       [transparence, report, Piráti]
 img:        report001.jpg
 author:     Ondřej Profant
 redirect_from: "/report/2018/01/29/transparentni-report-001.html"

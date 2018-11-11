@@ -4,7 +4,7 @@ title:      "Open data v porodnictví"
 date:       2018-03-10 18:00:00 +0100
 categories: opendata
 comments:   true
-tags:       opendata, zdravotnictví, otevřená data, transparence
+tags:       [opendata, zdravotnictví, opendata, transparence]
 img:        jak-se-rodi.jpg
 author:     Eliška Applová, Ondřej Profant
 redirect_from: "/opendata/2018/03/10/opendata-porodnictvi.html"

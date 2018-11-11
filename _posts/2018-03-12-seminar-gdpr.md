@@ -4,7 +4,7 @@ title:      "Seminář GDPR mýtů zbavené"
 date:       2018-03-12 14:00:00 +0100
 categories: Soukromí
 comments:   true
-tags:       EU, e-government, osobní údaje, soukromí, gdpr
+tags:       [EU, egovernment, osobní údaje, soukromí, gdpr]
 img:        gdpr-seminar.jpg
 author:     Ondřej Profant
 redirect_from: "/soukromí/2018/03/12/seminar-gdpr.html"

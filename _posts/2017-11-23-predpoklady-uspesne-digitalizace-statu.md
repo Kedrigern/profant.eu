@@ -4,7 +4,7 @@ title:  	"Předpoklady úspěšné digitalizace státu"
 date:   	2017-11-22 18:00:00 +0100
 categories: Digitalizace
 comments: true
-tags: 		digitalizace, stát, data, systém
+tags: 		[digitalizace, stát, data, systém]
 img: 			laptop-relax.jpg
 author: 	Ondřej Profant
 redirect_from: "/pirati/2017/11/22/predpoklady-uspesne-digitalizace-statu.html"

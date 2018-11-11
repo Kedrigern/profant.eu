@@ -4,7 +4,7 @@ title:      "Jak se rozvíjí egovernment v ČR"
 date:       2018-07-19 13:00:00 +0100
 categories: Egovernment
 comments:   true
-tags:       egovernment, digitalizace, osobní údaje, soukromí, gdpr
+tags:       [egovernment, digitalizace, osobní údaje, soukromí, gdpr]
 img:        projev-egov.png
 author:     Ondřej Profant
 ---

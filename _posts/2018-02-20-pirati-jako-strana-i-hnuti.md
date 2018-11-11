@@ -4,7 +4,7 @@ title:      "Piráti jako politická strana i kulturní hnutí"
 date:       2018-02-20 18:00:00 +0100
 categories: Piráti
 comments:   true
-tags:       Piráti, společnost, demokracie, kultura
+tags:       [Piráti, společnost, demokracie, kultura]
 img:        pirati-pruvod-vlajky.jpg
 author:     Ondřej Profant
 redirect_from: "/pirati/2018/02/20/pirati-jako-strana-i-hnuti.html"

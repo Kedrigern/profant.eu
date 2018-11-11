@@ -4,7 +4,7 @@ title:      "Zachraňme Internet"
 date:       2018-07-01 20:00:00 +0100
 categories: Piráti
 comments:   true
-tags:       Piráti, EU, copyright, cenzura
+tags:       [Piráti, EU, copyright, cenzura]
 img:        demo-zachran-internet.jpg
 author:     Ondřej Profant
 ---

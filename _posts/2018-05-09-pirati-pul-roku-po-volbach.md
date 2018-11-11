@@ -4,7 +4,7 @@ title:      "Piráti půl roku po volbách"
 date:       2018-05-09 22:00:00 +0100
 categories: Piráti
 comments:   true
-tags:       Piráti, Sněmovna
+tags:       [Piráti, Sněmovna]
 img:        pirati-tym.png
 author:     Ondřej Profant
 ---

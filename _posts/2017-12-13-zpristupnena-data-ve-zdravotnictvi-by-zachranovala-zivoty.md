@@ -4,7 +4,7 @@ title:      "Zpřístupněná data ve zdravotnictví by zachraňovala životy"
 date:       2017-12-12 18:00:00 +0100
 categories: opendata
 comments:   true
-tags:       opendata, zdravotnictví, otevřená data, transparence
+tags:       [opendata, zdravotnictví, otevřená-data, transparence]
 img:        opendata-zdravotnictvi.png
 author:     Eliška Applová, Ondřej Profant
 redirect_from: "/opendata/2017/12/12/zpristupnena-data-ve-zdravotnictvi-by-zachranovala-zivoty.html"
