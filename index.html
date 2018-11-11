@@ -3,7 +3,7 @@ layout: main
 ---
 
 {% for post in paginator.posts %}
-<div class="blog-posting">
+<article class="blog-posting" itemtype="http://schema.org/BlogPosting" itemscope>
   <div class="row">
     <div class="small-12 medium-4 columns imagebox">
       <a href="{{ post.url | relative_url }}">
@@ -11,19 +11,25 @@ layout: main
       </a>
     </div>
     <div class="small-12 medium-8 columns">
-      <h2 class="blog-posting__headline t-h4"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+      <div itemprop="author" itemtype="http://schema.org/Person" itemscope>
+        <meta itemprop="name" content="{{ post.author }}">
+      </div>
+      <h1 class="blog-posting__headline t-h4"><a href="{{ post.url | relative_url }}" itemprop="headline">{{ post.title }}</a></h1>
       <p class="blog-posting__excerpt">
-        <i class="blog-posting__pubdate">{{ post.date | date:"%d. %m. %Y" }}</i>&nbsp;&mdash;&nbsp;<span>{{ post.excerpt | truncatewords: 33 | strip_html  }}</span>
+        <meta itemprop="datePublished" content="{{ post.date | date_to_xmlschema }}" />
+        <meta itemprop="dateModified" content="{% if post.modified_time %}{{ post.modified_time | date_to_xmlschema }}{% else %}{{ post.date | date_to_xmlschema }}{% endif %}" />
+        <link itemprop="mainEntityOfPage" href="{{ post.url }}" />
+        <i class="blog-posting__pubdate">{{ post.date | date:"%d. %m. %Y" }}</i>&nbsp;&mdash;&nbsp;<span itemprop="description">{{ post.excerpt | truncatewords: 33 | strip_html  }}</span>
       </p>
       <p>
         <a class="blog-posting__readmore" href="{{ post.url | relative_url }}">Číst dále &raquo;</a>
       </p>
     </div>
   </div>
-</div>
+</article>
 {% endfor %}
 
-<ul class="pagination text-center" role="navigation" aria-label="Pagination">
+<ul class="pagination text-center" role="navigation" aria-label="Pagination" itemscope itemtype="http://schema.org/SiteNavigationElement/Pagination">
   {% if paginator.page == 1 %}
   <li class="pagination-previous disabled">Předchozí</li>
   {% else %}
