@@ -1,9 +1,3 @@
-html, body {
-  // Base font size, everyting else scales relative to this.
-  font-size: 16px;
-  -webkit-font-smoothing: antialiased;
-
-  @include breakpoint(small down) {
-    font-size: 16px;
-  }
+.row.row--wide {
+  @include grid-row-size($global-width + 20rem);
 }
