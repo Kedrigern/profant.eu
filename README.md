@@ -1,4 +1,4 @@
-# Blog
+# profant.eu
 
 [![Build Status](https://api.travis-ci.org/Kedrigern/Kedrigern.github.io.svg)](https://travis-ci.org/Kedrigern/Kedrigern.github.io)
 
