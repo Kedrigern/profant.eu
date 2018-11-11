@@ -2,11 +2,13 @@
 layout: default
 ---
 
-<div class="page post">
+<article class="page post" itemtype="https://schema.org/Article" itemscope>
   <div class="row">
     <div class="small-12 columns">
-      <div class="post__author">{{ page.author }}</div>
-      <h1 class="page__headline">{{ page.title }}</h1>
+      <div itemprop="author" itemtype="http://schema.org/Person" itemscope>
+          <span itemprop="name" class="post__author">{{ page.author }}</span>
+      </div>
+      <h1 itemprop="headline" class="page__headline">{{ page.title }}</h1>
     </div>
   </div>
 
@@ -16,11 +18,13 @@ layout: default
       {% if page.img %}
       <div class="post__thumbnail">
         <img class="thumbnail" src="{{ page.img | prepend: 'assets/img/posts/' | relative_url }}">
+        <meta itemprop="image" content="{{ page.img | prepend: 'assets/img/posts/' | relative_url }}">
       </div>
       {% endif %}
 
       <p class="post__excerpt content-block">
-          <i>{{ page.date | date:"%d. %m. %Y" }}</i> &mdash; {{ page.excerpt | strip_html }}
+          <meta itemprop="datePublished" content="{{ page.date | date_to_xmlschema }}" />
+          <i>{{ page.date | date:"%d. %m. %Y" }}</i> &mdash; <span itemprop="description">{{ page.excerpt | strip_html }}</span>
       </p>
 
       <div id="content" class="post__content content-block">
@@ -38,5 +42,5 @@ layout: default
       {% include rbar.html %}
     </div>
   </div>
-</div>
+</article>
 
