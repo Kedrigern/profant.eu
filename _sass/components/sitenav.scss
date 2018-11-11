@@ -34,11 +34,23 @@
     display: flex;
     align-items: flex-end;
     margin: 0;
+
+    // Compensates vertical spaces that the font contains (and shouldn’t).
+    position: relative;
+    bottom: -0.5em;
 }
 
 .sitenav-links__link {
     & + & {
-        margin-left: 2rem;
+        margin-left: 1rem;
+
+        @include breakpoint(720px up) {
+            margin-left: 2rem;
+        }
+
+        @include breakpoint(large up) {
+            margin-left: 3rem;
+        }
     }
 
     a {
@@ -47,10 +59,14 @@
         text-transform: uppercase;
         letter-spacing: .01em;
 
-        @include headerStyle('h6', sub);
+        @include headerStyle('h5', sub);
+
+        @include breakpoint(720px up) {
+            @include headerStyle('h4', sub);
+        }
 
         @include breakpoint(large up) {
-            @include headerStyle('h5', sub);
+            @include headerStyle('h3', sub);
         }
     }
 
@@ -96,6 +112,8 @@
 
 .sitenav-social {
     display: none;
+    // Align compensation
+    padding-top: .1em;
 
     @include breakpoint(medium up) {
         display: block;
