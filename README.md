@@ -5,8 +5,9 @@
 ## Lokalní spuštění
 
 ```
-bundle install
-bundle exec jekyll serve
+npm install
+bundle install --path vendor/bundle
+bundle exec jekyll serve --livereload --future --drafts
 ```
 
 ## Install
@@ -15,7 +16,8 @@ On Fedora 27:
 
 ```
 dnf in gcc rubygem-bundler ruby-devel rubygem-jekyll rubygem-nokogiri
-bundle install
+bundle install --path vendor/bundle
+bundle exec jekyll serve --livereload --future --drafts
 ```
 
 ## SSL
