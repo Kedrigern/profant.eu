@@ -11,10 +11,10 @@ permalink: "medialni-vystupy/"
 		</tr>
 	</thead>
 	<tbody>
-		{% for a in site.media %}
+		{% for a in site.data.media %}
 		<tr>
 			<td>{{a.date}}</td> 
-			<td>{{a.title}}</td>
+			<td><a href="{{a.url}}">{{a.title}}</a></td>
 		</tr>
 		{% endfor %}
 	</tbody>
