@@ -4,6 +4,8 @@ title:  "Mediální výstupy"
 permalink: "medialni-vystupy/"
 ---
 
+{% assign media = site.data.media %}
+
 <table>
 	<thead>
 		<tr>
@@ -11,7 +13,7 @@ permalink: "medialni-vystupy/"
 		</tr>
 	</thead>
 	<tbody>
-		{% for a in site.data.media %}
+		{% for a in media %}
 		<tr>
 			<td>{{a.date}}</td> 
 			<td><a href="{{a.url}}">{{a.title}}</a></td>
