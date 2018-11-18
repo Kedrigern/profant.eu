@@ -1,6 +1,6 @@
 # profant.eu
 
-[![Build Status](https://api.travis-ci.org/Kedrigern/Kedrigern.github.io.svg)](https://travis-ci.org/Kedrigern/Kedrigern.github.io)
+[![Build Status](https://api.travis-ci.org/Kedrigern/profant.eu.svg)](https://travis-ci.org/Kedrigern/profant.eu)
 
 ## Lokalní spuštění
 
