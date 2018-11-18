@@ -7,7 +7,7 @@ permalink: "medialni-vystupy/"
 <table>
 	<thead>
 		<tr>
-			<th>Datum</th><th>Název</th>
+			<th>Datum</th><th>Název</th><th>Tagy</th>
 		</tr>
 	</thead>
 	<tbody>
@@ -15,6 +15,7 @@ permalink: "medialni-vystupy/"
 		<tr>
 			<td>{{a.date}}</td> 
 			<td><a href="{{a.url}}">{{a.title}}</a></td>
+			<td>{{a.tags}}</td>
 		</tr>
 		{% endfor %}
 	</tbody>
