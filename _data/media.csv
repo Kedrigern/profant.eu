@@ -1,24 +1,24 @@
-date;title;tags;url
-2014-11-27;Přehled Pirátů ve výborech;Jan Loužek;výbory;https://praha.pirati.cz/prehled-piratu-ve-vyborech.html
-2015-05-20;Piráti na hackathonu Prague Hacks;Jan Loužek, Ondřej Profant;Praha open-data;https://praha.pirati.cz/open-data.html
-2015-07-01;Chceme dokopat ostatní zastupitele, aby zveřejňovali majetek na webu;Jakub Michálek;majetková-přiznání informace;https://praha.pirati.cz/majetkova-priznani.html
-2015-10-29;Vyjednávání dohody TTIP;Ondřej Profant;EU TTIP;https://praha.pirati.cz/ttip.html
-2015-11-12;Ondřej Profant na brněnském OpenAltu;Jan Loužek, Ondřej Profant;akce;https://praha.pirati.cz/ondra-openalt.html
-2016-02-25;Zastupitelé schválili opravu Libeňského mostu;Jakub Michálek;zhmp doprava;https://praha.pirati.cz/zastupitelstvo-unor-2016.html
-2016-03-16;Piráti chtějí dohlédnout na „vyvedenou“ informatiku, nominují Ondřeje Profanta;Jan Loužek, Ondřej Profant, Jakub Michálek;Praha informatika open-data;https://praha.pirati.cz/nominace-ondry-do-oict.html
-2016-10-27;Vláda dnes chtěla podepsat smlouvu CETA. Informace o dopadech na české hospodářství nemá.;Petr Dvořáková;CETA;https://pirati.cz/tiskove-zpravy/ceta.html
-2016-11-22;Piráti vyhlásili výběrové řízení na krajské koordinátory;Petra Dvořáková;stanovisko;https://pirati.cz/tiskove-zpravy/krajsti-koordinatori.html
-2017-05-16;Vládám uniká malware, který samy financují. Je to podobné jako u chemických zbraní.;Ondřej Profant;obrana;https://pirati.cz/tiskove-zpravy/vladam-unika-malware-ktery-samy-financuji.html
-2018-03-09;Piráti ve Sněmovně pořádají seminář k nařízení o ochraně osobních údajů;Jakub Dušánek;gdpr;https://pirati.cz/tiskove-zpravy/gdpr-seminar.html
-2018-03-12;Piráti uspořádali seminář k GDPR pro obce;Jakub Dušánek;gdpr;https://pirati.cz/tiskove-zpravy/seminar-gdpr.html
-2018-05-07;Piráti požadují nejnižší možnou hranici 13 let pro internetovou samostatnost;Ondřej Profant;gdpr;https://pirati.cz/tiskove-zpravy/gdpr-internetova-samostatnost-od-13.html
-2018-05-10;Klíčový výbor doporučil zveřejňování smluv ČEZu, Českých drah a dalších státních firem;Jakub Dušánek;registr-smluv;https://pirati.cz/tiskove-zpravy/vybor-doporucil-zverejnovani-smluv.html
-2018-05-21;Piráti řešili digitalizaci státní správy na semináři v Jihlavě;Mediální odbor;digitalizace;https://pirati.cz/tiskove-zpravy/seminar-jihlava-digitalizace.html
-2018-07-04;Piráti upozorňují na nedostatečné technické řešení elektronických občanek;Andrea Mádlová;digitalizace;https://pirati.cz/tiskove-zpravy/eobcanky-nemaji-vyreseny-software.html
-2018-07-18;Pirát Ondřej Profant: Zakázka bez soutěže na datová centra vzbuzuje podezření;Mediální odbor;vláda;https://pirati.cz/tiskove-zpravy/datova-centra-za-42mil-vzbuzuji-podezreni-rika-profant.html
-2018-08-07;Komentář poslance Ondřeje Profanta: S ICTU spolupracujeme na zákonu o digitální službě, na podzim půjde do Sněmovny;Jakub Dušánek;digitalizace;https://pirati.cz/tiskove-zpravy/ictu-a-pirati-pripravuji-zakon-o-digitalni-sluzbe.html
-2018-08-16;Vládní zmocněnec pro IT a digitalizaci potvrdil aktivní zapojení Pirátů do pléna RVIS i pracovních skupin k digitalizaci;Jakub Dušánek;vláda;https://pirati.cz/tiskove-zpravy/vladni-zmocnenec-pro-IT-potvrdil-roli-piratu-v-rvis.html
-2018-09-19;Klíčový zákon eGovernmentu „právo na digitální službu” má podporu Pirátů a dalších parlamentních stran;Karolína Sadílková;sněmovna digitalizace;https://pirati.cz/tiskove-zpravy/zakon-pravo-na-digitalni-sluzbu-ma-podporu-snemovny.html
-2018-10-01;Piráti představili politikům bezplatnou aplikaci, díky které si založíte firmu za jeden den;Ondřej Profant;sněmovna podnikání;https://pirati.cz/tiskove-zpravy/komentar-ondreje-profanta-zrychlime-podnikani.html
-2018-10-11;Vláda se ke koncepci registrů dostala až tento týden, základní registry můžou být brzy bez financí, upozorňuje Ondřej Profant;Ondřej Profant;sněmovna legislativa;https://pirati.cz/tiskove-zpravy/koncepci-registru-resila-vlada-az-tento-tyden.html
-2018-11-14;Piráti varují před bezpečnostními riziky cloudového řešení pro veřejnou správu;Mediální odbor;digitalizace;https://pirati.cz/tiskove-zpravy/pirati-varuji-pred-riziky-cloudu-pro-verejnou-spravu.html
+date,title,tags,url
+2014-11-27,Přehled Pirátů ve výborech,Jan Loužek,výbory,https://praha.pirati.cz/prehled-piratu-ve-vyborech.html
+2015-05-20,Piráti na hackathonu Prague Hacks,"Jan Loužek, Ondřej Profant",Praha open-data,https://praha.pirati.cz/open-data.html
+2015-07-01,"Chceme dokopat ostatní zastupitele, aby zveřejňovali majetek na webu",Jakub Michálek,majetková-přiznání informace,https://praha.pirati.cz/majetkova-priznani.html
+2015-10-29,Vyjednávání dohody TTIP,Ondřej Profant,EU TTIP,https://praha.pirati.cz/ttip.html
+2015-11-12,Ondřej Profant na brněnském OpenAltu,"Jan Loužek, Ondřej Profant",akce,https://praha.pirati.cz/ondra-openalt.html
+2016-02-25,Zastupitelé schválili opravu Libeňského mostu,Jakub Michálek,zhmp doprava,https://praha.pirati.cz/zastupitelstvo-unor-2016.html
+2016-03-16,"Piráti chtějí dohlédnout na „vyvedenou“ informatiku, nominují Ondřeje Profanta","Jan Loužek, Ondřej Profant, Jakub Michálek",Praha informatika open-data,https://praha.pirati.cz/nominace-ondry-do-oict.html
+2016-10-27,Vláda dnes chtěla podepsat smlouvu CETA. Informace o dopadech na české hospodářství nemá.,Petr Dvořáková,CETA,https://pirati.cz/tiskove-zpravy/ceta.html
+2016-11-22,Piráti vyhlásili výběrové řízení na krajské koordinátory,Petra Dvořáková,stanovisko,https://pirati.cz/tiskove-zpravy/krajsti-koordinatori.html
+2017-05-16,"Vládám uniká malware, který samy financují. Je to podobné jako u chemických zbraní.",Ondřej Profant,obrana,https://pirati.cz/tiskove-zpravy/vladam-unika-malware-ktery-samy-financuji.html
+2018-03-09,Piráti ve Sněmovně pořádají seminář k nařízení o ochraně osobních údajů,Jakub Dušánek,gdpr,https://pirati.cz/tiskove-zpravy/gdpr-seminar.html
+2018-03-12,Piráti uspořádali seminář k GDPR pro obce,Jakub Dušánek,gdpr,https://pirati.cz/tiskove-zpravy/seminar-gdpr.html
+2018-05-07,Piráti požadují nejnižší možnou hranici 13 let pro internetovou samostatnost,Ondřej Profant,gdpr,https://pirati.cz/tiskove-zpravy/gdpr-internetova-samostatnost-od-13.html
+2018-05-10,"Klíčový výbor doporučil zveřejňování smluv ČEZu, Českých drah a dalších státních firem",Jakub Dušánek,registr-smluv,https://pirati.cz/tiskove-zpravy/vybor-doporucil-zverejnovani-smluv.html
+2018-05-21,Piráti řešili digitalizaci státní správy na semináři v Jihlavě,Mediální odbor,digitalizace,https://pirati.cz/tiskove-zpravy/seminar-jihlava-digitalizace.html
+2018-07-04,Piráti upozorňují na nedostatečné technické řešení elektronických občanek,Andrea Mádlová,digitalizace,https://pirati.cz/tiskove-zpravy/eobcanky-nemaji-vyreseny-software.html
+2018-07-18,Pirát Ondřej Profant: Zakázka bez soutěže na datová centra vzbuzuje podezření,Mediální odbor,vláda,https://pirati.cz/tiskove-zpravy/datova-centra-za-42mil-vzbuzuji-podezreni-rika-profant.html
+2018-08-07,"Komentář poslance Ondřeje Profanta: S ICTU spolupracujeme na zákonu o digitální službě, na podzim půjde do Sněmovny",Jakub Dušánek,digitalizace,https://pirati.cz/tiskove-zpravy/ictu-a-pirati-pripravuji-zakon-o-digitalni-sluzbe.html
+2018-08-16,Vládní zmocněnec pro IT a digitalizaci potvrdil aktivní zapojení Pirátů do pléna RVIS i pracovních skupin k digitalizaci,Jakub Dušánek,vláda,https://pirati.cz/tiskove-zpravy/vladni-zmocnenec-pro-IT-potvrdil-roli-piratu-v-rvis.html
+2018-09-19,Klíčový zákon eGovernmentu „právo na digitální službu” má podporu Pirátů a dalších parlamentních stran,Karolína Sadílková,sněmovna digitalizace,https://pirati.cz/tiskove-zpravy/zakon-pravo-na-digitalni-sluzbu-ma-podporu-snemovny.html
+2018-10-01,"Piráti představili politikům bezplatnou aplikaci, díky které si založíte firmu za jeden den",Ondřej Profant,sněmovna podnikání,https://pirati.cz/tiskove-zpravy/komentar-ondreje-profanta-zrychlime-podnikani.html
+2018-10-11,"Vláda se ke koncepci registrů dostala až tento týden, základní registry můžou být brzy bez financí, upozorňuje Ondřej Profant",Ondřej Profant,sněmovna legislativa,https://pirati.cz/tiskove-zpravy/koncepci-registru-resila-vlada-az-tento-tyden.html
+2018-11-14,Piráti varují před bezpečnostními riziky cloudového řešení pro veřejnou správu,Mediální odbor,digitalizace,https://pirati.cz/tiskove-zpravy/pirati-varuji-pred-riziky-cloudu-pro-verejnou-spravu.html
