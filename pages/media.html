@@ -5,6 +5,7 @@ permalink: "medialni-vystupy/"
 ---
 
 {% assign media = site.data.media %}
+{% assign media = media | reverse %}
 
 <table>
 	<thead>
@@ -13,7 +14,7 @@ permalink: "medialni-vystupy/"
 		</tr>
 	</thead>
 	<tbody>
-		{% for a in media %}
+		{% for a in media | %}
 		<tr>
 			<td>{{a.date}}</td> 
 			<td><a href="{{a.url}}">{{a.title}}</a></td>
