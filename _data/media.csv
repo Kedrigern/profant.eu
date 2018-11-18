@@ -1,24 +1,117 @@
 date,title,author,tags,url
+2014-10-12,10 bodů pro novou Radu,"['Jakub Michálek, Ondřej Profant, Mikuláš Ferjenčík, Adam Zábranský']",,https://praha.pirati.cz/10-klicovych-bodu.html
+2014-11-05,Opozici se věnujeme naplno,['Mikuláš Ferjenčík'],,https://praha.pirati.cz/zastupitele-piratu-pracuji-naplno.html
 2014-11-27,Přehled Pirátů ve výborech,Jan Loužek,výbory,https://praha.pirati.cz/prehled-piratu-ve-vyborech.html
+2014-12-02,Zastupitelský Piratecon,Jan Loužek,akce piráti,https://praha.pirati.cz/zastupitelsky-piratecon.html
+2014-12-05,Vendor lock-in pokračuje,Ondřej Profant,projev,https://praha.pirati.cz/zasedala-rada.html
+2015-01-12,Výročí smrti Aarona Schwarze,Jan Loužek,akce,https://praha.pirati.cz/aaron.html
+2015-01-22,Koalice schválila superzakázku na odpad,Jakub Michálek,zhmp,https://praha.pirati.cz/treti-zasedani.html
+2015-01-23,Nechceme velký odpadový tendr,Ondřej Profant,zhmp projev,https://praha.pirati.cz/ondra.html
+2015-01-25,Konference o dopravních kartách za účasti piráta,Ondřej Profant,doprava,https://praha.pirati.cz/londyn.html
+2015-01-31,Papírové kupóny jsou důležitý doplněk Opencard,Jakub Michálek,zhmp opencard doprava,https://praha.pirati.cz/papirove-kupony.html
+2015-02-19,"Piráti radí, jak na magistrát bez megaztrát",Jakub Michálek,magistrát,https://praha.pirati.cz/jak-na-magistrat-bez-megastrat.html
+2015-03-27,Strany v pražském zastupitelstvu odmítly zveřejňovat příjmy svých politiků,Jakub Michálek,informace piráti,https://praha.pirati.cz/pirati-zverejnili-prijmy.html
+2015-04-05,Piráti jako jediná strana zveřejnili komplet své příjmy,Jakub Michálek,informace piráti,https://praha.pirati.cz/transparentni-nahrady.html
+2015-04-21,Praha kupuje zbytečně drahé počítače,"Ondřej Profant, Adam Zábranský",IT magistrát,https://praha.pirati.cz/drahe-pocitace.html
 2015-05-20,Piráti na hackathonu Prague Hacks,"Jan Loužek, Ondřej Profant",Praha open-data,https://praha.pirati.cz/open-data.html
+2015-06-06,Shrnutí květnového zasedání zastupitelstva,Adam Zábranský,zhmp,https://praha.pirati.cz/sedme-zasedani.html
+2015-06-26,Exkurze výboru v Dráždanech,Ondřej Profant,doprava,https://praha.pirati.cz/dresden.html
 2015-07-01,"Chceme dokopat ostatní zastupitele, aby zveřejňovali majetek na webu",Jakub Michálek,majetková-přiznání informace,https://praha.pirati.cz/majetkova-priznani.html
+2015-08-27,Doporučení Pirátů Radě hl. m. Prahy pro oblast ICT,Ondřej Profant,informatika zhmp,https://praha.pirati.cz/otevreny-dopis-rade-it.html
+2015-09-17,Rada Prahy schválila kvalitní teze digitální strategie,"Ondřej Profant, Adam Zábranský",informatika zhmp,https://praha.pirati.cz/rada-digitalni-strategie.html
+2015-09-22,Koalice v Praze jede opět ve starých kolejích,Adam Zábranský,zhmp koalice,https://praha.pirati.cz/zarijove-zasedani.html
+2015-09-22,Praha zbytečně utrácí 17 milionů za produkty Microsoftu.,Ondřej Profant,magistrát,https://praha.pirati.cz/microsoft-na-magosi.html
+2015-10-07,Staňte se pirátským koordinátorem dobrovolníků!,Mikuláš Ferjenčík,výběrová-řízení piráti,https://praha.pirati.cz/koordinator-dobrovolniku.html
 2015-10-29,Vyjednávání dohody TTIP,Ondřej Profant,EU TTIP,https://praha.pirati.cz/ttip.html
+2015-11-03,Tento víkend nabídne Brno ochutnávku svobodné kultury,Jan Loužek,akce,https://praha.pirati.cz/navstivte-openalt.html
 2015-11-12,Ondřej Profant na brněnském OpenAltu,"Jan Loužek, Ondřej Profant",akce,https://praha.pirati.cz/ondra-openalt.html
+2015-12-07,Pražští Piráti vyzvali TOP09 k jednání o koalici proti Březinovi a Kleslové,"Jakub Michálek, Ondřej Profant",územní-plán koalice piráti,https://praha.pirati.cz/jednani-o-koalici.html
+2016-01-28,Omezení buskingu a podržení podvodníka,Jakub Michálek,zhmp busking brezina libensky-most trafiky informatika,https://praha.pirati.cz/zasedani-leden.html
+2016-02-04,Piráti nesouhlasí s demolicí Libeňského mostu,"Ondřej Profant, Jan Loužek",praha-7 praha-8 majetek doprava libensky-most,https://praha.pirati.cz/libensky-most.html
+2016-02-08,Nechceme Velkého bratra v Praze,"Ondřej Profant, Adam Zábranský",Praha kamery vendor-lock,https://praha.pirati.cz/kamerovy-syste.html
+2016-02-14,Otevřený dopis redakci White Media,"Mikuláš Ferjenčík, Ondřej Profant, Jakub Michálek, Adam Zábranský",otevřené-dopisy,https://praha.pirati.cz/dopis-white-media.html
+2016-02-25,ANO a ČSSD v Praze nechtějí zveřejňovat faktury,Adam Zábranský,magistrát,https://praha.pirati.cz/poskytovani-faktur.html
 2016-02-25,Zastupitelé schválili opravu Libeňského mostu,Jakub Michálek,zhmp doprava,https://praha.pirati.cz/zastupitelstvo-unor-2016.html
+2016-03-02,Lítačka je krok správným směrem,"Mikuláš Ferjenčík, Ondřej Profant",opencard lítačka,https://praha.pirati.cz/clanek-litacka.html
+2016-03-07,"Paní ministryně, zveřejněte data k výsledkům z maturitních testů",Adam Zábranský,informace,https://praha.pirati.cz/zverejnujte-vysledky-maturit.html
+2016-03-15,Připojujeme se k výzvě „Nechte kliniku dýchat“,"Jakub Michálek, Ondřej Profant, Mikuláš Ferjenčík, Adam Zábranský",klinika praha-3 Praha,https://praha.pirati.cz/vyzva-klinika.html
 2016-03-16,"Piráti chtějí dohlédnout na „vyvedenou“ informatiku, nominují Ondřeje Profanta","Jan Loužek, Ondřej Profant, Jakub Michálek",Praha informatika open-data,https://praha.pirati.cz/nominace-ondry-do-oict.html
+2016-03-23,ANO vytáhlo z kuchyňky 20 miliónů na účetní systém,Ondřej Profant,magistrát,https://praha.pirati.cz/dvacet-milionu-pro-gordic.html
+2016-03-28,Akce aktivistů proti podlézání Číně se zúčastnila i Pirátka Michaela Krausová,Ondřej Profant,Praha akce,https://praha.pirati.cz/cina.html
+2016-04-15,Magistrát potvrdil: Pražské stavební předpisy napsali úředníci bez kvalifikace,Ondřej Profant,Praha stavební-předpisy,https://praha.pirati.cz/stavebni-predpisy-psali-urednici.html
+2016-04-29,"Březina bude předsedou výboru pro majetek, ANO se zajistilo.","Mikuláš Ferjenčík, Ondřej Profant, Jan Loužek",Praha zhmp Karel-Březina,https://praha.pirati.cz/ano-se-zajistilo.html
+2016-05-05,Piráti zveřejnili připravovaný územní plán Prahy a žádají město: zveřejňujte ho průběžně sami!,Mikuláš Ferjenčík,územní-plán,https://praha.pirati.cz/metropolitni-plan.html
+2016-05-09,Opět rozdáváme 80 000 Pirátských listů!,Jan Loužek,piráti,https://praha.pirati.cz/piratske-listy-podruhe.html
+2016-05-19,Chybějící údržba Libeňského mostu způsobila rozsáhlé škody.,Ondřej Profant,Praha doprava,https://praha.pirati.cz/tk-libensky-most.html
+2016-05-29,Koaliční buldozer smetl všechny návrhy opozice. Zasedání trvalo jen čtyři hodiny.,"Jan Loužek, Ondřej Profant",Praha zhmp klinika městské-firmy,https://praha.pirati.cz/17-zhmp-souhrn.html
+2016-06-18,Zastupitelstvo 16. 6. nepřineslo změnu,"Ondřej Profant, Jakub Michálek",Praha zhmp,https://praha.pirati.cz/zastupitelstvo-16-6.html
+2016-09-13,"Piráti zjistili, že radiový systém Prahy za 680 milionů dokáže odposlouchávat i laik.",Mikuláš Ferjenčík,Praha,https://praha.pirati.cz/odposlouchavani.html
+2016-09-16,"Koalice: Trafiky neřešíme, Béma nežalujeme, peníze neinvestujeme.","Jan Loužek, Mikuláš Ferjenčík",Praha,https://praha.pirati.cz/trafiky-neresime-sabatku-zastavime.html
+2016-10-20,Slezákovi územní rozvoj nechat nechceme,Mikuláš Ferjenčík,Praha,https://praha.pirati.cz/slezak-ur.html
 2016-10-27,Vláda dnes chtěla podepsat smlouvu CETA. Informace o dopadech na české hospodářství nemá.,Petr Dvořáková,CETA,https://pirati.cz/tiskove-zpravy/ceta.html
 2016-11-22,Piráti vyhlásili výběrové řízení na krajské koordinátory,Petra Dvořáková,stanovisko,https://pirati.cz/tiskove-zpravy/krajsti-koordinatori.html
+2016-11-22,Piráti: Praha rezignovala na boj se závislostí na dodavateli účetnictví,Mikuláš Ferjenčík,Praha,https://praha.pirati.cz/praha-rezignovala-na-boj-se-zavislosti-na-dodavateli-ucetnictvi.html
+2016-11-25,ANO a ČSSD hodily nájemníky písnického sídliště přes palubu,"Jakub Michálek, Ondřej Profant, Mikuláš Ferjenčík",Praha,https://praha.pirati.cz/pisnicti-pres-palubu.html
+2017-01-17,"Praha se chystá utratit za účetní systém další půlmiliardu, Piráti nesouhlasí",Mikuláš Ferjenčík,praha účetnictví gordic informatika vendor-lock,https://praha.pirati.cz/pulmiliarda-pro-gordic.html
+2017-01-27,"Jízdné v kuponu, na kartě nebo v mobilu. Piráti představují vizi odbavování v pražské dopravě.",Jan Loužek,praha doprava,https://praha.pirati.cz/vize-dopravniho-odbavovani.html
+2017-02-01,Je město Praha řádný hospodář? Aneb jak Písničtí přišli o sídliště.,Ondřej Profant,praha pisnice,https://praha.pirati.cz/sidliste-prodano.html
+2017-04-06,"Piráti: V Praze by se dalo šlapat, pokud by vedení města chtělo",Mikuláš Ferjenčík,praha doprava,https://praha.pirati.cz/cyklistika.html
+2017-04-28,Piráti k zasedání pražského zastupitelstva: zbytečná silnice za miliardy,Adam Zábranský,zhmp,https://praha.pirati.cz/zbytecna-silnice-vestec.html
 2017-05-16,"Vládám uniká malware, který samy financují. Je to podobné jako u chemických zbraní.",Ondřej Profant,obrana,https://pirati.cz/tiskove-zpravy/vladam-unika-malware-ktery-samy-financuji.html
+2017-05-29,Zakázka na datové centrum psaná na míru,Ondřej Profant,praha informatika,https://praha.pirati.cz/zakazka-psana-na-miru.html
+2017-06-19,"Magistrát neřeší problémy, namísto toho podporuje dinosaury",Ondřej Profant,informatika vendor-lock,https://praha.pirati.cz/magistrat-neresi-problemy-v-it.html
+2017-06-30,"Piráti dali vládě čtyřku, tři ministři podle nich propadli.",Mikuláš Ferjenčík,kampaň vláda,https://pirati.cz/tiskove-zpravy/ctyrku-vlade-od-piratu.html
+2017-08-15,Piráti: Rada schvaluje nepřiměřené výdaje v IT oblasti bez projednání komisí,Ondřej Profant,informatika rhmp rada,https://praha.pirati.cz/prilisne-vydaje-za-it.html
+2017-09-03T12:00:00+02:00,Pirátská solární loď v Praze,Ondřej Profant,kampan solarni-lod,https://praha.pirati.cz/plavba-do-snemovny.html
+2017-09-15T13:31:00+02:00,Zastupitelstvo schválilo návrh Pirátů a dalších zastupitelů: Mariánský sloup na Staroměstském náměstí nebude!,"Jan Loužek, Adam Zábranský, Ondřej Profant",zhmp,https://praha.pirati.cz/mariansky-sloup-nebude.html
+2017-09-25T11:50:00+02:00,"Pokud v Blance 2 nebude MHD, nestojí za ty peníze",Ondřej Profant,doprava,https://praha.pirati.cz/chceme-v-blance-ii-mh.html
+2017-10-10,Předražený internet na Petříne,Ondřej Profant,informatika smart-cities,https://praha.pirati.cz/wifi-na-petrine.html
+2017-10-24,Piráti jsou druhou největší stranou v Praze. V obecních volbách se pokusí úspěch zopakovat,Adam Zábranský,praha,https://praha.pirati.cz/pirati-druzi-v-praze.html
+2017-10-29T16:40:00+02:00,Piráti navrhují do předsednictva Sněmovny olomouckého lídra Vojtěcha Pikala,Karolína Sadílková,sněmovna,https://pirati.cz/tiskove-zpravy/pirati-nominuji-pikala.html
+2017-10-30,"V pražském zastupitelstvu dojde k obměně, nastoupí Piráti Viktor Mahrik a Ondřej Kallasch",Adam Zábranský,praha,https://praha.pirati.cz/obmena-v-klubu-nastoupi-mahrik-kallasch.html
+2017-11-08,"Zastupitelstvo chce dostavět městský okruh, superholding neprojednalo","Jan Loužek, Adam Zábranský",praha,https://praha.pirati.cz/blanka-2-a-chystany-superholding.html
+2017-11-14T09:12:00+02:00,Čelní pozice ve výborech by si dle Pirátů měly rozdělit opoziční strany poměrně,Karolína Sadílková,sněmovna,https://pirati.cz/tiskove-zpravy/celni-pozice-ve-vyborech-opozici.html
+2017-11-30,Koalice připravila extrémně projídací rozpočet,Adam Zábranský,rozpočet,https://praha.pirati.cz/pirati-hlasovali-proti-projidacimu-rozpoctu.html
+2017-12-04,Zakázka za 93 milionů na radiový systém: předražená a bez soutěže,Ondřej Profant,informatika mrs tetra,https://praha.pirati.cz/jrbu-na-mrs.html
+2017-12-14,Koaliční mlčení k nemocnici na Františku a Metru D. Piráti mezitím vystřídali stráže.,Adam Zábranský,zhmp nemocnice-na-františku,https://praha.pirati.cz/mlceni-o-dopravnim-podniku-nemocnici-na-frantisku-a-pochybne-smart-cities.html
+2017-12-18,Pražští Piráti si zvolili nové předsednictvo,Adam Zábranský,piráti,https://praha.pirati.cz/prazsti-pirati-si-zvolili-nove-predsednictvo.html
+2018-01-11,Otevřený dopis Pirátů upozorňuje na předražené IT systémy MPSV,Karolína Sadílková,informatika,https://pirati.cz/tiskove-zpravy/otevreny-dopis-piratu-predrazene-it-v-mpsv.html
+2018-01-19,Libeňský most se měl opravovat už dva roky,Ondřej Kallasch,kauzy,https://praha.pirati.cz/libensky-most-se-mel-opravovat-uz-dva-roky.html
+2018-01-21,Pirátská konference „Piratecon“ vzbudila velký zájem návštěvníků,Roman Kučera,akce,https://pirati.cz/tiskove-zpravy/zastupitelsky-piratecon.html
+2018-01-26,Praha schválila záměr na převzetí Nemocnice na Františku. Výměna stráží u Pirátů dokončena,"Jan Loužek, Adam Zábranský",piráti,https://praha.pirati.cz/praha-prevezme-nemocnici-ferjencik-rezignoval.html
+2018-02-01,"Bartoš: Výbor pro veřejnou správu má nově čtyři podvýbory. Zabývat se budou veřejnou správou, bytovou politikou, cestovním ruchem a eGovernmentem",Ivan Bartoš,sněmovna,https://pirati.cz/tiskove-zpravy/ctyri-podvybory-vyboru-pro-verejnou-spravu.html
+2018-02-02,Vyzýváme náměstka Dolínka k rezignaci kvůli současnému stavu pražských mostů,Viktor Mahrik,doprava libensky-most,https://praha.pirati.cz/vyzva-k-rezignaci-dolinka.html
+2018-02-05,"Piráti vyhlásili primární volby na lídra pražské kandidátky, rozhodnutí padne v únoru",Adam Zábranský,piráti,https://praha.pirati.cz/pirati-vyhlasili-volbu-lidra.html
+2018-02-15,Piráti zvou na nedělní guláš zdarma a vyzývají k pomoci potravinovým bankám,Jakub Dušánek,akce,https://pirati.cz/tiskove-zpravy/pirati-zvou-na-dalsi-povolebni-gulas.html
+2018-03-06,Zakázka na míru podruhé – datové centrum Chodovec pod taktovkou velkých IT firem,"Ondřej Profant, Ondřej Kallasch",informatika,https://praha.pirati.cz/datove-centrum-schvaleno-podruhe-pirati-maji-vyhrady.html
+2018-03-08,Pražský magistrát udělal další krok pro otevřená data,"Jan Loužek, Adam Zábranský",otevřená-data,https://praha.pirati.cz/magistrat-rozviji-opendata.html
 2018-03-09,Piráti ve Sněmovně pořádají seminář k nařízení o ochraně osobních údajů,Jakub Dušánek,gdpr,https://pirati.cz/tiskove-zpravy/gdpr-seminar.html
 2018-03-12,Piráti uspořádali seminář k GDPR pro obce,Jakub Dušánek,gdpr,https://pirati.cz/tiskove-zpravy/seminar-gdpr.html
+2018-03-15,Piráti odmítají omezení přístupu k informacím o střetu zájmů,Jakub Dušánek,sněmovna,https://pirati.cz/tiskove-zpravy/pirati-odmitli-omezeni-pristupu-k-informaci.html
+2018-03-16,Národní program reforem je obecný a vyhýbá se klíčovým opatřením,Jakub Dušánek,piráti,https://pirati.cz/tiskove-zpravy/pirati-narodni-program-reforem-je-prilis-obecny.html
+2018-04-09,Ivan Bartoš vede parlamentní delegaci na 21. ročník mezinárodní konference o e-Governmentu,Jakub Dušánek,digitalizace,https://pirati.cz/tiskove-zpravy/mezinarodni-konference-digitalizace-isss.html
+2018-04-19,"Piráti si připomínají deváté výročí listiny, která vedla ke vzniku strany",Mediální odbor,piráti,https://pirati.cz/tiskove-zpravy/jiri-kaderavek-inicioval-piraty-pred-9lety.html
 2018-05-07,Piráti požadují nejnižší možnou hranici 13 let pro internetovou samostatnost,Ondřej Profant,gdpr,https://pirati.cz/tiskove-zpravy/gdpr-internetova-samostatnost-od-13.html
 2018-05-10,"Klíčový výbor doporučil zveřejňování smluv ČEZu, Českých drah a dalších státních firem",Jakub Dušánek,registr-smluv,https://pirati.cz/tiskove-zpravy/vybor-doporucil-zverejnovani-smluv.html
+2018-05-11,"Piráti o programovém prohlášení: Problém dokumentu je to, co v něm chybí",Jakub Dušánek,vláda,https://pirati.cz/tiskove-zpravy/reakce-piratu-programove-prohlaseni-vlady.html
+2018-05-18,Tunel Vlasta (Blanka 2) bude!,Viktor Mahrik,doprava,https://praha.pirati.cz/tunel-vlasta.html
 2018-05-21,Piráti řešili digitalizaci státní správy na semináři v Jihlavě,Mediální odbor,digitalizace,https://pirati.cz/tiskove-zpravy/seminar-jihlava-digitalizace.html
+2018-06-15,Piráti otevírají novou kancelář a sdílený pracovní prostor u pražské Náplavky,Karolína Sadílková,praha piráti,https://pirati.cz/tiskove-zpravy/pirati-oteviraji-prostor-u-prazske-naplavky.html
+2018-06-22,Vítáme novou datovou platformu Prahy,Adam Zábranský,informatika,https://praha.pirati.cz/pirati-vitaji-datovou-platformu-prahy.html
+2018-07-02,Ve čtvrtek se rozhodne o budoucnosti svobodného internetu v Evropě,Jakub Dušánek,internet cenzura,https://pirati.cz/tiskove-zpravy/budoucnost-internetu-odhali-ctvrtecni-hlasovani-europarlamentu.html
 2018-07-04,Piráti upozorňují na nedostatečné technické řešení elektronických občanek,Andrea Mádlová,digitalizace,https://pirati.cz/tiskove-zpravy/eobcanky-nemaji-vyreseny-software.html
 2018-07-18,Pirát Ondřej Profant: Zakázka bez soutěže na datová centra vzbuzuje podezření,Mediální odbor,vláda,https://pirati.cz/tiskove-zpravy/datova-centra-za-42mil-vzbuzuji-podezreni-rika-profant.html
+2018-08-03,Piráti odeslali vládnímu zmocněnci pro IT seznam expertů k zapojení do projektů Digitálního Česka,Karolína Sadílková,digitalizace,https://pirati.cz/tiskove-zpravy/pirati-odeslali-dopis-zmocnenci-pro-it.html
 2018-08-07,"Komentář poslance Ondřeje Profanta: S ICTU spolupracujeme na zákonu o digitální službě, na podzim půjde do Sněmovny",Jakub Dušánek,digitalizace,https://pirati.cz/tiskove-zpravy/ictu-a-pirati-pripravuji-zakon-o-digitalni-sluzbe.html
+2018-08-16,Piráti zavedou jeden pražský webový portál pro vyřizování žádostí na úřadech,Jakub Dušánek,digitalizace,https://pirati.cz/tiskove-zpravy/pirati-predstavili-vizi-digitalizace-prahy.html
 2018-08-16,Vládní zmocněnec pro IT a digitalizaci potvrdil aktivní zapojení Pirátů do pléna RVIS i pracovních skupin k digitalizaci,Jakub Dušánek,vláda,https://pirati.cz/tiskove-zpravy/vladni-zmocnenec-pro-IT-potvrdil-roli-piratu-v-rvis.html
+2018-08-16,Piráti zavedou jeden pražský webový portál pro vyřizování žádostí na úřadech,Zdeněk Hřib,informatika magistrát,https://praha.pirati.cz/pirati-zavedou-jeden-portal-pro-vyrizovani-zadosti-obcanu.html
+2018-09-18,Piráti představili návrh na rozšíření pravomocí NKÚ a budou usilovat o snížení schodku rozpočtu,Jakub Dušánek,sněmovna GDPR NKÚ rozpočet,https://pirati.cz/tiskove-zpravy/brifink-pred-pokracovanim-19-schuze.html
 2018-09-19,Klíčový zákon eGovernmentu „právo na digitální službu” má podporu Pirátů a dalších parlamentních stran,Karolína Sadílková,sněmovna digitalizace,https://pirati.cz/tiskove-zpravy/zakon-pravo-na-digitalni-sluzbu-ma-podporu-snemovny.html
+2018-09-27,Piráti ve Sněmovně představí projekt „Založení firmy za jediný den“,Ondřej Profant,sněmovna podnikání,https://pirati.cz/tiskove-zpravy/pirati-navrhuji-zalozeni-firmy-za-den.html
 2018-10-01,"Piráti představili politikům bezplatnou aplikaci, díky které si založíte firmu za jeden den",Ondřej Profant,sněmovna podnikání,https://pirati.cz/tiskove-zpravy/komentar-ondreje-profanta-zrychlime-podnikani.html
+2018-10-09,Zákon o právu na digitální službu prošel připomínkami všech politických stran,Mediální odbor,digitalizace,https://pirati.cz/tiskove-zpravy/obcane-by-meli-mit-moznost-komunikovat-se-statem-elektronicky.html
 2018-10-11,"Vláda se ke koncepci registrů dostala až tento týden, základní registry můžou být brzy bez financí, upozorňuje Ondřej Profant",Ondřej Profant,sněmovna legislativa,https://pirati.cz/tiskove-zpravy/koncepci-registru-resila-vlada-az-tento-tyden.html
+2018-10-23,"Nesplněné sliby učitelům, výlet do Moskvy a deficitní rozpočet. Piráti komentovali témata začínající schůze Sněmovny",Jakub Dušánek,sněmovna,https://pirati.cz/tiskove-zpravy/briefing-piratu-pred-20-schuzi.html
+2018-10-26,Saská policie se chystá podél hranic s ČR instalovat kamery s rozpoznáváním obličejů,Mediální odbor,doprava eu,https://pirati.cz/tiskove-zpravy/sasko-zavede-kamery-pro-detekci-obliceju.html
 2018-11-14,Piráti varují před bezpečnostními riziky cloudového řešení pro veřejnou správu,Mediální odbor,digitalizace,https://pirati.cz/tiskove-zpravy/pirati-varuji-pred-riziky-cloudu-pro-verejnou-spravu.html

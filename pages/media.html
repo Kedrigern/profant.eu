@@ -7,7 +7,7 @@ permalink: "medialni-vystupy/"
 {% assign media = site.data.media %}
 {% assign media = media | reverse %}
 
-<p>Na tomto webu je {{site.posts | size}} článků.</p>
+<p>Na tomto webu je {{site.posts | size}} článků. V tabulce je {{media |size}} článků z pirátských webů:</p>
 
 <table>
 	<thead>
@@ -17,9 +17,10 @@ permalink: "medialni-vystupy/"
 	</thead>
 	<tbody>
 		{% for a in media | %}
+		{% assign bold = a.author contains "Profant" %}
 		<tr>
 			<td>{{a.date}}</td> 
-			<td><a href="{{a.url}}">{{a.title}}</a></td>
+			<td><a href="{{a.url}}">{%if bold%}<b>{%endif%}{{a.title}}{%if bold%}</b>{%endif%}</a></td>
 			<td>{{a.tags}}</td>
 		</tr>
 		{% endfor %}
