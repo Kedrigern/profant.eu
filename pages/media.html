@@ -1,0 +1,21 @@
+---
+layout: content-page
+title:  "Mediální výstupy"
+permalink: "medialni-vystupy/"
+---
+
+<table>
+	<thead>
+		<tr>
+			<th>Datum</th><th>Název</th>
+		</tr>
+	</thead>
+	<tbody>
+		{% for a in site.media %}
+		<tr>
+			<td>{{a.date}}</td> 
+			<td>{{a.title}}</td>
+		</tr>
+		{% endfor %}
+	</tbody>
+</table>
