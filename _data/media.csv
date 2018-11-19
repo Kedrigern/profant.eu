@@ -1,6 +1,6 @@
 date,title,author,tags,url
-2014-10-12,10 bodů pro novou Radu,"['Jakub Michálek, Ondřej Profant, Mikuláš Ferjenčík, Adam Zábranský']",,https://praha.pirati.cz/10-klicovych-bodu.html
-2014-11-05,Opozici se věnujeme naplno,['Mikuláš Ferjenčík'],,https://praha.pirati.cz/zastupitele-piratu-pracuji-naplno.html
+2014-10-12,10 bodů pro novou Radu,"Jakub Michálek, Ondřej Profant, Mikuláš Ferjenčík, Adam Zábranský",rhmp,https://praha.pirati.cz/10-klicovych-bodu.html
+2014-11-05,Opozici se věnujeme naplno,Mikuláš Ferjenčík,zhmp,https://praha.pirati.cz/zastupitele-piratu-pracuji-naplno.html
 2014-11-27,Přehled Pirátů ve výborech,Jan Loužek,výbory,https://praha.pirati.cz/prehled-piratu-ve-vyborech.html
 2014-12-02,Zastupitelský Piratecon,Jan Loužek,akce piráti,https://praha.pirati.cz/zastupitelsky-piratecon.html
 2014-12-05,Vendor lock-in pokračuje,Ondřej Profant,projev,https://praha.pirati.cz/zasedala-rada.html
@@ -62,15 +62,15 @@ date,title,author,tags,url
 2017-06-19,"Magistrát neřeší problémy, namísto toho podporuje dinosaury",Ondřej Profant,informatika vendor-lock,https://praha.pirati.cz/magistrat-neresi-problemy-v-it.html
 2017-06-30,"Piráti dali vládě čtyřku, tři ministři podle nich propadli.",Mikuláš Ferjenčík,kampaň vláda,https://pirati.cz/tiskove-zpravy/ctyrku-vlade-od-piratu.html
 2017-08-15,Piráti: Rada schvaluje nepřiměřené výdaje v IT oblasti bez projednání komisí,Ondřej Profant,informatika rhmp rada,https://praha.pirati.cz/prilisne-vydaje-za-it.html
-2017-09-03T12:00:00+02:00,Pirátská solární loď v Praze,Ondřej Profant,kampan solarni-lod,https://praha.pirati.cz/plavba-do-snemovny.html
-2017-09-15T13:31:00+02:00,Zastupitelstvo schválilo návrh Pirátů a dalších zastupitelů: Mariánský sloup na Staroměstském náměstí nebude!,"Jan Loužek, Adam Zábranský, Ondřej Profant",zhmp,https://praha.pirati.cz/mariansky-sloup-nebude.html
-2017-09-25T11:50:00+02:00,"Pokud v Blance 2 nebude MHD, nestojí za ty peníze",Ondřej Profant,doprava,https://praha.pirati.cz/chceme-v-blance-ii-mh.html
+2017-09-03,Pirátská solární loď v Praze,Ondřej Profant,kampan solarni-lod,https://praha.pirati.cz/plavba-do-snemovny.html
+2017-09-15,Zastupitelstvo schválilo návrh Pirátů a dalších zastupitelů: Mariánský sloup na Staroměstském náměstí nebude!,"Jan Loužek, Adam Zábranský, Ondřej Profant",zhmp,https://praha.pirati.cz/mariansky-sloup-nebude.html
+2017-09-25,"Pokud v Blance 2 nebude MHD, nestojí za ty peníze",Ondřej Profant,doprava,https://praha.pirati.cz/chceme-v-blance-ii-mh.html
 2017-10-10,Předražený internet na Petříne,Ondřej Profant,informatika smart-cities,https://praha.pirati.cz/wifi-na-petrine.html
 2017-10-24,Piráti jsou druhou největší stranou v Praze. V obecních volbách se pokusí úspěch zopakovat,Adam Zábranský,praha,https://praha.pirati.cz/pirati-druzi-v-praze.html
-2017-10-29T16:40:00+02:00,Piráti navrhují do předsednictva Sněmovny olomouckého lídra Vojtěcha Pikala,Karolína Sadílková,sněmovna,https://pirati.cz/tiskove-zpravy/pirati-nominuji-pikala.html
+2017-10-29,Piráti navrhují do předsednictva Sněmovny olomouckého lídra Vojtěcha Pikala,Karolína Sadílková,sněmovna,https://pirati.cz/tiskove-zpravy/pirati-nominuji-pikala.html
 2017-10-30,"V pražském zastupitelstvu dojde k obměně, nastoupí Piráti Viktor Mahrik a Ondřej Kallasch",Adam Zábranský,praha,https://praha.pirati.cz/obmena-v-klubu-nastoupi-mahrik-kallasch.html
 2017-11-08,"Zastupitelstvo chce dostavět městský okruh, superholding neprojednalo","Jan Loužek, Adam Zábranský",praha,https://praha.pirati.cz/blanka-2-a-chystany-superholding.html
-2017-11-14T09:12:00+02:00,Čelní pozice ve výborech by si dle Pirátů měly rozdělit opoziční strany poměrně,Karolína Sadílková,sněmovna,https://pirati.cz/tiskove-zpravy/celni-pozice-ve-vyborech-opozici.html
+2017-11-14,Čelní pozice ve výborech by si dle Pirátů měly rozdělit opoziční strany poměrně,Karolína Sadílková,sněmovna,https://pirati.cz/tiskove-zpravy/celni-pozice-ve-vyborech-opozici.html
 2017-11-30,Koalice připravila extrémně projídací rozpočet,Adam Zábranský,rozpočet,https://praha.pirati.cz/pirati-hlasovali-proti-projidacimu-rozpoctu.html
 2017-12-04,Zakázka za 93 milionů na radiový systém: předražená a bez soutěže,Ondřej Profant,informatika mrs tetra,https://praha.pirati.cz/jrbu-na-mrs.html
 2017-12-14,Koaliční mlčení k nemocnici na Františku a Metru D. Piráti mezitím vystřídali stráže.,Adam Zábranský,zhmp nemocnice-na-františku,https://praha.pirati.cz/mlceni-o-dopravnim-podniku-nemocnici-na-frantisku-a-pochybne-smart-cities.html

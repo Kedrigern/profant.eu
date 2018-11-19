@@ -2,25 +2,25 @@
 layout: content-page
 title:  "Mediální výstupy"
 permalink: "medialni-vystupy/"
+redirect_from: "/media/"
 ---
 
 {% assign media = site.data.media %}
 {% assign media = media | reverse %}
 
-<p>Na tomto webu je {{site.posts | size}} článků. V tabulce je {{media |size}} článků z pirátských webů:</p>
+<p>Mediální výstupy týkající se práce poslance Ondřeje Profanta. Na tomto webu je <b>{{site.posts | size}} článků</b>. V tabulce je <b>{{media |size}} článků</b> z pirátských webů:</p>
 
-<table>
+	<table>
 	<thead>
 		<tr>
 			<th>Datum</th><th>Název</th><th>Tagy</th>
 		</tr>
 	</thead>
 	<tbody>
-		{% for a in media | %}
-		{% assign bold = a.author contains "Profant" %}
+		{% for a in media %}
 		<tr>
 			<td>{{a.date}}</td> 
-			<td><a href="{{a.url}}">{%if bold%}<b>{%endif%}{{a.title}}{%if bold%}</b>{%endif%}</a></td>
+			<td><a href="{{a.url}}">{%if a.author contains "Profant"%}<b>{%endif%}{{a.title}}{%if a.author contains "Profant"%}</b>{%endif%}</a></td>
 			<td>{{a.tags}}</td>
 		</tr>
 		{% endfor %}
