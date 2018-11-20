@@ -5,8 +5,7 @@ permalink: "medialni-vystupy/"
 redirect_from: "/media/"
 ---
 
-{% assign media = site.data.media %}
-{% assign media = media | reverse %}
+{% assign media = site.data.media | reverse %}
 
 <p>Mediální výstupy týkající se práce poslance Ondřeje Profanta. Na tomto webu je <b>{{site.posts | size}} článků</b>. V tabulce je <b>{{media |size}} článků</b> z pirátských webů:</p>
 
@@ -19,10 +18,25 @@ redirect_from: "/media/"
 	<tbody>
 		{% for a in media %}
 		<tr>
-			<td>{{a.date}}</td> 
+			<td>{{a.date | date:"%d.%m.%y"}}</td> 
 			<td><a href="{{a.url}}">{%if a.author contains "Profant"%}<b>{%endif%}{{a.title}}{%if a.author contains "Profant"%}</b>{%endif%}</a></td>
 			<td>{{a.tags}}</td>
 		</tr>
 		{% endfor %}
 	</tbody>
 </table>
+
+<p>
+Další články v jednotlivých mediích:
+<ul>
+	<li><a href="https://www.irozhlas.cz/zpravy-tag/ondrej-profant">iRozhlas</a></li>
+	<li><a href="https://www.google.com/search?q=ond%C5%99ej+profant+inurl%3Aihned&oq=ond%C5%99ej+profant+inurl%3Aihned">iHned</a></li>
+	<li><a href="https://wiki.idnes.cz/ondrej-profant-014-/politici.aspx?klic=456752">iDnes</a></li>
+	<li><a href="http://neovlivni.cz/tag/ondrej-profant/">Neovlivní</a></li>
+	<li><a href="https://www.google.com/search?q=ond%C5%99ej+profant+inurl%3Adenik.cz&oq=ond%C5%99ej+profant+inurl%3Adenik.cz">Deník.cz</a></li>
+	<li><a href="https://www.google.com/search?q=ond%C5%99ej+profant+inurl%3Alupa&oq=ond%C5%99ej+profant+inurl%3Alupa">Lupa.cz</a></li>
+
+</ul>
+</p>
+
+
