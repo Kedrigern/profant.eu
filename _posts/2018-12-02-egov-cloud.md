@@ -4,7 +4,7 @@ title:      "Strategie pro Egovernment cloud v ČR"
 date:       2018-12-02 19:00:00 +0100
 categories: Egovernment
 comments:   true
-tags:       egovernment, digitalizace, informatika, veřejná správa
+tags:       [Egovernment, Digitalizace]
 img:        egov-cloud.jpg
 author:     Ondřej Profant
 ---
