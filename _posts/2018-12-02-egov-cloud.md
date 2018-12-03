@@ -29,7 +29,7 @@ Další otazníky se pojí s administrativním a organizačním zajištěním ch
 
 V rámci SeGC pak jistě vznikne několik nových datových center, která budou chod státního cloudu zabezpečovat. Dá se předpokládat, že hardware pro tato datová centra se bude soutěžit v jedné nebo několika málo zakázkách. Znovu tedy hrozí významné riziko, že veškeré hardwarové vybavení bude od několika málo dodavatelů. Takový stav není správný, jelikož v hardware se často objevují chyby nebo dokonce i backdoory od výrobce. Drtivá většina hardware se navíc vyrábí mimo území ČR i EU, k jeho pořizování pro účely SeGC je proto nutné přistupovat nanejvýše obezřetně. Kromě zjevného bezpečnostního rizika, které představuje nebezpečí sabotáže či špionáže prostřednictvím dodaného hardware, je třeba se důkladně zaměřit na odstranění neúmyslných chyb. Příkladem takových chyb jsou třeba meltdown a spectre, které tvrdě postihly právě důvěryhodnost cloudu.
 
-Na jednání Podvýboru pro egovernment 12. prosince, kdy je projednání vize Egovernment cloudu na programu, se tedy zaměříme na následující nevyřešené otázky:
+Na jednání [Podvýboru pro egovernment 12. prosince](http://www.psp.cz/sqw/text/text2.sqw?idd=152824), kdy je projednání vize Egovernment cloudu na programu, se tedy zaměříme na následující nevyřešené otázky:
 
 * V regionech je již vystavěna infrastruktura za 100 milionů Kč. Jaka je její budoucnost?
 * Jaké je bezpečnostní riziko, pokud nebudou různí dodavatelé HW, zvláště pokud budou výhradně ze zemí jako je Čína. Stejně tak je problémem Single point of failture (SPOF), pokud by byl jeden dodavatel (např. switchů).
@@ -48,5 +48,5 @@ Strategický rámec eGC je stále jen strategií, velmi bude záležet na skute�
 
 ### Odkazy
 
-* [Vláda v oblacích?](https://www.profant.eu/2018/vlada-v-oblacich.html)
-* [Piráti varují před bezpečnostními riziky cloudového řešení pro veřejnou správu](https://www.pirati.cz/tiskove-zpravy/pirati-varuji-pred-riziky-cloudu-pro-verejnou-spravu.html)
+* [Vláda v oblacích?](https://www.profant.eu/2018/vlada-v-oblacich.html) - úvodní článek k problematice egovernment cloudu
+* [Piráti varují před bezpečnostními riziky cloudového řešení pro veřejnou správu](https://www.pirati.cz/tiskove-zpravy/pirati-varuji-pred-riziky-cloudu-pro-verejnou-spravu.html) - tisková zpráva Pirátské strany k problematice
