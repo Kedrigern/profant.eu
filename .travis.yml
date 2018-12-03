@@ -4,7 +4,7 @@ rvm:
 script:
   - npm install
   - JEKYLL_ENV=production bundle exec jekyll build
-  - bundle exec htmlproofer ./site
+  - bundle exec htmlproofer ./_site
 
 deploy:
   provider: pages
