@@ -8,16 +8,16 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" />
 	<meta name="HandheldFriendly" content="true"/>
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>Důvody pro digitalizaci | Blog Ondřeje Profanta</title>
+	<title>Strategie pro Egovernment cloud v ČR | Blog Ondřeje Profanta</title>
 	<meta name="author" content="Ondřej Profant">
 	<meta name="robots" content="index,follow" />
-	<meta name="description" content="Jedno z nejpodstatnějších témat, kterým se Piráti v prostředí české politiky věnují, je problematika digitalizace státu. Piráti o digitalizaci usilují především z toho důvodu, že náš stát je svým vývojem v digitálním pravěku. A přestože i politici z ostatních stran chápou potřebu přizpůsobit chod státního aparátu možnostem mo...">
-	<meta name="keywords" content="Ondřej Profant, opendata, opensource, open access, big data, piráti, svoboda, kyberbezpečnost, cyklo, eu, praha, doprava, poslanecká sněmovna, poslanec, egov, digitální česko, " />
-	<meta property="og:title"         content="Důvody pro digitalizaci | Blog Ondřeje Profanta" />
-	<meta property="og:description"   content="Jedno z nejpodstatnějších témat, kterým se Piráti v prostředí české politiky věnují, je problematika digitalizace státu. Piráti o digitalizaci usilují především z toho důvodu, že náš stát je svým vývojem v digitálním pravěku. A přestože i politici z ostatních stran chápou potřebu přizpůsobit chod státního aparátu možnostem mo..." />
-	<meta property="og:image"         content="https://www.profant.eu/kruh-0101.jpg" />
+	<meta name="description" content="V předchozím článku o využití cloudových technologií pro český egovernment jsem popsal základní vlastnosti těchto technologií. V tomto článku se podrobněji zaměřím na chystanou vládní implementaci.">
+	<meta name="keywords" content="Ondřej Profant, opendata, opensource, open access, big data, piráti, svoboda, kyberbezpečnost, cyklo, eu, praha, doprava, poslanecká sněmovna, poslanec, egov, digitální česko, Egovernment, Digitalizace" />
+	<meta property="og:title"         content="Strategie pro Egovernment cloud v ČR | Blog Ondřeje Profanta" />
+	<meta property="og:description"   content="V předchozím článku o využití cloudových technologií pro český egovernment jsem popsal základní vlastnosti těchto technologií. V tomto článku se podrobněji zaměřím na chystanou vládní implementaci." />
+	<meta property="og:image"         content="https://www.profant.eu/egov-cloud.jpg" />
 	<meta property="og:type"          content="website" />
-	<meta property="og:url"           content="https://www.profant.eu/2017/duvody-pro-digitalizaci.html" />
+	<meta property="og:url"           content="https://www.profant.eu/2018/egov-cloud.html" />
 	<link rel="apple-touch-icon-precomposed" sizes="57x57" href="/assets/favicon/apple-touch-icon-57x57.png">
 <link rel="apple-touch-icon-precomposed" sizes="114x114" href="/assets/favicon/apple-touch-icon-114x114.png">
 <link rel="apple-touch-icon-precomposed" sizes="72x72" href="/assets/favicon/apple-touch-icon-72x72.png">
@@ -79,7 +79,7 @@
       <div itemprop="author" itemtype="http://schema.org/Person" itemscope>
           <span itemprop="name" class="post__author">Ondřej Profant</span>
       </div>
-      <h1 itemprop="headline" class="page__headline">Důvody pro digitalizaci</h1>
+      <h1 itemprop="headline" class="page__headline">Strategie pro Egovernment cloud v ČR</h1>
     </div>
   </div>
 
@@ -88,63 +88,61 @@
 
       
       <div class="post__thumbnail">
-        <img class="thumbnail" src="/assets/img/posts/kruh-0101.jpg">
-        <meta itemprop="image" content="/assets/img/posts/kruh-0101.jpg">
+        <img class="thumbnail" src="/assets/img/posts/egov-cloud.jpg">
+        <meta itemprop="image" content="/assets/img/posts/egov-cloud.jpg">
       </div>
       
 
       <p class="post__excerpt content-block">
-          <meta itemprop="datePublished" content="2017-11-22T17:00:00+00:00" />
-          <i>22. 11. 2017</i> &mdash; <span itemprop="description">Jedno z nejpodstatnějších témat, kterým se Piráti v prostředí české politiky věnují, je problematika digitalizace státu. Piráti o digitalizaci usilují především z toho důvodu, že náš stát je svým vývojem v digitálním pravěku. A přestože i politici z ostatních stran chápou potřebu přizpůsobit chod státního aparátu možnostem moderních technologií, o digitalizaci většinou jen hezky mluví.
+          <meta itemprop="datePublished" content="2018-12-02T18:00:00+00:00" />
+          <i>02. 12. 2018</i> &mdash; <span itemprop="description">V předchozím článku o využití cloudových technologií pro český egovernment jsem popsal základní vlastnosti těchto technologií. V tomto článku se podrobněji zaměřím na chystanou vládní implementaci.
 
 </span>
       </p>
 
       <div id="content" class="post__content content-block">
-        <p>Jedno z nejpodstatnějších témat, kterým se Piráti v prostředí české politiky věnují, je problematika digitalizace státu. Piráti o digitalizaci usilují především z toho důvodu, že náš stát je svým vývojem v digitálním pravěku. A přestože i politici z ostatních stran chápou potřebu přizpůsobit chod státního aparátu možnostem moderních technologií, o digitalizaci většinou jen hezky mluví.
-<!--more-->
-Skutečný stav úrovně digitalizace v ČR je však velmi tristní. Za IT projekty se utrácí nesmyslné peníze a dané projekty na konci ani pořádně nefungují. Na výsledných nákladech se navíc často velmi negativně projevují licenční politiky poskytovatelů služeb, kteří se mnohdy záměrně snaží stát jako objednavatele služeb dostat do nevýhodné a závislé pozice. Příklady takové praxe jsou třeba systém ADIS od IBM, nad kterým je postaveno EET, nebo účetní systém Ginis od společnosti Gordic.</p>
+        <!--more-->
 
-<p>Dalším znakem nedostatečné digitalizace je znemožnění či znesnadnění občanovi provádět základní úkony a řešit své životní situace digitálně. Pokud už nějaká taková možnost nebo nástroj existují, zpravidla bývají zcela neintuitivní a uživateli spíš přidělávají práci, než aby mu poskytly časovou úsporu. Typickým příkladem dosavadní špatné praxe je třeba povinnost podávat kontrolní hlášení, která přispívá k navýšení administrativní zátěže na straně podnikatelů přibližně o třicet hodin ročně. Nebo již zmíněná EET, která opět jen vytvořila pro podnikatele další povinnost, už ale nenabídla žádnou službu, kterou by podnikatelům jejich nový úkol usnadnila.</p>
+<h3 id="co-vláda-chystá">Co vláda chystá</h3>
 
-<p>Právě kvůli těmto špatným zkušenostem lidé digitalizaci odmítají, protože ji považují za něco, co člověku pouze komplikuje život. A to je velmi špatně. Dobře provedená digitalizace může ušetřit státu i občanům peníze, zjednodušit a zrychlit procesy a v neposlední řadě zajistit lepší auditovatelnost. Avšak nic z toho se nemůže stát, dokud v Parlamentu sedí lidé, kteří si neuvědomují současnou technologickou realitu.</p>
+<p>Vláda 14. 11. schválila strategický rámec pro Egovernment cloud (eGC). Aplikace v cloudu budou rozděleny do čtyř úrovní kritičnosti (nízká, střední, vysoká, kritická). Samotný eGC se má v budoucnu skládat z komerčního cloud (KeGC), který bude skupinou poskytovatelů komerčních cloudových služeb, kteří splnili patřičné podmínky. Služby poskytované v KeGC se budou nakupovat formou dynamického nákupního systému. Proces nákupu služeb by pak měl v praxi umožňovat snadné objednání a nákup požadované služby.</p>
 
-<p>Motivacemi pro digitalizaci by měla být snaha o:</p>
+<p>Další částí eGC je státní cloud (SeGC), který bude využíván pro nejkritičtější systémy a aplikace, tedy například základní registry, datové schránky nebo ADIS (daňový systém).</p>
+
+<p>Pro orgány státní moci má být zapojení do cloudu povinné do dvou let od spuštění eGC. Pokud by se některý orgán nechtěl připojit, musel byl dostatečně prokázat, že jeho vlastní řešení je úspornější. Dále vládní materiál navrhuje zavedení řídícího orgánu eGC složeného ze zástupců Ministerstva vnitra, Ministerstva financí, Národního úřadu pro kybernetickou a informační bezpečnost, zpravodajských služeb, ústředních orgánů státní správy, orgánů veřejné správy a údajně i zástupců odborné veřejnosti.</p>
+
+<h3 id="jaká-jsou-rizika">Jaká jsou rizika?</h3>
+
+<p>Ačkoliv v obecné rovině se s vládním návrhem dá souhlasit, neboť cloudové technologie jsou pro efektivnější egovernment nezbytným infrastrukturním prvkem, některé oblasti působí dost rozpačitým dojmem. Takže zatímco u služeb typu IAAS a PAAS (neboli “Infrastruktura jako služba” a “Platforma jako služba”) se dá předpokládat racionální přístup, problémy se dají očekávat u SAAS (“Software jako služba”). U tohoto typu služeb bude velmi záležet na tom, jaké služby budou vybrány do katalogu. Velmi snadno zde může dojít k protežování některých firem na úkor jiných. Tento problém ilustrují rámcové smlouvy, které MVČR uzavřelo s dodavateli některých platforem - například Microsoft, VMware, Oracle a další. Tyto smlouvy jsou velmi silnou konkurenční výhodou oproti jiným tržním subjektům. V praxi je tak jednodušší objednat si drahou Oracle DB, než se snažit vysoutěžit podporu k otevřenému databázovému řešení, která je často poskytována zdarma a nemá ani další licenční omezení.</p>
+
+<p>Další otazníky se pojí s administrativním a organizačním zajištěním chystaných změn. Není ponechána dostatečná rezerva pro nezbytnou migraci dat, není vyřešen soulad definic s širší legislativou, není jisté, zda jsou na přechod všechny státní instituce připraveny. Zejména přesun nákladů z kapitálových do běžných výdajů může pro mnoho organizací představovat významné komplikace. Ty mohou vyústit až v kritický nedostatek finančních prostředků v provozních rozpočtech jednotlivých organizací. Nemluvě o tom, že mnoho institucí investovalo nemalé peníze, např. I z grantů, na výstavbu vlastních datových center.</p>
+
+<p>V rámci SeGC pak jistě vznikne několik nových datových center, která budou chod státního cloudu zabezpečovat. Dá se předpokládat, že hardware pro tato datová centra se bude soutěžit v jedné nebo několika málo zakázkách. Znovu tedy hrozí významné riziko, že veškeré hardwarové vybavení bude od několika málo dodavatelů. Takový stav není správný, jelikož v hardware se často objevují chyby nebo dokonce i backdoory od výrobce. Drtivá většina hardware se navíc vyrábí mimo území ČR i EU, k jeho pořizování pro účely SeGC je proto nutné přistupovat nanejvýše obezřetně. Kromě zjevného bezpečnostního rizika, které představuje nebezpečí sabotáže či špionáže prostřednictvím dodaného hardware, je třeba se důkladně zaměřit na odstranění neúmyslných chyb. Příkladem takových chyb jsou třeba meltdown a spectre, které tvrdě postihly právě důvěryhodnost cloudu.</p>
+
+<p>Na jednání <a href="http://www.psp.cz/sqw/text/text2.sqw?idd=152824">Podvýboru pro egovernment 12. prosince</a>, kdy je projednání vize Egovernment cloudu na programu, se tedy zaměříme na následující nevyřešené otázky:</p>
+
 <ul>
-  <li>
-    <p><strong>zlepšení efektivity státní správy</strong></p>
-
-    <p>Čili ušetření času úředníků, kteří se mohou věnovat produktivnější činnosti, zároveň se zlepšuje míra a podrobnost zpětné kontroly, která přispívá k lepší vymahatelnosti práva.</p>
-  </li>
-  <li>
-    <p><strong>zvětšení občanské spokojenosti při kontaktu se státem</strong></p>
-
-    <p>Čili zjednodušení řešení životních situací pro občany, kteří pak mají s úřady méně starostí a mohou případně své potřeby řešit z domovan i mimo pracovní dobu úřadu.</p>
-  </li>
-  <li>
-    <p><strong>snadný přístup k informacím podporující zodpovědná rozhodnutí</strong></p>
-
-    <p>Čili zpřístupnění dostatečných informací a podkladů jak pro politiky a úředníky, tak i pro občany.</p>
-  </li>
-  <li>
-    <p><strong>úsporu veřejných prostředků pro fungování státní a místní správy</strong></p>
-
-    <p>Čili takové provedení digitalizace, které veřejné rozpočty dlouhodobě nezatěžuje a naopak umožňuje jiné využití finančních prostředků.</p>
-  </li>
-  <li>
-    <p><strong>zjednodušení státních agend</strong></p>
-
-    <p>Čili odstraňování přebytečné byrokracie a její celková automatizace, čímž dochází ke snižování administrativní zátěže.</p>
-  </li>
+  <li>V regionech je již vystavěna infrastruktura za 100 milionů Kč. Jaka je její budoucnost?</li>
+  <li>Jaké je bezpečnostní riziko, pokud nebudou různí dodavatelé HW, zvláště pokud budou výhradně ze zemí jako je Čína. Stejně tak je problémem Single point of failture (SPOF), pokud by byl jeden dodavatel (např. switchů).</li>
+  <li>Jaká bude podpora IPv6? Stále není běžné, že je plná podpora v komerčních cloudech.</li>
+  <li>Konektivita regionů nemusí být dostatečná pro cloudové řešení interních aplikací.</li>
+  <li>Rozdělení dle kritičnosti de facto určí cenu. Zde je potřeba postupovat velmi obezřetně, aby se aplikace nedostávaly do příliš vysoké úrovně zbytečně.</li>
+  <li>SAAS může vést k oligopolu</li>
+  <li>Velká změna v rozpočtování (kapitálové vs běžné výdaje) je potřeba, ale samozřejmě musí být provedena dobře.</li>
+  <li>Realističnost termínu migrace.</li>
 </ul>
 
-<p>Digitalizace veřejné správy založená na skutečných a aktualizovaných datech je užitečná a prospěšná pro všechny oblasti státního servisu a v konečném důsledku tedy i pro občana. K výzvám digitalizace je však nutné se postavit koncepčně a nespoléhat se jen na to, co státu naservírují proprietární dodavatelé.</p>
+<h3 id="závěr">Závěr</h3>
+
+<p>Výhody eGC jsou nesporné a nejlépe se mohou projevit zejména u menších institucí a úřadů, které si v objednávkovém rozhraní budou moci jednoduše vybrat a naklikat například pár virtuálních serverů, které budou moci hned využívat. Zároveň ale hrozí známá a reálná nebezpečí typu vendor lock-in (závislost na dodavateli) nebo single point of failure (jednoho místa selhání), kterým je potřeba předcházet.</p>
+
+<p>Strategický rámec eGC je stále jen strategií, velmi bude záležet na skutečném nasazení, do kterého se může ještě mnohé změnit. Jasné je ale jedno - projekt eGC bude jedním z největších a nejrozsáhlejších projektů digitalizace států. Je proto nutné mu věnovat patřičnou pozornost.</p>
 
 <h3 id="odkazy">Odkazy</h3>
 
 <ul>
-  <li><a href="https://www.pirati.cz/program/temata/digitalni-cesko/">Digitální Česko</a></li>
-  <li><a href="https://www.piratskelisty.cz/clanek-1708-digitalizace-znamena-mene-uradu-vyuzijme-odborniky-ktere-mame">Digitalizace znamená méně úřadů - využijme odborníky, které máme</a></li>
+  <li><a href="https://www.profant.eu/2018/vlada-v-oblacich.html">Vláda v oblacích?</a> - úvodní článek k problematice egovernment cloudu</li>
+  <li><a href="https://www.pirati.cz/tiskove-zpravy/pirati-varuji-pred-riziky-cloudu-pro-verejnou-spravu.html">Piráti varují před bezpečnostními riziky cloudového řešení pro veřejnou správu</a> - tisková zpráva Pirátské strany k problematice</li>
 </ul>
 
       </div>
