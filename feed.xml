@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="https://www.profant.eu/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.profant.eu/" rel="alternate" type="text/html" /><updated>2018-12-03T12:32:30+00:00</updated><id>https://www.profant.eu/feed.xml</id><title type="html">Blog Ondřeje Profanta</title><subtitle>Zápisník pirátského poslance Ondřeje Profanta, který se zaměřuje na opendata a e-government. Rád bych byl, aby Česká republika byla moderním státem s rozvinutou digitální ekonomikou, kde je kladen silný důraz na vzdělávání a svobodu. V digitalizaci se musíme inspirovat ve Velké Britanii a Estonsku, řešení musí být otevřená a uživatelsky přívětivá.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="https://www.profant.eu/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.profant.eu/" rel="alternate" type="text/html" /><updated>2018-12-03T12:40:25+00:00</updated><id>https://www.profant.eu/feed.xml</id><title type="html">Blog Ondřeje Profanta</title><subtitle>Zápisník pirátského poslance Ondřeje Profanta, který se zaměřuje na opendata a e-government. Rád bych byl, aby Česká republika byla moderním státem s rozvinutou digitální ekonomikou, kde je kladen silný důraz na vzdělávání a svobodu. V digitalizaci se musíme inspirovat ve Velké Britanii a Estonsku, řešení musí být otevřená a uživatelsky přívětivá.
 </subtitle><author><name>Ondřej Profant</name></author><entry><title type="html">Strategie pro Egovernment cloud v ČR</title><link href="https://www.profant.eu/2018/egov-cloud.html" rel="alternate" type="text/html" title="Strategie pro Egovernment cloud v ČR" /><published>2018-12-02T18:00:00+00:00</published><updated>2018-12-02T18:00:00+00:00</updated><id>https://www.profant.eu/2018/egov-cloud</id><content type="html" xml:base="https://www.profant.eu/2018/egov-cloud.html">&lt;p&gt;V předchozím &lt;a href=&quot;https://www.profant.eu/2018/vlada-v-oblacich.html&quot;&gt;článku o využití cloudových technologií&lt;/a&gt; pro český egovernment jsem popsal základní vlastnosti těchto technologií. V tomto článku se podrobněji zaměřím na chystanou vládní implementaci.&lt;/p&gt;
 
 &lt;!--more--&gt;
@@ -22,14 +22,14 @@
 &lt;p&gt;Na jednání &lt;a href=&quot;http://www.psp.cz/sqw/text/text2.sqw?idd=152824&quot;&gt;Podvýboru pro egovernment 12. prosince&lt;/a&gt;, kdy je projednání vize Egovernment cloudu na programu, se tedy zaměříme na následující nevyřešené otázky:&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;V regionech je již vystavěna infrastruktura za 100 milionů Kč. Jaka je její budoucnost?&lt;/li&gt;
-  &lt;li&gt;Jaké je bezpečnostní riziko, pokud nebudou různí dodavatelé HW, zvláště pokud budou výhradně ze zemí jako je Čína. Stejně tak je problémem Single point of failture (SPOF), pokud by byl jeden dodavatel (např. switchů).&lt;/li&gt;
-  &lt;li&gt;Jaká bude podpora IPv6? Stále není běžné, že je plná podpora v komerčních cloudech.&lt;/li&gt;
-  &lt;li&gt;Konektivita regionů nemusí být dostatečná pro cloudové řešení interních aplikací.&lt;/li&gt;
-  &lt;li&gt;Rozdělení dle kritičnosti de facto určí cenu. Zde je potřeba postupovat velmi obezřetně, aby se aplikace nedostávaly do příliš vysoké úrovně zbytečně.&lt;/li&gt;
-  &lt;li&gt;SAAS může vést k oligopolu&lt;/li&gt;
-  &lt;li&gt;Velká změna v rozpočtování (kapitálové vs běžné výdaje) je potřeba, ale samozřejmě musí být provedena dobře.&lt;/li&gt;
-  &lt;li&gt;Realističnost termínu migrace.&lt;/li&gt;
+  &lt;li&gt;V regionech je &lt;strong&gt;již vystavěna infrastruktura&lt;/strong&gt; za 100 milionů Kč. Jaka je její budoucnost?&lt;/li&gt;
+  &lt;li&gt;Jaké je bezpečnostní riziko, pokud nebudou různí dodavatelé HW, zvláště pokud budou výhradně ze zemí jako je Čína. Stejně tak je problémem &lt;strong&gt;Single point of failture&lt;/strong&gt; (SPOF), pokud by byl jeden dodavatel (např. switchů).&lt;/li&gt;
+  &lt;li&gt;Jaká bude podpora &lt;strong&gt;IPv6&lt;/strong&gt;? Stále není běžné, že je plná podpora v komerčních cloudech.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Konektivita&lt;/strong&gt; regionů nemusí být dostatečná pro cloudové řešení interních aplikací. Může se jednat např. o věci přímo komunikující s HW, kde je velmi těžké zajistit moderní standardy protokolů. Typickým příkladem může být kamerový systém apod. Přenáší se zde velké množství dat a bez výměny HW nejde ani zaručit, že v kvalitně komprimovaném formátu.&lt;/li&gt;
+  &lt;li&gt;Rozdělení dle &lt;strong&gt;kritičnosti de facto určí cenu&lt;/strong&gt;. Zde je potřeba postupovat velmi obezřetně, aby se aplikace nedostávaly do příliš vysoké úrovně zabezpečení zbytečně (popř. z důvodu navýšení ceny či preferování vybraného dodavatele).&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;SAAS&lt;/strong&gt; může vést k oligopolu&lt;/li&gt;
+  &lt;li&gt;Velká změna v &lt;strong&gt;rozpočtován&lt;/strong&gt;í (kapitálové vs běžné výdaje) je potřeba, ale samozřejmě musí být provedena dobře.&lt;/li&gt;
+  &lt;li&gt;Realističnost &lt;strong&gt;termínu migrace&lt;/strong&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h3 id=&quot;závěr&quot;&gt;Závěr&lt;/h3&gt;
