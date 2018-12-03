@@ -4,7 +4,7 @@ rvm:
 script:
   - npm install
   - JEKYLL_ENV=production bundle exec jekyll build
-  - bundle exec htmlproofer ./_site
+  - bundle exec htmlproofer ./_site  --assume-extension --disable-external --url-ignore "#,#fn:1" --alt-ignore '/.*/' ./_site
 
 deploy:
   provider: pages

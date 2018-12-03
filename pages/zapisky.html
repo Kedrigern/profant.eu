@@ -12,7 +12,7 @@ comments: false
   <small>{{post.date | date:"%d. %m. %Y"}} {{post.author}}</small><br />
   {% if post.img %}
   <div class="medium-6 columns noleftpadding">
-  <img class="thumbnail" src="{{ site.baseurl }}/{{post.img}}">
+  <img class="thumbnail" src="{{ post.img | prepend: 'assets/img/posts/' | relative_url }}">
   </div><div class="medium-6 columns noleftpadding">
   {% else %}
   <div>
