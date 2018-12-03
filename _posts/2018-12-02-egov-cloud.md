@@ -31,14 +31,14 @@ V rámci SeGC pak jistě vznikne několik nových datových center, která budou
 
 Na jednání [Podvýboru pro egovernment 12. prosince](http://www.psp.cz/sqw/text/text2.sqw?idd=152824), kdy je projednání vize Egovernment cloudu na programu, se tedy zaměříme na následující nevyřešené otázky:
 
-* V regionech je již vystavěna infrastruktura za 100 milionů Kč. Jaka je její budoucnost?
-* Jaké je bezpečnostní riziko, pokud nebudou různí dodavatelé HW, zvláště pokud budou výhradně ze zemí jako je Čína. Stejně tak je problémem Single point of failture (SPOF), pokud by byl jeden dodavatel (např. switchů).
-* Jaká bude podpora IPv6? Stále není běžné, že je plná podpora v komerčních cloudech.
-* Konektivita regionů nemusí být dostatečná pro cloudové řešení interních aplikací.
-* Rozdělení dle kritičnosti de facto určí cenu. Zde je potřeba postupovat velmi obezřetně, aby se aplikace nedostávaly do příliš vysoké úrovně zbytečně.
-* SAAS může vést k oligopolu
-* Velká změna v rozpočtování (kapitálové vs běžné výdaje) je potřeba, ale samozřejmě musí být provedena dobře.
-* Realističnost termínu migrace.
+* V regionech je **již vystavěna infrastruktura** za 100 milionů Kč. Jaka je její budoucnost?
+* Jaké je bezpečnostní riziko, pokud nebudou různí dodavatelé HW, zvláště pokud budou výhradně ze zemí jako je Čína. Stejně tak je problémem **Single point of failture** (SPOF), pokud by byl jeden dodavatel (např. switchů).
+* Jaká bude podpora **IPv6**? Stále není běžné, že je plná podpora v komerčních cloudech.
+* **Konektivita** regionů nemusí být dostatečná pro cloudové řešení interních aplikací. Může se jednat např. o věci přímo komunikující s HW, kde je velmi těžké zajistit moderní standardy protokolů. Typickým příkladem může být kamerový systém apod. Přenáší se zde velké množství dat a bez výměny HW nejde ani zaručit, že v kvalitně komprimovaném formátu.
+* Rozdělení dle **kritičnosti de facto určí cenu**. Zde je potřeba postupovat velmi obezřetně, aby se aplikace nedostávaly do příliš vysoké úrovně zabezpečení zbytečně (popř. z důvodu navýšení ceny či preferování vybraného dodavatele).
+* **SAAS** může vést k oligopolu
+* Velká změna v **rozpočtován**í (kapitálové vs běžné výdaje) je potřeba, ale samozřejmě musí být provedena dobře.
+* Realističnost **termínu migrace**.
 
 ### Závěr
 
