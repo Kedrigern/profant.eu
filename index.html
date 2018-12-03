@@ -7,7 +7,7 @@ layout: main
   <div class="row">
     <div class="small-12 medium-4 columns imagebox">
       <a href="{{ post.url | relative_url }}">
-        <img class="thumbnail blog-posting__media" src="{{ post.img | prepend: 'assets/img/posts/' | relative_url }}">
+        <img class="thumbnail blog-posting__media" src="{{ post.img | prepend: 'assets/img/posts/' | relative_url }}" alt="{{post.title}}">
       </a>
     </div>
     <div class="small-12 medium-8 columns">

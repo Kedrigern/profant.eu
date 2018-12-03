@@ -9,7 +9,7 @@ img:        egov-cloud.jpg
 author:     Ondřej Profant
 ---
 
-V předchozím [článku o využití cloudových technologií]((https://www.profant.eu/2018/vlada-v-oblacich.html)) pro český egovernment jsem popsal základní vlastnosti těchto technologií. V tomto článku se podrobněji zaměřím na chystanou vládní implementaci.
+V předchozím [článku o využití cloudových technologií](https://www.profant.eu/2018/vlada-v-oblacich.html) pro český egovernment jsem popsal základní vlastnosti těchto technologií. V tomto článku se podrobněji zaměřím na chystanou vládní implementaci.
 
 <!--more-->
 
