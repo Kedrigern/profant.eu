@@ -63,8 +63,8 @@ V tomto pozměňovacím návrhu se Jakub Michálek snažil o důslednější vym
 |E  | Internetová plnoletost snížena na 13 let |138 |Tomáš Martínek |Neprošel|
 |G  | Max. pokuta 5000 Kč pro malé obce |138 |Věra Kovářová |Prošel |
 |J  | ÚOOÚ jako úřad odpovědný za právo na informace |138 |Jakub Michálek |Prošel |
-|D1 | Sdílet s policií se nebude databáze fotek, ale pouze markery nutné ke strojovému posouzení. |139 |Ondřej Profant |Neprošel |
-|D2 | Původní 106ka |139 |Ondřej Profant |Neprošel |
-|D3 | 106ka s novými pojmy |139 |Ondřej Profant | Neprošel |
-|D4 | Kompromisní návrh u 106ky |139 |Ondřej Profant |Prošel |
-|H1-H3 | Espis |139 |Jakub Michálek |Neprošel |
+|D1 | Sdílet s policií se nebude databáze fotek, ale pouze markery nutné ke strojovému posouzení. |139 |Ondřej Profant | [Neprošel](https://www.psp.cz/sqw/hlasy.sqw?g=68596&l=cz) |
+|D2 | Původní 106ka |139 |Ondřej Profant | [Neprošel](https://www.psp.cz/sqw/hlasy.sqw?g=68597&l=cz) |
+|D3 | 106ka s novými pojmy |139 |Ondřej Profant | [Neprošel](https://www.psp.cz/sqw/hlasy.sqw?g=68598) |
+|D4 | Kompromisní návrh u 106ky |139 |Ondřej Profant | [Prošel](https://www.psp.cz/sqw/hlasy.sqw?g=68599) |
+|H1-H3 | Espis |139 |Jakub Michálek | [Neprošel](http://www.psp.cz/sqw/hlasy.sqw?G=68605) |
