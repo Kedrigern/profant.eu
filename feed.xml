@@ -1,5 +1,153 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="https://www.profant.eu/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.profant.eu/" rel="alternate" type="text/html" /><updated>2018-12-09T17:05:17+00:00</updated><id>https://www.profant.eu/feed.xml</id><title type="html">Blog Ondřeje Profanta</title><subtitle>Zápisník pirátského poslance Ondřeje Profanta, který se zaměřuje na opendata a e-government. Rád bych byl, aby Česká republika byla moderním státem s rozvinutou digitální ekonomikou, kde je kladen silný důraz na vzdělávání a svobodu. V digitalizaci se musíme inspirovat ve Velké Britanii a Estonsku, řešení musí být otevřená a uživatelsky přívětivá.
-</subtitle><author><name>Ondřej Profant</name></author><entry><title type="html">Strategie pro Egovernment cloud v ČR</title><link href="https://www.profant.eu/2018/egov-cloud.html" rel="alternate" type="text/html" title="Strategie pro Egovernment cloud v ČR" /><published>2018-12-02T18:00:00+00:00</published><updated>2018-12-02T18:00:00+00:00</updated><id>https://www.profant.eu/2018/egov-cloud</id><content type="html" xml:base="https://www.profant.eu/2018/egov-cloud.html">&lt;p&gt;V předchozím &lt;a href=&quot;https://www.profant.eu/2018/vlada-v-oblacich.html&quot;&gt;článku o využití cloudových technologií&lt;/a&gt; pro český egovernment jsem popsal základní vlastnosti těchto technologií. V tomto článku se podrobněji zaměřím na chystanou vládní implementaci.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="https://www.profant.eu/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.profant.eu/" rel="alternate" type="text/html" /><updated>2018-12-09T17:35:30+00:00</updated><id>https://www.profant.eu/feed.xml</id><title type="html">Blog Ondřeje Profanta</title><subtitle>Zápisník pirátského poslance Ondřeje Profanta, který se zaměřuje na opendata a e-government. Rád bych byl, aby Česká republika byla moderním státem s rozvinutou digitální ekonomikou, kde je kladen silný důraz na vzdělávání a svobodu. V digitalizaci se musíme inspirovat ve Velké Britanii a Estonsku, řešení musí být otevřená a uživatelsky přívětivá.
+</subtitle><author><name>Ondřej Profant</name></author><entry><title type="html">Poslední dějství GDPR</title><link href="https://www.profant.eu/2018/gdpr-posledni-dejstvi.html" rel="alternate" type="text/html" title="Poslední dějství GDPR" /><published>2018-12-09T17:00:00+00:00</published><updated>2018-12-09T17:00:00+00:00</updated><id>https://www.profant.eu/2018/gdpr-posledni-dejstvi</id><content type="html" xml:base="https://www.profant.eu/2018/gdpr-posledni-dejstvi.html">&lt;p&gt;Cesta GDPR Sněmovnou snad byla završena ve středu 5. 12. Nařízení je platné již od 25. května, ale Česká republika stále nemá implementační zákony, které vyjasňují některé části a zavádí tolik žádané výjimky.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;K sněmovním tiskům 138 a 139 se nashromáždilo hodně pozměňovacích návrhů. Většinu z nich jsem již shrnul v předchozím [článku](https://www.profant.eu/2018/gdpr-ve-snemovne.html. Pojďme si shrnout, co prošlo a co ne.&lt;/p&gt;
+
+&lt;h3 id=&quot;ohrožení-svobody-informací&quot;&gt;Ohrožení svobody informací&lt;/h3&gt;
+
+&lt;p&gt;Vláda ve svém návrhu doprovodných změn zákonů k GDPR (ST 139) chce utajit mnoho informací. Jedná se o vyjmutí následujících věcí z infozákona:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Utajit informace o průběhu trestního řízení&lt;/li&gt;
+  &lt;li&gt;Utajit porušování závazků vůči EU&lt;/li&gt;
+  &lt;li&gt;Utajit činnost GIBS a tajných služeb&lt;/li&gt;
+  &lt;li&gt;Utajit informace, které by “mohly ohrozit zájmy ČR v zahraničí”&lt;/li&gt;
+  &lt;li&gt;Utajit informace o úřednících pracujících s utajovanými informacemi&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Proto jsem obratem navrhl pozměňovací návrh (D2, SD &lt;a href=&quot;http://www.psp.cz/sqw/text/orig2.sqw?idd=135177&quot;&gt;709&lt;/a&gt;) na zrušení těchto omezení a ponechání pouze jediné potřebné věty. Tento návrh však neměl ve Sněmovně podporu. Proto jsem dále připravil návrh (D3, SD &lt;a href=&quot;http://www.psp.cz/sqw/text/orig2.sqw?idd=135813&quot;&gt;971&lt;/a&gt;), který řeší hlavní motivace MVČR k restrikcím v zákoně 106. Avšak tyto restrikce činí výrazně citlivějším způsobem. Vylučuje “bezpečnostní opatření” a “výkon zahraniční služby” z poskytovaných informací. Oba dva pojmy jsou již v legislativě existující a pokrývají šedou zónu mezi vyloženě utajovanými informacemi a informacemi volně šiřitelnými. Ale ani tento návrh nebyl MVČR po chuti. Po několika týdnech vyjednávání s ministerstvem vznikl kompromisní návrh (D4, SD &lt;a href=&quot;http://www.psp.cz/sqw/text/orig2.sqw?idd=136154&quot;&gt;1075&lt;/a&gt;), který je kompromisem mezi návrhem D3 a ministerskou verzí. Díky vyjednávání s ministerstvem jsem k tomuto návrhu dostal kladné stanovisko ministra. Moje odhady se potvrdily i při finálním hlasování. První dva návrhy příliš šancí neměly. Dopadlo to následovně:&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Návrh&lt;/th&gt;
+      &lt;th&gt;Pro&lt;/th&gt;
+      &lt;th&gt;Proti&lt;/th&gt;
+      &lt;th&gt;Zdržel se&lt;/th&gt;
+      &lt;th&gt;Pro byly tyto strany&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;D2: Původní 106ka&lt;/td&gt;
+      &lt;td&gt;26&lt;/td&gt;
+      &lt;td&gt;106&lt;/td&gt;
+      &lt;td&gt;52&lt;/td&gt;
+      &lt;td&gt;Piráti, KDU, TOP09&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;D3: Nové pojmy&lt;/td&gt;
+      &lt;td&gt;37&lt;/td&gt;
+      &lt;td&gt;119&lt;/td&gt;
+      &lt;td&gt;28&lt;/td&gt;
+      &lt;td&gt;Piráti, KDU, TOP09&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;D4: Kompromisní varianta&lt;/td&gt;
+      &lt;td&gt;146&lt;/td&gt;
+      &lt;td&gt;18&lt;/td&gt;
+      &lt;td&gt;20&lt;/td&gt;
+      &lt;td&gt;Piráti, ANO, ODS, ČSSD, KDU, TOP09, STAN&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;Je mi líto, že se nepodařilo prosadit návrh D2 nebo D3. Byly lepší. Ale je velkým úspěchem, že varianta D4 měla ohromnou podporu a byla schválena.&lt;/p&gt;
+
+&lt;h3 id=&quot;infozákon-bez-obstrukcí-informační-příkaz&quot;&gt;Infozákon bez obstrukcí: Informační příkaz&lt;/h3&gt;
+
+&lt;p&gt;Pirátský návrh se snaží rozřešit reálnou vymahatelnost přístupu k informacím. Dnes je to ve sporných případech tak, že odvolací orgán zruší rozhodnutí o nevydání informace, avšak původní úřad může vymyslet nový zástupný důvod, proč informaci není možné vydat. Takový ping pong mezi úřady pak může trvat velmi dlouho. Setkali jsme se až s desítkami iterací.&lt;/p&gt;
+
+&lt;p&gt;Tento problém rozetnul Jakub Michálek návrhem na Informační příkaz (SD &lt;a href=&quot;http://www.psp.cz/sqw/text/orig2.sqw?idd=136143&quot;&gt;1074&lt;/a&gt;), který se rozhodl inspirovat v zahraničí. Pravomoc rozhodnout obdobné spory dává Úřadu pro ochranu osobních údajů. Ten by měl na starost jak ochranu informací, tak její protipól - zveřejňování informací. Což je logické, jelikož může nejlépe vyvážit tyto protichůdné zájmy. Navíc to obvykle není tak složité, jen si s tím prvoinstanční úřady neumí poradit. Tento návrh se podařilo prosadit.&lt;/p&gt;
+
+&lt;h3 id=&quot;snížení-internetové-plnoletosti-na-13-let&quot;&gt;Snížení internetové plnoletosti na 13 let&lt;/h3&gt;
+
+&lt;p&gt;Z dalších pozměňovacích návrhů k tisku 138 nás zajímala úprava Tomáše Martínka, který snižoval věkovou hranici pro “internetovou plnoletost” z 15 let (Vláda) na 13 let (minimum co nařízení připouští). Návrh neprošel.&lt;/p&gt;
+
+&lt;h3 id=&quot;rozpoznávání-obličejů&quot;&gt;Rozpoznávání obličejů&lt;/h3&gt;
+
+&lt;p&gt;Policie si do návrhu prosadila plný přístup do databáze fotek z dokladů (občanky, cestovní pasy apod). Tomu jsem se snažil zabránit pozměňovacím návrhem, který dával jen možnost rozpoznávat obličeje (policie by dostala jen markery) a až na základě shody by si policie vyžádala samotnou fotografii. Tento návrh se ve sněmovně nesetkal s pochopením. Návrh neprošel.&lt;/p&gt;
+
+&lt;h3 id=&quot;espis&quot;&gt;Espis&lt;/h3&gt;
+
+&lt;p&gt;V tomto pozměňovacím návrhu se Jakub Michálek snažil o důslednější vymáhání standardů spisové služby. Ty jsou dnes sice definovány v legislativě, ale některé části jsou dosti ignorovány. Idea je taková, že například EZÚ by certifikoval spisové služby. Návrh neprošel.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Tabulka významnějších pozměňovacích návrhů&lt;/strong&gt;&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Návrh&lt;/th&gt;
+      &lt;th&gt;Tisk&lt;/th&gt;
+      &lt;th&gt;Předkladatel&lt;/th&gt;
+      &lt;th&gt;Výsledek&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;AD: Výjimka pro vědecký a historický výzkum&lt;/td&gt;
+      &lt;td&gt;138&lt;/td&gt;
+      &lt;td&gt;ÚPV&lt;/td&gt;
+      &lt;td&gt;Prošel&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;AE: Novinářská výjimka&lt;/td&gt;
+      &lt;td&gt;138&lt;/td&gt;
+      &lt;td&gt;ÚPV&lt;/td&gt;
+      &lt;td&gt;Prošel&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;E: internetová plnoletost snížena na 13 let&lt;/td&gt;
+      &lt;td&gt;138&lt;/td&gt;
+      &lt;td&gt;Tomáš Martínek&lt;/td&gt;
+      &lt;td&gt;Neprošel&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;G: max. pokuta 5000 Kč pro malé obce&lt;/td&gt;
+      &lt;td&gt;138&lt;/td&gt;
+      &lt;td&gt;Věra Kovářová&lt;/td&gt;
+      &lt;td&gt;Prošel&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;J: ÚOOÚ jako úřad odpovědný za právo na informace&lt;/td&gt;
+      &lt;td&gt;138&lt;/td&gt;
+      &lt;td&gt;Jakub Michálek&lt;/td&gt;
+      &lt;td&gt;Prošel&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;D1: Sdílet s policií se nebude databáze fotek, ale pouze markery nutné ke strojovému posouzení.&lt;/td&gt;
+      &lt;td&gt;139&lt;/td&gt;
+      &lt;td&gt;Ondřej Profant&lt;/td&gt;
+      &lt;td&gt;Neprošel&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;D2: Původní 106ka&lt;/td&gt;
+      &lt;td&gt;139&lt;/td&gt;
+      &lt;td&gt;Ondřej Profant&lt;/td&gt;
+      &lt;td&gt;Neprošel&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;D3: 106ka s novými pojmy&lt;/td&gt;
+      &lt;td&gt;139&lt;/td&gt;
+      &lt;td&gt;Ondřej Profant&lt;/td&gt;
+      &lt;td&gt;Neprošel&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;D4: Kompromisní návrh u 106ky&lt;/td&gt;
+      &lt;td&gt;139&lt;/td&gt;
+      &lt;td&gt;Ondřej Profant&lt;/td&gt;
+      &lt;td&gt;Prošel&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;H1-H3 Espis&lt;/td&gt;
+      &lt;td&gt;139&lt;/td&gt;
+      &lt;td&gt;Jakub Michálek&lt;/td&gt;
+      &lt;td&gt;Neprošel&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</content><author><name>Ondřej Profant</name></author><category term="egovernment" /><category term="osobní údaje" /><category term="soukromí" /><category term="GDPR" /><summary type="html">Cesta GDPR Sněmovnou snad byla završena ve středu 5. 12. Nařízení je platné již od 25. května, ale Česká republika stále nemá implementační zákony, které vyjasňují některé části a zavádí tolik žádané výjimky.</summary></entry><entry><title type="html">Strategie pro Egovernment cloud v ČR</title><link href="https://www.profant.eu/2018/egov-cloud.html" rel="alternate" type="text/html" title="Strategie pro Egovernment cloud v ČR" /><published>2018-12-02T18:00:00+00:00</published><updated>2018-12-02T18:00:00+00:00</updated><id>https://www.profant.eu/2018/egov-cloud</id><content type="html" xml:base="https://www.profant.eu/2018/egov-cloud.html">&lt;p&gt;V předchozím &lt;a href=&quot;https://www.profant.eu/2018/vlada-v-oblacich.html&quot;&gt;článku o využití cloudových technologií&lt;/a&gt; pro český egovernment jsem popsal základní vlastnosti těchto technologií. V tomto článku se podrobněji zaměřím na chystanou vládní implementaci.&lt;/p&gt;
 
 &lt;!--more--&gt;
 
@@ -512,69 +660,4 @@
 
 &lt;p&gt;Samozřejmě, mohlo být hůř. Babiš se mohl rovnou spojit s Okamurou, takže se člověk může konejšit tím, že to nedopadlo zcela tragicky. Je však třeba si uvědomit, že oportunistický Okamura je vždy připraven za chybějící partnery “zaskočit”, jak se ostatně během posledních devíti měsíců mnohokrát ukázalo.&lt;/p&gt;
 
-&lt;p&gt;Osobně mám tedy zcela jasno - &lt;strong&gt;budu hlasovat proti Babišově vládě&lt;/strong&gt;. Piráti se ve své &lt;a href=&quot;https://forum.pirati.cz/viewtopic.php?f=637&amp;amp;t=42628&quot;&gt;vnitrostranické anketě&lt;/a&gt; vyjádřili stejně zřetelně. Stejně jako moji straničtí kolegové si nedokážu představit, že by Andrej Babiš předstoupil před Sněmovnu s vládou, která by pracovala pro občany, ne pouze pro Andreje Babiše.&lt;/p&gt;</content><author><name>Ondřej Profant</name></author><category term="Sněmovna" /><category term="Piráti" /><category term="vláda" /><summary type="html">O nové vládě, která má nahradit několikaměsíční první vládu Andreje Babiše v demisi, toho bylo již napsáno mnohé. Přestože nerad přistupuji k politice přes negativní vymezování se vůči někomu či něčemu, politická taškařice předváděná Babišovým kabinetem posledních pár dní je už skutečně neúnosná a vyžaduje si ode mě jako od poslance určitý komentář. Nechci totiž, aby mé taktní mlčení bylo chybně považováno za souhlas nebo za akceptování současné situace. Protože to, co se děje, skutečně normální není. Ne ve vyspělé a demokraticky fungující společnosti.</summary></entry><entry><title type="html">Pilíře e-governementu ČR</title><link href="https://www.profant.eu/2018/pilire-egovernmentu-cr.html" rel="alternate" type="text/html" title="Pilíře e-governementu ČR" /><published>2018-07-09T17:00:00+00:00</published><updated>2018-07-09T17:00:00+00:00</updated><id>https://www.profant.eu/2018/pilire-egovernmentu-cr</id><content type="html" xml:base="https://www.profant.eu/2018/pilire-egovernmentu-cr.html">&lt;p&gt;Podívejme se na pilíře, na kterých stojí český e-government. Česká republika má v tomto ohledu velmi silnou legislativní oporu. Mnohdy až tak silnou, že zabíjí vlastní iniciativu. Nicméně to nic nemění na tom, že máme tři základní pilíře - celoevropská identita, datové schránky a základní registry. Ty nám dohromady dávají téměř nepřeberné množství možností.&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;h2 id=&quot;identita&quot;&gt;Identita&lt;/h2&gt;
-
-&lt;p&gt;Identita je základním stavebním kamenem každého digitálního ekosystému. Pokud nevíme kdo je kdo, těžko mu můžeme nabídnout konkrétní služby. Např. připomenout konec platnosti dokladu, či upozornit na přeplatek na daních.&lt;/p&gt;
-
-&lt;p&gt;Elektronická identita občana je dnes řešena celoevropsky nařízením eIDAS. To znamená, že každá veřejná instituce v EU by měla být schopná jednoduše identifikovat, že jste to vy. Což je první krok při řešení většiny agend.&lt;/p&gt;
-
-&lt;p&gt;V rámci ČR jsou k tomu 3 hlavní prostředky:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Datové schránky&lt;/strong&gt;: Pomocí datové schránky se můžete přihlásit na portál občana či na formuláře ČSSZ.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Elektronické občanky&lt;/strong&gt;: Jsou všem vydávány od 1. 7. 2018, občanka nově elektronicky identifikuje osobu, ale není v ní certifikát pro podepisování dokumentů. Podpisový certifikát by mělo být možné přidat dodatečně.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Důvěryhodní poskytovatelé identit&lt;/strong&gt;: Jedná se o společnosti, které splní veškeré náležitosti a zapojí se do sítě jednotných identit. V ČR se o to budou ucházet banky či &lt;a href=&quot;https://www.mojeid.cz/&quot;&gt;mojeid.cz&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Eidas navíc rozlišuje tři úrovně záruky identity, které se liší svými požadavky. Např. zdravotnickou dokumentaci dostanete pouze na tu nejvyšší, zatímco jednoduchý výpis můžete udělat i s tou nejnižší. Díky tomu se nemusíme bát digitalizovat ani velmi citlivé údaje, protože budou řádně zabezpečeny.&lt;/p&gt;
-
-&lt;p&gt;Možnosti by měly být shrnuty na webu &lt;a href=&quot;https://www.eidentita.cz&quot;&gt;eIdentita&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&quot;datové-schránky&quot;&gt;Datové schránky&lt;/h2&gt;
-
-&lt;p&gt;Datové schránky jsou možností jak de facto cokoliv podat elektronicky. Na první pohled sice vypadají jen jako takový mail se zárukou doručení, ale legislativně jsou velmi silné. Pokud píšete zprávu veřejné instituci, tak je zdarma, čili vám to ušetří cestu či peníze za dopis.&lt;/p&gt;
-
-&lt;p&gt;V praxi nabízí dva možné formáty souborů: PDF a XML. Naneštěstí možnost strojově nečitelných PDF zcela převládla běžnou korespondenci. V praxi to systém degraduje na elektronický oběh papíru, protože s nestrojově čitelnými PDF lze pracovat pouze jako s papírem.&lt;/p&gt;
-
-&lt;p&gt;Pokud by však úřady častěji vystavovaly XML vzory (standardy) pro své formuláře, stal by se oběh informací skutečně elektronický a nastala by reálná digitalizace. To se v praxi stalo např. u daňového přiznání, které lze poslat doopravdy elektronicky. Kazí to jen to, že zrovna tento formulář je uživatelsky nepřívětivý.&lt;/p&gt;
-
-&lt;p&gt;Systému ani příliš nepomáhá roztříštěnost typů datových schránek (fyzická osoba, fyzická osoba podnikající, pravnická osoba). Např. s datovkou fyzické osoby podnikající nemůžete provést některé úkony, které můžete provést s datovkou fyzické osoby.&lt;/p&gt;
-
-&lt;h2 id=&quot;základní-registry&quot;&gt;Základní registry&lt;/h2&gt;
-
-&lt;p&gt;Posledním ze tří základních pilířů egovernmentu jsou základní registry. Jedná se o soustavu různých důležitých rejstříků s jednotným rozhraním. K němu by se měly připojovat agendové systémy veřejné správy, které by si samy přebíraly aktuální informace, např. korespondenční adresu. Další výhodou je, že následně agendový systém teoreticky vůbec nemusí uchovávat citlivá data - reálně se tak neděje, nicméně základní kameny k tomu jsou položeny.&lt;/p&gt;
-
-&lt;p&gt;V praxi se však často stává, že staré informační systémy nejsou řádně integrovány. Dalším problémem je výkon tohoto systému. Ten není stavěn na masivní realtime provoz, který přináší např. e-recept.
-Další metou je zapojení soukromého sektoru. Tyto informace stejně jako úřady potřebují banky, pojišťovny a další, aby vás také nemusely otravovat kvůli změně kdekterého dílčího údaje.&lt;/p&gt;
-
-&lt;h2 id=&quot;czechpoint&quot;&gt;Czechpoint&lt;/h2&gt;
-
-&lt;p&gt;Czechpoint je krok velmi kompromisní vůči úředním postupům. Jedná se o pracoviště, kde jsou pro úředníky připravené některé formuláře a výpisy. Avšak tento koncept už je poněkud zastaralý. Pokud je možné agendu řešit elektronicky, mělo by to být umožněno i občanovi samotnému. Takto jsou některé služby dostupné pouze s asistencí na czechpointu.&lt;/p&gt;
-
-&lt;p&gt;Samozřejmě vedle těchto úkonů je na czechpointech např. autorizovaná konverze mezi papírem a digitální podobou, což je nezbytný prvek pro spoustu úkonů.&lt;/p&gt;
-
-&lt;h2 id=&quot;portál-občana&quot;&gt;Portál občana&lt;/h2&gt;
-
-&lt;p&gt;Portál občana je nástroj, který spojuje tři základní pilíře egov do jednoho použitelného celku, který občanům přináší konkrétní služby.&lt;/p&gt;
-
-&lt;p&gt;Jedná se o moderní portál, kam se občan může přihlásit pomocí celoevropské identity. Následně má možnost si nechat vypsat informace ze základních rejstříků veřejné správy, např. z katastru nemovitostí. Může spravovat všechny své datové schránky v prostředí výrazně přívětivějším, než je mojedatovaschranka.cz. A v neposlední řadě může podávat různé předpřipravené formuláře. V současnosti je tam však pouze žádost o informace.&lt;/p&gt;
-
-&lt;p&gt;Nicméně portál je rozšiřitelný. Což ukazuje jeho pravý potenciál. Jednotlivé instituce tam mohou přidávat různé dlaždice. Např. ČSSZ vám vyměří důchod či SÚKL ukáže, jaké recepty jste měl a máte předepsané.
-Pokud se instituce veřejné správy naučí tento portál používat, tak se můžeme dostat k velmi ucelenému systému, přes který půjde zjistit spoustu podstatných informací a vyřídit spoustu životních situací. Dobrým příkladem může být portál &lt;a href=&quot;https://podejto.cz/&quot;&gt;podej.to&lt;/a&gt;, kde obdobná podání dělá skupina soukromých subjektů za využití dnešních možností datových schránek.&lt;/p&gt;
-
-&lt;p&gt;Za zmínku také stojí, že je to místo, kde můžete reklamovat data ze základních registrů.&lt;/p&gt;
-
-&lt;h2 id=&quot;co-nám-tedy-chybí&quot;&gt;Co nám tedy chybí&lt;/h2&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;&lt;strong&gt;Uživatelé&lt;/strong&gt;: I když máme celoevropskou identitu, tak množství lidí, kteří mají reálné prostředky (eobčanka, datová schránka) pro zapojení, je velmi malé. Napravit tento stav by mohl vstup velkých uživatelských kmenů bank a dalších soukromých subjektů.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Iniciativa jednotlivých institucí&lt;/strong&gt;: Pokud chce instituce řešit proces elektronicky, stačí navenek definovat XML, které se má použít. Následně další úřady i občané již mohou pracovat. Pro lepší komfort je samozřejmě třeba připravit klasický webový formulář, který dané XML vytvoří.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Znalost a ochota úředníků&lt;/strong&gt;: Znalost a ochota přijímat elektronickou formu, či dokonce kvalifikovaně poradit s problémy je slabá. Úřady mnohdy digitální cestu vnímají spíše jako prostředek šikany občana než preferovanou cestu vyřízení. Mnohdy je výrazně snazší dojít na úřad a vyřídit věci papírově než poslat formulář elektronicky.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Ucelenost&lt;/strong&gt;: Možnosti mnohdy existují, ale nejsou propagovány či jsou uživatelsky zcela nepřívětivé. Tento problém řeší právě &lt;a href=&quot;https://podejto.cz/&quot;&gt;podej.to&lt;/a&gt; a do budoucna snad portál občana&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Motivace z nejvyšších míst&lt;/strong&gt;: Podporu digitalizace sice deklarují skoro všichni, avšak reálné kroky nedělá téměř nikdo. Když se zjistí pochybení, tak ministři pouze mávnou rukou.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Kvalitní dodavatelé&lt;/strong&gt;: Dodávané systémy jsou mnohdy nefunkční, nepřívětivé a předražené. To se děje, protože není reálná konkurence. Trh má rozděleno několik firem specializujících se na veřejnou správu. Příkladem za všechny je NEN.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Legislativa&lt;/strong&gt;: Je příliš složitá. Je potřeba, aby jasněji řekla, že digitalizace je dobrá. Současná legislativa je spíše defenzívou vůči papíru. Vhodná vždy pro konkrétní účel, avšak nezaštiťující digitalizaci jako celek.&lt;/li&gt;
-&lt;/ol&gt;</content><author><name>Ondřej Profant</name></author><category term="egovernment" /><category term="digitalizace" /><category term="informatika" /><category term="veřejná správa" /><summary type="html">Podívejme se na pilíře, na kterých stojí český e-government. Česká republika má v tomto ohledu velmi silnou legislativní oporu. Mnohdy až tak silnou, že zabíjí vlastní iniciativu. Nicméně to nic nemění na tom, že máme tři základní pilíře - celoevropská identita, datové schránky a základní registry. Ty nám dohromady dávají téměř nepřeberné množství možností.</summary></entry></feed>
+&lt;p&gt;Osobně mám tedy zcela jasno - &lt;strong&gt;budu hlasovat proti Babišově vládě&lt;/strong&gt;. Piráti se ve své &lt;a href=&quot;https://forum.pirati.cz/viewtopic.php?f=637&amp;amp;t=42628&quot;&gt;vnitrostranické anketě&lt;/a&gt; vyjádřili stejně zřetelně. Stejně jako moji straničtí kolegové si nedokážu představit, že by Andrej Babiš předstoupil před Sněmovnu s vládou, která by pracovala pro občany, ne pouze pro Andreje Babiše.&lt;/p&gt;</content><author><name>Ondřej Profant</name></author><category term="Sněmovna" /><category term="Piráti" /><category term="vláda" /><summary type="html">O nové vládě, která má nahradit několikaměsíční první vládu Andreje Babiše v demisi, toho bylo již napsáno mnohé. Přestože nerad přistupuji k politice přes negativní vymezování se vůči někomu či něčemu, politická taškařice předváděná Babišovým kabinetem posledních pár dní je už skutečně neúnosná a vyžaduje si ode mě jako od poslance určitý komentář. Nechci totiž, aby mé taktní mlčení bylo chybně považováno za souhlas nebo za akceptování současné situace. Protože to, co se děje, skutečně normální není. Ne ve vyspělé a demokraticky fungující společnosti.</summary></entry></feed>
