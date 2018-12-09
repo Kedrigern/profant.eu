@@ -13,7 +13,7 @@ Cesta GDPR Sněmovnou snad byla završena ve středu 5. 12. Nařízení je platn
 
 <!--more-->
 
-K sněmovním tiskům 138 a 139 se nashromáždilo hodně pozměňovacích návrhů. Většinu z nich jsem již shrnul v předchozím [článku](https://www.profant.eu/2018/gdpr-ve-snemovne.html). Pojďme si shrnout, co prošlo a co ne.
+K sněmovním tiskům [138](http://www.psp.cz/sqw/historie.sqw?o=8&T=138) a [139](http://www.psp.cz/sqw/historie.sqw?o=8&T=139) se nashromáždilo hodně pozměňovacích návrhů. Většinu z nich jsem již shrnul v předchozím [článku](https://www.profant.eu/2018/gdpr-ve-snemovne.html). Pojďme si shrnout, co prošlo a co ne.
 
 ### Ohrožení svobody informací
 
@@ -56,15 +56,15 @@ V tomto pozměňovacím návrhu se Jakub Michálek snažil o důslednější vym
 
 ### Tabulka významnějších pozměňovacích návrhů
 
-|Návrh |Tisk |Předkladatel |Výsledek |
-|---|---|---|---|
-|AD: Výjimka pro vědecký a historický výzkum |138 |ÚPV |Prošel |
-|AE: Novinářská výjimka |138 |ÚPV |Prošel |
-|E: internetová plnoletost snížena na 13 let |138 |Tomáš Martínek |Neprošel|
-|G: max. pokuta 5000 Kč pro malé obce |138 |Věra Kovářová |Prošel |
-|J: ÚOOÚ jako úřad odpovědný za právo na informace |138 |Jakub Michálek |Prošel |
-|D1: Sdílet s policií se nebude databáze fotek, ale pouze markery nutné ke strojovému posouzení. |139 |Ondřej Profant |Neprošel |
-|D2: Původní 106ka |139 |Ondřej Profant |Neprošel |
-|D3: 106ka s novými pojmy |139 |Ondřej Profant | Neprošel |
-|D4: Kompromisní návrh u 106ky |139 |Ondřej Profant |Prošel |
-|H1-H3 Espis |139 |Jakub Michálek |Neprošel |
+||Návrh |Tisk |Předkladatel |Výsledek |
+|---|---|---|---|---|
+|AD | Výjimka pro vědecký a historický výzkum |138 |ÚPV |Prošel |
+|AE | Novinářská výjimka |138 |ÚPV |Prošel |
+|E  | Internetová plnoletost snížena na 13 let |138 |Tomáš Martínek |Neprošel|
+|G  | Max. pokuta 5000 Kč pro malé obce |138 |Věra Kovářová |Prošel |
+|J  | ÚOOÚ jako úřad odpovědný za právo na informace |138 |Jakub Michálek |Prošel |
+|D1 | Sdílet s policií se nebude databáze fotek, ale pouze markery nutné ke strojovému posouzení. |139 |Ondřej Profant |Neprošel |
+|D2 | Původní 106ka |139 |Ondřej Profant |Neprošel |
+|D3 | 106ka s novými pojmy |139 |Ondřej Profant | Neprošel |
+|D4 | Kompromisní návrh u 106ky |139 |Ondřej Profant |Prošel |
+|H1-H3 | Espis |139 |Jakub Michálek |Neprošel |
