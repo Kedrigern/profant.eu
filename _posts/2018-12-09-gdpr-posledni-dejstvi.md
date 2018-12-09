@@ -13,7 +13,7 @@ Cesta GDPR Sněmovnou snad byla završena ve středu 5. 12. Nařízení je platn
 
 <!--more-->
 
-K sněmovním tiskům 138 a 139 se nashromáždilo hodně pozměňovacích návrhů. Většinu z nich jsem již shrnul v předchozím [článku](https://www.profant.eu/2018/gdpr-ve-snemovne.html. Pojďme si shrnout, co prošlo a co ne.
+K sněmovním tiskům 138 a 139 se nashromáždilo hodně pozměňovacích návrhů. Většinu z nich jsem již shrnul v předchozím [článku](https://www.profant.eu/2018/gdpr-ve-snemovne.html). Pojďme si shrnout, co prošlo a co ne.
 
 ### Ohrožení svobody informací
 
