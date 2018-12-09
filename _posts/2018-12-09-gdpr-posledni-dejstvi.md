@@ -54,7 +54,7 @@ Policie si do návrhu prosadila plný přístup do databáze fotek z dokladů (o
 
 V tomto pozměňovacím návrhu se Jakub Michálek snažil o důslednější vymáhání standardů spisové služby. Ty jsou dnes sice definovány v legislativě, ale některé části jsou dosti ignorovány. Idea je taková, že například EZÚ by certifikoval spisové služby. Návrh neprošel.
 
-**Tabulka významnějších pozměňovacích návrhů**
+### Tabulka významnějších pozměňovacích návrhů
 
 |Návrh |Tisk |Předkladatel |Výsledek |
 |---|---|---|---|
