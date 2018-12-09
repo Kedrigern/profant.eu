@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Poslední dějství GDPR"
-date:       2018-12-09 19:00:00 +0100
+date:       2018-12-09 17:00:00
 categories: Soukromí
 comments:   true
 tags:       [egovernment, osobní údaje, soukromí, GDPR]
