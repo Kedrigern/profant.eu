@@ -58,11 +58,12 @@ V tomto pozměňovacím návrhu se Jakub Michálek snažil o důslednější vym
 
 ||Návrh |Tisk |Předkladatel |Výsledek |
 |---|---|---|---|---|
-|AD | Výjimka pro vědecký a historický výzkum |138 |ÚPV |Prošel |
-|AE | Novinářská výjimka |138 |ÚPV |Prošel |
-|E  | Internetová plnoletost snížena na 13 let |138 |Tomáš Martínek |Neprošel|
-|G  | Max. pokuta 5000 Kč pro malé obce |138 |Věra Kovářová |Prošel |
-|J  | ÚOOÚ jako úřad odpovědný za právo na informace |138 |Jakub Michálek |Prošel |
+|AD | Výjimka pro vědecký a historický výzkum |138 |ÚPV | [Prošel](http://www.psp.cz/sqw/hlasy.sqw?g=68409&l=cz) |
+|AE | Novinářská výjimka |138 |ÚPV | [Prošel](http://www.psp.cz/sqw/hlasy.sqw?g=68410&l=cz) |
+|C5 | Snížení pokuty pro všechny územní samosprávy na 10 000 Kč. | 138 | ÚPV | [Neprošel](http://www.psp.cz/sqw/hlasy.sqw?g=68417&l=cz) |
+|E  | Internetová plnoletost snížena na 13 let |138 |Tomáš Martínek | [Neprošel](http://www.psp.cz/sqw/hlasy.sqw?g=68415&l=cz) |
+|G  | Max. pokuta 5000 Kč pro malé obce |138 |Věra Kovářová | [Prošel](http://www.psp.cz/sqw/hlasy.sqw?g=68418&l=cz) |
+|J  | ÚOOÚ jako úřad odpovědný za právo na informace |138 |Jakub Michálek | [Prošel](http://www.psp.cz/sqw/hlasy.sqw?g=68420&l=cz) |
 |D1 | Sdílet s policií se nebude databáze fotek, ale pouze markery nutné ke strojovému posouzení. |139 |Ondřej Profant | [Neprošel](https://www.psp.cz/sqw/hlasy.sqw?g=68596&l=cz) |
 |D2 | Původní 106ka |139 |Ondřej Profant | [Neprošel](https://www.psp.cz/sqw/hlasy.sqw?g=68597&l=cz) |
 |D3 | 106ka s novými pojmy |139 |Ondřej Profant | [Neprošel](https://www.psp.cz/sqw/hlasy.sqw?g=68598) |
