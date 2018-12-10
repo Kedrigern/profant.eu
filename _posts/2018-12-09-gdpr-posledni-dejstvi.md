@@ -13,7 +13,7 @@ Cesta GDPR Sněmovnou snad byla završena ve středu 5. 12. Nařízení je platn
 
 <!--more-->
 
-K sněmovním tiskům [138](http://www.psp.cz/sqw/historie.sqw?o=8&T=138) a [139](http://www.psp.cz/sqw/historie.sqw?o=8&T=139) se nashromáždilo hodně pozměňovacích návrhů. Většinu z nich jsem již shrnul v předchozím [článku](https://www.profant.eu/2018/gdpr-ve-snemovne.html). Pojďme si shrnout, co prošlo a co ne.
+K sněmovním tiskům [138](http://www.psp.cz/sqw/historie.sqw?o=8&T=138) a [139](http://www.psp.cz/sqw/historie.sqw?o=8&T=139) se nashromáždilo 54 pozměňovacích návrhů. Většinu z nich jsem již shrnul v předchozím [článku](https://www.profant.eu/2018/gdpr-ve-snemovne.html). Pojďme si shrnout, co prošlo a co ne.
 
 ### Ohrožení svobody informací
 
@@ -68,3 +68,5 @@ V tomto pozměňovacím návrhu se Jakub Michálek snažil o důslednější vym
 |D3 | 106ka s novými pojmy |139 |Ondřej Profant | [Neprošel](https://www.psp.cz/sqw/hlasy.sqw?g=68598) |
 |D4 | Kompromisní návrh u 106ky |139 |Ondřej Profant | [Prošel](https://www.psp.cz/sqw/hlasy.sqw?g=68599) |
 |H1-H3 | Espis |139 |Jakub Michálek | [Neprošel](http://www.psp.cz/sqw/hlasy.sqw?G=68605) |
+
+[Všech 54 pozměňovacích návrhů](https://docs.google.com/spreadsheets/d/1xOBelces2J9kLUGqYxDEoxCWTeNsk-vhlzVyHHkRUJk/edit?usp=sharing).
