@@ -22,7 +22,7 @@ description: > # this means to ignore newlines until "baseurl:"
   V digitalizaci se musíme inspirovat ve Velké Britanii a Estonsku, řešení musí být otevřená a uživatelsky přívětivá.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.profant.eu" # the base hostname & protocol for your site, e.g. http://example.com
-keywords: Ondřej Profant, opendata, opensource, open access, big data, piráti, svoboda, kyberbezpečnost, cyklo, eu, praha, doprava, poslanecká sněmovna, poslanec, egov, digitální česko
+keywords: Ondřej Profant, opendata, opensource, oss, open access, big data, piráti, pirátská strana, svoboda, kyberbezpečnost, kyberobrana, cyklo, eu, praha, doprava, poslanecká sněmovna, poslanec, egov, egovernment, digitální česko, gdpr
 twitter_username: ondrej_profant
 github_username:  kedrigern
 facebook_username: ondrej.profant
