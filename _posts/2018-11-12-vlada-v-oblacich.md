@@ -36,3 +36,7 @@ Model sdílení a distribuování zátěže cloud computingu je tak díky svému
 ## Vládní implementace
 
 Vláda strategický rámec egovernment cloudu projedná již ve středu 14. 11. Tím se ukončí první fáze celého projektu, která spočívala ve vytyčení cílů. Dalším důležitým mezníkem je 30. 6., což je termín, kdy má MVČR odevzdat finální přípravu (návrh změn v legislativě a další materiály). Piráti budou tento ohromný projekt pozorně sledovat.
+
+<br />
+
+Pokračování v článku [Strategie pro Egovernment cloud v ČR](https://www.profant.eu/2018/egov-cloud.html).
