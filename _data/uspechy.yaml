@@ -157,24 +157,30 @@
   priority: 3
   description: "Podílím se na tvorbě aplikace Cityvizor, která pomáhá obcím zveřejňovat informace o tom, jak hospodaří. Města a obce už tak nemusí kupovat předražený software, ale mohou využít takový, který jsme připravili spolu s Ministerstvem financí. Za nástroj jsme obdrželi ocenění Fondu Otakara Motejla."
   link: https://www.lupa.cz/clanky/hlidac-statu-vyhral-soutez-spolecne-otevirame-data-bodoval-i-cityvizor-ministerstva-financi/
-- img:
+- img: /assets/img/uspechy/digitalni-sluzba.jpg
   date: 2018-08-07
   icon:  thumbs-up
   title: Začátek spolupráce na zákonu o digitální službě
   priority: 3
   description: "Společně s Ivanem Bartošem jsme se spojili s ICT unii v přípravách zákona o digitální službě."
-  link: https://www.pirati.cz/tiskove-zpravy/ictu-a-pirati-pripravuji-zakon-o-digitalni-sluzbe.html
-- img:
+  link:
+  - https://www.pirati.cz/tiskove-zpravy/ictu-a-pirati-pripravuji-zakon-o-digitalni-sluzbe.html
+- img: /assets/img/uspechy/firma-za-1-den.png
   date: 2018-10-01
   icon: building 
   title: Firma za 1 den
   priority: 1
   description: "Piráti představili bezplatnou aplikaci, díky které si založíte firmu za jeden den. Též jsme předložili návrh legislativních změn, aby byl start podnikání vstřícnější."
-  link: https://www.pirati.cz/tiskove-zpravy/komentar-ondreje-profanta-zrychlime-podnikani.html
-- img: 
+  link: 
+  - https://urad.pirati.cz
+  - https://www.pirati.cz/tiskove-zpravy/komentar-ondreje-profanta-zrychlime-podnikani.html
+- img: /assets/img/uspechy/infozakon.jpg
   date: 2018-12-05
   icon: info-circle 
   title: Záchrana infozákona
   priority: 1
-  description: "Podařilo se ubránit infozákon v smysluplné podobě. Vláda navrhovala jeho vykastrování v rámci doprovodných zákonů k GDPR."
-  link: https://www.profant.eu/2018/gdpr-posledni-dejstvi.html
+  description: "Podařilo se ubránit infozákon v smysluplné podobě. Vláda navrhovala vypuštění veškerých informací o probíhajících trestních řízení. Nic bychom se nedozvěděli o kauze Čapího hnízda apod. Můj pozměňovací návrh je kompromisem, který tuto problematiku řeší mnohem citlivěji."
+  link: 
+  - https://www.profant.eu/2018/gdpr-posledni-dejstvi.html
+  - https://ct24.ceskatelevize.cz/domaci/2671181-poslanci-prijali-vyjimky-v-ochrane-soukromi-skryta-kamera-v-mediich-zustane-pripustna
+  - https://www.irozhlas.cz/zpravy-domov/osobni-udaje-pravo-na-informace-106-poslanecka-snemovna-pirati_1812051114_kno

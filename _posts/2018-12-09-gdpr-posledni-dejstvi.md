@@ -7,6 +7,10 @@ comments:   true
 tags:       [egovernment, osobní údaje, soukromí, GDPR]
 img:        gdpr-grafika.jpg
 author:     Ondřej Profant
+links:
+- https://ct24.ceskatelevize.cz/domaci/2671181-poslanci-prijali-vyjimky-v-ochrane-soukromi-skryta-kamera-v-mediich-zustane-pripustna
+- https://www.irozhlas.cz/zpravy-domov/osobni-udaje-pravo-na-informace-106-poslanecka-snemovna-pirati_1812051114_kno
+- https://eurozpravy.cz/domaci/politika/242267-omezeni-prava-na-informace-babisovi-plan-nevysel-snemovna-zmirnila-vladni-navrh/
 ---
 
 Cesta GDPR Sněmovnou snad byla završena ve středu 5. 12. Nařízení je platné již od 25. května, ale Česká republika stále nemá implementační zákony, které vyjasňují některé části a zavádí tolik žádané výjimky.
@@ -71,3 +75,5 @@ V tomto pozměňovacím návrhu se Jakub Michálek snažil o důslednější vym
 |H1-H3 | Espis |139 |Jakub Michálek | [Neprošel](http://www.psp.cz/sqw/hlasy.sqw?G=68605) |
 
 [Všech 54 pozměňovacích návrhů](https://docs.google.com/spreadsheets/d/1xOBelces2J9kLUGqYxDEoxCWTeNsk-vhlzVyHHkRUJk/edit?usp=sharing).
+
+Ohlasy v mediích: [ČT](https://ct24.ceskatelevize.cz/domaci/2671181-poslanci-prijali-vyjimky-v-ochrane-soukromi-skryta-kamera-v-mediich-zustane-pripustna), [ČRO](https://www.irozhlas.cz/zpravy-domov/osobni-udaje-pravo-na-informace-106-poslanecka-snemovna-pirati_1812051114_kno).
