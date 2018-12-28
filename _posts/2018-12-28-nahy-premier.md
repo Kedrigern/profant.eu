@@ -23,7 +23,7 @@ Jako obvykle premiér Andrej Babiš nebyl schopný zareagovat jednou a informova
 
 1. Andrej Babiš vyhodí všechny telefony Huawei z úřadu vlády.
 2. NÚKIB to celé zkazil, protože nedodal právní analýzu (to samé jsem několikrát slyšel od poslanců z hnutí ANO).
-3. Andrej Babiš se schází s čínským velvyslancem a výsledek schůzky je nadmíru prazvláštní. Čiňané vydávají své stanovisko (https://www.facebook.com/story.php?story_fbid=2205660102812630&id=978664115512241). Premiér toto stanovisko dementuje, avšak klíčová věta "stanovisko je NÚKIB, nikoliv vlády" v něm zůstává.
+3. Andrej Babiš se schází s čínským velvyslancem a výsledek schůzky je nadmíru prazvláštní. Čiňané vydávají své [stanovisko](https://www.facebook.com/story.php?story_fbid=2205660102812630&id=978664115512241). Premiér toto stanovisko dementuje, avšak klíčová věta "stanovisko je NÚKIB, nikoliv vlády" v něm zůstává.
 
 Reakce předsedy vlády byla jako vždy zbrklá a neuvážená. A to z těchto důvodů:
 
