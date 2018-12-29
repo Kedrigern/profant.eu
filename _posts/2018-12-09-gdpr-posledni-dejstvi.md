@@ -13,7 +13,7 @@ links:
 - https://eurozpravy.cz/domaci/politika/242267-omezeni-prava-na-informace-babisovi-plan-nevysel-snemovna-zmirnila-vladni-navrh/
 ---
 
-Cesta GDPR Sněmovnou snad byla završena ve středu 5. 12. Nařízení je platné již od 25. května, ale Česká republika stále nemá implementační zákony, které vyjasňují některé části a zavádí tolik žádané výjimky.
+Cesta GDPR Sněmovnou snad byla završena ve středu 5. 12. Nařízení je účinné již od 25. května, ale Česká republika stále nemá adaptační zákony, které vyjasňují některé části a zavádí tolik žádané výjimky.
 
 <!--more-->
 
