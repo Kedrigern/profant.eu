@@ -157,6 +157,13 @@
   priority: 3
   description: "Podílím se na tvorbě aplikace Cityvizor, která pomáhá obcím zveřejňovat informace o tom, jak hospodaří. Města a obce už tak nemusí kupovat předražený software, ale mohou využít takový, který jsme připravili spolu s Ministerstvem financí. Za nástroj jsme obdrželi ocenění Fondu Otakara Motejla."
   link: https://www.lupa.cz/clanky/hlidac-statu-vyhral-soutez-spolecne-otevirame-data-bodoval-i-cityvizor-ministerstva-financi/
+- img: /assets/img/posts/gdpr-seminar.jpg
+  date: 2017-03-12
+  icon: thumbs-up
+  title: Seminář GDPR mýtů zbavené
+  priority: 2
+  description: "Seminář o GDPR pro samosprávy uspořádaný ve spolupráci s Otevřenými městy a Iuridicum Remedium."
+  link: https://www.profant.eu/2018/seminar-gdpr.html
 - img: /assets/img/uspechy/digitalni-sluzba.jpg
   date: 2018-08-07
   icon:  thumbs-up
