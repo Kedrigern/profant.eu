@@ -19,11 +19,9 @@ Snad každý, kdo absolvoval úmorná martýria po doktorech, to zná. Ten pocit
 
 Představte si následující: právě vám diagnostikovali rakovinu plic a obratem by vám zaslali dokument obsahující informace o všech možných typech léčby a zařízeních, které je vykonávají. Budete si moci porovnat, u kolika procent pacientů s tímto druhem rakoviny byly jednotlivé druhy léčby provedeny a s jakou úspěšností. Informace o nemocnicích budou obsahovat odkazy na konkrétní zařízení i hodnocení zdravotní péče (obsahující jednotlivá kritéria, jako čekací dobu, kvalitu výkonu atd.). Říkáte si, jaké je to krásné sci-fi. Ne však pro Emmu Doyle – takového Spielberga v oboru open dat.
 
----
 **Kdo je Emma Doyle?**
 Emma Doyle pracuje v National Health Service England. NHS je britský zdravotnický systém a Emma Doyle šéfuje Data Policy Unite, oddělení zodpovídající za datovou informační politiku systému. To se věnuje mj. open datům. Práci s daty v britském zdravotnictví se Emma Doyle věnuje více než 15 let.
-
----
+{: .article-note}
 
 Pokud bychom otevřeli data veřejnosti, jaké by to mohlo mít další pozitivní dopady? Zeptejme se třeba britských kardiochirurgů. Odpovědí vám čísly: 21% a 1000. O 21% se snížila úmrtnost pacientů, kteří prodělali operaci srdce. Tedy přežije až 1000 pacientů ročně! Tisíc lidí, kteří by umřeli, kdyby si nemocnice dál škudlily svá data pro sebe. Kdo ví, možná by můj děda žil, kdybychom měli open data i u nás. Britská kardiochirurgie je jen jedním z mnoha oborů, které vykazují po otevření dat zvyšování kvality lékařské péče.
 

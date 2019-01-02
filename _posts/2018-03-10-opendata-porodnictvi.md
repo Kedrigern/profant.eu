@@ -20,10 +20,8 @@ Nerozporuji, že subjektivní zkušenost má váhu, zvlášť pokud čerpám mou
 
 Možná si říkáte, že na tyhle informace máme ze zákona právo už teď. To je sice pravda. Jenže navzdory tomu leží data jednotlivých porodnic bez užitku pod nánosy statistického prachu uschovány před veřejností.
 
----
 **106:** Pro některé již chronicky známé číslo. Pro ostatní krátké shrnutí: zákon sto šest zaručuje občanům právo na informace. Co to v praxi znamená? Tak například nutnost zpřístupnit data a statistiky jednotlivých nemocničních zařízení.
-
----
+{: .article-note}
 
 V Čechách je za shromažďování dat z jednotlivých nemocničních zařízení zodpovědný ÚZIS (Ústav zdravotnických informací a statistiky ČR). Problém je v zákoně č. 372/2011 Sb, o zdravotních službách, kde stojí: „Pro statistické a vědecké účely poskytuje statistický ústav z národních zdravotních registrů údaje pouze v podobě, ze které nelze určit konkrétní fyzickou nebo právnickou osobu.“ Údajně tomu tak je kvůli ochraně jednotlivých zdravotnických zařízení. Prý by si totiž veřejnost statistiky špatně vyložila a neuměla s nimi pracovat.
 

@@ -29,12 +29,10 @@ Tato forma regulace a kontroly výrobků se může na první pohled zdát jako p
 
 ### Otevřený hardware jako bezpečné řešení
 
+**Co je otevřený hardware?** Otevřený hardware nebo open source hardware jsou technické prostředky založené na otevřeném designu. Koncový spotřebitel tak může důkladně prozkoumat schémata daného výrobku a případně je upravit pro své potřeby. Svobodná licence otevřeného hardware umožňuje snadné a rychlé sdílení technologií. Vzhledem k rozmachu 3D tisku se pojem otevřený hardware nevztahuje pouze k elektronice, ale například i k předmětům běžné potřeby, které si může uživatel na základě designu uvolněného pod svobodnou licencí stáhnout a vytisknout. Velkou výhodou otevřeného hardware je přístup k jeho kompletní dokumentaci. To velmi usnadňuje práci s výrobkem i jeho případný bezpečnostní audit. 
+{: .article-note}
+
 Dobrým řešením by také mohlo být využívání otevřeného hardware od certifikovaného regionálního výrobce. Do otevřeného hardware by pak mohlo investovat více států, případně by se z toho mohl stát společný projekt na úrovni EU či NATO. Tím by se jednak blíže propojoval průmysl s vědou, aniž by při tom docházelo ke zvýhodňování konkrétních výrobců a s tím spojené korupci, ale zároveň by se jednalo o formu investice do společné infrastruktury kybernetické obrany.
-
----
-**Co je otevřený hardware?** Otevřený hardware nebo open source hardware jsou technické prostředky založené na otevřeném designu. Koncový spotřebitel tak může důkladně prozkoumat schémata daného výrobku a případně je upravit pro své potřeby. Svobodná licence otevřeného hardware umožňuje snadné a rychlé sdílení technologií. Vzhledem k rozmachu 3D tisku se pojem otevřený hardware nevztahuje pouze k elektronice, ale například i k předmětům běžné potřeby, které si může uživatel na základě designu uvolněného pod svobodnou licencí stáhnout a vytisknout. Velkou výhodou otevřeného hardware je přístup k jeho kompletní dokumentaci. To velmi usnadňuje práci s výrobkem i jeho případný bezpečnostní audit.
-
----
 
 Otevřený hardware aktuálně využívá například Facebook při výstavbě svých datových center. Dávno se tedy nejedná (stejně jako v případě otevřeného software) o “zábavu v garáži”, nýbrž o plnohodnotnou funkční alternativu, do které investují nadnárodní korporace. Státy by neměly zůstat stranou, jinak budou opět na korporacích zcela závislé.
 
