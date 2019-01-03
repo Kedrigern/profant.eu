@@ -36,7 +36,7 @@ Sněmovní materiály (tisky), které zpravodajuji či se na nich více podílí
             <td>2.</td>
             <td>-</td>
             <td><b>psp</b></td>
-            <td><a href="https://www.pirati.cz/tiskove-zpravy/pirati-odmitli-omezeni-pristupu-k-informacim.html">TZ 1</a></td>
+            <td><a href="https://www.pirati.cz/tiskove-zpravy/pirati-odmitli-omezeni-pristupu-k-informacim.html">TZ 1</a>, ODS už to ani sama neprosazuje.</td>
         </tr>
         <tr>
             <td>Registr smluv a 106</td>
@@ -49,15 +49,15 @@ Sněmovní materiály (tisky), které zpravodajuji či se na nich více podílí
         <tr>
           <td>GDPR</td>
           <td><a href="http://www.psp.cz/sqw/historie.sqw?o=8&T=138">138</a></td>
-          <td>výbory</td>
+          <td>schváleno</td>
           <td>-</td>
           <td>klub</td>
-          <td>Zpravodaj PSP: Marek Benda, <a href="https://www.pirati.cz/tiskove-zpravy/gdpr-internetova-samostatnost-od-13.html">TZ 1</a>, <a href="https://www.facebook.com/ceska.piratska.strana/photos/a.117963484038.102324.109323929038/10155833966604039/?type=3">FB</a>, <a href="https://twitter.com/PiratskaStrana/status/999936810569621505">TW 1</a>, <a href="https://twitter.com/PiratskaStrana/status/1001845155186597888">TW 2</a>, <a href="http://wwww.profant.eu/kategorie/#Soukrom%C3%AD">soukromí blog</a>, <a href="https://www.profant.eu/2018/gdpr-ve-snemovne.html">blog: GDPR ve sněmovně</a></td>
+          <td>Zpravodaj PSP: Marek Benda, <a href="https://www.pirati.cz/tiskove-zpravy/gdpr-internetova-samostatnost-od-13.html">TZ 1</a>, <a href="https://www.facebook.com/ceska.piratska.strana/photos/a.117963484038.102324.109323929038/10155833966604039/?type=3">FB</a>, <a href="https://twitter.com/PiratskaStrana/status/999936810569621505">TW 1</a>, <a href="https://twitter.com/PiratskaStrana/status/1001845155186597888">TW 2</a>, <a href="http://wwww.profant.eu/kategorie/#Soukrom%C3%AD">soukromí blog</a>, <a href="https://www.profant.eu/2018/gdpr-ve-snemovne.html">blog: GDPR ve sněmovně</a>, souhrný článek <a href="https://www.profant.eu/2018/gdpr-posledni-dejstvi.html">Poslední dějství GDPR</a></td>
         </tr>
         <tr>
           <td>GDPR - doprovodné</td>
           <td><a href="http://www.psp.cz/sqw/historie.sqw?o=8&T=139">139</a></td>
-          <td>výbory</td>
+          <td>schváleno</td>
           <td>-</td>
           <td>klub</td>
           <td>Zpravodaj PSP: Marek Benda</td>
@@ -65,7 +65,7 @@ Sněmovní materiály (tisky), které zpravodajuji či se na nich více podílí
         <tr>
             <td>Přístupnost web. stránek a mob. aplikací</td>
             <td><a href="http://www.psp.cz/sqw/historie.sqw?o=8&T=170">170</a></td>
-            <td>výbor a 2.</td>
+            <td>garanční výbor</td>
             <td><a href="https://forum.pirati.cz/viewtopic.php?f=566&t=41711">link</a></td>
             <td><b>psp</b></td>
             <td></td>
@@ -85,6 +85,14 @@ Sněmovní materiály (tisky), které zpravodajuji či se na nich více podílí
             <td>-</td>
             <td>-</td>
             <td>Zpravodaj PSP: Mikuláš Peksa</td>
+        </tr>
+        <tr>
+            <td>O změně sídel některých státních úřadů</td>
+            <td><a href="http://www.psp.cz/sqw/historie.sqw?o=8&t=313">313</a></td>
+            <td>1.</td>
+            <td>-</td>
+            <td>klub</td>
+            <td></td>
         </tr>
     </tbody>
 </table>
