@@ -36,3 +36,5 @@ Ještě je třeba zdůraznit, že to vše se děje v době, kdy prezident Miloš
 Andrej Babiš jedná impulzivně a jasně ukazuje, že nejdříve koná a až pak se ptá. To je dost špatná vlastnost pro člověk, který se už rok snaží být premiérem a řídit stát. Stát je velmi složitý celek s velmi specializovanými institucemi. Nestačí mít silácké řeči, nestačí si vzít úvěr v bance, nestačí být tvrdý na svou konkurenci i své partnery, jako to Andrej Babiš dělal v byznyse.
 
 Vzhledem k tomu, že premiér stále trvá na vypracování právní analýzy, velmi pochybuji, že pochopil rozsah a závažnost problému. Je zcela jasné, že případná právní analýza od NÚKIB nic nezmění. V této oblasti je viditelně třeba učinit dlouhodobé koncepční kroky na úrovni EU a NATO.
+
+A co s tím popisuji v článku [Otevřený hardware jako součást kybernetické bezpečnosti](https://www.profant.eu/2019/otevreny-hardware.html).
