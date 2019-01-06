@@ -19,10 +19,10 @@ Jak již bylo řečeno, hlavním přínosem GDPR je právo na rozhodnutí o svý
 
 V praxi to vypadá tak, že webové portály velkých společností (českých i mezinárodních) mají svou specializovanou stránku s informacemi o přístupu k soukromí svých uživatelů a zákazníků. Několik příkladů známých společností a jejich nastavení soukromí:
 
-* Goggle: https://safety.google/privacy/privacy-controls/
-* Twitter: https://twitter.com/settings/your_twitter_data
-* CZC: https://www.czc.cz/soukromi/nastaveni
-* Microsoft: https://account.microsoft.com/privacy/
+* [Goggle](https://safety.google/privacy/privacy-controls/)
+* [Twitter](https://twitter.com/settings/your_twitter_data)
+* [CZC](https://www.czc.cz/soukromi/nastaveni)
+* [Microsoft](https://account.microsoft.com/privacy/)
 
 Dalším úžasným důsledkem je právo na migraci vlastních dat. Máte možnost zažádat si o data, která o vás poskytovatel služby vede. V případě Google či Apple jsou to ohromná množství dat. Český obchod CZC vám dokonce zašle i zahashované heslo[^2]. Toto opatření vám umožní například přechodně zrušit účet a později ho obnovit. Anebo dokonce migrovat k jinému poskytovateli služeb. Dnes to ještě není příliš obvyklé, ale do budoucna nejspíše bude běžné, že si stáhnete například celou vlastní fotogalerii z jednoho webu a na druhý se nahraje včetně popisků a dalších dat neuložených přímo v samotných obrázcích.
 
