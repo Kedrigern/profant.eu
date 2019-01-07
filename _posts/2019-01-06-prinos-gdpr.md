@@ -43,7 +43,7 @@ Nařízení je dostupné [online](http://www.privacy-regulation.eu). Existuje t�
 GDPR jsme se věnovali velmi důsledně, ochrana osobních údajů patří mezi naše stěžejní témata. Stručný přehled našich kroků:
 
 1. Martin Jiránek prosadil srozumitelné návody pro podnikatele: [Piráti prosadili ověření skutečných dopadů zavedení GDPR na podnikatele ](https://www.pirati.cz/tiskove-zpravy/pirati-posoudili-vliv-gdpr-na-podnikatele.html)
-2. Společně se spolky Otevřenými městy a Iure jsme uspořádali seminář pro samosprávy: [https://www.profant.eu/2018/seminar-gdpr.html](https://www.profant.eu/2018/seminar-gdpr.html) 
+2. Společně se spolky Otevřenými městy a Iuridicum Remedium jsme uspořádali seminář pro samosprávy: [https://www.profant.eu/2018/seminar-gdpr.html](https://www.profant.eu/2018/seminar-gdpr.html) 
 3. Vysvětlili jsme, proč je potřeba ochrana osobních údajů na celoevropské úrovni: [https://www.profant.eu/2018/selhani-facebooku.html](https://www.profant.eu/2018/selhani-facebooku.html)
 4. Jakub Michálek požadoval předřazení adaptačních zákonů na plénu Sněmovny. Jeho žádost nebyla vyslyšena. Zákony nakonec byly schváleny až 6 měsíců po účinnosti nařízení z důvodů laxnosti vlády.
 5. V průběhu jednání jsme chtěli zrychleně schválit provizorní zákony či alespoň jasné vyjádření ÚOOÚ, že v mezičase do schválení adaptačních zákonů nebude výrazně pokutovat. Tohoto ujištění se nám od [ÚOOÚ dostalo](https://www.uoou.cz/desatero-omylu/ds-4818/archiv=0&p1=4841):
@@ -52,6 +52,8 @@ GDPR jsme se věnovali velmi důsledně, ochrana osobních údajů patří mezi 
 7. Pečlivě jsme zkoumali a jednali o pozměňovacích návrzích: [Ze života GDPR: Cesta Sněmovnou](https://www.profant.eu/2018/gdpr-ve-snemovne.html) 
 8. V rámci adaptačních zákonů se mi podařilo odhalit a zastavit omezení práva na informace. V původním vládním návrhu bylo totiž obsaženo silné vykostění infozákona. [Piráti zabránili silnému omezení práva na informace ](https://www.pirati.cz/tiskove-zpravy/pirati-zabranili-silnemu-omezeni-prava-na-informace.html) 
 9. Jakub Michálek prosadil lepší vymahatelnost 106ky: [Informační příkaz zastaví nekonečný „ping-pong“, kterým úřady dělají obstrukce při poskytování informací, říká Jakub Michálek](https://www.pirati.cz/tiskove-zpravy/tretim-ctenim-prosel-informacni-prikaz-konec-obstrukci-pri-psokytovani-informacim.html)
+
+Navzdory velké panice, kterou GDPR v minulém roce vyvolalo, se vskutku jedná o veskrze pozitivní krok. Osobní údaje jsou totiž v dnešní době také obchodní komoditou, je proto zcela na místě občany EU chránit před jejich zneužíváním. Přestože se Pirátům v prováděcí legislativě nepodařilo prosadit všechny naše pozměňovací návrhy, už jen samotné nařízení je velkým úspěchem na poli ochrany soukromí.
 
 ---
 
