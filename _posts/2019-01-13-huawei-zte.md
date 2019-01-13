@@ -37,11 +37,9 @@ NÚKIB byl zřízen v polovině roku 2017. To znamená, že prakticky začal fun
 
 Různých backdoorů a bezpečnostních chyb v hardware a software bylo k dnešnímu dni objeveno již mnoho. Často i ve výrobcích z USA. Rozdíl je, že tentokrát začal situaci řešit NÚKIB jako nově vzniklý úřad právě za tímto účelem. Piráti na nebezpečí uzavřeného hardware upozorňují dlouhodobě, v zásadě již od svého založení v roce 2009. 
 
----
 **Co jsou to ta zadní vrátka (backdoor)?**
 Jedná se o zranitelnost úmyslně implementovanou do hardware či software. Například speciální uživatelský účet s vysokými právy. Může mít velmi mnoho podob.
-
----
+{: .article-note}
 
 V médiích se hlavně od vládních představitelů objevovala kritika, že NÚKIB vydal jen dvoustránkové varování. Nic jiného se ale v případě varování nedá očekávat. Hlavním kritériem je v takové chvíli čas. Varování je nutné vydat okamžitě, když se objeví riziko. NÚKIB tedy plní svou roli naprosto v souladu s účelem, za jakým byl založen.
 
