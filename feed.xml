@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="https://www.profant.eu/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.profant.eu/" rel="alternate" type="text/html" /><updated>2019-01-13T16:54:20+00:00</updated><id>https://www.profant.eu/feed.xml</id><title type="html">Blog Ondřeje Profanta</title><subtitle>Zápisník pirátského poslance Ondřeje Profanta, který se zaměřuje na opendata a e-government. Rád bych byl, aby Česká republika byla moderním státem s rozvinutou digitální ekonomikou, kde je kladen silný důraz na vzdělávání a svobodu. V digitalizaci se musíme inspirovat ve Velké Britanii a Estonsku, řešení musí být otevřená a uživatelsky přívětivá.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="https://www.profant.eu/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.profant.eu/" rel="alternate" type="text/html" /><updated>2019-01-13T17:05:45+00:00</updated><id>https://www.profant.eu/feed.xml</id><title type="html">Blog Ondřeje Profanta</title><subtitle>Zápisník pirátského poslance Ondřeje Profanta, který se zaměřuje na opendata a e-government. Rád bych byl, aby Česká republika byla moderním státem s rozvinutou digitální ekonomikou, kde je kladen silný důraz na vzdělávání a svobodu. V digitalizaci se musíme inspirovat ve Velké Britanii a Estonsku, řešení musí být otevřená a uživatelsky přívětivá.
 </subtitle><author><name>Ondřej Profant</name></author><entry><title type="html">Kontext skandálu Huawei a ZTE</title><link href="https://www.profant.eu/2019/huawei-zte.html" rel="alternate" type="text/html" title="Kontext skandálu Huawei a ZTE" /><published>2019-01-13T14:00:00+00:00</published><updated>2019-01-13T14:00:00+00:00</updated><id>https://www.profant.eu/2019/huawei-zte</id><content type="html" xml:base="https://www.profant.eu/2019/huawei-zte.html">&lt;p&gt;Varování NÚKIB před výrobky firem Huawei a ZTE docela rezonuje. Ve veřejné debatě ale zaznívá velké množství dezinformací a polopravd. Pokusím se proto shrnout politický a technologický kontext pro pochopení této kauzy.&lt;/p&gt;
 
 &lt;!--more--&gt;
@@ -19,7 +19,7 @@
 
 &lt;p&gt;Pro Evropu však současná situace může představovat velkou příležitost. V posledních dekádách jsme jen ztráceli, jelikož globalizovaný trh nás táhl směrem k USA. Až na pár německých výjimek. Nicméně nyní budeme nuceni nastavit nová pravidla hry. Podle mého názoru tato nová pravidla budou muset být mnohem otevřenější, méně svázána principy, které zajišťovaly dominanci USA v 2. pol. 20. stol. A to proto, že tyto principy se naučila právě Čína, která jimi v současném nastavení hravě převálcuje USA společně s námi.&lt;/p&gt;
 
-&lt;p&gt;Pokud bychom se vydali cestou otevřeného hardware, není potřeba zběsile soutěžit a “soukromničit”. Je třeba jen udržet přiměřené tempo. To Evropa celou dobu zvládá. A naopak v tom vidím ohromnou příležitost pro větší výrobu hardware přímo na území EU.&lt;/p&gt;
+&lt;p&gt;Pokud bychom se vydali cestou &lt;a href=&quot;https://www.profant.eu/2019/otevreny-hardware.html&quot;&gt;otevřeného hardware&lt;/a&gt;, není potřeba zběsile soutěžit a “soukromničit”. Je třeba jen udržet přiměřené tempo. To Evropa celou dobu zvládá. A naopak v tom vidím ohromnou příležitost pro větší výrobu hardware přímo na území EU.&lt;/p&gt;
 
 &lt;h3 id=&quot;role-núkib&quot;&gt;Role NÚKIB&lt;/h3&gt;
 
@@ -38,13 +38,9 @@ Jedná se o zranitelnost úmyslně implementovanou do hardware či software. Nap
 
 &lt;blockquote&gt;
   &lt;p&gt;PROČ JE HUAWEI TAK ÚSPĚŠNÝ&lt;/p&gt;
-&lt;/blockquote&gt;
 
-&lt;blockquote&gt;
   &lt;p&gt;Pro začátek by bylo dobré vyvrátit rozšířený mýtus, že Huawei je úspěšný, protože je levný a drze kopíruje cizí technologie. Začátky firmy byly sice pochybné, ale poté, co firma čelila kritice za nedodržování patentů, napnuli úsilí ve výzkum a vývoj. A mnoho let pracovali na tom, aby si jméno napravili. Zdá se, že až dosud úspěšně.&lt;/p&gt;
-&lt;/blockquote&gt;
 
-&lt;blockquote&gt;
   &lt;p&gt;Huawei nabízí řešení pro telekomunikační operátory. Modulární, škálovatelné, spolehlivé.&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; Dodají vám na síť vše od modemu až po routery a firewally tvořící rozhraní do veřejného internetu. To je pro operátory nesmírně důležité. Stavíte síť a víte, že bez ohledu na to, jak ji budete rozšiřovat, měnit nebo doplňovat nové technologie, nemusíte při každé změně všechno vyhodit a stavět to celé znovu. A především máte řešení, které funguje, a partnera, který má zájem, aby fungovalo a vy u něj příště nakoupili zase. A pokud se vás ten partner zároveň nesnaží tzv. „sedřít z kůže“, je to přímo pohádková situace. To ale neznamená, že by Huawei byl nejlevnější. Pro většinu částí vaší sítě existuje levnější alternativa. Ale mít na síti 20 výrobců, kdy každý z nich má ve svém řešení jinou chybu, pro každého z nich jste „čučkař“ a když navrhujete nějaký nový projekt, tak nevíte, zda vybrané řešení nepoletí obratem do koše, protože nefunguje, to prostě nechcete. Huawei dodává řešení pro operátory od A do Z, škálovatelné, za rozumné peníze a velmi dobré kvalitě. V telekomunikačním businessu de facto nemá konkurenci.&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
