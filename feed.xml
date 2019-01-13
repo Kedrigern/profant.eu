@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="https://www.profant.eu/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.profant.eu/" rel="alternate" type="text/html" /><updated>2019-01-13T14:41:47+00:00</updated><id>https://www.profant.eu/feed.xml</id><title type="html">Blog Ondřeje Profanta</title><subtitle>Zápisník pirátského poslance Ondřeje Profanta, který se zaměřuje na opendata a e-government. Rád bych byl, aby Česká republika byla moderním státem s rozvinutou digitální ekonomikou, kde je kladen silný důraz na vzdělávání a svobodu. V digitalizaci se musíme inspirovat ve Velké Britanii a Estonsku, řešení musí být otevřená a uživatelsky přívětivá.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="https://www.profant.eu/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.profant.eu/" rel="alternate" type="text/html" /><updated>2019-01-13T14:45:39+00:00</updated><id>https://www.profant.eu/feed.xml</id><title type="html">Blog Ondřeje Profanta</title><subtitle>Zápisník pirátského poslance Ondřeje Profanta, který se zaměřuje na opendata a e-government. Rád bych byl, aby Česká republika byla moderním státem s rozvinutou digitální ekonomikou, kde je kladen silný důraz na vzdělávání a svobodu. V digitalizaci se musíme inspirovat ve Velké Britanii a Estonsku, řešení musí být otevřená a uživatelsky přívětivá.
 </subtitle><author><name>Ondřej Profant</name></author><entry><title type="html">Kontext skandálu Huawei a ZTE</title><link href="https://www.profant.eu/2019/huawei-zte.html" rel="alternate" type="text/html" title="Kontext skandálu Huawei a ZTE" /><published>2019-01-13T14:00:00+00:00</published><updated>2019-01-13T14:00:00+00:00</updated><id>https://www.profant.eu/2019/huawei-zte</id><content type="html" xml:base="https://www.profant.eu/2019/huawei-zte.html">&lt;p&gt;Varování NÚKIB před výrobky firem Huawei a ZTE docela rezonuje. Ve veřejné debatě ale zaznívá velké množství dezinformací a polopravd. Pokusím se proto shrnout politický a technologický kontext pro pochopení této kauzy.&lt;/p&gt;
 
 &lt;!--more--&gt;
@@ -27,11 +27,8 @@
 
 &lt;p&gt;Různých backdoorů a bezpečnostních chyb v hardware a software bylo k dnešnímu dni objeveno již mnoho. Často i ve výrobcích z USA. Rozdíl je, že tentokrát začal situaci řešit NÚKIB jako nově vzniklý úřad právě za tímto účelem. Piráti na nebezpečí uzavřeného hardware upozorňují dlouhodobě, v zásadě již od svého založení v roce 2009.&lt;/p&gt;
 
-&lt;hr /&gt;
-&lt;p&gt;&lt;strong&gt;Co jsou to ta zadní vrátka (backdoor)?&lt;/strong&gt;
+&lt;p class=&quot;article-note&quot;&gt;&lt;strong&gt;Co jsou to ta zadní vrátka (backdoor)?&lt;/strong&gt;
 Jedná se o zranitelnost úmyslně implementovanou do hardware či software. Například speciální uživatelský účet s vysokými právy. Může mít velmi mnoho podob.&lt;/p&gt;
-
-&lt;hr /&gt;
 
 &lt;p&gt;V médiích se hlavně od vládních představitelů objevovala kritika, že NÚKIB vydal jen dvoustránkové varování. Nic jiného se ale v případě varování nedá očekávat. Hlavním kritériem je v takové chvíli čas. Varování je nutné vydat okamžitě, když se objeví riziko. NÚKIB tedy plní svou roli naprosto v souladu s účelem, za jakým byl založen.&lt;/p&gt;
 
