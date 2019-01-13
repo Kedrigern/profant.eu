@@ -67,6 +67,6 @@ Situace rozhodně není jednoduchá. Západní svět velmi dlouho technologicky 
 
 ---
 
-[^1]: https://e.huawei.com/en/products-and-solutions?pos=solutions&source=corp_comm
+[^1]: [Huawei ICT products and solutions](https://e.huawei.com/en/products-and-solutions?pos=solutions&source=corp_comm)
 
-[^2]: https://mobil.idnes.cz/lte-site-postavi-huawei-0sq-/mob_tech.aspx?c=A140225_143244_mob_tech_LHR
+[^2]: [LTE pro české operátory postaví čínský Huawei](https://mobil.idnes.cz/lte-site-postavi-huawei-0sq-/mob_tech.aspx?c=A140225_143244_mob_tech_LHR)
