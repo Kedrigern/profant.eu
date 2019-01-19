@@ -98,6 +98,7 @@ Interpeloval jsem ministra životního prostředí Miroslava Brabce ohledně [zv
 * 14.11. Vláda schválila koncepci Egovernment cloudu. Náš resortní tým ji prošel a sepsali jsme základní připomínky. O těch budeme dále jednat s MVČR i skrze Podvýbor pro egovernment. Další informace naleznete v článcích na mém blogu: 
 
 >[Vláda v oblacích](https://www.profant.eu/2018/vlada-v-oblacich.html)
+
 >[Strategie pro Egovernment cloud v ČR](https://www.profant.eu/2018/egov-cloud.html)
 
 * 15.11.: Piráti a další strany svolali mimořádnou schůzi k platům ústavních činitelů. V současnosti je zákon nastaven tak, že by poskočily o 20 %. Piráti navrhli tento růst zmenšit na kompromisních 9 %. To se podařilo, i když mnoho stran tento sněmovní tisk velmi odkládalo. Návrh je rozumný kompromis, přestože Piráti by klidně byli skromnější. Hlasování [zde](http://www.psp.cz/sqw/hlasy.sqw?G=68544), výsledek popsaný [zde](https://www.novinky.cz/domaci/492027-platy-politiku-vzrostou-o-devet-procent-zeman-podepsal-novelu.html).
@@ -136,6 +137,7 @@ Společně s Mikulášem Ferjenčíkem jsme se vrhli na otevírání a zpřístu
 * 5.12. Došlo k závěrečnému projednání GDPR, bližší informace o jednotlivých pozměňovacích návrzích naleznete na mém [Facebooku](https://www.facebook.com/ondrej.profant/posts/10213174990596055) a blogu:
 
 >[Poslední dějství GDPR](https://www.profant.eu/2018/gdpr-posledni-dejstvi.html)
+
 >[Přínos GDPR pro ochranu osobních dat](https://www.profant.eu/2019/prinos-gdpr.html)
 
 * 7.12: Poslanci ANO, SPD a ČSSD oddálili toleranci jednoho promile pro vodáky. Bojujeme dál! Na jaře si chci dát pivo na vodě legálně!
