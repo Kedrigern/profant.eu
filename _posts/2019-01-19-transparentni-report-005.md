@@ -94,14 +94,14 @@ Společně s Láďou Koubkem jsme začali intenzivně pracovat na přípravách 
 
 Interpeloval jsem ministra životního prostředí Miroslava Brabce ohledně [zveřejňování dat ČHMÚ](https://www.irozhlas.cz/zpravy-domov/ministr-brabec-informace-o-pocasi-zverejnime-ale-jen-nektere-a-nejdriv-v-roce_1810300600_cib).
 
-* 13.11.: Jsem zpravodajem rozšíření registru smluv na ČEZ apod. ([ST 50](http://www.psp.cz/sqw/historie.sqw?o=8&T=50)). První čtení této novely proběhlo již 7. 3. Ve výborech pak proběhlo mnoho obstrukcí. 13. 11. konečně došlo i na druhé čtení. Při tom však velmi obstruovala ODS. Nakonec bylo projednávání přerušeno (stále ještě ve druhém čtení). [Souhrn od Ivana Bartoše](https://www.facebook.com/photo.php?fbid=10215263642324935&set=a.1533172209836).
+* 13.11. Jsem zpravodajem rozšíření registru smluv na ČEZ apod. ([ST 50](http://www.psp.cz/sqw/historie.sqw?o=8&T=50)). První čtení této novely proběhlo již 7. 3. Ve výborech pak proběhlo mnoho obstrukcí. 13. 11. konečně došlo i na druhé čtení. Při tom však velmi obstruovala ODS. Nakonec bylo projednávání přerušeno (stále ještě ve druhém čtení). [Souhrn od Ivana Bartoše](https://www.facebook.com/photo.php?fbid=10215263642324935&set=a.1533172209836).
 * 14.11. Vláda schválila koncepci Egovernment cloudu. Náš resortní tým ji prošel a sepsali jsme základní připomínky. O těch budeme dále jednat s MVČR i skrze Podvýbor pro egovernment. Další informace naleznete v článcích na mém blogu: 
 
 >[Vláda v oblacích](https://www.profant.eu/2018/vlada-v-oblacich.html)
 
 >[Strategie pro Egovernment cloud v ČR](https://www.profant.eu/2018/egov-cloud.html)
 
-* 15.11.: Piráti a další strany svolali mimořádnou schůzi k platům ústavních činitelů. V současnosti je zákon nastaven tak, že by poskočily o 20 %. Piráti navrhli tento růst zmenšit na kompromisních 9 %. To se podařilo, i když mnoho stran tento sněmovní tisk velmi odkládalo. Návrh je rozumný kompromis, přestože Piráti by klidně byli skromnější. Hlasování [zde](http://www.psp.cz/sqw/hlasy.sqw?G=68544), výsledek popsaný [zde](https://www.novinky.cz/domaci/492027-platy-politiku-vzrostou-o-devet-procent-zeman-podepsal-novelu.html).
+* 15.11. Piráti a další strany svolali mimořádnou schůzi k platům ústavních činitelů. V současnosti je zákon nastaven tak, že by poskočily o 20 %. Piráti navrhli tento růst zmenšit na kompromisních 9 %. To se podařilo, i když mnoho stran tento sněmovní tisk velmi odkládalo. Návrh je rozumný kompromis, přestože Piráti by klidně byli skromnější. Hlasování [zde](http://www.psp.cz/sqw/hlasy.sqw?G=68544), výsledek popsaný [zde](https://www.novinky.cz/domaci/492027-platy-politiku-vzrostou-o-devet-procent-zeman-podepsal-novelu.html).
 * 23.11. Mimořádná schůze k nedůvěře vládě, kterou vyprovokoval únos Andreje Babiše jr. na Krym. Mé [výhrady k vládě jsou stále stejné](https://www.facebook.com/ondrej.profant/posts/10213108451012607).
 
 Pod záštitou Výboru pro veřejnou správu se sešla pracovní skupina pro elektronizaci stavebního řízení. MMR a zájmové organizace (svaz projektantů, ICTU) nám představily nějaké návrhy. Diskusi jsem nechtěně hodně strhl k nepřístupnosti technických norem. Obecně se hodně řešila digitální technická mapa.
@@ -140,7 +140,7 @@ Společně s Mikulášem Ferjenčíkem jsme se vrhli na otevírání a zpřístu
 
 >[Přínos GDPR pro ochranu osobních dat](https://www.profant.eu/2019/prinos-gdpr.html)
 
-* 7.12: Poslanci ANO, SPD a ČSSD oddálili toleranci jednoho promile pro vodáky. Bojujeme dál! Na jaře si chci dát pivo na vodě legálně!
+* 7.12. Poslanci ANO, SPD a ČSSD oddálili toleranci jednoho promile pro vodáky. Bojujeme dál! Na jaře si chci dát pivo na vodě legálně!
 * 12.12. Senátem prošel návrh na snížení růstu platů politiků, který jsme pomáhali ve Sněmovně prosadit. [Návrh Senátem prošel o jediný hlas](https://m.facebook.com/ceska.piratska.strana/photos/a.117963484038/10156264266969039/).
-* 13.12: Proběhlo druhé čtení k církevním restitucím (představení pozměňovacích návrhů). Vláda nepředstavila analýzu, kterou Piráti požadovali. Andrej Babiš tedy opět není jakkoliv schopen prokázat svá dřívější slova o nadhodnocení náhrad.
-* 14.12: Na výboru [agentura pro sport](https://www.facebook.com/ondrej.profant/posts/10213233999351237). V současné podobě se jedná o trafiku. Poslanci výboru odmítli podpořit pirátské návrhy na zvýšení transparence.
+* 13.12. Proběhlo druhé čtení k církevním restitucím (představení pozměňovacích návrhů). Vláda nepředstavila analýzu, kterou Piráti požadovali. Andrej Babiš tedy opět není jakkoliv schopen prokázat svá dřívější slova o nadhodnocení náhrad.
+* 14.12. Na výboru [agentura pro sport](https://www.facebook.com/ondrej.profant/posts/10213233999351237). V současné podobě se jedná o trafiku. Poslanci výboru odmítli podpořit pirátské návrhy na zvýšení transparence.
