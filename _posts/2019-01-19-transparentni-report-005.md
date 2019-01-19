@@ -55,11 +55,11 @@ Jako poslanec jsem dostal od prezidenta pozvánku na Hrad k oslavám 28. řijna.
 
 Po volbách jsem se zúčastnil několika vyjednávání na magistrátu Prahy, Praze 5, Praze 7 a Praze 8. Což zdokumentovaly média a místní vyjednávácí týmy. Též jsem se zúčastnil programového týmu vedení úřadu a IT v rámci vznikající koalice v ZHMP.
 
-* 12. 10. jsem zašel na pivo s Janem Vojtěchem Binderem (IT P10) a Josefem Listíkem (IT P2) a bavili jsme se o IT v Praze. O tom, jak má vypadat spolupráce MČ a MHMP. Co se povedlo, co je beznadějné, jakou roli hraje OICT.
-* 22. 10 jsem se setkal s panem Kořenem ze Suse a bavili jsme se o open source ve veřejné správě. Dohodli jsme se na výměně podkladů.
-* 22. 10. jsem se setkal s Bronislavem Patočkou z Rokytnice nad Jizerou. Řešili jsme digitalizaci úřadu jejich velikosti. Představil a doporučil jsem jim spolek Otevřená města.
-* 23. 10. jsem se setkal s panem Kretcherem ohledně moderních výzev pro kulturu (eculture), jmenovitě knihovnictví, galerie a muzejnictví.
-* 29. 10. jsem se setkal s Ivetou Babulenkovou a Markem Jelenem z Red Hat (čerstvě koupený IBM). Krom akvizice jsme řešili rámcové smlouvy ministerstva vnitra, které silně narušují konkurenční prostředí. Ministerstvo totiž uzavřelo rámcovky se svými oblíbenými dodavateli. Zároveň nedělá nic pro odstraňování jiných byrokratických překážek. Takže např. když soutěžíte virtualizaci, tak máte na výběr jednoduše přes rámcovku VMware, nebo složitě soutěžit cokoliv jiného. Dále jsme řešili egovernment cloud, kde mi předali zkušenosti z Maďarska, kde je na RH technologiích stavěn IAAS veřejný cloud.
+* 12.10. jsem zašel na pivo s Janem Vojtěchem Binderem (IT P10) a Josefem Listíkem (IT P2) a bavili jsme se o IT v Praze. O tom, jak má vypadat spolupráce MČ a MHMP. Co se povedlo, co je beznadějné, jakou roli hraje OICT.
+* 22.10 jsem se setkal s panem Kořenem ze Suse a bavili jsme se o open source ve veřejné správě. Dohodli jsme se na výměně podkladů.
+* 22.10. jsem se setkal s Bronislavem Patočkou z Rokytnice nad Jizerou. Řešili jsme digitalizaci úřadu jejich velikosti. Představil a doporučil jsem jim spolek Otevřená města.
+* 23.10. jsem se setkal s panem Kretcherem ohledně moderních výzev pro kulturu (eculture), jmenovitě knihovnictví, galerie a muzejnictví.
+* 29.10. jsem se setkal s Ivetou Babulenkovou a Markem Jelenem z Red Hat (čerstvě koupený IBM). Krom akvizice jsme řešili rámcové smlouvy ministerstva vnitra, které silně narušují konkurenční prostředí. Ministerstvo totiž uzavřelo rámcovky se svými oblíbenými dodavateli. Zároveň nedělá nic pro odstraňování jiných byrokratických překážek. Takže např. když soutěžíte virtualizaci, tak máte na výběr jednoduše přes rámcovku VMware, nebo složitě soutěžit cokoliv jiného. Dále jsme řešili egovernment cloud, kde mi předali zkušenosti z Maďarska, kde je na RH technologiích stavěn IAAS veřejný cloud.
 
 ### Listopad 2018
 
@@ -94,14 +94,14 @@ Společně s Láďou Koubkem jsme začali intenzivně pracovat na přípravách 
 
 Interpeloval jsem ministra životního prostředí Miroslava Brabce ohledně [zveřejňování dat ČHMÚ](https://www.irozhlas.cz/zpravy-domov/ministr-brabec-informace-o-pocasi-zverejnime-ale-jen-nektere-a-nejdriv-v-roce_1810300600_cib).
 
-* 13. 11.: Jsem zpravodajem rozšíření registru smluv na ČEZ apod. ([ST 50](http://www.psp.cz/sqw/historie.sqw?o=8&T=50)). První čtení této novely proběhlo již 7. 3. Ve výborech pak proběhlo mnoho obstrukcí. 13. 11. konečně došlo i na druhé čtení. Při tom však velmi obstruovala ODS. Nakonec bylo projednávání přerušeno (stále ještě ve druhém čtení). [Souhrn od Ivana Bartoše](https://www.facebook.com/photo.php?fbid=10215263642324935&set=a.1533172209836).
-* 14. 11. Vláda schválila koncepci Egovernment cloudu. Náš resortní tým ji prošel a sepsali jsme základní připomínky. O těch budeme dále jednat s MVČR i skrze Podvýbor pro egovernment. Další informace naleznete v článcích na mém blogu: 
+* 13.11.: Jsem zpravodajem rozšíření registru smluv na ČEZ apod. ([ST 50](http://www.psp.cz/sqw/historie.sqw?o=8&T=50)). První čtení této novely proběhlo již 7. 3. Ve výborech pak proběhlo mnoho obstrukcí. 13. 11. konečně došlo i na druhé čtení. Při tom však velmi obstruovala ODS. Nakonec bylo projednávání přerušeno (stále ještě ve druhém čtení). [Souhrn od Ivana Bartoše](https://www.facebook.com/photo.php?fbid=10215263642324935&set=a.1533172209836).
+* 14.11. Vláda schválila koncepci Egovernment cloudu. Náš resortní tým ji prošel a sepsali jsme základní připomínky. O těch budeme dále jednat s MVČR i skrze Podvýbor pro egovernment. Další informace naleznete v článcích na mém blogu: 
 
 >[Vláda v oblacích](https://www.profant.eu/2018/vlada-v-oblacich.html)
 >[Strategie pro Egovernment cloud v ČR](https://www.profant.eu/2018/egov-cloud.html)
 
-* 15. 11.: Piráti a další strany svolali mimořádnou schůzi k platům ústavních činitelů. V současnosti je zákon nastaven tak, že by poskočily o 20 %. Piráti navrhli tento růst zmenšit na kompromisních 9 %. To se podařilo, i když mnoho stran tento sněmovní tisk velmi odkládalo. Návrh je rozumný kompromis, přestože Piráti by klidně byli skromnější. Hlasování [zde](http://www.psp.cz/sqw/hlasy.sqw?G=68544), výsledek popsaný [zde](https://www.novinky.cz/domaci/492027-platy-politiku-vzrostou-o-devet-procent-zeman-podepsal-novelu.html).
-* 23. 11. Mimořádná schůze k nedůvěře vládě, kterou vyprovokoval únos Andreje Babiše jr. na Krym. Mé [výhrady k vládě jsou stále stejné](https://www.facebook.com/ondrej.profant/posts/10213108451012607).
+* 15.11.: Piráti a další strany svolali mimořádnou schůzi k platům ústavních činitelů. V současnosti je zákon nastaven tak, že by poskočily o 20 %. Piráti navrhli tento růst zmenšit na kompromisních 9 %. To se podařilo, i když mnoho stran tento sněmovní tisk velmi odkládalo. Návrh je rozumný kompromis, přestože Piráti by klidně byli skromnější. Hlasování [zde](http://www.psp.cz/sqw/hlasy.sqw?G=68544), výsledek popsaný [zde](https://www.novinky.cz/domaci/492027-platy-politiku-vzrostou-o-devet-procent-zeman-podepsal-novelu.html).
+* 23.11. Mimořádná schůze k nedůvěře vládě, kterou vyprovokoval únos Andreje Babiše jr. na Krym. Mé [výhrady k vládě jsou stále stejné](https://www.facebook.com/ondrej.profant/posts/10213108451012607).
 
 Pod záštitou Výboru pro veřejnou správu se sešla pracovní skupina pro elektronizaci stavebního řízení. MMR a zájmové organizace (svaz projektantů, ICTU) nám představily nějaké návrhy. Diskusi jsem nechtěně hodně strhl k nepřístupnosti technických norem. Obecně se hodně řešila digitální technická mapa.
 
@@ -133,12 +133,12 @@ Společně s Mikulášem Ferjenčíkem jsme se vrhli na otevírání a zpřístu
 
 **Sněmovna**
 
-* 5. 12. Došlo k závěrečnému projednání GDPR, bližší informace o jednotlivých pozměňovacích návrzích naleznete na mém [Facebooku](https://www.facebook.com/ondrej.profant/posts/10213174990596055) a blogu:
+* 5.12. Došlo k závěrečnému projednání GDPR, bližší informace o jednotlivých pozměňovacích návrzích naleznete na mém [Facebooku](https://www.facebook.com/ondrej.profant/posts/10213174990596055) a blogu:
 
 >[Poslední dějství GDPR](https://www.profant.eu/2018/gdpr-posledni-dejstvi.html)
 >[Přínos GDPR pro ochranu osobních dat](https://www.profant.eu/2019/prinos-gdpr.html)
 
-* 7. 12: Poslanci ANO, SPD a ČSSD oddálili toleranci jednoho promile pro vodáky. Bojujeme dál! Na jaře si chci dát pivo na vodě legálně!
-* 12. 12. Senátem prošel návrh na snížení růstu platů politiků, který jsme pomáhali ve Sněmovně prosadit. [Návrh Senátem prošel o jediný hlas](https://m.facebook.com/ceska.piratska.strana/photos/a.117963484038/10156264266969039/).
-* 13. 12: Proběhlo druhé čtení k církevním restitucím (představení pozměňovacích návrhů). Vláda nepředstavila analýzu, kterou Piráti požadovali. Andrej Babiš tedy opět není jakkoliv schopen prokázat svá dřívější slova o nadhodnocení náhrad.
-* 14. 12: Na výboru [agentura pro sport](https://www.facebook.com/ondrej.profant/posts/10213233999351237). V současné podobě se jedná o trafiku. Poslanci výboru odmítli podpořit pirátské návrhy na zvýšení transparence.
+* 7.12: Poslanci ANO, SPD a ČSSD oddálili toleranci jednoho promile pro vodáky. Bojujeme dál! Na jaře si chci dát pivo na vodě legálně!
+* 12.12. Senátem prošel návrh na snížení růstu platů politiků, který jsme pomáhali ve Sněmovně prosadit. [Návrh Senátem prošel o jediný hlas](https://m.facebook.com/ceska.piratska.strana/photos/a.117963484038/10156264266969039/).
+* 13.12: Proběhlo druhé čtení k církevním restitucím (představení pozměňovacích návrhů). Vláda nepředstavila analýzu, kterou Piráti požadovali. Andrej Babiš tedy opět není jakkoliv schopen prokázat svá dřívější slova o nadhodnocení náhrad.
+* 14.12: Na výboru [agentura pro sport](https://www.facebook.com/ondrej.profant/posts/10213233999351237). V současné podobě se jedná o trafiku. Poslanci výboru odmítli podpořit pirátské návrhy na zvýšení transparence.
