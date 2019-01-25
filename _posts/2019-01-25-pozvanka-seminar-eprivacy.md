@@ -5,7 +5,7 @@ date:       2019-01-25 11:00:00 +0100
 categories: Soukromí
 comments:   true
 tags:       [EU, egovernment, soukromí]
-img:        e-privacy.png
+img:        e-privacy.jpg
 author:     Ondřej Profant
 ---
 
