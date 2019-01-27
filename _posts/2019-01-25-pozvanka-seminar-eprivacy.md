@@ -21,7 +21,7 @@ který se uskuteční ve **středu 6. února 2019 od 9:00** v budově Poslaneck�
 
 Registrace účastníků od 8:30, seminář probíhá od 9:00 do 13:00.
  
-Semináře se lze zúčastnit bez předchozího přihlášení.
+Podmínkou účasti je e-mailová registrace na: pajerovas@psp.cz. Postačí nám jméno a organizace.
                    
 Jaký je aktuální vývoj vyjednávání znění ePrivacy nařízení, které má sjednotit v rámci zemí EU zpracování osobních údajů v oblasti elektronických komunikací? Jak se doplňuje se známějším nařízením o ochraně osobních údajů (GDPR)? Co nového nás v oblasti elektronické komunikace čeká? Jak to bude s cookies a co se změní u plošného sledování elektronických komunikací (tzv. data retention)?
 
