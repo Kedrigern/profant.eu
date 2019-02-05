@@ -17,9 +17,9 @@ S mým kolegou, pirátským poslancem Martinem Jiránkem, jsme 31. ledna předst
 
 Naší hlavní motivací pro předložení návrhu byla především snaha usnadnit českým podnikatelům práci a snížit jejich administrativní zátěž. Ta se totiž v současnosti projevuje už během prvního kroku potřebného pro zahájení podnikání - v založení společnosti, případně živnosti.
 
-**Podle informací Světové banky dnes trvá v ČR založení společnosti průměrně 9,5 hodin, přičemž tato doba je rozložena zhruba do lhůty 24,5 dní.** Celý proces má navíc šest kroků, do kterých spadá 2x návštěva banky a 1x potřebná návštěva notáře. Taková brzda pro začínající podnikatele nedává příliš smysl, zejména v době informačních technologií, kdy by mělo stačit pouze prokázat svou občanskou totožnost a uhradit příslušný poplatek. Cokoliv navíc je jen zbytečná byrokracie, která jen vytváří další vrstvu administrativy, která rozhodně ničemu nepomáhá. Rozhodli jsme se proto tento nedůstojný stav změnit naším návrhem.
+**Podle informací Světové banky dnes trvá v ČR založení společnosti průměrně 9,5 hodin, přičemž tato doba je rozložena zhruba do lhůty 24,5 dní.**[^1] Celý proces má navíc šest kroků, do kterých spadá 2x návštěva banky a 1x potřebná návštěva notáře. Taková brzda pro začínající podnikatele nedává příliš smysl, zejména v době informačních technologií, kdy by mělo stačit pouze prokázat svou občanskou totožnost a uhradit příslušný poplatek. Cokoliv navíc je jen zbytečná byrokracie, která jen vytváří další vrstvu administrativy, která rozhodně ničemu nepomáhá. Rozhodli jsme se proto tento nedůstojný stav změnit naším návrhem.
 
-Návrh zachovává i možnost starého přístupu, nově zaváděný je zcela volitelný a pohodlnější způsob založení společnosti či živnosti. Jeho podstatou je umožnění vzdáleného založení přes internet. To s sebou přináší i výrazné snížení nákladů pro podnikatele - **založení společnosti s ručením omezeným se standardní společenskou smlouvou tak například zlevní z 5 000 Kč na 500 Kč, založení živnosti bude rovněž za poplatek 500 Kč.**
+Návrh zachovává i možnost starého přístupu, nově zaváděný je zcela volitelný a pohodlnější způsob založení společnosti či živnosti. Jeho podstatou je umožnění vzdáleného založení přes internet. To s sebou přináší i výrazné snížení nákladů pro podnikatele - **založení společnosti s ručením omezeným se standardní společenskou smlouvou tak například zlevní z 5 000 Kč na 500 Kč, založení živnosti bude rovněž za poplatek 500 Kč.**[^2]
 
 Je evidentní, že tato ve své podstatě jednoduchá změna zákona významně usnadní podnikatelům začátek jejich podnikání. Zároveň se tím opět o něco zvedne úroveň českého egovernmentu a jeho služeb pro občany. Přestože se v případě založení společnosti či živnosti zdaleka nejedná o nejpalčivější problém českých podnikatelů, považuji odstraňování překážek pro podnikatele za krok správným směrem. Je nežádoucí, aby čeští podnikatelé byli v takové míře jako dnes zatěžováni povinnou administrativou. Tento náš návrh sleduje právě onen dlouhodobý záměr ulevit podnikatelům od nesmyslného papírování.
 
@@ -29,7 +29,9 @@ Piráti ale nejsou pouze teoretici, nýbrž i praktici. Proto jsme svůj návrh,
 
 Pro uživatele je naše aplikace ale stále daleko přívětivější než návštěva úřadu a notáře. Bez jakýchkoliv dalších poplatků za službu si můžete aplikace sami vyzkoušet na adrese **[https://urad.pirati.cz/](https://urad.pirati.cz/)**.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9lblxI7YsbY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="responsive-embed">
+  <iframe width="650" src="https://www.youtube.com/embed/9lblxI7YsbY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 Jelikož jsme Piráti, je kód aplikace volně dostupný. Aplikaci jsme již nabídli i ministerstvu spravedlnosti. Je samozřejmé, že ministerstvo nemůže vzít aplikaci a nasadit ji tak, jak je. Ale může se inspirovat jejím uživatelským rozhraním a řešením některých problémů. Naše aplikace především ukázala, že je tento koncept použitelný - zjednodušeně řečeno, že “to jde”.
 
@@ -47,3 +49,18 @@ To je ostatní další přidaná hodnota našeho návrhu. Nejedná se o nepromy�
 * [Piráti mají legislativu, která umožní založit firmu za jediný den](https://www.piratskelisty.cz/clanek-2286-pirati-maji-legislativu-ktera-umozni-zalozit-firmu-za-jediny-den)
 * [Hodnocení Světové banky](http://www.doingbusiness.org/en/rankings)
 * [Na úřad z domova - webová aplikace](https://urad.pirati.cz/)
+
+### Ohlasy v mediích
+
+* [Hospodářské noviny](https://domaci.ihned.cz/c1-66457560-pirati-navrhuji-aby-slo-rychleji-zakladat-firmy-vse-ma-byt-mozne-vyresit-pres-internet)
+* [Lidovky](https://www.lidovky.cz/domov/zalozeni-firmy-za-jeden-den-pirati-navrhuji-aby-slo-podniky-zakladat-pres-internet.A190131_151046_ln_domov_form)
+* [Lupa.cz](https://www.lupa.cz/aktuality/piratska-novela-by-umoznila-zalozeni-firmy-behem-jednoho-dne-a-pres-internet/)
+* [České noviny (ČTK)](https://www.ceskenoviny.cz/zpravy/pirati-navrhuji-aby-slo-firmy-zakladat-pres-internet-za-den/1716275)
+* [E15](https://www.e15.cz/domaci/pirati-prisli-s-novelou-ktera-umoznuje-zalozit-firmu-za-jeden-den-pres-internet-1355887)
+* [Eurozpravy](https://eurozpravy.cz/ekonomika/ceska-republika/247837-zalozeni-firmy-zabere-pouze-den-pirati-prisli-se-smelym-navrhem-ods-ho-podpori/)
+* [Echo24](https://echo24.cz/a/ixzVP/boj-proti-byrokracii-pirati-chteji-pouhy-jeden-den-na-zalozeni-firmy)
+
+---
+
+[^1]: [Žebříček Doing Business od Světové banky](http://www.doingbusiness.org/en/data/exploreeconomies/czech-republic#)
+[^2]: Poplatek má různé části a může se lišit. U s.r.o. bereme ten nejběžnější.
