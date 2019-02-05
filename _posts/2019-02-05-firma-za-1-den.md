@@ -27,7 +27,7 @@ Je evidentní, že tato ve své podstatě jednoduchá změna zákona významně 
 
 Piráti ale nejsou pouze teoretici, nýbrž i praktici. Proto jsme svůj návrh, respektive jeho možné technické provedení, vyzkoušeli sami v intencích současné legislativy. **Spustili jsme vlastní webovou aplikaci, která umožňuje vyzkoušet si snadné založení společnosti online.** Jedná se samozřejmě o neúplnou verzi, protože je třeba dodržet současným zákonem stanovený postup a předepsané poplatky (tedy za vyšší cenu než v pirátském návrhu zákona).
 
-Pro uživatele je naše aplikace ale stále daleko přívětivější než návštěva úřadu a notáře. Bez jakýchkoliv dalších poplatků za službu si můžete aplikace sami vyzkoušet na adrese **https://urad.pirati.cz/**.
+Pro uživatele je naše aplikace ale stále daleko přívětivější než návštěva úřadu a notáře. Bez jakýchkoliv dalších poplatků za službu si můžete aplikace sami vyzkoušet na adrese **[https://urad.pirati.cz/](https://urad.pirati.cz/)**.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9lblxI7YsbY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
