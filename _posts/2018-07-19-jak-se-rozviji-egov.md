@@ -43,12 +43,15 @@ Elektronická evidence tržeb (EET) je velmi emotivní téma. Andrej Babiš o n�
 
 Zřejmě jediný aspoň částečně pozitivní příklad egovernmentu. Pro jeho další užívání a rozvíjení ale záleží na jednotlivých resortech, aby pro něj uzpůsobily své služby. Resorty jsem proto oficiálně oslovil s dotazy, kdy do portálu své služby připojí.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4-BvIsv_a_c" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<div class="responsive-embed widescreen">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/4-BvIsv_a_c" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
 
 I přes dosavadní negativní zkušenost ale nehodlám opustit svůj konstruktivní přístup k věci. Jsem přesvědčen, že dobře navržený egovernment a správně digitalizované procesy jsou v zájmu všech, občanů i politiků, poslanců koaličních i opozičních. Budu proto nadále komunikovat s příslušnými úřady a zodpovědnými osobami, abych s rozvojem egovernmentu v ČR pomohl.
 
 Prací ve Sněmovně to ale nekončí. Piráti chtějí ukázat, že digitalizaci lze provádět dobře i levně zároveň. Proto připravíme vlastní sadu otevřených aplikací, které občanům usnadní komunikaci s veřejnou správou a bude možné je použít jako příklady dobré praxe.
 
 ## Odkazy
+
 * [Digitální Česko, o kterém sní Andrej Babiš](https://www.profant.eu/2018/digitalni-cesko-o-kterem-sni-andrej-babis.html)
 * [Pilíře e-governementu ČR](https://www.profant.eu/2018/pilire-egovernmentu-cr.html)
