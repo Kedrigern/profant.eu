@@ -29,8 +29,8 @@ Piráti ale nejsou pouze teoretici, nýbrž i praktici. Proto jsme svůj návrh,
 
 Pro uživatele je naše aplikace ale stále daleko přívětivější než návštěva úřadu a notáře. Bez jakýchkoliv dalších poplatků za službu si můžete aplikace sami vyzkoušet na adrese **[https://urad.pirati.cz/](https://urad.pirati.cz/)**.
 
-<div class="responsive-embed">
-  <iframe width="650" src="https://www.youtube.com/embed/9lblxI7YsbY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="responsive-embed widescreen">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/9lblxI7YsbY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 Jelikož jsme Piráti, je kód aplikace volně dostupný. Aplikaci jsme již nabídli i ministerstvu spravedlnosti. Je samozřejmé, že ministerstvo nemůže vzít aplikaci a nasadit ji tak, jak je. Ale může se inspirovat jejím uživatelským rozhraním a řešením některých problémů. Naše aplikace především ukázala, že je tento koncept použitelný - zjednodušeně řečeno, že “to jde”.
