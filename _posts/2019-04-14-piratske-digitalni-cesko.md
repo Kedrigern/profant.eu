@@ -30,26 +30,25 @@ Je jasné, že pro většinu obyvatel je práce na digitalizaci státu a na zlep
 
 ### 1. Akční plán boje proti vendor lock-in a podpory open source software
 
-Jedná se o doplňující návod k vládní koncepci Digitální Česko. Zabýváme se v něm dvěma hlavními tématy. Prvním je problém vendor lock-in (uzamčení k jednomu dodavateli), ke kterému přinášíme právní analýzy smluv, metodiku řešení veřejných zakázek a další doporučení. Druhá část je věnována způsobům, jak se dá negativnímu efektu vendor lock-in předcházet za pomoci open source software. V dokumentu popisujeme, jak lze pomocí open source systémů zlepšit svou infrastrukturu a ještě ušetřit na základě mnoha případů v ČR i zahraničí.
+Jedná se o doplňující návod k [vládní koncepci Digitální Česko](https://www.pirati.cz/tiskove-zpravy/vladni-zmocnenec-pro-IT-potvrdil-roli-piratu-v-rvis.html). V [Akčním plánu se zabýváme](https://www.pirati.cz/tiskove-zpravy/akcni-plan-piratu-digitalizace-otevreny-software.html) dvěma hlavními tématy. Prvním je problém vendor lock-in (uzamčení k jednomu dodavateli), ke kterému přinášíme právní analýzy smluv, metodiku řešení veřejných zakázek a další doporučení. Druhá část je věnována způsobům, jak se dá negativnímu efektu vendor lock-in předcházet za pomoci open source software. V dokumentu popisujeme, jak lze pomocí open source systémů zlepšit svou infrastrukturu a ještě ušetřit nemalé finanční prostředky na základě mnoha případů v ČR i zahraničí.
 
-* [Tisková zpráva k zapojení Pirátů v RVIS](https://www.pirati.cz/tiskove-zpravy/vladni-zmocnenec-pro-IT-potvrdil-roli-piratu-v-rvis.html)
-* [Tisková zpráva ke zveřejnění Akčního plánu](https://www.pirati.cz/tiskove-zpravy/akcni-plan-piratu-digitalizace-otevreny-software.html)
-* [Akční plán ke stažení](https://www.pirati.cz/assets/pdf/Ak%C4%8Dn%C3%AD%20pl%C3%A1n%20open%20source%201.0.pdf)
+* [Akční plán verze 1 ke stažení](https://www.profant.eu/assets/pdf/akcni-plan-opensource-v1.pdf)
+* [Akční plán verze 2 (po připomínkách RVIS) ke stažení](https://www.profant.eu/assets/pdf/akcni-plan-opensource-v2.pdf)
 
 ### 2. Firma za jeden den
 
 Firma za jeden den je projekt zaměřený na usnadnění práce českých podnikatelů a snížení jejich administrativní zátěže při zakládání firmy nebo živnosti. Naším cílem je výrazné zjednodušení procesu založení firmy prostřednictvím webových technologií, které podnikateli umožní veškerou administrativu vyřídit pohodlně přes vzdálený přístup. Pro návrh jsme získali podporu od ostatních stran zastoupených ve Sněmovně a doprovodili jsme ho zjednodušenou demoverzí, kterou jsme sami vyvinuli.
 
-Novelu zákona najdete ve sněmovním systému jako [tisk 446](http://www.psp.cz/sqw/historie.sqw?o=8&T=446).
+Novelu zákona najdete ve sněmovním systému jako [tisk 446](http://www.psp.cz/sqw/historie.sqw?o=8&T=446), podepsalo 80 poslanců, zastoupeny jsou Piráti, ODS, ANO, SPD, ČSSD, STAN, TOP09, KDU-ČSL.
 
-* [Testovací verze Pirátů](https://urad.pirati.cz)
+* [Vyzkoušjte si jak snadné je založit firmu přes internet!](https://urad.pirati.cz)
 * [Informace o návrhu zákona](https://www.profant.eu/2019/firma-za-1-den.html)
 
-### 3. Zákon o digitální službě
+### 3. Zákon o digitální služběk Zlesák
 
 Návrh zákona, který vznikl ve spolupráci s ICT Unií a Piráti na jeho přípravě pracovali i s dalšími politickými subjekty. V oblasti digitalizace se jedná skutečně o přelomový zákon, který přináší právo občana na komunikaci s úřady elektronicky. V průběhu příprav zákona se nám podařilo vyjednat memorandum o jeho podpoře od všech subjektů. Schválení návrhu zákona očekáváme ještě tento rok.
 
-Zákon najdete ve sněmovním systému jako [tisk 447](http://www.psp.cz/sqw/historie.sqw?o=8&T=447).
+Zákon najdete ve sněmovním systému jako [tisk 447](http://www.psp.cz/sqw/historie.sqw?o=8&T=447), podepsalo 133 poslanců.
 
 * [Tisková zpráva k návrhu zákona](https://www.pirati.cz/tiskove-zpravy/zakon-o-elektronicke-komunikaci-se-statem-pripraven.html)
 
@@ -57,7 +56,8 @@ Zákon najdete ve sněmovním systému jako [tisk 447](http://www.psp.cz/sqw/his
 
 V oblasti kybernetické bezpečnosti a obrany se snažíme prosazovat racionální přístup, který udržuje rovnováhu mezi zájmy státu na jeho obranu a právy občanů na soukromí. Pro lepší zabezpečení kritické infrastruktury státu proto doporučujeme širší využívání a vlastní vývoj a výrobu otevřeného software a hardware. Naopak důrazně vystupujeme proti přehnanému šmírování obyvatel ze strany vojenské rozvědky.
 
-https://twitter.com/vonpecka/status/1108291077386190849
+<blockquote class="twitter-tweet" data-lang="en"><p lang="cs" dir="ltr">Výbor pro evropské záležitosti uložil premiérovi na můj a <a href="https://twitter.com/H_Langsadlova?ref_src=twsrc%5Etfw">@H_Langsadlova</a> popud předložit summitu Evropské rady návrh na zřízení fondu pro rozvoj telekomunikační technologie založené na otevřeném software a hardware.</p>&mdash; Mikuláš Peksa (@vonpecka) <a href="https://twitter.com/vonpecka/status/1108291077386190849?ref_src=twsrc%5Etfw">March 20, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 * [Tisková zpráva k vojenské rozvědce](https://www.pirati.cz/tiskove-zpravy/soukromi-obcanu-v-ohrozeni-vojenska-rozvedka.html)
 * [Kontext skandálu Huawei a ZTE](https://www.profant.eu/2019/huawei-zte.html)
@@ -72,37 +72,26 @@ Velká část pozitivních jevů v oblasti digitalizace pochází z EU. Díky n�
 
 Usnesení Výboru pro evropské záležitosti, kterými Piráti podpořili širší využívání otevřených technologií a licencí v EU, posílení kybernetické obrany a dodržování ochrany osobních údajů:
 
-* [Usnesení č. 22 (31. ledna 2018)](https://www.psp.cz/sqw/text/text2.sqw?idd=143950)
-
-* [Usnesení č. 44 (14. března 2018)](https://www.psp.cz/sqw/text/text2.sqw?idd=144581)
-
-* [Usnesení č. 48 (14. března 2018)](https://www.psp.cz/sqw/text/text2.sqw?idd=144584)
-
-* [Usnesení č. 118 (20. června 2018)](https://www.psp.cz/sqw/text/text2.sqw?idd=149346)
-
-https://twitter.com/vonpecka/status/1108291077386190849 
+* [Usnesení č. 22 (31. ledna 2018)](https://www.psp.cz/sqw/text/text2.sqw?idd=143950), které hovoří o certifikaci HW pomocí ENISA.
+* [Usnesení č. 44 (14. března 2018)](https://www.psp.cz/sqw/text/text2.sqw?idd=144581), které hovoří o podpoře děl pod svobodnou licencí a k využívání open-source software a hardware při tvorbě technických norem. Též zdůrazňuje práva daná Listinou základních práv Evropské Unie, především pak právo na soukromí, právo na ochranu osobních údajů.
+* [Usnesení č. 118 (20. června 2018)](https://www.psp.cz/sqw/text/text2.sqw?idd=149346), které vyzývá k zpřístupňování výsledků výzkumu umělé inteligence formou otevřených algoritmů, software, hardware a publikací s otevřeným přístupem;
+{% comment %}* [Usnesení č. 48 (14. března 2018)](https://www.psp.cz/sqw/text/text2.sqw?idd=144584) {% endcomment %}
 
 ### 7. Elektronické podpisy aneb jít příkladem
 
-Státní správa je zkonstnatělá a Poslanecká sněmovna je toho příkladem. Když jsme nastupovali jako noví poslanci, byl problém používat datové schránku. Nyní již chodí pozvánky na jednání pléna Sněmovny skrze datovou schránkou. Za pomoci kancléře se nám podařilo připravit pilotní projekt elektronického podepisování dokumentů. Náš právní řád zná elektronický podpis již dlouho, ale v praxi k jeho využívání příliš nedochází. Proto jsme se rozhodli jít příkladem a na Podvýboru pro egovernment a Podvýboru pro digitalizaci justice a e-Sbírku podepisujeme pozvánky, zápisy a usnesení elektronicky. V souvislosti s tím jsme zařídili, že přímo v Poslanecké sněmovně se poslancům vydávají elektronické podpisy na elektronickou občanku.
+Státní správa je zkonstnatělá a Poslanecká sněmovna je toho příkladem. Když jsme nastupovali jako noví poslanci, byl problém používat datové schránku. Nyní již chodí pozvánky na jednání pléna Sněmovny skrze datovou schránkou. Za pomoci kancléře se nám podařilo připravit pilotní projekt elektronického podepisování dokumentů. Náš právní řád zná elektronický podpis již dlouho, ale v praxi k jeho využívání příliš nedochází. **Proto jsme se rozhodli jít příkladem** a na Podvýboru pro egovernment a Podvýboru pro digitalizaci justice a e-Sbírku podepisujeme pozvánky, zápisy a usnesení elektronicky. V souvislosti s tím jsme zařídili, že přímo v Poslanecké sněmovně se poslancům vydávají elektronické podpisy na elektronickou občanku.
 
 * [Tisková zpráva k používání elektronického podpisu](https://www.pirati.cz/tiskove-zpravy/piratsti-poslanci-zacali-vyuzivat-el-podpis.html)
 
 ### 8. Technické normy
 
-Technické normy jsou pro rozvoj digitalizace důležité. Podařilo se nám dosáhnout sponzorovaného zpřístupnění technické normy k digitální faktuře, kterou budou potřebovat každý autor SW zpracovávající takový doklad. Další technické normy však zůstávají přístupné pouze za poplatek. Proto jsme na sněmovním plénu prosadili doprovodné usnesení, které zaúkolovalo vládu řešením této situace.
+Technické normy jsou pro rozvoj digitalizace důležité. Podařilo se nám dosáhnout sponzorovaného zpřístupnění technické normy k digitální faktuře, kterou budou potřebovat každý autor SW zpracovávající takový doklad. Další technické normy však zůstávají přístupné pouze za poplatek. **Proto jsme na sněmovním plénu prosadili doprovodné usnesení**, které zaúkolovalo vládu řešením této situace.
 
 * [Informace o technických normách a jejich zpřístupnění](https://www.profant.eu/2019/technicke-normy-saga.html)
 
 ### 9. Tvrdá opoziční práce
 
-Hlavním úkolem Pirátů v opozici je především hlídat vládní návrhy a smysluplně je kritizovat a připomínkovat. Tento svůj úkol se snažíme svědomitě plnit, zároveň však nechceme na vládu jen hloupě útočit. Naše kritika musí mít racionální základ a být založena na faktech. V oblasti digitalizaci jsme tímto způsobem přistupovali třeba ke zhodnocení plánu rozvoje českého egovernmentu a jeho plnění. Rovněž jsme se vyjádřili ke strategickému rámci pro chystaný egovernment cloud. Nepolevujeme ani v kritice konkrétních projektů a zakázek, upozornili jsme například na problémy s Národním elektronickým nástrojem, Elektronickou evidencí tržeb, OKsystémem Ministerstva práce a sociálních věcí nebo podezřelou zakázku na nová datová centra Ministerstva vnitra.
-
-* [Jak se rozvíjí egovernment v ČR](https://www.profant.eu/2018/jak-se-rozviji-egov.html)
-* [Egov cloud, část 1](https://www.profant.eu/2018/vlada-v-oblacich.html)
-* [Egov cloud, část 2](https://www.profant.eu/2018/egov-cloud.html)
-* [Zakázka bez soutěže na datová centra vzbuzuje podezření](https://www.pirati.cz/tiskove-zpravy/datova-centra-za-42mil-vzbuzuji-podezreni-rika-profant.html)
-* [Otevřený dopis Pirátů upozorňuje na předražené IT systémy MPSV](https://www.pirati.cz/tiskove-zpravy/otevreny-dopis-piratu-predrazene-it-v-mpsv.html)
+Hlavním úkolem Pirátů v opozici je především hlídat vládní návrhy a smysluplně je kritizovat a připomínkovat. Tento svůj úkol se snažíme svědomitě plnit, zároveň však nechceme na vládu jen hloupě útočit. Naše kritika musí mít racionální základ a být založena na faktech. V oblasti digitalizaci jsme tímto způsobem přistupovali třeba ke zhodnocení plánu [rozvoje českého egovernmentu](https://www.profant.eu/2018/jak-se-rozviji-egov.html) a jeho plnění. Rovněž jsme se vyjádřili ke strategickému rámci pro chystaný egovernment cloud ([1. část](https://www.profant.eu/2018/vlada-v-oblacich.html), [2. část](https://www.profant.eu/2018/egov-cloud.html)). Nepolevujeme ani v kritice konkrétních projektů a zakázek, upozornili jsme například na problémy s Národním elektronickým nástrojem, Elektronickou evidencí tržeb, [OKsystémem Ministerstva práce a sociálních věcí](https://www.pirati.cz/tiskove-zpravy/otevreny-dopis-piratu-predrazene-it-v-mpsv.html) nebo [podezřelou zakázku na nová datová centra Ministerstva vnitra](https://www.pirati.cz/tiskove-zpravy/datova-centra-za-42mil-vzbuzuji-podezreni-rika-profant.html).
 
 Piráti se snaží o inovativní přístup k informační politice státu, chceme českou digitalizaci dostat na úroveň odpovídající novému miléniu. Narážíme však často na nepochopení a praktiky obvyklé ještě v minulém století. I v následujících letech nás proto čeká těžký boj za to, aby moderní technologie občanům život opravdu usnadňovaly, nikoliv ztěžovaly a přinášely nové povinnosti.
 
