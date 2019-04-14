@@ -44,7 +44,7 @@ Novelu zákona najdete ve sněmovním systému jako [tisk 446](http://www.psp.cz
 * [Vyzkoušjte si jak snadné je založit firmu přes internet!](https://urad.pirati.cz)
 * [Informace o návrhu zákona](https://www.profant.eu/2019/firma-za-1-den.html)
 
-### 3. Zákon o digitální služběk Zlesák
+### 3. Zákon o digitální službě
 
 Návrh zákona, který vznikl ve spolupráci s ICT Unií a Piráti na jeho přípravě pracovali i s dalšími politickými subjekty. V oblasti digitalizace se jedná skutečně o přelomový zákon, který přináší právo občana na komunikaci s úřady elektronicky. V průběhu příprav zákona se nám podařilo vyjednat memorandum o jeho podpoře od všech subjektů. Schválení návrhu zákona očekáváme ještě tento rok.
 
@@ -64,11 +64,11 @@ V oblasti kybernetické bezpečnosti a obrany se snažíme prosazovat racionáln
 
 ### 5. Opendata
 
-Otevřená data jsou podstatným dílkem do celkové mozaiky digitální transformace. Publikace opendat je zároveň téměř vždy správným a většinou relativně jednoduchým krokem. Snažíme se proto pracovat i na nových opendatech Poslanecké sněmovny, neboť ta stará jsou nevyhovující a pokrývají jen část podstatných informací. Dále připravujeme otevřená data v oblasti zemědělských dotací a data se rovněž snažíme zveřejňovat na úřadech, kde mají Piráti své zastupitele.
+Otevřená data jsou podstatným dílkem do celkové mozaiky digitální transformace. Publikace opendat je zároveň téměř vždy správným a většinou relativně jednoduchým krokem. Jak jsem ukázal například na [opendata.praha.eu](http://opendata.praha.eu/). Snažíme se proto pracovat i na nových opendatech Poslanecké sněmovny, neboť ta stará jsou nevyhovující a pokrývají jen část podstatných informací. Dále připravujeme otevřená data v oblasti zemědělských dotací a data se rovněž snažíme zveřejňovat na úřadech, kde mají Piráti své zastupitele.
 
 ### 6. Připomínkování a zavádění evropské legislativy
 
-Velká část pozitivních jevů v oblasti digitalizace pochází z EU. Díky ní máme například jednotnou identitu, podpisové certifikáty (oboje obsažené v nařízení EIDAS), posilují se práva občana rozhodovat o jeho osobních údajích (GDPR), vznikají kvalitní pravidla pro přístupnost webových stránek a mobilních aplikací. Piráti se snaží o rozumné, vyvážené a citlivé zavádění evropské legislativy do českého právního řádu. Zároveň se snažíme působit i v opačném směru a předáváme smysluplné podněty Evropské komisi (jako je třeba výzva k širšímu využívání open source software a hardware).
+Velká část pozitivních jevů v oblasti digitalizace pochází z EU. Díky ní máme například jednotnou identitu, podpisové certifikáty (oboje obsažené v nařízení EIDAS), posilují se práva občana rozhodovat o jeho osobních údajích ([GDPR](https://www.profant.eu/2019/prinos-gdpr.html)), vznikají kvalitní pravidla pro přístupnost webových stránek a mobilních aplikací. Piráti se snaží o rozumné, vyvážené a citlivé zavádění evropské legislativy do českého právního řádu. Zároveň se snažíme působit i v opačném směru a předáváme smysluplné podněty Evropské komisi (jako je třeba **výzva k širšímu využívání open source software a hardware**).
 
 Usnesení Výboru pro evropské záležitosti, kterými Piráti podpořili širší využívání otevřených technologií a licencí v EU, posílení kybernetické obrany a dodržování ochrany osobních údajů:
 
@@ -79,7 +79,7 @@ Usnesení Výboru pro evropské záležitosti, kterými Piráti podpořili šir�
 
 ### 7. Elektronické podpisy aneb jít příkladem
 
-Státní správa je zkonstnatělá a Poslanecká sněmovna je toho příkladem. Když jsme nastupovali jako noví poslanci, byl problém používat datové schránku. Nyní již chodí pozvánky na jednání pléna Sněmovny skrze datovou schránkou. Za pomoci kancléře se nám podařilo připravit pilotní projekt elektronického podepisování dokumentů. Náš právní řád zná elektronický podpis již dlouho, ale v praxi k jeho využívání příliš nedochází. **Proto jsme se rozhodli jít příkladem** a na Podvýboru pro egovernment a Podvýboru pro digitalizaci justice a e-Sbírku podepisujeme pozvánky, zápisy a usnesení elektronicky. V souvislosti s tím jsme zařídili, že přímo v Poslanecké sněmovně se poslancům vydávají elektronické podpisy na elektronickou občanku.
+Státní správa je zkonstnatělá a Poslanecká sněmovna je toho příkladem. Když jsme nastupovali jako noví poslanci, byl problém komunikovat se sněmovnou pomocí datové schránky. Nyní již chodí pozvánky na jednání pléna Sněmovny skrze datovou schránkou. Za pomoci kancléře se nám podařilo připravit pilotní projekt elektronického podepisování dokumentů. Náš právní řád zná elektronický podpis již dlouho, ale v praxi k jeho využívání příliš nedochází. **Proto jsme se rozhodli jít příkladem** a na Podvýboru pro egovernment a Podvýboru pro digitalizaci justice a e-Sbírku podepisujeme pozvánky, zápisy a usnesení elektronicky. V souvislosti s tím jsme zařídili, že přímo v Poslanecké sněmovně se poslancům vydávají elektronické podpisy na elektronickou občanku.
 
 * [Tisková zpráva k používání elektronického podpisu](https://www.pirati.cz/tiskove-zpravy/piratsti-poslanci-zacali-vyuzivat-el-podpis.html)
 
@@ -95,3 +95,4 @@ Hlavním úkolem Pirátů v opozici je především hlídat vládní návrhy a s
 
 Piráti se snaží o inovativní přístup k informační politice státu, chceme českou digitalizaci dostat na úroveň odpovídající novému miléniu. Narážíme však často na nepochopení a praktiky obvyklé ještě v minulém století. I v následujících letech nás proto čeká těžký boj za to, aby moderní technologie občanům život opravdu usnadňovaly, nikoliv ztěžovaly a přinášely nové povinnosti.
 
+Další informace o naší práci můžete najít a filtrovat na webu [piratipracuji.cz](https://piratipracuji.cz).
