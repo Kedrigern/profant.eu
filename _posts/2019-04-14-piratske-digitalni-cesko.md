@@ -5,7 +5,7 @@ date:       2019-04-14 12:00:00 +0100
 categories: Digitalizace
 comments:   true
 tags:       [Piráti, sněmovna, digitalizace, egovernment]
-img:        digitalizace-transformace.jpg
+img:        piratske-digitalni-cesko.jpg
 author:     Ondřej Profant
 ---
 
