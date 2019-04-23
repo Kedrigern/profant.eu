@@ -1,0 +1,25 @@
+---
+layout: content-page
+title:  "Interpelace"
+permalink: "interpelace/"
+---
+
+{% assign interpelace = site.data.interpelace %}
+
+<p>Úvodní text</p>
+
+	<table>
+	<thead>
+		<tr>
+			<th>Datum odeslání</th><th>Datum přijetí odpovědi</th><th>Název</th><th>Popis</th><th>Odpoveď</th>
+		</tr>
+	</thead>
+	<tbody>
+		{% for a in interpelace %}
+		<tr>
+
+		</tr>
+		{% endfor %}
+	</tbody>
+</table>
+
