@@ -45,6 +45,8 @@ Pro lepší seznámení se s návrhem jsme v říjnu uspořádali odborný semin
 
 **Náš návrh vychází z jasné identifikace problému a návrhu ideologicky nezbarveného řešení, které je naprosto smysluplné, protože odráží reálné potřeby občanů.** Přesně tak si já osobně představuji legislativní práci a věřím, že se Pirátům tento produktivní přístup bude dařit i v naší další práci.
 
+Aktualizace: 29. 4. dala Vláda tomuto návrhu neutrální stanovisko.
+
 ### Odkazy
 
 * [Návrh zákona]({{ '/assets/pdf/Firma-za-1-den.pdf' | relative_url }})
