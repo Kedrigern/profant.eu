@@ -45,11 +45,11 @@ Pro lepší seznámení se s návrhem jsme v říjnu uspořádali odborný semin
 
 **Náš návrh vychází z jasné identifikace problému a návrhu ideologicky nezbarveného řešení, které je naprosto smysluplné, protože odráží reálné potřeby občanů.** Přesně tak si já osobně představuji legislativní práci a věřím, že se Pirátům tento produktivní přístup bude dařit i v naší další práci.
 
-Aktualizace: 29. 4. dala Vláda tomuto návrhu neutrální stanovisko.
+Aktualizace: 29. 4. dala Vláda tomuto návrhu ([ST 446](http://www.psp.cz/sqw/historie.sqw?o=8&T=446)) **neutrální stanovisko**.
 
 ### Odkazy
 
-* [Návrh zákona]({{ '/assets/pdf/Firma-za-1-den.pdf' | relative_url }})
+* [Návrh zákona](http://www.psp.cz/sqw/tisky.sqw?O=8&T=446)
 * [Založit firmu půjde za jeden den a online. Piráti připravili potřebnou legislativu ](https://www.pirati.cz/tiskove-zpravy/firmu-pujde-zalozit-za-jeden-den.html)
 * [Piráti mají legislativu, která umožní založit firmu za jediný den](https://www.piratskelisty.cz/clanek-2286-pirati-maji-legislativu-ktera-umozni-zalozit-firmu-za-jediny-den)
 * [Hodnocení Světové banky](http://www.doingbusiness.org/en/rankings)
