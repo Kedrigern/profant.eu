@@ -1,22 +1,24 @@
 ---
 layout: page
-title:  "Transparentnost"
+title: "Otevřenost"
 permalink: "transparentnost/"
 ---
 
 <div class="row content-block">
   <div class="small-12 medium-6 columns">
-    <h3>Hlasování</h3>
-	<p>
+    <h3>Poslanecká sněmovna</h3>
+    <p>
       <ul>
-        <li><a href="http://www.psp.cz/sqw/hlasovani.sqw?id=6526">Poslanecké sněmovně Parlamentu</a>
-		<ul>
-			<li>zdůvodnění klíčových hlasování v <a href="https://www.profant.eu/kategorie#report">reportech</a></li>
-		</ul>
-</li>
-        <li><a href="http://www.praha.eu/jnp/cz/o_meste/primator_a_volene_organy/zastupitelstvo/vysledky_hlasovani/index.html?memberId=4929">Zastupitelstvu Hl. m. Prahy</a></li>
+        <li><a href="http://www.psp.cz/sqw/hlasovani.sqw?id=6526">Hlasování v Poslanecké sněmovně Parlamentu ČR</a>
+          <ul>
+            <li>zdůvodnění klíčových hlasování v <a href="https://www.profant.eu/kategorie#report">reportech</a></li>
+          </ul>
+        </li>
+        <li><a href="https://www.profant.eu/interpelace/">Písemné a ústní interpelace</a></li>
+        <li><a href="http://www.psp.cz/eknih/2017ps/rejstrik/jmenny/6526.html">Výstupy na schůzích Poslanecké sněmovny</a></li>
+
       </ul>
-	</p>
+    </p>
   </div>
 
   <div class="small-12 medium-6 columns">
@@ -28,20 +30,22 @@ permalink: "transparentnost/"
         <li><a href="https://evidence.pirati.cz/author/8/">Evidence lobbistických kontaktů</a> - s kým se při své politické činnosti scházím já a další představitelé strany</li>
       </ul>
     </p>
+
   </div>
 
   <div class="small-12 medium-6 columns">
     <h3>Zastupitelstvo hl. m. Prahy</h3>
+    <li><a href="http://www.praha.eu/jnp/cz/o_meste/primator_a_volene_organy/zastupitelstvo/vysledky_hlasovani/index.html?memberId=4929">Hlasování v Zastupitelstvu Hl. m. Prahy</a></li>
     <p>
-    Výroční zprávy klubu Pirátů v Zastupitelstvu hlavního města Prahy:
-    <a href="https://github.com/pirati-cz/KlubPraha/blob/master/materialy/vyrocni-zprava/vyrocni-zprava.pdf">2015</a>,
-    <a href="https://github.com/pirati-cz/KlubPraha/blob/master/materialy/vyrocni-zprava-2016/vyrocni-zprava-2016.pdf">2016</a>, ve kterých najdete, na čem jsme pracovali a jakou odměnu jsme za práci obdrželi. Další informace jsou na webu <a href="https://praha.pirati.cz/aktuality/">Pirátů v Praze</a>.
+      Výroční zprávy klubu Pirátů v Zastupitelstvu hlavního města Prahy:
+      <a href="https://github.com/pirati-cz/KlubPraha/blob/master/materialy/vyrocni-zprava/vyrocni-zprava.pdf">2015</a>,
+      <a href="https://github.com/pirati-cz/KlubPraha/blob/master/materialy/vyrocni-zprava-2016/vyrocni-zprava-2016.pdf">2016</a>, ve kterých najdete, na čem jsme pracovali a jakou odměnu jsme za práci obdrželi. Další informace jsou na webu <a href="https://praha.pirati.cz/aktuality/">Pirátů v Praze</a>.
     </p>
   </div>
 
   <div class="small-12 medium-6 columns">
     <h3>Majetkové přiznání</h3>
-    <p>Majetkové přiznání dle zákona <a href="https://www.zakonyprolidi.cz/cs/2006-159">č. 159/2006 Sb.</a> o střetu zájmů <a href="https://cro.justice.cz/verejnost/funkcionari/form/605352ba-64c3-494a-8ac9-c06ef05544cf">naleznete na webu Ministertsva spravedlnosti</a>.
+    <p>Majetkové přiznání dle zákona <a href="https://www.zakonyprolidi.cz/cs/2006-159">č. 159/2006 Sb.</a> o střetu zájmů <a href="https://cro.justice.cz/verejnost/funkcionari/form/605352ba-64c3-494a-8ac9-c06ef05544cf">naleznete na webu Ministerstva spravedlnosti</a>.
     </p>
   </div>
 </div>
@@ -52,6 +56,7 @@ permalink: "transparentnost/"
   <div class="small-12 columns">
     <h2>Veřejný kalendář</h2>
 
-<iframe src="https://calendar.google.com/calendar/embed?showTitle=0&amp;showPrint=0&amp;showCalendars=0&amp;showTz=0&amp;mode=WEEK&amp;height=600&amp;wkst=2&amp;hl=cs&amp;bgcolor=%23FFFFFF&amp;src=re22cium9203etd7jv7crbf7ck%40group.calendar.google.com&amp;color=%231B887A&amp;ctz=Europe%2FPrague" style="border-width:0" width="100%" height="600" frameborder="0" scrolling="no"></iframe>
+    <iframe src="https://calendar.google.com/calendar/embed?showTitle=0&amp;showPrint=0&amp;showCalendars=0&amp;showTz=0&amp;mode=WEEK&amp;height=600&amp;wkst=2&amp;hl=cs&amp;bgcolor=%23FFFFFF&amp;src=re22cium9203etd7jv7crbf7ck%40group.calendar.google.com&amp;color=%231B887A&amp;ctz=Europe%2FPrague"
+      style="border-width:0" width="100%" height="600" frameborder="0" scrolling="no"></iframe>
   </div>
 </div>

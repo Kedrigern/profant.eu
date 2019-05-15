@@ -4,22 +4,29 @@ title:  "Interpelace"
 permalink: "interpelace/"
 ---
 
-{% assign interpelace = site.data.interpelace %}
+{% assign interpelace = site.data.interpelace | sort: 'odeslani' | reverse  %}
 
-<p>Úvodní text</p>
+<p>Písemné a ústní interpelace poslance Ondřeje Profanta. V tabulce je <b>{{interpelace |size}} interpelací</b>:</p>
 
 	<table>
 	<thead>
 		<tr>
-			<th>Datum odeslání</th><th>Datum přijetí odpovědi</th><th>Název</th><th>Popis</th><th>Odpoveď</th>
+			<th>Datum odeslání</th><th>Datum přijetí odpovědi</th><th>Interpelace</th><th>Popis</th><th>Odpověď</th><th>Přílohy</th>
 		</tr>
 	</thead>
 	<tbody>
 		{% for a in interpelace %}
-		<tr>
-
-		</tr>
-		{% endfor %}
+			<tr>
+				<td>{{a.odeslani | date:"%d.%m.%y"}}</td>
+				<td>{{a.prijeti | date:"%d.%m.%y"}}</td>
+				<td><b><a href="{{a.url_dotaz}}">{{a.nazev}}</a></b></td>
+				<td>{{a.popis}}</td>
+				<td><a href="{{a.url_odpoved}}">{{a.odpoved}}</a></td>
+				<td>{% for p in a.prilohy %}
+					<a href="{{p.url}}">[{{p.label}}]</a>
+				{% endfor %}
+			</td>
+			</tr>
+			{% endfor %}
 	</tbody>
 </table>
-
