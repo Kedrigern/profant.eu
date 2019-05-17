@@ -129,7 +129,6 @@ První ročník konference Veřejná správa prakticky proběhl 26. února. Konf
 Společně s Olgou Richterovou a Lukášem Wagenknechtem jsme se 1. března zúčastnili setkání s generálním ředitelem pro regionální a městskou politiku Evropské komise Marcem Lemaîtrem.
 
 * [FB post Olgy Richterové](https://www.facebook.com/olga.richterova/posts/10217940319157362?__tn__=-R)
-
 * [FB post Lukáše Wagenknechta](https://www.facebook.com/WagenknechtLuk/posts/1096174963909059?__tn__=-R)
 
 **Installfest**
@@ -138,7 +137,7 @@ Jako účastník jsem 2. března zavítal na letošní [Installfest](https://ins
 
 **Open Data Expo**
 
-Další konference, na kterou jsem v březnu zavítal, bylo [Open Data Expo]((https://opendataexpo.osf.cz/) pořádané nadací OSF. Na konferenci jsem vystoupil za spolek Otevřená města.
+Další konference, na kterou jsem v březnu zavítal, bylo [Open Data Expo](https://opendataexpo.osf.cz/) pořádané nadací OSF. Na konferenci jsem vystoupil za spolek Otevřená města.
 
 **Široká podpora zákona o právu na digitální službu**
 
@@ -150,28 +149,25 @@ Zákon o právu na digitální službu podporovalo k 27. březnu 137 poslanců z
 
 V souvislosti s chystanými legislativními změnami v pravomocích Vojenského zpravodajství jsem se 28. března zúčastnil schůzky s ředitelem Vojenského zpravodajství Janem Berounem. Největší riziko chystaných změn spočívá v zavádění technických prostředků určených k plošnému sledování komunikací.
 
-(https://www.pirati.cz/tiskove-zpravy/soukromi-obcanu-v-ohrozeni-vojenska-rozvedka.html)
+* [Tisková zpráva](https://www.pirati.cz/tiskove-zpravy/soukromi-obcanu-v-ohrozeni-vojenska-rozvedka.html)
 
 **Piratecon Kultura v digitální éře**
 
 Na pirátské konferenci k oblasti kultury jsem vystoupil se svým příspěvkem o proměně způsobu produkce a konzumace kulturního bohatství a vědeckého poznání v moderní době.
 
-(https://www.piratskelisty.cz/clanek-2343-ohlednuti-piratecon-na-tema-kultura-v-digitalni-ere?do=komentuj)
+* [článek na Pirátských listech](https://www.piratskelisty.cz/clanek-2343-ohlednuti-piratecon-na-tema-kultura-v-digitalni-ere?do=komentuj)
 
 **Rozhovor pro Flowee**
 
 V rozhovoru pro nové médium Flowee jsem shrnul předpoklady pro úspěšnou digitalizaci veřejné správy a vysvětloval principy obsaženém v pirátském Akčním plánu.
 
-(https://www.flowee.cz/floweecity/praha/6239-ondrej-profant-pokud-mesto-neotevre-data-tak-jako-smart-fungovat-nemuze)
+* [Článek na Flowee.cz](https://www.flowee.cz/floweecity/praha/6239-ondrej-profant-pokud-mesto-neotevre-data-tak-jako-smart-fungovat-nemuze)
 
 **Sněmovna**
 
 V březnu jsme ve Sněmovně jednali o několika bodech, které Piráti už v minulosti řešili:
 
-* 6. 3. Sněmovnou prošel ve třetím čtení návrh na povolení až 0,5 promile alkoholu pro vodáky. V rámci bodu se také podařilo prosadit, že Berounka nebude považována za významnou dopravní cestu. [FB post](https://www.facebook.com/ondrej.profant/posts/10213785743984508), [Hlasování](http://www.psp.cz/sqw/hlasy.sqw?g=69251)
-
-* 8. 3. se nám podařilo protlačit rozšíření registru smluv na firmy typu ČEZ, já osobně jsem byl zpravodajem tohoto náročného tisku. [Tisková zpráva](https://www.pirati.cz/tiskove-zpravy/zasadni-zmena-schvalena-novela-zakona-o-registru-smluv.html)
-
-* 8. 3. Prodejní doba o svátcích je téma, které se pravidelně vrací. Ačkoliv souhlasím s tím, že by zaměstnanci měli být chráněni, zákon je implementován zvláštně. Svátky jsou vybrány v podstatě náhodně a nezakazuje se provádět jiné činnost než prodej. Zákazník tedy neví, kam si o svátcích může jít nakoupit. Proto jsem hlasoval pro zrušení.
-
-* 12. 3. Senát vrátil do Sněmovny zákony zavádějící GDPR do českého právního řádu. Pirátům se ve Sněmovně podařilo prosadit informační příkaz, aby se zlepšila vymahatelnost práva na informace. Ze zákonu ale byly vyškrtnuty pokuty pro veřejnou správu. Takže zatímco občané a podnikatelé budou za porušení povinností GDPR pokutováni, poslanci ANO, ODS, ČSSD, KDU-ČSL a STAN prosadili vrchnostenskou výjimku ze sankcí pro úřady. [Hlasování o zákoně o ochraně osobních údajů](http://www.psp.cz/sqw/hlasy.sqw?g=69366), [Hlasování o doprovodných zákonech](http://www.psp.cz/sqw/hlasy.sqw?g=69364)
+* **6. 3.** Sněmovnou prošel ve třetím čtení návrh na povolení až **0,5 promile alkoholu pro vodáky**. V rámci bodu se také podařilo prosadit, že Berounka nebude považována za významnou dopravní cestu. [FB post](https://www.facebook.com/ondrej.profant/posts/10213785743984508), [Hlasování](http://www.psp.cz/sqw/hlasy.sqw?g=69251)
+* **8. 3.** se nám podařilo protlačit **rozšíření registru smluv** na firmy typu ČEZ, já osobně jsem byl zpravodajem tohoto náročného tisku. [Tisková zpráva](https://www.pirati.cz/tiskove-zpravy/zasadni-zmena-schvalena-novela-zakona-o-registru-smluv.html)
+* **8. 3. Prodejní doba o svátcích** je téma, které se pravidelně vrací. Ačkoliv souhlasím s tím, že by zaměstnanci měli být chráněni, zákon je implementován zvláštně. Svátky jsou vybrány v podstatě náhodně a nezakazuje se provádět jiné činnost než prodej. Zákazník tedy neví, kam si o svátcích může jít nakoupit. Proto jsem hlasoval pro zrušení.
+* **12. 3.** Senát vrátil do Sněmovny **zákony zavádějící GDPR** do českého právního řádu. Pirátům se ve Sněmovně podařilo prosadit informační příkaz, aby se zlepšila vymahatelnost práva na informace. Ze zákonu ale byly vyškrtnuty pokuty pro veřejnou správu. Takže zatímco občané a podnikatelé budou za porušení povinností GDPR pokutováni, poslanci ANO, ODS, ČSSD, KDU-ČSL a STAN prosadili vrchnostenskou výjimku ze sankcí pro úřady. [Hlasování o zákoně o ochraně osobních údajů](http://www.psp.cz/sqw/hlasy.sqw?g=69366), [Hlasování o doprovodných zákonech](http://www.psp.cz/sqw/hlasy.sqw?g=69364)
