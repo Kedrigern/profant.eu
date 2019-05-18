@@ -7,7 +7,6 @@ permalink: "transparentnost/"
 <div class="row content-block">
   <div class="small-12 medium-6 columns">
     <h3>Poslanecká sněmovna</h3>
-    <p>
       <ul>
         <li><a href="http://www.psp.cz/sqw/hlasovani.sqw?id=6526">Hlasování v Poslanecké sněmovně Parlamentu ČR</a>
           <ul>
@@ -16,26 +15,23 @@ permalink: "transparentnost/"
         </li>
         <li><a href="https://www.profant.eu/interpelace/">Písemné a ústní interpelace</a></li>
         <li><a href="http://www.psp.cz/eknih/2017ps/rejstrik/jmenny/6526.html">Výstupy na schůzích Poslanecké sněmovny</a></li>
-
       </ul>
-    </p>
   </div>
 
   <div class="small-12 medium-6 columns">
     <h3>Činnost</h3>
-    <p>
       <ul>
         <li><a href="https://www.profant.eu/medialni-vystupy/">Mediální výstupy</a> z webů Pirátů</li>
         <li><a href="https://forum.pirati.cz/poslanci-f884/report-poslance-ondrej-profant-t39019.html">Měsíční reporty činnosti poslance</a></li>
         <li><a href="https://evidence.pirati.cz/author/8/">Evidence lobbistických kontaktů</a> - s kým se při své politické činnosti scházím já a další představitelé strany</li>
       </ul>
-    </p>
-
   </div>
-
+  
   <div class="small-12 medium-6 columns">
     <h3>Zastupitelstvo hl. m. Prahy</h3>
-    <li><a href="http://www.praha.eu/jnp/cz/o_meste/primator_a_volene_organy/zastupitelstvo/vysledky_hlasovani/index.html?memberId=4929">Hlasování v Zastupitelstvu Hl. m. Prahy</a></li>
+    <ul>
+      <li><a href="http://www.praha.eu/jnp/cz/o_meste/primator_a_volene_organy/zastupitelstvo/vysledky_hlasovani/index.html?memberId=4929">Hlasování v Zastupitelstvu Hl. m. Prahy</a></li>
+    </ul>
     <p>
       Výroční zprávy klubu Pirátů v Zastupitelstvu hlavního města Prahy:
       <a href="https://github.com/pirati-cz/KlubPraha/blob/master/materialy/vyrocni-zprava/vyrocni-zprava.pdf">2015</a>,
