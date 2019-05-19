@@ -15,6 +15,7 @@ permalink: "transparentnost/"
         </li>
         <li><a href="https://www.profant.eu/interpelace/">Písemné a ústní interpelace</a></li>
         <li><a href="http://www.psp.cz/eknih/2017ps/rejstrik/jmenny/6526.html">Výstupy na schůzích Poslanecké sněmovny</a></li>
+        <li><a href="http://www.psp.cz/sqw/detail.sqw?id=6526&o=8">Přehled poslance</a></li>
       </ul>
   </div>
 
@@ -26,7 +27,7 @@ permalink: "transparentnost/"
         <li><a href="https://evidence.pirati.cz/author/8/">Evidence lobbistických kontaktů</a> - s kým se při své politické činnosti scházím já a další představitelé strany</li>
       </ul>
   </div>
-  
+
   <div class="small-12 medium-6 columns">
     <h3>Zastupitelstvo hl. m. Prahy</h3>
     <ul>
