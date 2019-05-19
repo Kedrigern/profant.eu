@@ -55,13 +55,8 @@
   url_odpoved:
   - /assets/pdf/Interpelace-Veleslavin-UZSVM-odpoved.pdf
   prilohy:
-  - label: 1
-    url: /assets/pdf/Interpelace-Veleslavin-UZSVM-odpoved-priloha1-nabidka_MK_a_NPU.pdf
-  - label: 2
-    url: /assets/pdf/Interpelace-Veleslavin-UZSVM-odpoved-priloha1-nabidka_SI.pdf
-  - label: 3
-    url: /assets/pdf/Interpelace-Veleslavin-UZSVM-odpoved-priloha2-dopis_MHMP2017_a_2x_dopis_MC_Praha_6.pdf
-  - label: 4
-    url: /assets/pdf/Interpelace-Veleslavin-UZSVM-odpoved-priloha2-dopis_namestka_primatorky_Dolinka_30_10_2018.pdf
-  - label: 5
-    url: /assets/pdf/Interpelace-Veleslavin-UZSVM-odpoved-priloha3-metodika_MF_k_prevodum_nemovitosti_na_obce_a_kraje_30_4_2018.pdf
+  - /assets/pdf/Interpelace-Veleslavin-UZSVM-odpoved-priloha1-nabidka_MK_a_NPU.pdf
+  - /assets/pdf/Interpelace-Veleslavin-UZSVM-odpoved-priloha1-nabidka_SI.pdf
+  - /assets/pdf/Interpelace-Veleslavin-UZSVM-odpoved-priloha2-dopis_MHMP2017_a_2x_dopis_MC_Praha_6.pdf
+  - /assets/pdf/Interpelace-Veleslavin-UZSVM-odpoved-priloha2-dopis_namestka_primatorky_Dolinka_30_10_2018.pdf
+  - /assets/pdf/Interpelace-Veleslavin-UZSVM-odpoved-priloha3-metodika_MF_k_prevodum_nemovitosti_na_obce_a_kraje_30_4_2018.pdf

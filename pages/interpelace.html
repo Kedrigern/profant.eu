@@ -22,8 +22,10 @@ permalink: "interpelace/"
 				<td><b><a href="{{a.url_dotaz}}">{{a.nazev}}</a></b></td>
 				<td>{{a.popis}}</td>
 				<td><a href="{{a.url_odpoved}}">{{a.odpoved}}</a></td>
+				{% assign count = 0 %}
 				<td>{% for p in a.prilohy %}
-					<a href="{{p.url}}">[{{p.label}}]</a>
+					 {% assign count = count | plus: 1 %}
+					<a href="{{p}}">[{{ count }}]</a>
 				{% endfor %}
 			</td>
 			</tr>
