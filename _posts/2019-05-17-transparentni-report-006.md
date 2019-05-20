@@ -9,7 +9,7 @@ img:        report006.png
 author:     Ondřej Profant
 ---
 
-Souhrnný report mé činnosti v období leden až březen 2019. Nejčerstvější informace o mých aktivitách naleznete na mých profilech na sociálních sítích a zde na blogu v sekci [Transparentnost](https://www.profant.eu/transparentnost/).
+Souhrnný report mé činnosti v období leden až březen 2019. Nejčerstvější informace o mých aktivitách naleznete na mých profilech na sociálních sítích a zde na blogu v sekci [Otevřenost](https://www.profant.eu/transparentnost/).
 
 <!--more-->
 
@@ -98,7 +98,7 @@ Jako další neformální příležitost, jak se mohu s občany potkat, jsem za�
 
 **Ceny Velkého bratra**
 
-Zúčastnil jsem se předávání Cen Velkého bratra a následné afterparty. Tyto anticeny každoročně uděluje Iuridicum Remedium největším slídilům v několika kategoriích. 
+Zúčastnil jsem se předávání Cen Velkého bratra a následné afterparty. Tyto anticeny každoročně uděluje Iuridicum Remedium největším slídilům v několika kategoriích.
 
 * [Tisková zpráva](https://bigbrotherawards.cz/vitezove-cen-velkeho-bratra-za-rok-2018/)
 * [Článek na Aktuálně.cz](https://zpravy.aktualne.cz/ekonomika/nejvetsi-cmuchalove-v-cesku-facebook-financni-sprava-vysavac/r~0b5aa4ac2fa711e99d3cac1f6b220ee8/)
