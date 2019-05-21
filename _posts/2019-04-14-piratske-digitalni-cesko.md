@@ -34,12 +34,15 @@ Jedná se o doplňující návod k [vládní koncepci Digitální Česko](https:
 
 * [Akční plán verze 1 ke stažení](https://www.profant.eu/assets/pdf/akcni-plan-opensource-v1.pdf)
 * [Akční plán verze 2 (po připomínkách RVIS) ke stažení](https://www.profant.eu/assets/pdf/akcni-plan-opensource-v2.pdf)
+* [Akční plán verze 3]()
 
 ### 2. Firma za jeden den
 
 Firma za jeden den je projekt zaměřený na usnadnění práce českých podnikatelů a snížení jejich administrativní zátěže při zakládání firmy nebo živnosti. Naším cílem je výrazné zjednodušení procesu založení firmy prostřednictvím webových technologií, které podnikateli umožní veškerou administrativu vyřídit pohodlně přes vzdálený přístup. Pro návrh jsme získali podporu od ostatních stran zastoupených ve Sněmovně a doprovodili jsme ho zjednodušenou demoverzí, kterou jsme sami vyvinuli.
 
 Novelu zákona najdete ve sněmovním systému jako [tisk 446](http://www.psp.cz/sqw/historie.sqw?o=8&T=446), podepsalo 80 poslanců, zastoupeny jsou Piráti, ODS, ANO, SPD, ČSSD, STAN, TOP09, KDU-ČSL.
+
+Aktualizace: [Vláda dala návrhu neutrální stanovisko](https://www.pirati.cz/tiskove-zpravy/firma-za-jeden-den-neutralni-stanovisko-vlady.html).
 
 * [Vyzkoušjte si jak snadné je založit firmu přes internet!](https://urad.pirati.cz)
 * [Informace o návrhu zákona](https://www.profant.eu/2019/firma-za-1-den.html)
@@ -50,17 +53,20 @@ Návrh zákona, který vznikl ve spolupráci s ICT Unií a Piráti na jeho pří
 
 Zákon najdete ve sněmovním systému jako [tisk 447](http://www.psp.cz/sqw/historie.sqw?o=8&T=447), podepsalo 133 poslanců.
 
+Aktualizace: [Vláda dala návrhu pozitivní stanovisko](https://www.pirati.cz/tiskove-zpravy/garance-digitalni-sluzby-zakon-prosel-vladou.html).
+
 * [Tisková zpráva k návrhu zákona](https://www.pirati.cz/tiskove-zpravy/zakon-o-elektronicke-komunikaci-se-statem-pripraven.html)
 
 ### 4. Kyberbezpečnost a kyberobrana
 
 V oblasti kybernetické bezpečnosti a obrany se snažíme prosazovat racionální přístup, který udržuje rovnováhu mezi zájmy státu na jeho obranu a právy občanů na soukromí. Pro lepší zabezpečení kritické infrastruktury státu proto **doporučujeme širší využívání a vlastní vývoj a výrobu otevřeného software a hardware**. Naopak důrazně vystupujeme proti přehnanému šmírování obyvatel ze strany vojenské rozvědky.
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="cs" dir="ltr">Výbor pro evropské záležitosti uložil premiérovi na můj a <a href="https://twitter.com/H_Langsadlova?ref_src=twsrc%5Etfw">@H_Langsadlova</a> popud předložit summitu Evropské rady návrh na zřízení fondu pro rozvoj telekomunikační technologie založené na otevřeném software a hardware.</p>&mdash; Mikuláš Peksa (@vonpecka) <a href="https://twitter.com/vonpecka/status/1108291077386190849?ref_src=twsrc%5Etfw">March 20, 2019</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 * [Tisková zpráva k vojenské rozvědce](https://www.pirati.cz/tiskove-zpravy/soukromi-obcanu-v-ohrozeni-vojenska-rozvedka.html)
 * [Kontext skandálu Huawei a ZTE](https://www.profant.eu/2019/huawei-zte.html)
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="cs" dir="ltr">Výbor pro evropské záležitosti uložil premiérovi na můj a <a href="https://twitter.com/H_Langsadlova?ref_src=twsrc%5Etfw">@H_Langsadlova</a> popud předložit summitu Evropské rady návrh na zřízení fondu pro rozvoj telekomunikační technologie založené na otevřeném software a hardware.</p>&mdash; Mikuláš Peksa (@vonpecka) <a href="https://twitter.com/vonpecka/status/1108291077386190849?ref_src=twsrc%5Etfw">March 20, 2019</a></blockquote>
+
+<blockquote class="twitter-tweet"><p lang="cs" dir="ltr">Kauza Huawei pokračuje a postoj Pirátů se nemění. Je třeba mít stejná pravidla pro všechny. Otevřenost musí být standardem a pak se budeme moci rozhodovat na základě faktů, nikoliv dojmů.</p>&mdash; Ondřej Profant (@ondrej_profant) <a href="https://twitter.com/ondrej_profant/status/1130421869549629441?ref_src=twsrc%5Etfw">May 20, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### 5. Opendata
 

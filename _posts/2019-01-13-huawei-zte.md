@@ -63,7 +63,11 @@ To by se v souladu s varováním NÚKIB týkalo především kritické infrastru
 
 ### Závěr
 
-Situace rozhodně není jednoduchá. Západní svět velmi dlouho technologicky dominoval a teď je překvapen. Nicméně tato krize představuje pro Evropu šanci, jak se můžeme oprostit od zažitých postupů 20. století a technologicky se posunout dál. Neexistují žádná rychlá a okamžitá řešení, je to spíš otázka dlouhodobé strategie, na které je třeba mezinárodně spolupracovat. 
+Situace rozhodně není jednoduchá. Západní svět velmi dlouho technologicky dominoval a teď je překvapen. Nicméně tato krize představuje pro Evropu šanci, jak se můžeme oprostit od zažitých postupů 20. století a technologicky se posunout dál. Neexistují žádná rychlá a okamžitá řešení, je to spíš otázka dlouhodobé strategie, na které je třeba mezinárodně spolupracovat.
+
+Řešení založené na [open hardware](https://www.profant.eu/2019/otevreny-hardware.html) jsem popsal v minulém článku.
+
+<blockquote class="twitter-tweet"><p lang="cs" dir="ltr">Kauza Huawei pokračuje a postoj Pirátů se nemění. Je třeba mít stejná pravidla pro všechny. Otevřenost musí být standardem a pak se budeme moci rozhodovat na základě faktů, nikoliv dojmů.</p>&mdash; Ondřej Profant (@ondrej_profant) <a href="https://twitter.com/ondrej_profant/status/1130421869549629441?ref_src=twsrc%5Etfw">May 20, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
