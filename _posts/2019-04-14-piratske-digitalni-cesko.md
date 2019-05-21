@@ -27,14 +27,13 @@ Náš program pro českou [informatiku](https://www.pirati.cz/program/psp2017/in
 
 Je jasné, že pro většinu obyvatel je práce na digitalizaci státu a na zlepšení jeho informačního zázemí převážně nepodstatná a neviditelná, ačkoliv se jich častokrát bezprostředně dotýká, aniž by si to uvědomovali. Rozvoj digitalizace státu je však nesmírně důležitý, zkusím proto shrnout nejdůležitější projekty a činnosti, kterými se jako Piráti snažíme dovést ČR k modernímu a aktuálnímu pojetí digitalizace.
 
-
 ### 1. Akční plán boje proti vendor lock-in a podpory open source software
 
 Jedná se o doplňující návod k [vládní koncepci Digitální Česko](https://www.pirati.cz/tiskove-zpravy/vladni-zmocnenec-pro-IT-potvrdil-roli-piratu-v-rvis.html). V [Akčním plánu se zabýváme](https://www.pirati.cz/tiskove-zpravy/akcni-plan-piratu-digitalizace-otevreny-software.html) dvěma hlavními tématy. Prvním je problém vendor lock-in (uzamčení k jednomu dodavateli), ke kterému přinášíme právní analýzy smluv, metodiku řešení veřejných zakázek a další doporučení. Druhá část je věnována způsobům, jak se dá negativnímu efektu vendor lock-in předcházet za pomoci open source software. V dokumentu popisujeme, jak lze pomocí open source systémů zlepšit svou infrastrukturu a ještě ušetřit nemalé finanční prostředky na základě mnoha případů v ČR i zahraničí.
 
 * [Akční plán verze 1 ke stažení](https://www.profant.eu/assets/pdf/akcni-plan-opensource-v1.pdf)
 * [Akční plán verze 2 (po připomínkách RVIS) ke stažení](https://www.profant.eu/assets/pdf/akcni-plan-opensource-v2.pdf)
-* [Akční plán verze 3]()
+* [Akční plán verze 3 (po připomínkách vládního zmocněnce) ke stažení](https://www.profant.eu/assets/pdf/akcni-plan-opensource-v3.pdf)
 
 ### 2. Firma za jeden den
 
