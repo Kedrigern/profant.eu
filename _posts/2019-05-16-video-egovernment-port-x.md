@@ -1,5 +1,5 @@
 ---
-layout:     post
+layout:     video
 title:      "Video: Občan má právo podat věc elektronicky"
 date:       2019-05-16 20:00:00 +0100
 categories: digitalizace
@@ -7,6 +7,7 @@ comments:   true
 tags:       [egovernment, digitalizace, informatika, veřejná správa, otevřený software, open data]
 img:        video_egovernment_port_x.png
 author:     Ondřej Profant
+video:      https://www.youtube.com/embed/Kcj6mqjTDcU
 ---
 
 Druhý rozhovor z [Klubu Evropa](https://www.facebook.com/events/290126941922266/) - tentokrát jsme se Zdeňkem Hřibem a Janem Adamcem probírali nejen egovernment, smart cities a vendor lock-in, ale i to, jaký má evropská legislativa vliv na českou praxi v oblasti digitalizace veřejné správy.

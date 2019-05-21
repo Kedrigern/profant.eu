@@ -1,5 +1,5 @@
 ---
-layout:     post
+layout:     video
 title:      "Video: Veřejná správa zaostává v digitalizaci hlavně ve vztahu k občanům"
 date:       2019-05-15 20:00:00 +0100
 categories: digitalizace
@@ -7,6 +7,7 @@ comments:   true
 tags:       [egovernment, digitalizace, informatika, veřejná správa, otevřený software, bezpečnost, otevřený hardware]
 img:        video_digitalizace.png
 author:     Ondřej Profant
+video:      https://www.youtube.com/embed/jdRcsJ2RsaY
 ---
 
 Záznam rozhovoru z [Klubu Evropa](https://www.facebook.com/events/290126941922266/) o digitalizaci veřejné zprávy, vendor lock-inu, bezpečnosti, problémech a pozitivních příkladech.
