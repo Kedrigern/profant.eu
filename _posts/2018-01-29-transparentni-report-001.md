@@ -123,3 +123,7 @@ Další významné akce, kterých jsem se v listopadu zúčastnil mimo Sněmovnu
 - S Lukášem Kolaříkem jsem pracoval na kauze OKsystému na MPSV:
 
 [MPSV roky utrácí za nevyhovující software, upozorňuje Pirát Kolářík.](https://www.pirati.cz/tiskove-zpravy/software-je-nevyhodny.html)
+
+---
+
+[Další report (leden 2018 - březen 2018) >>>](https://www.profant.eu/2018/transparentni-report-002.html)
