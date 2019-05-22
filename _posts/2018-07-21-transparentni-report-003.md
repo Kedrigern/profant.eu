@@ -158,3 +158,5 @@ Proběhlo také hlasování o prověrce pro hradního kancléře, Piráti hlasov
 Zajímavá situace nastala při schvalování fiskální paktu. Ten stanovuje rámec pro rozpočtovou kázeň a koordinaci hospodářských politik členských států EU. ODS společně s SPD tak bojovala proti zastropování dluhu pod záminkou odporu proti euru. Přestože fiskální pakt samotný s přijetím eura nijak nesouvisí.
 
 Hlasovali jsme [proti zamítnutí](http://www.psp.cz/sqw/hlasy.sqw?G=67934) tolerance alkoholu u vodáků, návrh prošel prvním čtením.
+
+[<<< Předchozí report (leden 2018 - březen 2018)](https://www.profant.eu/2018/transparentni-report-002.html) | [Další report (červenec 2018 - září 2018) >>>](https://www.profant.eu/2018/transparentni-report-004.html)
