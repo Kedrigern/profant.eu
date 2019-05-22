@@ -140,4 +140,4 @@ Společně s Mikulášem Ferjenčíkem jsme se vrhli na otevírání a zpřístu
 * 13.12. Proběhlo druhé čtení k církevním restitucím (představení pozměňovacích návrhů). Vláda nepředstavila analýzu, kterou Piráti požadovali. Andrej Babiš tedy opět není jakkoliv schopen prokázat svá dřívější slova o nadhodnocení náhrad.
 * 14.12. Na výboru [agentura pro sport](https://www.facebook.com/ondrej.profant/posts/10213233999351237). V současné podobě se jedná o trafiku. Poslanci výboru odmítli podpořit pirátské návrhy na zvýšení transparence.
 
-[<<<< Předchozí report (červenec 2018 - září 2018)](https://www.profant.eu/2018/transparentni-report-004.html) | [Další report (leden 2019 - březen 2019) >>>>](https://www.profant.eu/2018/transparentni-report-006.html)
+[<<<< Předchozí report (červenec 2018 - září 2018)](https://www.profant.eu/2019/transparentni-report-004.html) | [Další report (leden 2019 - březen 2019) >>>>](https://www.profant.eu/2019/transparentni-report-006.html)

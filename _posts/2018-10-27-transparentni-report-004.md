@@ -104,4 +104,4 @@ Také proběhlo druhé čtení transpozice GDPR do českého právního řádu. 
 
 Opakovaně jsem se též setkal se Zdeňkem Zajíčkem, prezidentem ICT unie, se kterým jsem obvykle řešil připravovaný poslanecký zákon o digitální službě a náš pozměňovací návrh "espis". Občas jsme lehce zabrousili i do pražské politiky. Nicméně jen na velmi odměřené bázi.
 
-[<<<< Předchozí report (duben 2018 - červen 2018)](https://www.profant.eu/2018/transparentni-report-003.html) | [Další report (říjen 2018 - prosinec 2018) >>>>](https://www.profant.eu/2018/transparentni-report-005.html)
+[<<<< Předchozí report (duben 2018 - červen 2018)](https://www.profant.eu/2018/transparentni-report-003.html) | [Další report (říjen 2018 - prosinec 2018) >>>>](https://www.profant.eu/2019/transparentni-report-005.html)
