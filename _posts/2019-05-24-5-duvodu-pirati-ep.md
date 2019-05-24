@@ -22,7 +22,7 @@ Našich [20 priorit pro Evropský parlament](https://evropapotrebuje.cz/program/
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_18spO1PcLA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-h
+
 ### Kandidáti
 
 Můžete mít sebelepší program, ale pokud ho neplníte, tak je to k ničemu. Tohle je podle mě jeden z největších problémů české politiky. Důvěryhodnost kandidátů je mizivá a následně jsou z toho všichni zklamaní. Ale první pětka Pirátů je skvělá!
