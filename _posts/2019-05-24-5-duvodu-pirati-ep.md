@@ -15,7 +15,7 @@ Dnes tu opět máme svátek demokracie - volby. Prosím, jděte k volbám i vy. 
 
 ### Program
 
-Našich [20 priorit pro Evropský parlament](https://evropapotrebuje.cz/program/) je stručných a jasně říkají, co chceme dělat. Nemám rád všeobsáhlé texty, které čtenáři neprozradí ty skutečné cíle a záměry. Ve sněmovně z našich předvolebních priorit máme úkoly na stranickém [redmine](https://redmine.pirati.cz/projects/snemovna) a makáme na nich. Plnění našich úkolů si tak kdokoliv může zkontrolovat online. To není náhoda, to je o přístupu k věci.
+Našich [20 priorit pro Evropský parlament](https://evropapotrebuje.cz/program/) je stručných a jasně říkají, co chceme dělat. Nemám rád všeobsáhlé texty, které čtenáři neprozradí ty skutečné cíle a záměry. Ve sněmovně z našich předvolebních priorit máme úkoly na stranickém [redmine](https://redmine.pirati.cz/projects/snemovna/issues?query_id=75) a makáme na nich. Plnění našich úkolů si tak kdokoliv může zkontrolovat online. To není náhoda, to je o přístupu k věci.
 
 [Společný evropský program](https://evropapotrebuje.cz/program/spolecny-eu-pirati/) je již o poznání podrobnější. A pozor! Podepsalo ho celkem 13 pirátských stran napříč Evropou. Evropa je o spolupráci.
 
