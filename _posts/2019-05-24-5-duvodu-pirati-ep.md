@@ -19,6 +19,10 @@ Našich [20 priorit pro Evropský parlament](https://evropapotrebuje.cz/program/
 
 [Společný evropský program](https://evropapotrebuje.cz/program/spolecny-eu-pirati/) je již o poznání podrobnější. A pozor! Podepsalo ho celkem 13 pirátských stran napříč Evropou. Evropa je o spolupráci.
 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_18spO1PcLA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+h
 ### Kandidáti
 
 Můžete mít sebelepší program, ale pokud ho neplníte, tak je to k ničemu. Tohle je podle mě jeden z největších problémů české politiky. Důvěryhodnost kandidátů je mizivá a následně jsou z toho všichni zklamaní. Ale první pětka Pirátů je skvělá!
@@ -47,7 +51,7 @@ Prvních pět kandidátů znám osobně. Marcela již skoro 10 let. Mohl bych o 
 
 ### Elán a bezpředsudečnost
 
-Nekandidujeme s již hotovými vazbami. Nebudeme vstupovat do frakce jenom proto, že to dělali "naši dědečkové", nebudeme se k někomu vtírat, protože nám kdysi v něčem pomohl. Máme čistý stůl a opravdu se můžeme řídit svým svědomím.
+Nekandidujeme s již hotovými vazbami. Nebudeme vstupovat do frakce jenom proto, že to dělali "naši dědečkové", nebudeme se k někomu vtírat, protože nám kdysi v něčem pomohl. Máme čistý stůl a opravdu se můžeme řídit svým svědomím. [Rozhodování o frakci popsala Markéta](https://www.piratskelisty.cz/clanek-2401-pirati-a-frakce-evropskeho-parlamentu-kam-se-chceme-zaradit).
 
 ### Pozitivní kampaň
 
