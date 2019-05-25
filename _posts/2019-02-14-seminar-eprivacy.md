@@ -7,6 +7,7 @@ comments:   true
 tags:       [soukromí, EU]
 img:        seminar-eprivacy.png
 author:     Ondřej Profant
+video:      https://www.youtube.com/embed/p54fDs7KZtc
 ---
 
 V Poslanecké sněmovně jsem 6. února společně s organizací Iuridicum Remedium uspořádal odborný seminář o obsahu a významu nařízení Evropského parlamentu a Rady o respektování soukromého života a ochraně osobních údajů v elektronických komunikacích a o zrušení směrnice 2002/58/ES (nařízení o soukromí a elektronických komunikacích), jinak též známého jako ePrivacy. Záznam semináře a prezentace jednotlivých řečníků si můžete prohlédnout dále v článku.

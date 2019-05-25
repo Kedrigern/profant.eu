@@ -7,6 +7,7 @@ comments:   true
 tags:       [egovernment, digitalizace, osobní údaje, soukromí, gdpr]
 img:        projev-egov.png
 author:     Ondřej Profant
+video:      https://www.youtube.com/embed/4-BvIsv_a_c
 ---
 
 Při příležitosti projednávání žádosti o důvěru vlády z minulého týdne jsem ve svém vystoupení na plénu Poslanecké sněmovny shrnul své výhrady k dosavadnímu přístupu české exekutivy k digitalizaci a egovernmentu. Pro přehlednost jsem své výtky zpracoval do následujícího článku, který má čtenáři přiblížit stav egovernmentu v ČR.

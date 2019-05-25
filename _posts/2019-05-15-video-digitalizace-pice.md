@@ -12,7 +12,6 @@ video:      https://www.youtube.com/embed/jdRcsJ2RsaY
 
 Záznam rozhovoru z [Klubu Evropa](https://www.facebook.com/events/290126941922266/) o digitalizaci veřejné zprávy, vendor lock-inu, bezpečnosti, problémech a pozitivních příkladech.
 
-
 <!--more-->
 
 V rozhovoru v rámci [Klubu Evropa](https://www.facebook.com/events/290126941922266/) 15. května z Pirátského centra jsem povídal o několika důležitých tématech, hlavně z oblasti veřejné správy a její digitalizace:
@@ -96,5 +95,4 @@ V rozhovoru v rámci [Klubu Evropa](https://www.facebook.com/events/290126941922
   ○ Ministerstva si to sami komplikují aby nemuseli nic dělat
   ○ Je třeba vytvrat a uddržet směr! Nezačínat od 0, přinášet konstruktivnější politiku
 EU volby jsou důležité, eu přináší spoustu důležité legislativy, díky ní máme základ pro další digitalizaci (eObčanka)
-
 -->

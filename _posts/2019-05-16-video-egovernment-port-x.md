@@ -12,10 +12,10 @@ video:      https://www.youtube.com/embed/Kcj6mqjTDcU
 
 Druhý rozhovor z [Klubu Evropa](https://www.facebook.com/events/290126941922266/) - tentokrát jsme se Zdeňkem Hřibem a Janem Adamcem probírali nejen egovernment, smart cities a vendor lock-in, ale i to, jaký má evropská legislativa vliv na českou praxi v oblasti digitalizace veřejné správy.
 
-
 <!--more-->
 
 V druhém rozhovor v rámci [Klubu Evropa](https://www.facebook.com/events/290126941922266/) z 16. května, tentokrát z lodi PORT X, jsme s kolegy primátorem Zdeňkem Hřibem a starostou Prahy 12 Janem Adamcem debatovali o egovernmentu, jeho stavu a problémech na různých úrovních státní správy a samosprávy. Řeč přišla mimo jiné i na:
+
 * koncept Smart cities a jeho slepé uličky
 * procesy v veřejné správě a nutnost jejich revize pro potřeby digitálního věku
 * data, jejich sběr, syntézu, sdílení a hlavně jejich využívání při řízení
@@ -74,5 +74,4 @@ V druhém rozhovor v rámci [Klubu Evropa](https://www.facebook.com/events/29012
 	• OP: Spostu věcí v egovernmentu pochází z EU - jenotná identita, eObčnaka, ochrana pozitivních údajů; evropa přinesla přístupnost webových stránek a mobilních aplikací
 	• OP: Procesy v EU by měly být přehlednější, hlasování by nmělo být přehlednější
 	• OP: sociální změna - nástup robotizace a umělé inteligence; EU je mnohdy první kdo to řeší 54:00
-
 -->

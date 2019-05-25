@@ -1,5 +1,5 @@
 ---
-layout:     post
+layout:     video
 title:      "Seminář GDPR mýtů zbavené"
 date:       2018-03-12 14:00:00 +0100
 categories: Soukromí
@@ -7,6 +7,7 @@ comments:   true
 tags:       [EU, egovernment, osobní údaje, soukromí, gdpr]
 img:        gdpr-seminar.jpg
 author:     Ondřej Profant
+video:      https://www.youtube.com/embed/c3zQYGBdots
 redirect_from: "/soukromí/2018/03/12/seminar-gdpr.html"
 ---
 
@@ -22,12 +23,12 @@ Největším problémem GDPR je tedy z velké části právě nedostatečná inf
 
 Pro účely semináře vznikla i analýza dopadů GDPR na organizace územní samosprávy s manuálem se vzory dokumentů k implementaci GDPR pro obce. Analýzu s manuálem i s nejzajímavějšími dotazy z praktické části semináře jsem ve spolupráci s Iuridicum Remedium a Otevřenými městy vydal jako brožuru pod otevřenou licencí. Obce v této brožure mohou najít řadu doporučení, která jim mohou usnadnit přechod na režim GDPR. Brožura byla publikována pod otevřenou licencí a naleznete ji k bezplatnému stažení níže společně s prezentacemi ze semináře.
 
-**Materiály**
+#### Materiály
 
 - [Analýza s manuálem pro obce](https://github.com/Kedrigern/Kedrigern.github.io/blob/master/assets/pdf/GDPR-analyza.pdf), [editovatelná verze analýzy (markdown)](https://github.com/Kedrigern/Kedrigern.github.io/blob/master/assets/md/gdpr-analyza.md)
 - [Záznam](https://www.youtube.com/watch?v=c3zQYGBdots)
 
-**Prezentace**
+#### Prezentace
 
 1. [Úvod (Ondřej Profant)]({{'assets/pptx/1-GDPR-mytu-zbavene-OP.pptx' | relative_url }})
 2. [GDPR obecně (Jan Vobořil, Iure)]({{'assets/pptx/2-GDPR-JV.pptx' | relative_url }}), [(PDF)]({{'assets/pdf/2-GDPR-JV.pdf' | relative_url }})
@@ -35,7 +36,7 @@ Pro účely semináře vznikla i analýza dopadů GDPR na organizace územní sa
 4. [Obce a implementace GDPR (Dan Jiránek)]({{'assets/pptx/4-Obce-a-GDPR-DJ.pptx' | relative_url }})
 5. [GDPR a otevřená data (Ondřej Profant)]({{'assets/pptx/5-Opendata-a-GDPR-OP.pptx' | relative_url }})
 
-**Odkazy**
+#### Odkazy
 
 - [GDPR mýtů zbavené](https://www.profant.eu/soukrom%C3%AD/2018/01/23/gdpr-mytu-zbavene.html)
 - [Piráti ve Sněmovně pořádají seminář k nařízení o ochraně osobních údajů](https://www.pirati.cz/tiskove-zpravy/gdpr-seminar.html)
