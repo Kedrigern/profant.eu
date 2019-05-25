@@ -1,5 +1,5 @@
 ---
-layout:     post
+layout:     video
 title:      "Záznam semináře o nařízení ePrivacy"
 date:       2019-02-14 17:00:00 +0100
 categories: Soukromí
@@ -13,10 +13,6 @@ video:      https://www.youtube.com/embed/p54fDs7KZtc
 V Poslanecké sněmovně jsem 6. února společně s organizací Iuridicum Remedium uspořádal odborný seminář o obsahu a významu nařízení Evropského parlamentu a Rady o respektování soukromého života a ochraně osobních údajů v elektronických komunikacích a o zrušení směrnice 2002/58/ES (nařízení o soukromí a elektronických komunikacích), jinak též známého jako ePrivacy. Záznam semináře a prezentace jednotlivých řečníků si můžete prohlédnout dále v článku.
 
 <!--more-->
-
-<div class="responsive-embed widescreen">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/p54fDs7KZtc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
 
 [**Vývoj a stav projednávání návrhu nařízení o soukromí v elektronických komunikacích**](https://www.profant.eu/assets/pptx/Vývoj-a-stav-projednávání-návrhu-ePR.pptx)
 

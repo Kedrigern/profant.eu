@@ -7,7 +7,7 @@ comments:   true
 tags:       [Piráti, volby, EU]
 img:        eu-potrebuje-piraty.jpg
 author:     Ondřej Profant
-videoid:    https://www.youtube.com/embed/_18spO1PcLA
+video:      https://www.youtube.com/embed/_18spO1PcLA
 ---
 
 Dnes tu opět máme svátek demokracie - volby. Prosím, jděte k volbám i vy. Já budu volit Piráty. Proč?
