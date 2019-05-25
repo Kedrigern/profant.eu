@@ -7,6 +7,7 @@ comments:   true
 tags:       [Piráti, sněmovna, digitalizace, egovernment]
 img:        piratske-digitalni-cesko.jpg
 author:     Ondřej Profant
+video:      https://www.youtube.com/embed/v4Gwx4apIdo
 ---
 
 Pan premiér Babiš se s velkou oblibou posměšně trefuje do pirátských poslanců, že v životě nic nedokázali a o té digitalizaci taky jenom žvaní. Přesto jsme měli jako Piráti jen rok a pár měsíců po volbách na poli digitalizace hned několik významných úspěchů. Co pro vás tedy v té digitalizaci děláme?

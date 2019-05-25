@@ -7,6 +7,7 @@ comments:   true
 tags:       [Piráti, egovernment, digitalizace]
 img:        firma-za-den.jpg
 author:     Ondřej Profant
+video:      https://www.youtube.com/embed/9lblxI7YsbY
 ---
 
 S mým kolegou, pirátským poslancem Martinem Jiránkem, jsme 31. ledna představili náš návrh zákona, který si klade za cíl výrazně zjednodušit proces založení nové společnosti nebo živnosti. Na tomto návrhu připravovaném poslaneckým klubem Pirátů jsme pracovali téměř celý rok a získali jsme pro něj podporu napříč politickým spektrem.

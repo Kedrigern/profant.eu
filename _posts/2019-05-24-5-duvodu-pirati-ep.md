@@ -1,5 +1,5 @@
 ---
-layout:     post
+layout:     video
 title:      "Pět důvodů proč volit Piráty do Evropského parlamentu"
 date:       2019-05-24 10:00:00 +0100
 categories: Piráti
@@ -7,6 +7,7 @@ comments:   true
 tags:       [Piráti, volby, EU]
 img:        eu-potrebuje-piraty.jpg
 author:     Ondřej Profant
+videoid:    https://www.youtube.com/embed/_18spO1PcLA
 ---
 
 Dnes tu opět máme svátek demokracie - volby. Prosím, jděte k volbám i vy. Já budu volit Piráty. Proč?
@@ -18,10 +19,6 @@ Dnes tu opět máme svátek demokracie - volby. Prosím, jděte k volbám i vy. 
 Našich [20 priorit pro Evropský parlament](https://evropapotrebuje.cz/program/) je stručných a jasně říkají, co chceme dělat. Nemám rád všeobsáhlé texty, které čtenáři neprozradí ty skutečné cíle a záměry. Ve sněmovně z našich předvolebních priorit máme úkoly na stranickém [redmine](https://redmine.pirati.cz/projects/snemovna/issues?query_id=75) a makáme na nich. Plnění našich úkolů si tak kdokoliv může zkontrolovat online. To není náhoda, to je o přístupu k věci.
 
 [Společný evropský program](https://evropapotrebuje.cz/program/spolecny-eu-pirati/) je již o poznání podrobnější. A pozor! Podepsalo ho celkem 13 pirátských stran napříč Evropou. Evropa je o spolupráci.
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_18spO1PcLA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 
 ### Kandidáti
 
