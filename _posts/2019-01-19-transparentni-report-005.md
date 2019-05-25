@@ -90,7 +90,7 @@ Projekt [Firma za 1 den](https://urad.pirati.cz/) je jedna z našich [programov�
 
 Společně s Láďou Koubkem jsme začali intenzivně pracovat na přípravách Akčního plánu pro prevenci vendor lock-inu a podporu open source. V současnosti sbíráme podklady (od institucí, které nasazují opensource, z institucí, které trápí vendor lock-in, i od samotných vendorů). Tento plán Láďa i [představil na RVIS](https://www.facebook.com/permalink.php?story_fbid=2261947617461887&id=100009400139396).
 
-#### Sněmovna
+#### Sněmovna (listopad)
 
 Interpeloval jsem ministra životního prostředí Miroslava Brabce ohledně [zveřejňování dat ČHMÚ](https://www.irozhlas.cz/zpravy-domov/ministr-brabec-informace-o-pocasi-zverejnime-ale-jen-nektere-a-nejdriv-v-roce_1810300600_cib).
 
@@ -106,13 +106,35 @@ Pod záštitou Výboru pro veřejnou správu se sešla pracovní skupina pro ele
 
 ### Prosinec 2018
 
-#### Zákon o právu na digitální službu
+#### Zákon o právu na digitální službu (prosinec)
 
 Dále pokračovalo jednání o podobě zákona. Piráti do současného návrhu prosadili dva důležité paragrafy. Paragraf 12, který navíc řeší otevřená data, a 13, který adresuje technologickou neutralitu. [Proběhla velká tiskovka](https://www.pirati.cz/tiskove-zpravy/zakon-o-elektronicke-komunikaci-se-statem-pripraven.html) se zástupci všech politických stran.
 
 #### Národní elektronická nástroj
 
-Požádal jsem Ministerstvo pro místní rozvoj o přístup k testovacímu prostředí NEN. Moje motivace je jasná, chci se se systémem podrobněji seznámit i z uživatelského hlediska a připomínkovat zcela konkrétní věci. Bližší informace na mém [Facebooku](https://m.facebook.com/ondrej.profant/posts/10213234438242209).
+Požádal jsem Ministerstvo pro místní rozvoj o přístup k testovacímu prostředí NEN. Moje motivace je jasná, chci se se systémem podrobněji seznámit i z uživatelského hlediska a připomínkovat zcela konkrétní věci. Bližší informace na mém [Facebooku](https://m.facebook.com/ondrej.profant/posts/10213234438242209):
+
+> Před pár dny se tu hodně šířil [skvělý článek od Toma Garcy](https://medium.com/@tomgarcy/digitalizace-po-cesku-ba21159c95d7) o systému NEN. Pokud jste ho ještě nečetli, tak to jistě napravte. NEN má hlavně tyto problémy:
+>
+> a) Zcela zastaralá technologie Silverlight (uživatelsky nepřívětivé, nebezpečné)
+> b) Neuvěřitelně pomalá odezva
+> c) Odrazuje dodavatele
+> d) Špatné UX (což souvisí s a) )
+> e) Nemožnost integrace
+>
+> Požádal jsem Ministerstvo pro místní rozvoj o přístup k testovacímu prostředí NEN. Moje motivace je jasná, chci připomínkovat zcela konkrétní věci. Včéra jsem byl zaškolen. A překvapivě mám i dobré zprávy!
+>
+> 1) Od ledna 2019 bude HTML verze pro dodavatele. Výrazně zpřehledňuje práci se šifrováním. Řeší a), c) a zčásti d).
+> 2) Na jaře 2019 bude HTML verze i pro zadavatele (úřady)
+> 3) Na jaře 2019 by se též mělo objevit API, které by umožnilo komunikace s frontendy třetích stran. Samozřejmě, že to nic neříká o kvalitě a rychlosti odezvy API, ale je to krok vpřed. Řeší e).
+>
+> Teď to chvíli znělo optimisticky. Nicméně nesmíme zapomenout, že
+>
+> I) Někdo takto špatný systém převzal, u takto velkého systému samozřejmě padá odpovědnost na ministra.
+> II) MMR okamžitě nečinilo kroky k náprávě .
+> III) Systém od začátku nebyl projektován více otevřeně.
+>
+> A v neposlední řadě je potřeba si dobře zapamatovat, že za tuto hrůzu je zodpovědné TESCO SW a.s.
 
 #### Datové schránky
 
@@ -130,7 +152,7 @@ Společně s Mikulášem Ferjenčíkem jsme se vrhli na otevírání a zpřístu
 
 Ředitel odboru egovernmentu MV Roman Vrba mě požádal, zda bych neoslovil nějaké experty a společně jsme nevymysleli jak sdílet design systém Portálu občana. Více o situaci [Michal Bláha](https://www.facebook.com/HlidacStatu/photos/a.633591106840230/940729462793058/).
 
-#### Sněmovna
+#### Sněmovna (prosinec)
 
 * 5.12. Došlo k závěrečnému projednání GDPR, bližší informace o jednotlivých pozměňovacích návrzích naleznete na mém [Facebooku](https://www.facebook.com/ondrej.profant/posts/10213174990596055) a blogu:
   * [Poslední dějství GDPR](https://www.profant.eu/2018/gdpr-posledni-dejstvi.html)
