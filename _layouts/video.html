@@ -16,7 +16,9 @@ layout: default
     <div class="small-12 medium-8 columns">
 
       {% if page.video %}
-      <iframe width="560" height="315" src="{{ page.video }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <div class="responsive-embed widescreen">
+        <iframe width="560" height="315" src="{{ page.video }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      </div>
       {% endif %}
 
       <p class="post__excerpt content-block">
