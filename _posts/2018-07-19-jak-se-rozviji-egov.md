@@ -1,5 +1,5 @@
 ---
-layout:     post
+layout:     video
 title:      "Jak se rozvíjí egovernment v ČR"
 date:       2018-07-19 13:00:00 +0100
 categories: Egovernment
@@ -43,10 +43,6 @@ Elektronická evidence tržeb (EET) je velmi emotivní téma. Andrej Babiš o n�
 ## Portál občana
 
 Zřejmě jediný aspoň částečně pozitivní příklad egovernmentu. Pro jeho další užívání a rozvíjení ale záleží na jednotlivých resortech, aby pro něj uzpůsobily své služby. Resorty jsem proto oficiálně oslovil s dotazy, kdy do portálu své služby připojí.
-
-<div class="responsive-embed widescreen">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/4-BvIsv_a_c" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-</div>
 
 I přes dosavadní negativní zkušenost ale nehodlám opustit svůj konstruktivní přístup k věci. Jsem přesvědčen, že dobře navržený egovernment a správně digitalizované procesy jsou v zájmu všech, občanů i politiků, poslanců koaličních i opozičních. Budu proto nadále komunikovat s příslušnými úřady a zodpovědnými osobami, abych s rozvojem egovernmentu v ČR pomohl.
 
