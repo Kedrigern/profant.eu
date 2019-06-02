@@ -15,28 +15,28 @@ Absurdity i naděje digitalizace, EET na velbloudy a košťata, boj za zachován
 
 ### Digitalizace
 
-Konsenzuální zákon o právu na digitální službu (ZPDS, [ST 447](http://www.psp.cz/sqw/tisky.sqw?O=8&T=447)) byl úspěšně předřazen jako první bod jednání. Tento zákon zcela mění dosavadní paradigma digitalizace a její procesy. Zatímco dnes je běžné, že občan je jen nechtěná součást procesu, tento zákon z něj naopak dělá klíčového klienta. Tak má digitalizace fungovat, aby byla pro občany skutečně přínosná.
+Konsenzuální **zákon o právu na digitální službu** (ZPDS, [ST 447](http://www.psp.cz/sqw/tisky.sqw?O=8&T=447)) byl úspěšně předřazen jako první bod jednání a následně prošel prvním čtením. Tento zákon zcela mění dosavadní paradigma digitalizace a její procesy. Zatímco dnes je běžné, že občan je jen nechtěná součást procesu, tento zákon z něj naopak dělá klíčového klienta. Tak má digitalizace fungovat, aby byla pro občany skutečně přínosná.
  
 V rámci rozpravy jsem upozornil na to, že zákon samozřejmě není všespásný. Velmi záleží na samotné vládě a ostatních složkách exekutivní moci. I do budoucna je proto potřeba dbát na pečlivou přípravu zadání pro veřejné zakázky, aby informační systémy byly pro uživatele doopravdy přívětivé. 
 
-Po projednání ZPDS však nastala velmi komická situace. Hned další bod programu byly Základní registry ([ST 448](http://www.psp.cz/sqw/tisky.sqw?O=8&T=447)). Již v roce 2010 byl schválen tento klíčový zákon, který zavedl jednotné registry základních údajů pro celý stát. Slouží například k tomu, aby při změně jména nebylo nutné obíhat všechny úřady, ale změna se zapsala jen jednou. Popřípadě, abychom opravdu byli schopni rozlišit všechny Jany Nováky. Registry jsou základ moderních a přívětivých služeb.
+Po projednání ZPDS však nastala velmi komická situace. Hned další bod programu byly Základní registry ([ST 448](http://www.psp.cz/sqw/tisky.sqw?O=8&T=448)). Již v roce 2010 byl schválen tento klíčový zákon, který zavedl jednotné registry základních údajů pro celý stát. Slouží například k tomu, aby při změně jména nebylo nutné obíhat všechny úřady, ale změna se zapsala jen jednou. Popřípadě, abychom opravdu byli schopni rozlišit všechny Jany Nováky. Registry jsou základ moderních a přívětivých služeb.
  
 Jejich součástí je, že se od roku 2020 má zrušit zápis rodných čísel do občanky. A to proto, aby se využívali základní registry, nikoliv rodné číslo. Nevýhodou rodného čísla je, že obsahuje osobní údaje, velká část je ho snadno odvoditelná a je jen jedno. Základní registry namísto toho používají pro každou aplikaci jiný identifikátor a tím lépe chrání naše soukromí.
-Vládě však nestačilo 10 let na přípravu této změny. Navrhuje další odložení. Jedná se o další ukázkový příklad selhání této i minulých vlád.
+**Vládě však nestačilo 10 let na přípravu této změny. Navrhuje další odložení.** Jedná se o další ukázkový příklad selhání této i minulých vlád.
 
 ### Elektronická evidence tržeb
 
-Projednávání EET ([ST 205](http://www.psp.cz/sqw/tisky.sqw?O=8&T=205)) neuniklo pozornosti médií. K EET bylo podáno 827 pozměňovacích návrhů, je poznat, že zákon o evidenci tržeb vyvolává velké vášně a debata o něm je velmi dlouhá a intenzivní. Hnutí ANO tlačí další nesmyslná rozšíření a to jsme se již s návrhem zákona dostali do třetího čtení.
+Projednávání EET ([ST 205](http://www.psp.cz/sqw/tisky.sqw?O=8&T=205)) neuniklo pozornosti médií. K EET bylo podáno **827 pozměňovacích návrhů**, je poznat, že zákon o evidenci tržeb vyvolává velké vášně a debata o něm je velmi dlouhá a intenzivní. Hnutí ANO tlačí další nesmyslná rozšíření a to jsme se již s návrhem zákona dostali do třetího čtení.
 
 Podle ANO je důležité, aby EET platilo například pro prodej vánočních stromků či kaprů. Nebo dokonce na takové kuriozity, jako je prodej velbloudů. A mnohé další absurdity. ODS zase plamenně hovoří o tom, jak ona by odstranila tu přebujelou byrokracii. Při těchto slovech si vzpomínám, jak kdysi tak kvalitně zavedli regulační poplatky u lékaře. Určitě tehdy šlo všude zaplatit kartou, rozměnit, vůbec nebyly nemocnice, kde se dalo platit jen na vrátnici… nebo to bylo jinak? Pokrytectví členů ODS při jejich projevech opět neznala mezí.
 
 Ale zpět k EET. Mně osobně nejvíce vadí, že ANO nemá sebemenší sebereflexi. Proč neodstraní alespoň ty nejkřiklavější a nejvíce obtěžující případy? Proč nedá živnostníkům jednoduchý systém, ve kterém by vše mohli vyřídit? K EET už existuje dostatečná zpětná vazba, aby se i její nejzarputilejší zastánci mohli poučit.
 
-A v neposlední řadě je opět zde vendor lock-in, tedy uzamčení k jednomu dodavateli. Tím dodavatelem je IBM, která dodává informační systém ADIS. Ten je z 90. let. A od té doby se technicky nezměnil. A naše vláda "manažerů" na tom staví nový systém. EET je proto selhání jak legislativní, tak i technologické.
+A v neposlední řadě je opět zde **vendor lock-in**, tedy uzamčení k jednomu dodavateli. Tím dodavatelem je IBM, která dodává informační systém ADIS. Ten je z 90. let. A od té doby se technicky nezměnil. A naše vláda "manažerů" na tom staví nový systém. EET je proto selhání jak legislativní, tak i technologické.
 
 ### Exekuce
 
-Na pořad jednání se dostal i pirátský návrh týkající se exekucí (ST 295). Exekuce, zvláště ty vícenásobné, jsou velkým problémem, který doslova dusí českou společnost. Dluhová spirála, která vzniká často kvůli marginálním částkám, je jedním z největších problémů, se kterým se potýká velká část populace. Je naprosto nepřijatelné a nemorální, aby dluhy v řádech stovek či pár tisíc korun několikanásobně narůstaly.
+Na pořad jednání se dostal i pirátský návrh týkající se exekucí ([ST 295](http://www.psp.cz/sqw/tisky.sqw?O=8&T=295)). **Exekuce, zvláště ty vícenásobné, jsou velkým problémem, který doslova dusí českou společnost.** Dluhová spirála, která vzniká často kvůli marginálním částkám, je jedním z největších problémů, se kterým se potýká velká část populace. Je naprosto nepřijatelné a nemorální, aby dluhy v řádech stovek či pár tisíc korun několikanásobně narůstaly.
 
 Proto jsme navrhovali následující opatření:
  
@@ -64,11 +64,11 @@ Olga Richterová přednesla za Piráty velmi jednoduché systémové řešení. 
 
 Pro tento rok se bavíme o 2 miliardách Kč. Což zní jako velké číslo, ale pro státní rozpočet to taková zátěž není. Kolega Ferjenčík to vtipně přirovnal k člověku s platem 30 000 Kč, který se rozhoduje zda si koupit pivo či ne. Je to jen otázka politických priorit. Neřešené problémy mají navíc pro stát další rozsáhlé náklady. Což ostatně uvedla Olga Richterová, která vycházela z oficiálních čísel vlády.
 
-Třešničkou na dortu bylo, že ČSSD tuto schůzi raději nechala přerušit, aby nemusela hlasovat o usnesení, které by vládu zavázalo k řešení. Díky duchapřítomnosti Vojty Pikala však byla schůze přerušena pouze do následujícího dne, kdy bylo usnesení těsnou většinou odhlasováno.
+Třešničkou na dortu bylo, že ČSSD tuto schůzi raději nechala přerušit, aby nemusela hlasovat o usnesení, které by vládu zavázalo k řešení. Díky duchapřítomnosti pirátského předsedajícího Vojty Pikala však byla schůze přerušena pouze do následujícího dne, kdy bylo usnesení [těsnou většinou odhlasováno](http://www.psp.cz/sqw/phlasa.sqw?o=8&s=31&pg=1).
 
-Můj kolega Ondřej Polanský to okomentoval následovně:
+Můj kolega [Ondřej Polanský](https://www.facebook.com/ondrej.polansky/posts/2971600842851871) to okomentoval následovně:
 
->Českou levici zasáhl takový nešvar. V úterý KSČM prosadí na pořad jednání sněmovny návrh uzákonění pěti týdnů dovolené. Důvodem je péče a starost o lidi. O hodinu později spolu s TOP09 a vládní koalicí smete bez věcného argumentu ze stolu pirátský návrh na reformu exekucí, která má zajistit, aby se na jednom zadluženém nemohlo pást deset exekutorů, a 800 000 lidí nechá ve štychu. Ve středu je to ČSSD, která svými hlasy podpoří svolání mimořádné schůze sněmovny k tématu kritické situace financování sociálních služeb. Během pětihodinové diskuse neustále přesvědčuje, jak to s lidmi, a obzvláště těmi sociálně potřebnými, myslí dobře, a pak těsně před po skončení rozpravy škaredým procedurálním způsobem zabrání hlasování o předložených usneseních, protože by museli přiznat barvu.
+> Českou levici zasáhl takový nešvar. V úterý KSČM prosadí na pořad jednání sněmovny návrh uzákonění pěti týdnů dovolené. Důvodem je péče a starost o lidi. O hodinu později spolu s TOP09 a vládní koalicí smete bez věcného argumentu ze stolu pirátský návrh na reformu exekucí, která má zajistit, aby se na jednom zadluženém nemohlo pást deset exekutorů, a 800 000 lidí nechá ve štychu. Ve středu je to ČSSD, která svými hlasy podpoří svolání mimořádné schůze sněmovny k tématu kritické situace financování sociálních služeb. Během pětihodinové diskuse neustále přesvědčuje, jak to s lidmi, a obzvláště těmi sociálně potřebnými, myslí dobře, a pak těsně před po skončení rozpravy škaredým procedurálním způsobem zabrání hlasování o předložených usneseních, protože by museli přiznat barvu.
 Je mi líto českého levicového voliče, tohle si ani on nezaslouží.
 
 * [Tisková zpráva](https://www.pirati.cz/tiskove-zpravy/diky-piratum-dostanou-obce-finance-na-socialni-sluzby.html)
