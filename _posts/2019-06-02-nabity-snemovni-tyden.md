@@ -5,7 +5,7 @@ date:       2019-06-02 14:00:00 +0100
 categories: Sněmovna
 comments:   true
 tags:       [Piráti, sněmovna, digitalizace, egovernment]
-img:        snemovna-velbloud.jpg
+img:        velbloud-snemovna.jpg
 author:     Ondřej Profant
 ---
 
