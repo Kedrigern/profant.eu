@@ -6,7 +6,7 @@ categories: Piráti
 comments:   true
 tags:       [egovernment, Piráti, digitalizace]
 img:        koduj.jpg
-author:     Ondřej Profant
+author:     Bára Soukupová
 ---
 
 Máte chuť zapojit se do vytváření českého e-governmentu a stát se členy našeho týmu? Teď je ten správný čas.
@@ -21,3 +21,5 @@ Uvidíme rádi každého, kdo by se rád podílel na vytváření českého e-go
 - [27.6. 18:00 Pirátské centrum Praha](https://www.facebook.com/events/2216771901709693)
 
 Aplikace je psána v Nette (+ jQuery a Bootstrap). Pro generování dokumentů bychom rádi do budoucna použili platformu [docassemble](https://docassemble.org/).
+
+Pokud se plánujete zúčastnit, vyplňte prosím krátký [dotazník](https://ec.europa.eu/eusurvey/runner/koduj-s-piraty).
