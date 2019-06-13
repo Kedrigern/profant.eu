@@ -60,3 +60,127 @@
   - /assets/pdf/Interpelace-Veleslavin-UZSVM-odpoved-priloha2-dopis_MHMP2017_a_2x_dopis_MC_Praha_6.pdf
   - /assets/pdf/Interpelace-Veleslavin-UZSVM-odpoved-priloha2-dopis_namestka_primatorky_Dolinka_30_10_2018.pdf
   - /assets/pdf/Interpelace-Veleslavin-UZSVM-odpoved-priloha3-metodika_MF_k_prevodum_nemovitosti_na_obce_a_kraje_30_4_2018.pdf
+
+- odeslani: 2018-07-19
+  prijeti: 2018-08-14
+  nazev: Portál občana - Ministerstvo dopravy
+  popis: Dotaz na jednotlivá ministerstva, jakým způsobem se podílejí na obsahu Portálu občana.
+  odpoved: Na Ministerstvu dopravy se v průběhu podzimu 2018, připravuje implementace informace o řidiči z Centrálního registru řidičů. Již dnes ministerstvo publikuje aplikaci Kontrola tachometru. Pokud by Portál občana integroval odkaz na tuto aplikaci, bylo by možné příslušnou informaci o stavu tachometru poskytovat i tímto způsobem. V této záležitosti není zatim stanoven žádný harmonogram. V oblasti vnitrozemské a námořní plavby se s využitím Portálu občana uvažuje. Zatím však není možno přesněji popsat detaily a to vzhledem k nedokončené analytické činnosti i potřebě legislativních úprav.
+  url_dotaz:
+  - /assets/pdf/Interpelace-MD-Portal.pdf
+  url_odpoved:
+  - /assets/pdf/Interpelace-MD-portal-odpoved.pdf
+
+- odeslani: 2018-07-19
+  prijeti: 2018-08-16
+  nazev: Portál občana - Ministerstvo financí
+  popis: Dotaz na jednotlivá ministerstva, jakým způsobem se podílejí na obsahu Portálu občana.
+  odpoved: Generální finanční ředitelství v současné době primárně připravuje projekt Portál MOJE daně, který má být centrálním místem, na němž budou poskytovány veškeré elektronické služby Finanční správy. Plánovaným termínem spuštění první verze Portálu MOJE daně pro veřejnost je rok 2020. Generální ředitelství cel v současné době připravuje projekt cPortál, který by měl připravit prostředí pro elektronická podání vůči Celní správě. V současné době probíhá definice poskytovaných služeb. Harmonogram realizace je nastaven tak, aby bylo možné základní služby spustit ke 30. 6. 2019. Ministerstvo financí spravuje specializovaný portál MONITOR, který umožňuje široké veřejnosti (laické i odborné) volný přístup k rozpočtovým a účetním informacím ze všech úrovní státní správy a samosprávy, neuvažuje se o integraci do Portálu občana. Dále jsou připravovány systémy RISPF a DOTINFO, jejichž propojení s Portálem občana je plánováno na 1. čtvrtletí 2019.
+  url_dotaz:
+  - /assets/pdf/Interpelace-MF-Portal.pdf
+  url_odpoved:
+  - /assets/pdf/Interpelace-MF-portal-odpoved.pdf
+
+- odeslani: 2018-07-19
+  prijeti: 2018-07-30
+  nazev: Portál občana - Ministerstvo kultury
+  popis: Dotaz na jednotlivá ministerstva, jakým způsobem se podílejí na obsahu Portálu občana.
+  odpoved: Bez uspokojivých výsledků. Plánují začlenit projekt Národní portál digitalizovaného obsahu Czechiana, Registr církví a náboženských společností (RCNS) a Jednotný evidenční a grantový informační systém (JEGIS). Oba projekty už prý byly schváleny a rozjíždějí se.
+  url_dotaz:
+  - /assets/pdf/Interpelace-MK-Portal.pdf
+  url_odpoved:
+  - /assets/pdf/Interpelace-MK-portal-odpoved.pdf
+
+- odeslani: 2018-07-19
+  prijeti: 2018-08-15
+  nazev: Portál občana - Ministerstvo zemědělství
+  popis: Dotaz na jednotlivá ministerstva, jakým způsobem se podílejí na obsahu Portálu občana.
+  odpoved: Ministerstvo připravuje postupnou transformaci životních situací z portálu eAGRI z podoby statických informací do plně elektronických on-line služeb, zpřístupněných z Portálu občana. Podle ministerstva není v současné době možné stanovit harmonogram jejich zprovozňování.
+  url_dotaz:
+  - /assets/pdf/interpelace-MZ-portal.pdf
+  url_odpoved:
+  - /assets/pdf/interpelace-MZ-portal-odpoved.pdf
+  prilohy:
+  - /assets/pdf/Interpelace-MZ-portal-priloha.xlsx
+
+- odeslani: 2018-07-19
+  prijeti: 2018-08-15
+  nazev: Portál občana - Ministerstvo životního prostředí
+  popis: Dotaz na jednotlivá ministerstva, jakým způsobem se podílejí na obsahu Portálu občana.
+  odpoved: V současné době probíhá na MŽP interní diskuze o nabídkách služeb, které by bylo možné zpřístupnit prostřednictvím tohoto Portálu.
+  url_dotaz:
+  - /assets/pdf/interpelace-MZP-portal.pdf
+  url_odpoved:
+  - /assets/pdf/Interpelace-MZP-portal-odpoved.pdf
+
+- odeslani: 2018-07-19
+  prijeti: 2018-09-07
+  nazev: Portál občana - Ministerstvo zahraničních věcí
+  popis: Dotaz na jednotlivá ministerstva, jakým způsobem se podílejí na obsahu Portálu občana.
+  odpoved: Ministerstvo zvažuje zavedení podávání žádostí o vydání cestovního pasu na zastupitelských úřadech v zahraničí, prostřednictvím Czech POINTu. Zavedení této služby se předpokládá v průběhu delšího časového horizontu, není známo datum implementace do Portálu občana.
+  url_dotaz:
+  - /assets/pdf/interpelace-MZV-portal.pdf
+  url_odpoved:
+  - /assets/pdf/interpelace-MZV-portal-odpoved.pdf
+
+- odeslani: 2018-07-19
+  prijeti: 2018-08-16
+  nazev: Portál občana - Ministerstvo pro místní rozvoj
+  popis: Dotaz na jednotlivá ministerstva, jakým způsobem se podílejí na obsahu Portálu občana.
+  odpoved: Současně pracují na tom aby v Portálu byly dostupné NEN, VVZ a Aplikace MS2014+
+  url_dotaz:
+  - /assets/pdf/interpelace-MMR-Portal.pdf
+  url_odpoved:
+  - /assets/pdf/interpelace-MMR-portal-odpoved.pdf
+
+- odeslani: 2018-07-19
+  prijeti: 2018-08-15
+  nazev: Portál občana - Ministerstvo průmyslu a obchodu
+  popis: Dotaz na jednotlivá ministerstva, jakým způsobem se podílejí na obsahu Portálu občana.
+  odpoved: Ministerstvo průmyslu a obchodu připravuje v nejbližší době napojení informačního systému Registr živnostenského podnikání (IS RŽP) na Portál občana. Prvním projektem je další rozšíření funkcionality elektronického podání IS RŽP (s využitím autentizace podatele dle nařízení eIDAS), včetně předvyplnění údajů z živnostenského rejstříku a základních registrů ve formulářích. Druhým projektem napojení na Portál občana je řešení, které umožní podnikatelům získat přehled o údajích o nich vedených v živnostenském rejstříku (včetně neveřejné části). Spuštění se plánuje do konce roku 2018. Ministerstvo analyzuje možnost napojení Elektronické systému licenční správy na Portál občana, umožňující předvyplnění osobních údajů ze základních registrů. Začátek realizace se plánuje na 4. čtvrtletí 2018.
+  url_dotaz:
+  - /assets/pdf/interpelace-MPO-portal.pdf
+  url_odpoved:
+  - /assets/pdf/Interpelace-MPO-portal-odpoved.pdf
+
+- odeslani: 2018-07-19
+  prijeti: 2018-08-10
+  nazev: Portál občana - Ministerstvo práce a soc.věcí
+  popis: Dotaz na jednotlivá ministerstva, jakým způsobem se podílejí na obsahu Portálu občana.
+  odpoved: Ministerstvo již propojilo Portál občana s ePortálem ČSSZ. Realizuje se Jednotné portálové řešení resortu práce a sociálních věcí a integrace MPSV, ÚP, EURES a dalších, včetně podpory elektronického podání formou předvyplněných webových formulářů. Počítá se spuštěním dalších elektronických služeb v 1. čtvrtletí 2019.
+  url_dotaz:
+  - /assets/pdf/Interpelace-MPSV-portal.pdf
+  url_odpoved:
+  - /assets/pdf/interpelace-MPSV-portal-odpoved.pdf
+
+- odeslani: 2018-07-19
+  prijeti: 2018-08-10
+  nazev: Portál občana - Ministerstvo školství
+  popis: Dotaz na jednotlivá ministerstva, jakým způsobem se podílejí na obsahu Portálu občana.
+  odpoved: Bez uspokojivých výsledků.
+  url_dotaz:
+  - /assets/pdf/Interpelace-MSMT-portal.pdf
+  url_odpoved:
+  - /assets/pdf/interpelace-MSMT-portal-odpoved.pdf
+
+- odeslani: 2018-11-01
+  prijeti: 2018-11-12
+  nazev: Digitalizace kultury
+  popis: Zájem o projekty, které přispějí k digitalizaci kulturní sféry.
+  odpoved: Dokumentaci k některým projektům nalezneme již zveřejněnou na webových stránkách ministerstva. Jiné projekty nepsplňovaly podmínky k naplnění.
+  url_dotaz:
+  - /assets/pdf/Interpelace-MK-digitalizace-kultury.pdf
+  url_odpoved:
+  - /assets/pdf/Interpelace-MK-digitalizace-kultury-odpoved.pdf
+
+- odeslani: 2019-03-25
+  prijeti: 2019-04-11
+  nazev: Kvalita psychiatrické péče
+  popis: Žádost o zpřístupnění Zprávy z mapování kvality péče.
+  odpoved: Ministerstvo zdravotnictví zaslalo požadovaný dokument
+  url_dotaz:
+  - /assets/pdf/Interpelace-MZd-kvalita-psychiatricke-pece.pdf
+  url_odpoved:
+  - /assets/pdf/Interpelace-MZd-kvalita-psychiatricke-pece-odpoved.pdf
+  prilohy:
+  - /assets/pdf/Interpelace-MZd-kvalita-psychiatricke-pece-priloha.pdf
