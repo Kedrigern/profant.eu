@@ -1,4 +1,4 @@
-h---
+---
 layout:     post
 title:      "Ohlednutí za výjezdním zasedáním Výboru pro veřejnou správu a regionální rozvoj v jižních Čechách"
 date:       2019-06-16 18:00:00 +0100
@@ -17,11 +17,11 @@ Většinu předchozího týdne mi zabralo výjezdní zasedání Výboru pro veř
 
 V Českých Budějovicích jsme výjezdní zasedání zahájili projednáním připravované novely stavebního zákona. Je bez debat, že stavební právo a následně skutečný průběh stavebního řízení jsou v ČR ve velmi neuspokojivém stavu. Návrh zákona od Ministerstva pro místní rozvoj sice obsahuje dobré myšlenky, ale celkově je opět katastrofální. Užitečným může být úprava některých závazných stanovisek na rovinu vyjádření. Nicméně fikce povolení (tedy pokud se úřad v určité lhůtě nevyjádří, je vše v žádosti automaticky povoleno) je zkrátka šílená. V praxi by to znamenalo, že by se někteří podnikaví lidé snažili o to, aby byl jejich spis posunut dozadu v pořadníku. Zejména u velkých staveb by tento přístup mohl znamenat další problém ve stavebnictví. Člověk se navíc nemůže ubránit myšlence, že tento návrh jde na ruku lidem, kteří se snaží ke stavebnímu povolení přistupovat kreativně a využívat ho třeba i pro velmi kontroverzní stavební záměry.
 
-Během obědové přestávky jsme s Ivanem Bartošem navštívili českobudějovické pirátské centrum ČEPICE (https://cb.pirati.cz/cepice/). Místní Piráti si svou základnu hezky zařídili, včetně možnosti občerstvení nebo posezení na zahrádce. Návštěvu ČEPICE tak vřele doporučuji.
+Během obědové přestávky jsme s Ivanem Bartošem navštívili [českobudějovické pirátské centrum ČEPICE](https://cb.pirati.cz/cepice/). Místní Piráti si svou základnu hezky zařídili, včetně možnosti občerstvení nebo posezení na zahrádce. Návštěvu ČEPICE tak vřele doporučuji.
 
 ### Vyšší Brod
 
-Ve Vyšším Brodě jsme navštívili cisterciácký klášter (https://www.klastervyssibrod.cz). Klášter je po padesátileté přestávce opět ve správě cisterciáckého řádu, který se nyní stará o jeho obnovu a rozvoj. Musím říci, že naše návštěva byla velmi zajímavá a poučná. Samozřejmě jsme se zajímali také o praktické informace, třeba o čerpání z peněz z EU či Ministerstva kultury. A odvažuji si soudit, že v tomto případě byly dotační prostředky vynaloženy opravdu účelně. Podobná praxe pro dotační politiku, kdy se finanční prostředky dostanou především neziskovým spolkům a skupinám, které se opravdu snaží zvelebit a vylepšit život v celé komunitě a obci, by měla být standardem.
+Ve Vyšším Brodě jsme navštívili [cisterciácký klášter](https://www.klastervyssibrod.cz). Klášter je po padesátileté přestávce opět ve správě cisterciáckého řádu, který se nyní stará o jeho obnovu a rozvoj. Musím říci, že naše návštěva byla velmi zajímavá a poučná. Samozřejmě jsme se zajímali také o praktické informace, třeba o čerpání z peněz z EU či Ministerstva kultury. A odvažuji si soudit, že v tomto případě byly dotační prostředky vynaloženy opravdu účelně. Podobná praxe pro dotační politiku, kdy se finanční prostředky dostanou především neziskovým spolkům a skupinám, které se opravdu snaží zvelebit a vylepšit život v celé komunitě a obci, by měla být standardem.
 
 ### Český Krumlov
 
@@ -39,7 +39,7 @@ Obec samozřejmě zápasí s odlivem služeb, třeba jen část obce má dobře 
 
 ### Písek
 
-Dále jsme navštívili také Písek. Hlavní částí naší prohlídky byla nově otevřená městská knihovna (https://www.knih-pi.cz/). Prostory jsou přestavěny velmi moderně. Knihovna je pojata nejen jako sklad knih, ale jako místo pro komunitní setkávání a kulturní akce. Běžně do ní chodí děti psát domácí úkoly či na kroužky a pořádají se v ní další vzdělávací aktivity. Tím skvěle plní účel moderní informační a vzdělávací instituce a mohla by sloužit jako inspirativní příklad pro knihovny v podobně velkých městech.
+Dále jsme navštívili také Písek. Hlavní částí naší prohlídky byla nově otevřená [městská knihovna](https://www.knih-pi.cz/). Prostory jsou přestavěny velmi moderně. Knihovna je pojata nejen jako sklad knih, ale jako místo pro komunitní setkávání a kulturní akce. Běžně do ní chodí děti psát domácí úkoly či na kroužky a pořádají se v ní další vzdělávací aktivity. Tím skvěle plní účel moderní informační a vzdělávací instituce a mohla by sloužit jako inspirativní příklad pro knihovny v podobně velkých městech.
 
 ### Orlík
 
