@@ -19,9 +19,13 @@ V Českých Budějovicích jsme výjezdní zasedání zahájili projednáním p�
 
 Během obědové přestávky jsme s Ivanem Bartošem navštívili [českobudějovické pirátské centrum ČEPICE](https://cb.pirati.cz/cepice/). Místní Piráti si svou základnu hezky zařídili, včetně možnosti občerstvení nebo posezení na zahrádce. Návštěvu ČEPICE tak vřele doporučuji.
 
+![Pirátské centrum v Českých Budějovicích]({{'cb-cepice.jpg' | prepend: '/assets/img/posts/' | base_url}})
+
 ### Vyšší Brod
 
 Ve Vyšším Brodě jsme navštívili [cisterciácký klášter](https://www.klastervyssibrod.cz). Klášter je po padesátileté přestávce opět ve správě cisterciáckého řádu, který se nyní stará o jeho obnovu a rozvoj. Musím říci, že naše návštěva byla velmi zajímavá a poučná. Samozřejmě jsme se zajímali také o praktické informace, třeba o čerpání z peněz z EU či Ministerstva kultury. A odvažuji si soudit, že v tomto případě byly dotační prostředky vynaloženy opravdu účelně. Podobná praxe pro dotační politiku, kdy se finanční prostředky dostanou především neziskovým spolkům a skupinám, které se opravdu snaží zvelebit a vylepšit život v celé komunitě a obci, by měla být standardem.
+
+![Pirátské centrum v Českých Budějovicích]({{'brod-klaster.jpg' | prepend: '/assets/img/posts/' | base_url}})
 
 ### Český Krumlov
 
@@ -37,9 +41,13 @@ Albrechtice jsou stará obec s krásným románským kostelem a nádhernými hř
 
 Obec samozřejmě zápasí s odlivem služeb, třeba jen část obce má dobře dostupný obchod. Vedení města se tak snaží horší úroveň služeb pro občany řešit dalšími způsoby. Například je obec zapojena do programu Pošta Partner. Díky tomu je tak na radnici je přepážka České pošty, kde sedí proškolená úřednice. To obyvatelům zpřístupňuje služby České pošty, která by dnes sama nebyla schopna udržet pobočku v takto malé obci. Pokud by Česká pošta nastavila u tohoto programu lepší podmínky, mohly by se do něj zapojit i další obce, které by to jistě ocenily.
 
+![Hřbitov v Albrechticích]({{'albrechtice-hrbitov.jpg' | prepend: '/assets/img/posts/' | base_url}})
+
 ### Písek
 
 Dále jsme navštívili také Písek. Hlavní částí naší prohlídky byla nově otevřená [**městská knihovna**](https://www.knih-pi.cz/). Prostory jsou přestavěny velmi moderně. Knihovna je pojata nejen jako sklad knih, ale jako místo pro komunitní setkávání a kulturní akce. Běžně do ní chodí děti psát domácí úkoly či na kroužky a pořádají se v ní další vzdělávací aktivity. Tím skvěle plní účel moderní informační a vzdělávací instituce a mohla by sloužit jako inspirativní příklad pro knihovny v podobně velkých městech.
+
+![Moderní knihovna v Písku]({{'pisek-knihovna.jpg' | prepend: '/assets/img/posts/' | base_url}})
 
 ### Orlík
 
