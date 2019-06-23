@@ -9,7 +9,7 @@ img:        letna-demonstrace.jpg
 author:     Ondřej Profant
 ---
 
-Dnes jsem byl na další protivládní demonstrace. Zúčastnil jsem se i předchozích demonstrací na Václavském a Staroměstském náměstí. Protože chci ale demonstrujícím vyjádřit větší a zřetelnější podporu než jen svou účastí, rozhodl jsem napsat tento krátký článek o tom, jak demonstrace a jejich význam vnímám já.
+Dnes jsem byl na další protivládní demonstraci. Zúčastnil jsem se i předchozích demonstrací na Václavském a Staroměstském náměstí. Protože chci ale demonstrujícím vyjádřit větší a zřetelnější podporu než jen svou účastí, rozhodl jsem napsat tento krátký článek o tom, jak demonstrace a jejich význam vnímám já.
 
 <!--more-->
 
