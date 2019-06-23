@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Protivládní demonstrace mají smysl"
-date:       2019-06-16 18:00:00 +0100
+date:       2019-06-23 18:00:00 +0100
 categories: Demokracie
 comments:   true
 tags:       [demokracie, demonstrace, Piráti, vláda]
