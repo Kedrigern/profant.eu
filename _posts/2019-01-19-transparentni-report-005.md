@@ -153,9 +153,9 @@ Společně s Mikulášem Ferjenčíkem jsme se vrhli na otevírání a zpřístu
 Ředitel odboru egovernmentu MV Roman Vrba mě požádal, zda bych neoslovil nějaké experty a společně jsme nevymysleli jak sdílet design systém Portálu občana. Více o situaci [Michal Bláha](https://www.facebook.com/HlidacStatu/photos/a.633591106840230/940729462793058/).
 
 #### Game Developers Session
-Společně s Ivanem Bartošem a Vítem Šimralem jsme byli 7. 12. na Game Developers Session.
+Společně s Ivanem Bartošem a Vítem Šimralem jsme byli 7. 12. na [Game Developers Session 2018](http://www.gdsession.com/).
 
-Hodně se tam chtěli inspirovat holanskou Game Garden, což je inkubátor. Čili město / stát třeba mírně dotuje prostory, kde mohou mladí vyvojáři vyvíjet a setkávat se. Díky tomu snáze vzniknou jádra týmů. Jde o to, že počítačová hra je komplexní a v dnešní době je programování jen část práce. Hodně je to o graficích, testerech, storytellerech apod. Což potvrzovali například vývojáři Kingdom Come Deliverance, kteří udajně mají největší nouzi o neprogramátorské pozice.
+Hodně se tam chtěli inspirovat holanskou [Game Garden](https://www.dutchgamegarden.nl/about/), což je inkubátor. Čili město / stát třeba mírně dotuje prostory, kde mohou mladí vyvojáři vyvíjet a setkávat se. Díky tomu snáze vzniknou jádra týmů. Jde o to, že počítačová hra je komplexní a v dnešní době je programování jen část práce. Hodně je to o graficích, testerech, storytellerech apod. Což potvrzovali například vývojáři Kingdom Come Deliverance, kteří udajně mají největší nouzi o neprogramátorské pozice.
 
 V Kanadě je například forma podpory, kdy stát platí zdrav. soc. za takovéto pozice (obecně high tech)
 
