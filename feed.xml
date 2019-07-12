@@ -1,5 +1,90 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="https://www.profant.eu/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.profant.eu/" rel="alternate" type="text/html" /><updated>2019-07-10T10:14:47+00:00</updated><id>https://www.profant.eu/feed.xml</id><title type="html">Blog Ondřeje Profanta</title><subtitle>Zápisník pirátského poslance Ondřeje Profanta, který se zaměřuje na opendata a e-government. Rád bych byl, aby Česká republika byla moderním státem s rozvinutou digitální ekonomikou, kde je kladen silný důraz na vzdělávání a svobodu. V digitalizaci se musíme inspirovat ve Velké Britanii a Estonsku, řešení musí být otevřená a uživatelsky přívětivá.
-</subtitle><author><name>Ondřej Profant</name></author><entry><title type="html">Protivládní demonstrace mají smysl</title><link href="https://www.profant.eu/2019/demonstrace-maji-smysl.html" rel="alternate" type="text/html" title="Protivládní demonstrace mají smysl" /><published>2019-06-23T17:00:00+00:00</published><updated>2019-06-23T17:00:00+00:00</updated><id>https://www.profant.eu/2019/demonstrace-maji-smysl</id><content type="html" xml:base="https://www.profant.eu/2019/demonstrace-maji-smysl.html">&lt;p&gt;Dnes jsem byl na další protivládní demonstraci. Zúčastnil jsem se i předchozích demonstrací na Václavském a Staroměstském náměstí. Protože chci ale demonstrujícím vyjádřit větší a zřetelnější podporu než jen svou účastí, rozhodl jsem napsat tento krátký článek o tom, jak demonstrace a jejich význam vnímám já.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="https://www.profant.eu/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.profant.eu/" rel="alternate" type="text/html" /><updated>2019-07-12T10:57:32+00:00</updated><id>https://www.profant.eu/feed.xml</id><title type="html">Blog Ondřeje Profanta</title><subtitle>Zápisník pirátského poslance Ondřeje Profanta, který se zaměřuje na opendata a e-government. Rád bych byl, aby Česká republika byla moderním státem s rozvinutou digitální ekonomikou, kde je kladen silný důraz na vzdělávání a svobodu. V digitalizaci se musíme inspirovat ve Velké Britanii a Estonsku, řešení musí být otevřená a uživatelsky přívětivá.
+</subtitle><author><name>Ondřej Profant</name></author><entry><title type="html">Deset let datových schránek v ČR</title><link href="https://www.profant.eu/2019/datove-schranky.html" rel="alternate" type="text/html" title="Deset let datových schránek v ČR" /><published>2019-07-11T09:00:00+00:00</published><updated>2019-07-11T09:00:00+00:00</updated><id>https://www.profant.eu/2019/datove-schranky</id><content type="html" xml:base="https://www.profant.eu/2019/datove-schranky.html">&lt;p&gt;Datové schránky oslavily 1. července 2019 deset let své existence v Česku. Mezi lidmi však ani po této době nejsou přijímány příliš kladně. Často jsou vnímány jako nepraktická alternativa emailu pro komunikaci s veřejnou správou. Jejich pověsti pak nepřispěl zejména fakt, že z jejich zřízení plyne povinnost řešit některé úkony s úřady výhradně přes ni (např. podávání daňových přiznání).&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;h3 id=&quot;k-čemu-slouží&quot;&gt;K čemu slouží?&lt;/h3&gt;
+
+&lt;p&gt;Z pohledu uživatele je komunikace prostřednictvím datových schránek (DS) skutečně podobná kostrbatějšímu emailu. Uživatel dostane přidělenou unikátní adresu (ID), ze které může poslat zprávu každému jinému uživateli DS. Komunikace s orgány veřejné moci (OVM) je zdarma. Jedná se nejen o orgány státu, jako jsou ministerstva, soudy, policie a různé správní úřady, ale i obce a kraje a jejich orgány anebo třeba školy. Komunikace se soukromoprávními subjekty je zpoplatněna a lze ji vypnout. Datové zprávy nemají tělo, jejich obsah je tvořen pouze přílohami (typicky PDF nebo XML). Datová zpráva je ve schránce uchovávána po omezenou dobu 90 dní. Kapacita datové zprávy je 20 MB, v rámci komunikace o stavebním řízení se bude kapacita navyšovat.&lt;/p&gt;
+
+&lt;p&gt;K 21. červnu 2019 bylo aktivních 542 010 DS právnických osob (zřizovány povinně), 154 802 DS fyzických osob podnikajících a 142 038 DS fyzických osob&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+
+&lt;p&gt;Celkově se tedy pro běžného občana nejedná o žádný zázrak, ale umožňuje to to důležité - předávat si ověřené dokumenty se státní správou. Velkým plusem je, že i strojově čitelné / strukturované dokumenty.&lt;/p&gt;
+
+&lt;p&gt;Výrazně silnější stránka datových schránek je na straně veřejné správy. Ta je totiž velmi rigidní a zvláště mezi sebou má problém komunikovat méně formální formou. Datové schránky nabízejí snadné propojení jakéhokoliv OVM s jakýmkoliv jiným. Čili dva úřady z druhé strany země si snadno, téměř v reálném čase, předají autentizovaně dokumenty, tedy bez pochybností o doručení a autorovi zprávy. Dané dokumenty mohou být i XML, čili následně je lze automaticky zpracovat. S trochou nadsázky se dá systém datových schránek označit za service bus veřejné správy.&lt;/p&gt;
+
+&lt;h3 id=&quot;hlavní-problémy&quot;&gt;Hlavní problémy&lt;/h3&gt;
+
+&lt;p&gt;Datové schránky&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; mi celkově nepřipadají jako nejlepší koncept. Osobně si myslím, že se mělo jít spíše cestou certifikovaných emailů. Nicméně datové schránky už jednou máme a používat je lze. Spousta problémů vzniká jen ze způsobu použití. Například obsese úředníků v nepraktickém formátu PDF je až zarážející.&lt;/p&gt;
+
+&lt;p&gt;Uživatele nejvíce trápí již zmíněná omezená doba uložení zprávy a omezení velikosti zprávy. Oboje je v dnešní době zcela směšné a je chybou MVČR, že tyto problémy neřeší.&lt;/p&gt;
+
+&lt;p&gt;I přes konzervativnost celého systému a nemalou cenu je však komunikace přes datové schránky &lt;strong&gt;levnější než klasická pošta&lt;/strong&gt;. Veřejná správa platí 2,5 Kč za zprávu. Pokud se rozpočítají fixní paušální výdaje, tak tato cena stoupne na 4,2 Kč&lt;sup id=&quot;fnref:3&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;. Pro soukromníka je cena jedné zprávy 18 Kč, doporučené psaní v listinné podobě od ČP stojí 44 Kč&lt;sup id=&quot;fnref:4&quot;&gt;&lt;a href=&quot;#fn:4&quot; class=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+
+&lt;p&gt;Velký potenciál datových schránek tkví v použití standardizovaných formátů datových zpráv. Je tak možné zjednodušit a automatizovat v podstatě každý úkon. A to jak mezi OVM navzájem, tak i pro komunikaci fyzických a právnických osob s veřejnou správou. Je však třeba, aby zodpovědné autority tyto standardy definovaly (například jako XML schémata) a naučily se je automatizovaně přijímat a zpracovávat. Pak mohou vzniknout (i externě) potřebné formuláře a napojení na externí agendové aplikace. Ze strany uživatele tento přístup vidíme například na portálu &lt;a href=&quot;https://podejto.cz&quot;&gt;Podej to&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Nepraktické je rovněž počáteční nastavení datové schránky. V základním nastavení totiž vyžaduje změnu hesla každých 90 dnů, což je dnes i z bezpečnostního hlediska považováno za překonané. Naštěstí dnes již (po výtkách uživatelů) lze dodatečně nastavit neomezenou platnost hesla. Rovněž velice užitečná funkce notifikace emailem není v počátečním nastavení zapnutá a uživatel na ni není upozorněn.&lt;/p&gt;
+
+&lt;h3 id=&quot;tipy-a-triky&quot;&gt;Tipy a triky&lt;/h3&gt;
+
+&lt;p&gt;Pro větší pohodlí při užívání je třeba si datovou schránku přizpůsobit v jejím nastavení. Existuje naštěstí několik způsobů, jak se dá z uživatelského pohledu používání datových schránek vylepšit.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Lze si nastavit upozornění o nových zprávách na mail&lt;/li&gt;
+  &lt;li&gt;CZ.nic vyrobil aplikaci Datovka, která je klientem k datovým schránkám podobným jako známe u mailů&lt;/li&gt;
+  &lt;li&gt;MVČR představilo aplikaci Mobilní klíč, která umožňuje přihlásit se k systému datových schránek přes mobil (nepotřebujete u sebe mít přihlašovací údaje)&lt;/li&gt;
+  &lt;li&gt;V Portálu občana lze spravovat více datovek najednou&lt;/li&gt;
+  &lt;li&gt;Portál občana poskytuje možnost archivace datových zpráv na neomezenou dobu v objemu do 500 MB (vyhnete se tak limitu 90 dní nebo nutnosti použít placenou službu České pošty Datový trezor&lt;sup id=&quot;fnref:5&quot;&gt;&lt;a href=&quot;#fn:5&quot; class=&quot;footnote&quot;&gt;5&lt;/a&gt;&lt;/sup&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;jaké-kroky-jsme-učinili&quot;&gt;Jaké kroky jsme učinili?&lt;/h3&gt;
+
+&lt;p&gt;Datové schránky jako prostředek pro elektronickou komunikaci mezi občanem a státem jsou významným prvkem v konceptu českého e-Governmentu&lt;sup id=&quot;fnref:6&quot;&gt;&lt;a href=&quot;#fn:6&quot; class=&quot;footnote&quot;&gt;6&lt;/a&gt;&lt;/sup&gt;. Piráti se proto snaží prosazovat jejich širší využívání a posílit jejich legislativní rámec.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Navrhli jsme rozšířit poněkud zastaralý seznam formátů (definováno ve vyhlášce)
+Upozornili jsme na to, že přístupové údaje do dalších schránek (například právnických osob) se neodešlou do datovky, ale listinně, i když dotyčná osoba datovku má&lt;/li&gt;
+  &lt;li&gt;V rámci Youth Speak Up jsme jednali o fikci doručení&lt;/li&gt;
+  &lt;li&gt;Hlasovali jsme pro notifikaci konce platnosti řidičského průkazu prostřednictvím datové schránky&lt;/li&gt;
+  &lt;li&gt;Podíleli jsme se na připomínkování Portálu občana, který datové schránky využívá&lt;/li&gt;
+  &lt;li&gt;Kritizujeme nepřiměřenou cenu ISDS (jedním z viditelných důvodů je řetězec subdodavatelů)&lt;/li&gt;
+  &lt;li&gt;Učíme úřady datové schránky častěji využívat (například při našem příchodu s námi nechtěla Sněmovna komunikovat elektronicky)&lt;/li&gt;
+  &lt;li&gt;Datovými schránkami se zabýváme v rámci Zákonu o právu na digitální službu&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;jaké-další-kroky-chystáme&quot;&gt;Jaké další kroky chystáme?&lt;/h3&gt;
+
+&lt;p&gt;Na datových schránkách je samozřejmě potřeba pracovat do budoucna, aby bylo jejich využívání stále jednodušší a posléze častější než listinná komunikace. Chystáme tedy i další kroky, kterými chceme přispět k jejich zlepšení.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Navrhneme centrální registr XML schémat, abychom podpořili využívání strojově čitelných formátů&lt;/li&gt;
+  &lt;li&gt;Budeme podporovat snížení poplatků za odesílání datových zpráv, dlouhodobě pak budeme usilovat o jejich úplné zrušení&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+      &lt;p&gt;Deset let datových schránek v Česku: https://computerworld.cz/internet-a-komunikace/deset-let-datovych-schranek-v-cesku-55491 &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:2&quot;&gt;
+      &lt;p&gt;Datové schránky: https://www.jaknainternet.cz/page/1264/datove-schranky/ &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:3&quot;&gt;
+      &lt;p&gt;Informace z odboru egovernmentu MVČR &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:4&quot;&gt;
+      &lt;p&gt;Ceník služeb České pošty platný k 1. 6. 2019: https://www.ceskaposta.cz/ke-stazeni/cenik-sluzeb-ceske-posty &lt;a href=&quot;#fnref:4&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:5&quot;&gt;
+      &lt;p&gt;Jak funguje a co nabízí Portál občana: https://www.lupa.cz/clanky/jak-funguje-a-co-nabizi-portal-obcana/ &lt;a href=&quot;#fnref:5&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:6&quot;&gt;
+      &lt;p&gt;Pilíře e-governmentu ČR: https://www.profant.eu/2018/pilire-egovernmentu-cr.html &lt;a href=&quot;#fnref:6&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;</content><author><name>Ondřej Profant</name></author><category term="egovernment" /><category term="digitalizace" /><category term="informatika" /><category term="veřejná správa" /><summary type="html">Datové schránky oslavily 1. července 2019 deset let své existence v Česku. Mezi lidmi však ani po této době nejsou přijímány příliš kladně. Často jsou vnímány jako nepraktická alternativa emailu pro komunikaci s veřejnou správou. Jejich pověsti pak nepřispěl zejména fakt, že z jejich zřízení plyne povinnost řešit některé úkony s úřady výhradně přes ni (např. podávání daňových přiznání).</summary></entry><entry><title type="html">Protivládní demonstrace mají smysl</title><link href="https://www.profant.eu/2019/demonstrace-maji-smysl.html" rel="alternate" type="text/html" title="Protivládní demonstrace mají smysl" /><published>2019-06-23T17:00:00+00:00</published><updated>2019-06-23T17:00:00+00:00</updated><id>https://www.profant.eu/2019/demonstrace-maji-smysl</id><content type="html" xml:base="https://www.profant.eu/2019/demonstrace-maji-smysl.html">&lt;p&gt;Dnes jsem byl na další protivládní demonstraci. Zúčastnil jsem se i předchozích demonstrací na Václavském a Staroměstském náměstí. Protože chci ale demonstrujícím vyjádřit větší a zřetelnější podporu než jen svou účastí, rozhodl jsem napsat tento krátký článek o tom, jak demonstrace a jejich význam vnímám já.&lt;/p&gt;
 
 &lt;!--more--&gt;
 
@@ -589,110 +674,4 @@ Je mi líto českého levicového voliče, tohle si ani on nezaslouží.&lt;/p&g
   ○ Ministerstva si to sami komplikují aby nemuseli nic dělat
   ○ Je třeba vytvrat a uddržet směr! Nezačínat od 0, přinášet konstruktivnější politiku
 EU volby jsou důležité, eu přináší spoustu důležité legislativy, díky ní máme základ pro další digitalizaci (eObčanka)
---&gt;</content><author><name>Ondřej Profant</name></author><category term="egovernment" /><category term="digitalizace" /><category term="informatika" /><category term="veřejná správa" /><category term="otevřený software" /><category term="bezpečnost" /><category term="otevřený hardware" /><summary type="html">Záznam rozhovoru z Klubu Evropa o digitalizaci veřejné zprávy, vendor lock-inu, bezpečnosti, problémech a pozitivních příkladech.</summary></entry><entry><title type="html">Pirátské Digitální Česko</title><link href="https://www.profant.eu/2019/piratske-digitalni-cesko.html" rel="alternate" type="text/html" title="Pirátské Digitální Česko" /><published>2019-04-14T11:00:00+00:00</published><updated>2019-04-14T11:00:00+00:00</updated><id>https://www.profant.eu/2019/piratske-digitalni-cesko</id><content type="html" xml:base="https://www.profant.eu/2019/piratske-digitalni-cesko.html">&lt;p&gt;Pan premiér Babiš se s velkou oblibou posměšně trefuje do pirátských poslanců, že v životě nic nedokázali a o té digitalizaci taky jenom žvaní. Přesto jsme měli jako Piráti jen rok a pár měsíců po volbách na poli digitalizace hned několik významných úspěchů. Co pro vás tedy v té digitalizaci děláme?&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;p&gt;Bylo by naivní si myslet, že 22 pirátských poslanců bude programovat pro stát. Že by do Sněmovny chodili, schovali se s notebooky někam do sklepa a opravovali kupříkladu chyby a nedostatky EET nebo NEN. Nicméně premiér Babiš občas vypadá, že si to opravdu myslí. V Pirátské straně ani v jejím poslaneckém klubu nejsou všichni ITáci. A i kdyby byli a byli by ochotni se digitalizaci státu věnovat naplno, nestačilo by to.&lt;/p&gt;
-
-&lt;p&gt;Problém totiž není jen v dostupných kapacitách. V digitalizaci státu je potřeba z gruntu změnit její základní procesy (jak to učinili již třeba ve Velké Británii nebo Dánsku), které se po letech staly nebezpečnými zlozvyky. Je třeba lépe a spravedlivěji odměňovat lidi ve státní správě a v samosprávách, lépe a transparentněji vypisovat veřejné zakázky, lépe vymáhat pohledávky. Česká informační a komunikační infrastruktura má spoustu problémů a rezerv na všech svých úrovních. K digitalizaci se stále přistupuje tak, že se jednoduše koupí produkt na trhu, aniž by se ze strany státu a jeho složek vůbec zvažovala možnost vlastního vývoje. Ten by v důsledku častokrát mohl být daleko úspornější a udržitelnější, pokud by k němu stát přistupoval opravdu koncepčně. Zároveň by pak mohl daleko lépe splňovat požadavky dané organizační jednotky státu (zejména pak podřízených organizací a úřadů, které se nejvíce potýkají s nedokonalostmi krabicových software).&lt;/p&gt;
-
-&lt;p&gt;Pirátská vize digitalizace je zaměřená na občany, kteří jsou klienty státu a mají nárok na co nejpřístupnější služby. Tyto služby musí být natolik pohodlné a intuitivní, že je lidé sami budou chtít používat a budou je preferovat před osobní návštěvou úřadu.&lt;/p&gt;
-
-&lt;p&gt;Náš program pro českou &lt;a href=&quot;https://www.pirati.cz/program/psp2017/informatika/&quot;&gt;informatiku&lt;/a&gt; stručně představují a vysvětlují tato videa:&lt;/p&gt;
-
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/v4Gwx4apIdo&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/KW0Pe_ei1x8&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;Je jasné, že pro většinu obyvatel je práce na digitalizaci státu a na zlepšení jeho informačního zázemí převážně nepodstatná a neviditelná, ačkoliv se jich častokrát bezprostředně dotýká, aniž by si to uvědomovali. Rozvoj digitalizace státu je však nesmírně důležitý, zkusím proto shrnout nejdůležitější projekty a činnosti, kterými se jako Piráti snažíme dovést ČR k modernímu a aktuálnímu pojetí digitalizace.&lt;/p&gt;
-
-&lt;h3 id=&quot;1-akční-plán-boje-proti-vendor-lock-in-a-podpory-open-source-software&quot;&gt;1. Akční plán boje proti vendor lock-in a podpory open source software&lt;/h3&gt;
-
-&lt;p&gt;Jedná se o doplňující návod k &lt;a href=&quot;https://www.pirati.cz/tiskove-zpravy/vladni-zmocnenec-pro-IT-potvrdil-roli-piratu-v-rvis.html&quot;&gt;vládní koncepci Digitální Česko&lt;/a&gt;. V &lt;a href=&quot;https://www.pirati.cz/tiskove-zpravy/akcni-plan-piratu-digitalizace-otevreny-software.html&quot;&gt;Akčním plánu se zabýváme&lt;/a&gt; dvěma hlavními tématy. Prvním je problém vendor lock-in (uzamčení k jednomu dodavateli), ke kterému přinášíme právní analýzy smluv, metodiku řešení veřejných zakázek a další doporučení. Druhá část je věnována způsobům, jak se dá negativnímu efektu vendor lock-in předcházet za pomoci open source software. V dokumentu popisujeme, jak lze pomocí open source systémů zlepšit svou infrastrukturu a ještě ušetřit nemalé finanční prostředky na základě mnoha případů v ČR i zahraničí.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.profant.eu/assets/pdf/akcni-plan-opensource-v1.pdf&quot;&gt;Akční plán verze 1 ke stažení&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.profant.eu/assets/pdf/akcni-plan-opensource-v2.pdf&quot;&gt;Akční plán verze 2 (po připomínkách RVIS) ke stažení&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.profant.eu/assets/pdf/akcni-plan-opensource-v3.pdf&quot;&gt;Akční plán verze 3 (po připomínkách vládního zmocněnce) ke stažení&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;2-firma-za-jeden-den&quot;&gt;2. Firma za jeden den&lt;/h3&gt;
-
-&lt;p&gt;Firma za jeden den je projekt zaměřený na usnadnění práce českých podnikatelů a snížení jejich administrativní zátěže při zakládání firmy nebo živnosti. Naším cílem je výrazné zjednodušení procesu založení firmy prostřednictvím webových technologií, které podnikateli umožní veškerou administrativu vyřídit pohodlně přes vzdálený přístup. Pro návrh jsme získali podporu od ostatních stran zastoupených ve Sněmovně a doprovodili jsme ho zjednodušenou demoverzí, kterou jsme sami vyvinuli.&lt;/p&gt;
-
-&lt;p&gt;Novelu zákona najdete ve sněmovním systému jako &lt;a href=&quot;http://www.psp.cz/sqw/historie.sqw?o=8&amp;amp;T=446&quot;&gt;tisk 446&lt;/a&gt;, podepsalo 80 poslanců, zastoupeny jsou Piráti, ODS, ANO, SPD, ČSSD, STAN, TOP09, KDU-ČSL.&lt;/p&gt;
-
-&lt;p&gt;Aktualizace: &lt;a href=&quot;https://www.pirati.cz/tiskove-zpravy/firma-za-jeden-den-neutralni-stanovisko-vlady.html&quot;&gt;Vláda dala návrhu neutrální stanovisko&lt;/a&gt;.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://urad.pirati.cz&quot;&gt;Vyzkoušjte si jak snadné je založit firmu přes internet!&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.profant.eu/2019/firma-za-1-den.html&quot;&gt;Informace o návrhu zákona&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;3-zákon-o-digitální-službě&quot;&gt;3. Zákon o digitální službě&lt;/h3&gt;
-
-&lt;p&gt;Návrh zákona, který vznikl ve spolupráci s ICT Unií a Piráti na jeho přípravě pracovali i s dalšími politickými subjekty. V oblasti digitalizace se jedná skutečně o přelomový zákon, který přináší právo občana na komunikaci s úřady elektronicky. V průběhu příprav zákona se nám podařilo vyjednat memorandum o jeho podpoře od všech subjektů. Schválení návrhu zákona očekáváme ještě tento rok.&lt;/p&gt;
-
-&lt;p&gt;Zákon najdete ve sněmovním systému jako &lt;a href=&quot;http://www.psp.cz/sqw/historie.sqw?o=8&amp;amp;T=447&quot;&gt;tisk 447&lt;/a&gt;, podepsalo 133 poslanců.&lt;/p&gt;
-
-&lt;p&gt;Aktualizace: &lt;a href=&quot;https://www.pirati.cz/tiskove-zpravy/garance-digitalni-sluzby-zakon-prosel-vladou.html&quot;&gt;Vláda dala návrhu pozitivní stanovisko&lt;/a&gt;.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.pirati.cz/tiskove-zpravy/zakon-o-elektronicke-komunikaci-se-statem-pripraven.html&quot;&gt;Tisková zpráva k návrhu zákona&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;4-kyberbezpečnost-a-kyberobrana&quot;&gt;4. Kyberbezpečnost a kyberobrana&lt;/h3&gt;
-
-&lt;p&gt;V oblasti kybernetické bezpečnosti a obrany se snažíme prosazovat racionální přístup, který udržuje rovnováhu mezi zájmy státu na jeho obranu a právy občanů na soukromí. Pro lepší zabezpečení kritické infrastruktury státu proto &lt;strong&gt;doporučujeme širší využívání a vlastní vývoj a výrobu otevřeného software a hardware&lt;/strong&gt;. Naopak důrazně vystupujeme proti přehnanému šmírování obyvatel ze strany vojenské rozvědky.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.pirati.cz/tiskove-zpravy/soukromi-obcanu-v-ohrozeni-vojenska-rozvedka.html&quot;&gt;Tisková zpráva k vojenské rozvědce&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.profant.eu/2019/huawei-zte.html&quot;&gt;Kontext skandálu Huawei a ZTE&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;cs&quot; dir=&quot;ltr&quot;&gt;Výbor pro evropské záležitosti uložil premiérovi na můj a &lt;a href=&quot;https://twitter.com/H_Langsadlova?ref_src=twsrc%5Etfw&quot;&gt;@H_Langsadlova&lt;/a&gt; popud předložit summitu Evropské rady návrh na zřízení fondu pro rozvoj telekomunikační technologie založené na otevřeném software a hardware.&lt;/p&gt;&amp;mdash; Mikuláš Peksa (@vonpecka) &lt;a href=&quot;https://twitter.com/vonpecka/status/1108291077386190849?ref_src=twsrc%5Etfw&quot;&gt;March 20, 2019&lt;/a&gt;&lt;/blockquote&gt;
-
-&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p lang=&quot;cs&quot; dir=&quot;ltr&quot;&gt;Kauza Huawei pokračuje a postoj Pirátů se nemění. Je třeba mít stejná pravidla pro všechny. Otevřenost musí být standardem a pak se budeme moci rozhodovat na základě faktů, nikoliv dojmů.&lt;/p&gt;&amp;mdash; Ondřej Profant (@ondrej_profant) &lt;a href=&quot;https://twitter.com/ondrej_profant/status/1130421869549629441?ref_src=twsrc%5Etfw&quot;&gt;May 20, 2019&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
-
-&lt;h3 id=&quot;5-opendata&quot;&gt;5. Opendata&lt;/h3&gt;
-
-&lt;p&gt;Otevřená data jsou podstatným dílkem do celkové mozaiky digitální transformace. Publikace opendat je zároveň téměř vždy správným a většinou relativně jednoduchým krokem. Jak jsem ukázal například na &lt;a href=&quot;http://opendata.praha.eu/&quot;&gt;opendata.praha.eu&lt;/a&gt;. Snažíme se proto pracovat i na nových opendatech Poslanecké sněmovny, neboť ta stará jsou nevyhovující a pokrývají jen část podstatných informací. Dále připravujeme otevřená data v oblasti zemědělských dotací a data se rovněž snažíme zveřejňovat na úřadech, kde mají Piráti své zastupitele.&lt;/p&gt;
-
-&lt;h3 id=&quot;6-připomínkování-a-zavádění-evropské-legislativy&quot;&gt;6. Připomínkování a zavádění evropské legislativy&lt;/h3&gt;
-
-&lt;p&gt;Velká část pozitivních jevů v oblasti digitalizace pochází z EU. Díky ní máme například jednotnou identitu, podpisové certifikáty (oboje obsažené v nařízení EIDAS), posilují se práva občana rozhodovat o jeho osobních údajích (&lt;a href=&quot;https://www.profant.eu/2019/prinos-gdpr.html&quot;&gt;GDPR&lt;/a&gt;), vznikají kvalitní pravidla pro přístupnost webových stránek a mobilních aplikací. Piráti se snaží o rozumné, vyvážené a citlivé zavádění evropské legislativy do českého právního řádu. Zároveň se snažíme působit i v opačném směru a předáváme smysluplné podněty Evropské komisi (jako je třeba &lt;strong&gt;výzva k širšímu využívání open source software a hardware&lt;/strong&gt;).
-Samozřejmě, občas také z Bruselu přijdou návrhy, které podpořit nemůžeme. Třeba snaha pod zástěrkou boje proti terorismu zavést rychlé mazání na internetu - a když se to stalo, iniciovali jsme &lt;a href=&quot;https://www.pirati.cz/tiskove-zpravy/terorismus-jako-bic-na-internet-pirati-odmitli.html&quot;&gt;odůvodněné stanovisko proti&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Usnesení Výboru pro evropské záležitosti, kterými Piráti podpořili širší využívání otevřených technologií a licencí v EU, posílení kybernetické obrany a dodržování ochrany osobních údajů:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.psp.cz/sqw/text/text2.sqw?idd=143950&quot;&gt;Usnesení č. 22 (31. ledna 2018)&lt;/a&gt;, které hovoří o certifikaci HW pomocí ENISA.&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.psp.cz/sqw/text/text2.sqw?idd=144581&quot;&gt;Usnesení č. 44 (14. března 2018)&lt;/a&gt;, které hovoří o podpoře děl pod svobodnou licencí a k využívání open-source software a hardware při tvorbě technických norem. Též zdůrazňuje práva daná Listinou základních práv Evropské Unie, především pak právo na soukromí, právo na ochranu osobních údajů.&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.psp.cz/sqw/text/text2.sqw?idd=149346&quot;&gt;Usnesení č. 118 (20. června 2018)&lt;/a&gt;, které vyzývá k zpřístupňování výsledků výzkumu umělé inteligence formou otevřených algoritmů, software, hardware a publikací s otevřeným přístupem;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;7-elektronické-podpisy-aneb-jít-příkladem&quot;&gt;7. Elektronické podpisy aneb jít příkladem&lt;/h3&gt;
-
-&lt;p&gt;Státní správa je zkonstnatělá a Poslanecká sněmovna je toho příkladem. Když jsme nastupovali jako noví poslanci, byl problém komunikovat se sněmovnou pomocí datové schránky. Nyní již chodí pozvánky na jednání pléna Sněmovny skrze datovou schránkou. Za pomoci kancléře se nám podařilo připravit pilotní projekt elektronického podepisování dokumentů. Náš právní řád zná elektronický podpis již dlouho, ale v praxi k jeho využívání příliš nedochází. &lt;strong&gt;Proto jsme se rozhodli jít příkladem&lt;/strong&gt; a na Podvýboru pro egovernment a Podvýboru pro digitalizaci justice a e-Sbírku podepisujeme pozvánky, zápisy a usnesení elektronicky. V souvislosti s tím jsme zařídili, že přímo v Poslanecké sněmovně se poslancům vydávají elektronické podpisy na elektronickou občanku.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.pirati.cz/tiskove-zpravy/piratsti-poslanci-zacali-vyuzivat-el-podpis.html&quot;&gt;Tisková zpráva k používání elektronického podpisu&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;8-technické-normy&quot;&gt;8. Technické normy&lt;/h3&gt;
-
-&lt;p&gt;Technické normy jsou pro rozvoj digitalizace důležité. Podařilo se nám dosáhnout sponzorovaného zpřístupnění technické normy k digitální faktuře, kterou budou potřebovat každý autor SW zpracovávající takový doklad. Další technické normy však zůstávají přístupné pouze za poplatek. &lt;strong&gt;Proto jsme na sněmovním plénu prosadili doprovodné usnesení&lt;/strong&gt;, které zaúkolovalo vládu řešením této situace.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.profant.eu/2019/technicke-normy-saga.html&quot;&gt;Informace o technických normách a jejich zpřístupnění&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;9-tvrdá-opoziční-práce&quot;&gt;9. Tvrdá opoziční práce&lt;/h3&gt;
-
-&lt;p&gt;Hlavním úkolem Pirátů v opozici je především hlídat vládní návrhy a smysluplně je kritizovat a připomínkovat. Tento svůj úkol se snažíme svědomitě plnit, zároveň však nechceme na vládu jen hloupě útočit. Naše kritika musí mít racionální základ a být založena na faktech. V oblasti digitalizaci jsme tímto způsobem přistupovali třeba ke zhodnocení plánu &lt;a href=&quot;https://www.profant.eu/2018/jak-se-rozviji-egov.html&quot;&gt;rozvoje českého egovernmentu&lt;/a&gt; a jeho plnění. Rovněž jsme se vyjádřili ke strategickému rámci pro chystaný egovernment cloud (&lt;a href=&quot;https://www.profant.eu/2018/vlada-v-oblacich.html&quot;&gt;1. část&lt;/a&gt;, &lt;a href=&quot;https://www.profant.eu/2018/egov-cloud.html&quot;&gt;2. část&lt;/a&gt;). Nepolevujeme ani v kritice konkrétních projektů a zakázek, upozornili jsme například na problémy s Národním elektronickým nástrojem, Elektronickou evidencí tržeb, &lt;a href=&quot;https://www.pirati.cz/tiskove-zpravy/otevreny-dopis-piratu-predrazene-it-v-mpsv.html&quot;&gt;OKsystémem Ministerstva práce a sociálních věcí&lt;/a&gt; nebo &lt;a href=&quot;https://www.pirati.cz/tiskove-zpravy/datova-centra-za-42mil-vzbuzuji-podezreni-rika-profant.html&quot;&gt;podezřelou zakázku na nová datová centra Ministerstva vnitra&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Piráti se snaží o inovativní přístup k informační politice státu, chceme českou digitalizaci dostat na úroveň odpovídající novému miléniu. Narážíme však často na nepochopení a praktiky obvyklé ještě v minulém století. I v následujících letech nás proto čeká těžký boj za to, aby moderní technologie občanům život opravdu usnadňovaly, nikoliv ztěžovaly a přinášely nové povinnosti.&lt;/p&gt;
-
-&lt;p&gt;Další informace o naší práci můžete najít a filtrovat na webu &lt;a href=&quot;https://piratipracuji.cz&quot;&gt;piratipracuji.cz&lt;/a&gt;.&lt;/p&gt;</content><author><name>Ondřej Profant</name></author><category term="Piráti" /><category term="sněmovna" /><category term="digitalizace" /><category term="egovernment" /><summary type="html">Pan premiér Babiš se s velkou oblibou posměšně trefuje do pirátských poslanců, že v životě nic nedokázali a o té digitalizaci taky jenom žvaní. Přesto jsme měli jako Piráti jen rok a pár měsíců po volbách na poli digitalizace hned několik významných úspěchů. Co pro vás tedy v té digitalizaci děláme?</summary></entry></feed>
+--&gt;</content><author><name>Ondřej Profant</name></author><category term="egovernment" /><category term="digitalizace" /><category term="informatika" /><category term="veřejná správa" /><category term="otevřený software" /><category term="bezpečnost" /><category term="otevřený hardware" /><summary type="html">Záznam rozhovoru z Klubu Evropa o digitalizaci veřejné zprávy, vendor lock-inu, bezpečnosti, problémech a pozitivních příkladech.</summary></entry></feed>
