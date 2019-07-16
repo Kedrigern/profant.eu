@@ -10,7 +10,7 @@ author:     Ondřej Profant
 video:      https://www.youtube.com/embed/jdRcsJ2RsaY
 ---
 
-Záznam rozhovoru z [Klubu Evropa](https://www.facebook.com/events/290126941922266/) o digitalizaci veřejné zprávy, vendor lock-inu, bezpečnosti, problémech a pozitivních příkladech.
+Záznam rozhovoru z [Klubu Evropa](https://www.facebook.com/events/290126941922266/) o digitalizaci veřejné správy, vendor lock-inu, bezpečnosti, problémech a pozitivních příkladech.
 
 <!--more-->
 
