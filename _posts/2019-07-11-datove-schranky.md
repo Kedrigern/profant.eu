@@ -67,14 +67,14 @@ Na datových schránkách je samozřejmě potřeba pracovat do budoucna, aby byl
 
 ---
 
-[^1]: Deset let datových schránek v Česku: https://computerworld.cz/internet-a-komunikace/deset-let-datovych-schranek-v-cesku-55491
+[^1]: Deset let datových schránek v Česku: [https://computerworld.cz/internet-a-komunikace/deset-let-datovych-schranek-v-cesku-55491]
 
-[^2]: Datové schránky: https://www.jaknainternet.cz/page/1264/datove-schranky/
+[^2]: Datové schránky: [https://www.jaknainternet.cz/page/1264/datove-schranky/]
 
 [^3]: Informace z odboru egovernmentu MVČR
 
-[^4]: Ceník služeb České pošty platný k 1. 6. 2019: https://www.ceskaposta.cz/ke-stazeni/cenik-sluzeb-ceske-posty
+[^4]: Ceník služeb České pošty platný k 1. 6. 2019: [https://www.ceskaposta.cz/ke-stazeni/cenik-sluzeb-ceske-posty]
 
-[^5]: Jak funguje a co nabízí Portál občana: https://www.lupa.cz/clanky/jak-funguje-a-co-nabizi-portal-obcana/ 
+[^5]: Jak funguje a co nabízí Portál občana: [https://www.lupa.cz/clanky/jak-funguje-a-co-nabizi-portal-obcana/]
 
-[^6]: Pilíře e-governmentu ČR: https://www.profant.eu/2018/pilire-egovernmentu-cr.html
+[^6]: Pilíře e-governmentu ČR: [https://www.profant.eu/2018/pilire-egovernmentu-cr.html]
