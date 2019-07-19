@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Zpráva o transparentnosti duben 2019 - červen 2019"
-date:       2019-07-19 17:00:00 +0100
+date:       2019-07-19 16:00:00 +0100
 categories: report
 comments:   true
 tags:       [transparence, report, Piráti]
@@ -112,7 +112,7 @@ Poskytl jsem rozsáhlý rozhovor na téma digitalizace veřejné správy v rámc
 
 **Komentáře k českému e-Governmentu**
 
-Pro internetový magazín Svět chytře jsem začal psát komentáře o e-Governmentu a souvisejících tématech. V prvním článku (https://svetchytre.cz/a/pvNMz/co-ceske-vlady-nechapou-na-e-governmentu) jsem se zabýval nepochopením principů a smyslu e-Governmentu, ve druhém (https://svetchytre.cz/a/ptEN3/babisovy-digitalni-vzdusne-zamky-aneb-slibem-nezarmoutis) pak prázdnými sliby Andreje Babiše ve vztahu k digitalizaci.
+Pro internetový magazín Svět chytře jsem začal psát komentáře o e-Governmentu a souvisejících tématech. V [prvním článku](https://svetchytre.cz/a/pvNMz/co-ceske-vlady-nechapou-na-e-governmentu) jsem se zabýval nepochopením principů a smyslu e-Governmentu, ve [druhém](https://svetchytre.cz/a/ptEN3/babisovy-digitalni-vzdusne-zamky-aneb-slibem-nezarmoutis) pak prázdnými sliby Andreje Babiše ve vztahu k digitalizaci.
 
 * [Seznam článků](https://svetchytre.cz/author/ondrej-profant)
 
@@ -186,7 +186,7 @@ Na členské schůzi spolku Otevřená města jsem rezignoval na funkci předsed
 
 Ve Sněmovně se 18. 6. podařilo definitivně schválit finální znění novely zákona o registru smluv, která byla vrácena ze Senátu. Jako sněmovní zpravodaj této novely mám velkou radost, protože zákon umožní lepší kontrolu vynakládání veřejných prostředků a pomůže tak v boji proti korupci.
 
-* [Tisková zpráva]https://www.pirati.cz/tiskove-zpravy/registr-smluv-konec-vyjimek.html
+* [Tisková zpráva](https://www.pirati.cz/tiskove-zpravy/registr-smluv-konec-vyjimek.html)
 
 Při hlasování o vyslovení nedůvěry vládě jsem 26. 6. pochopitelně hlasoval hlasoval proti dalšímu pokračování Babišovy vlády.
 
