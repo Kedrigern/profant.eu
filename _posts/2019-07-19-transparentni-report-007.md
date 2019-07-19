@@ -31,7 +31,7 @@ Jednotlivá ministerstva nedostatečně využívají registr smluv a publikují 
 
 Ve spolupráci s kancléřem Poslanecké sněmovny piráti iniciovali projekt elektronického podepisování. Podvýbor jehož jsem předsedou jako první elektronický podpis oficiálně použil.
 
-* (https://www.pirati.cz/tiskove-zpravy/piratsti-poslanci-zacali-vyuzivat-el-podpis.html)
+* [Tisková zpráva](https://www.pirati.cz/tiskove-zpravy/piratsti-poslanci-zacali-vyuzivat-el-podpis.html)
 
 **Problematika vypínání webů**
 
@@ -95,8 +95,8 @@ Vláda přijala neutrální stanoviska k návrhu Pirátů a dalších stran na z
 
 Zúčastnil jsem se demonstrací za nezávislost justice, abych jako občan této země dal najevo, že mi záleží na principech právního státu.
 
-* 6. 5. [Demonstrace na Staroměstském náměstí](https://www.facebook.com/ondrej.profant/posts/10214185739704151)
-* 21. 5. [Demonstrace na Václavském náměstí](https://www.facebook.com/ondrej.profant/posts/10214284198485559)
+* 6.5. [Demonstrace na Staroměstském náměstí](https://www.facebook.com/ondrej.profant/posts/10214185739704151)
+* 21.5. [Demonstrace na Václavském náměstí](https://www.facebook.com/ondrej.profant/posts/10214284198485559)
 
 **Účast na oslavě narozenin strany**
 
