@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Zpráva o transparentnosti duben 2019 - červen 2019"
-date:       2019-05-17 17:00:00 +0100
+date:       2019-07-19 17:00:00 +0100
 categories: report
 comments:   true
 tags:       [transparence, report, Piráti]
