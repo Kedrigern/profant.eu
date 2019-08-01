@@ -2,7 +2,7 @@
 layout:     video
 title:      "Video: Občan má právo podat věc elektronicky"
 date:       2019-05-16 20:00:00 +0100
-categories: digitalizace
+categories: Digitalizace
 comments:   true
 tags:       [egovernment, digitalizace, informatika, veřejná správa, otevřený software, open data]
 img:        video_egovernment_port_x.png
