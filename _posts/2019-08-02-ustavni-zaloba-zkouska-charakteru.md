@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Ústavní žaloba na prezidenta jako zkouška charakteru poslanců"
-date:       2019-07-02 10:00:00 +0100
+date:       2019-08-02 10:00:00 +0100
 categories: Sněmovna
 comments:   true
 tags:       [Piráti, sněmovna, právní stát]
