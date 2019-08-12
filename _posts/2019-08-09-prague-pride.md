@@ -1,4 +1,4 @@
----
+﻿---
 layout:     post
 title:      "Prague Pride: Oslava jinakosti"
 date:       2019-08-09 10:00:00 +0100
@@ -13,13 +13,13 @@ Tento týden probíhá v Praze festival Prague Pride. Ten se v České republice
 
 <!--more-->
 
-Diskriminace je špatná ve všech svých podobách, proto jako Piráti usilujeme o rovnoprávný přístup ke všem skupinám obyvatel bez ohledu na jejich rasu, věk, náboženské vyznání nebo právě sexuální preference. Prague Pride je tak oslavou jinakosti, která nám pomáhá v sobě najít toleranci k lidem, kteří se na svět (nebo v tomto případě na sex) dívají jinak než většinová populace.
+Diskriminace je špatná ve všech svých podobách, proto jako Piráti usilujeme o rovnoprávný přístup ke všem skupinám obyvatel bez ohledu na jejich rasu, věk, náboženské vyznání nebo právě sexuální preference či genderovou identitu. Prague Pride je tak oslavou jinakosti, která nám pomáhá v sobě najít toleranci k lidem, kteří se na svět (nebo v tomto případě na sex) dívají jinak než většinová populace.
 
 Letošní ročník Prague Pride už podpořili pirátský primátor Zdeněk Hřib nebo moji kolegové ze Sněmovny Ivan Bartoš a František Kopřiva a spousta dalších Pirátů. Chtěl bych proto také dát najevo své odhodlání hájit práva menšin na rovné zacházení před zákonem.
 
-To se v současné době týká především [návrhu zákona (ST 201)](http://www.psp.cz/sqw/historie.sqw?o=8&t=201) projednávaného ve Sněmovně, který by homosexuálům umožňoval uzavřít manželství. Přestože se o tomto návrhu říká, že je "kontroverzní", mně osobně připadá naprosto normální. Naopak za absurdní považuji, že to dneska může někoho ještě pobuřovat. A že na světě stále ještě existuje velké množství států, kde jsou osoby s jinou sexuální orientací pronásledovány, utlačovány a někdy i přímo fyzicky likvidovány.
+To se v současné době týká především [návrhu zákona (ST 201)](http://www.psp.cz/sqw/historie.sqw?o=8&t=201) projednávaného ve Sněmovně, který by osobám stejného pohlaví umožňoval uzavřít manželství. Přestože se o tomto návrhu říká, že je "kontroverzní", mně osobně připadá naprosto normální. Naopak za absurdní považuji, že to dneska může někoho ještě pobuřovat. A že na světě stále ještě existuje velké množství států, kde jsou osoby s jinou sexuální orientací pronásledovány, utlačovány a někdy i přímo fyzicky likvidovány.
 
-Skutečnost, že mají dva lidé stejné pohlaví, by rozhodně neměla být překážkou jejich sňatku. Manželství totiž není otázkou nějakého nedotknutelného svatého symbolu, jak se nám snaží podsouvat konzervativní kritikové. Manželství je z hlediska zákona otázkou právní, která se dotýká témat jako jsou společný majetek, daňové úlevy nebo vdovské důchody. Je proto nesmyslné, aby k homosexuálům (bisexuálům, transexuálům a jiným) zákon přistupoval jinak, než jak činí vůči heterosexuálům.
+Skutečnost, že mají dva lidé stejné pohlaví, by rozhodně neměla být překážkou jejich sňatku. Manželství totiž není otázkou nějakého nedotknutelného svatého symbolu, jak se nám snaží podsouvat konzervativní kritikové. Manželství je z hlediska zákona otázkou právní, která se dotýká témat jako jsou společný majetek, daňové úlevy nebo vdovské důchody. Je proto nesmyslné, aby k partnerům stejného pohlaví zákon přistupoval jinak.
 
 **Piráti na Prague Pride 2018**
 
