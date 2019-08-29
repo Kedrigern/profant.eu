@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="https://www.profant.eu/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.profant.eu/" rel="alternate" type="text/html" /><updated>2019-08-28T09:05:59+00:00</updated><id>https://www.profant.eu/feed.xml</id><title type="html">Blog Ondřeje Profanta</title><subtitle>Zápisník pirátského poslance Ondřeje Profanta, který se zaměřuje na opendata a e-government. Rád bych byl, aby Česká republika byla moderním státem s rozvinutou digitální ekonomikou, kde je kladen silný důraz na vzdělávání a svobodu. V digitalizaci se musíme inspirovat ve Velké Britanii a Estonsku, řešení musí být otevřená a uživatelsky přívětivá.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="https://www.profant.eu/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.profant.eu/" rel="alternate" type="text/html" /><updated>2019-08-29T11:06:54+00:00</updated><id>https://www.profant.eu/feed.xml</id><title type="html">Blog Ondřeje Profanta</title><subtitle>Zápisník pirátského poslance Ondřeje Profanta, který se zaměřuje na opendata a e-government. Rád bych byl, aby Česká republika byla moderním státem s rozvinutou digitální ekonomikou, kde je kladen silný důraz na vzdělávání a svobodu. V digitalizaci se musíme inspirovat ve Velké Britanii a Estonsku, řešení musí být otevřená a uživatelsky přívětivá.
 </subtitle><author><name>Ondřej Profant</name></author><entry><title type="html">Prague Pride: Oslava jinakosti</title><link href="https://www.profant.eu/2019/prague-pride.html" rel="alternate" type="text/html" title="Prague Pride: Oslava jinakosti" /><published>2019-08-09T09:00:00+00:00</published><updated>2019-08-09T09:00:00+00:00</updated><id>https://www.profant.eu/2019/prague-pride</id><content type="html" xml:base="https://www.profant.eu/2019/prague-pride.html">&lt;p&gt;Tento týden probíhá v Praze festival Prague Pride. Ten se v České republice koná každoročně už od roku 2011 a Piráti se ho pravidelně účastní, aby vyjádřili svou podporu lidem s odlišnou sexuální orientací. Sexualita je totiž záležitostí ryze osobní a intimní povahy, stát by do ní tedy skrze své zákony neměl zasahovat, neboť se jedná o svobodu projevu každého jednotlivce.&lt;/p&gt;
 
 &lt;!--more--&gt;
@@ -340,6 +340,7 @@
 &lt;p&gt;Pro větší pohodlí při užívání je třeba si datovou schránku přizpůsobit v jejím nastavení. Existuje naštěstí několik způsobů, jak se dá z uživatelského pohledu používání datových schránek vylepšit.&lt;/p&gt;
 
 &lt;ul&gt;
+  &lt;li&gt;Fyzická osoba může mít několik datových schránek (DS “nepodnikající” fyzické osoby, DS podnikající fyzické osoby, případně speciální DS). Některé agendy lze provádět jen z příslušné DS. Pokud jste podnikatel, zřiďte si oba typy DS, protože např. z DS fyzické osoby podnikající o výpis z rejstříku trestů nelze požádat.&lt;/li&gt;
   &lt;li&gt;Lze si nastavit upozornění o nových zprávách na mail&lt;/li&gt;
   &lt;li&gt;CZ.nic vyrobil aplikaci Datovka, která je klientem k datovým schránkám podobným jako známe u mailů&lt;/li&gt;
   &lt;li&gt;MVČR představilo aplikaci Mobilní klíč, která umožňuje přihlásit se k systému datových schránek přes mobil (nepotřebujete u sebe mít přihlašovací údaje)&lt;/li&gt;
@@ -352,14 +353,16 @@
 &lt;p&gt;Datové schránky jako prostředek pro elektronickou komunikaci mezi občanem a státem jsou významným prvkem v konceptu českého e-Governmentu&lt;sup id=&quot;fnref:6&quot;&gt;&lt;a href=&quot;#fn:6&quot; class=&quot;footnote&quot;&gt;6&lt;/a&gt;&lt;/sup&gt;. Piráti se proto snaží prosazovat jejich širší využívání a posílit jejich legislativní rámec.&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Navrhli jsme rozšířit poněkud zastaralý seznam formátů (definováno ve vyhlášce)
-Upozornili jsme na to, že přístupové údaje do dalších schránek (například právnických osob) se neodešlou do datovky, ale listinně, i když dotyčná osoba datovku má&lt;/li&gt;
+  &lt;li&gt;Navrhli jsme rozšířit poněkud zastaralý seznam formátů (definováno ve vyhlášce).&lt;/li&gt;
+  &lt;li&gt;Upozornili jsme na to, že přístupové údaje do dalších schránek (například právnických osob) se neodešlou do datovky, ale listinně, i když dotyčná osoba datovku má&lt;/li&gt;
   &lt;li&gt;V rámci Youth Speak Up jsme jednali o fikci doručení&lt;/li&gt;
   &lt;li&gt;Hlasovali jsme pro notifikaci konce platnosti řidičského průkazu prostřednictvím datové schránky&lt;/li&gt;
   &lt;li&gt;Podíleli jsme se na připomínkování Portálu občana, který datové schránky využívá&lt;/li&gt;
   &lt;li&gt;Kritizujeme nepřiměřenou cenu ISDS (jedním z viditelných důvodů je řetězec subdodavatelů)&lt;/li&gt;
   &lt;li&gt;Učíme úřady datové schránky častěji využívat (například při našem příchodu s námi nechtěla Sněmovna komunikovat elektronicky)&lt;/li&gt;
-  &lt;li&gt;Datovými schránkami se zabýváme v rámci Zákonu o právu na digitální službu&lt;/li&gt;
+  &lt;li&gt;Datovými schránkami se zabýváme v rámci Zákonu o právu na digitální služby&lt;/li&gt;
+  &lt;li&gt;Podporujeme projednávanou novelu, aby datovou schránku šlo zřídit s použitím prostředků elektronické indentifikace online&lt;/li&gt;
+  &lt;li&gt;Dlouhodobě kritizujeme nedostatečnou vnější komunikaci Ministerstva vnitra k ISDS&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h3 id=&quot;jaké-další-kroky-chystáme&quot;&gt;Jaké další kroky chystáme?&lt;/h3&gt;
@@ -369,6 +372,7 @@ Upozornili jsme na to, že přístupové údaje do dalších schránek (napřík
 &lt;ul&gt;
   &lt;li&gt;Navrhneme centrální registr XML schémat, abychom podpořili využívání strojově čitelných formátů&lt;/li&gt;
   &lt;li&gt;Budeme podporovat snížení poplatků za odesílání datových zpráv, dlouhodobě pak budeme usilovat o jejich úplné zrušení&lt;/li&gt;
+  &lt;li&gt;Navrhneme povinnost pro banky a pojišťovny umožnit klientům komunikaci s nimi formou DS&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;hr /&gt;
