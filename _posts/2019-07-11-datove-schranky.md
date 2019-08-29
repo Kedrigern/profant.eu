@@ -25,7 +25,7 @@ Výrazně silnější stránka datových schránek je na straně veřejné sprá
 
 ### Hlavní problémy
 
-Datové schránky[^2] mi celkově nepřipadají jako nejlepší koncept. Osobně si myslím, že se mělo jít spíše cestou certifikovaných emailů. Nicméně datové schránky už jednou máme a používat je lze. Spousta problémů vzniká jen ze způsobu použití. Například obsese úředníků v nepraktickém formátu PDF je až zarážející. 
+Datové schránky[^2] mi celkově nepřipadají jako nejlepší koncept. Osobně si myslím, že se mělo jít spíše cestou certifikovaných emailů. Nicméně datové schránky už jednou máme a používat je lze. Spousta problémů vzniká jen ze způsobu použití. Například obsese úředníků v nepraktickém formátu PDF je až zarážející.
 
 Uživatele nejvíce trápí již zmíněná omezená doba uložení zprávy a omezení velikosti zprávy. Oboje je v dnešní době zcela směšné a je chybou MVČR, že tyto problémy neřeší.
 
@@ -39,6 +39,7 @@ Nepraktické je rovněž počáteční nastavení datové schránky. V základn�
 
 Pro větší pohodlí při užívání je třeba si datovou schránku přizpůsobit v jejím nastavení. Existuje naštěstí několik způsobů, jak se dá z uživatelského pohledu používání datových schránek vylepšit.
 
+* Fyzická osoba může mít několik datových schránek (DS "nepodnikající" fyzické osoby, DS podnikající fyzické osoby, případně speciální DS). Některé agendy lze provádět jen z příslušné DS. Pokud jste podnikatel, zřiďte si oba typy DS, protože např. z DS fyzické osoby podnikající o výpis z rejstříku trestů nelze požádat.
 * Lze si nastavit upozornění o nových zprávách na mail
 * CZ.nic vyrobil aplikaci Datovka, která je klientem k datovým schránkám podobným jako známe u mailů
 * MVČR představilo aplikaci Mobilní klíč, která umožňuje přihlásit se k systému datových schránek přes mobil (nepotřebujete u sebe mít přihlašovací údaje)
@@ -49,14 +50,16 @@ Pro větší pohodlí při užívání je třeba si datovou schránku přizpůso
 
 Datové schránky jako prostředek pro elektronickou komunikaci mezi občanem a státem jsou významným prvkem v konceptu českého e-Governmentu[^6]. Piráti se proto snaží prosazovat jejich širší využívání a posílit jejich legislativní rámec.
 
-* Navrhli jsme rozšířit poněkud zastaralý seznam formátů (definováno ve vyhlášce)
-Upozornili jsme na to, že přístupové údaje do dalších schránek (například právnických osob) se neodešlou do datovky, ale listinně, i když dotyčná osoba datovku má
+* Navrhli jsme rozšířit poněkud zastaralý seznam formátů (definováno ve vyhlášce).
+* Upozornili jsme na to, že přístupové údaje do dalších schránek (například právnických osob) se neodešlou do datovky, ale listinně, i když dotyčná osoba datovku má
 * V rámci Youth Speak Up jsme jednali o fikci doručení
 * Hlasovali jsme pro notifikaci konce platnosti řidičského průkazu prostřednictvím datové schránky
 * Podíleli jsme se na připomínkování Portálu občana, který datové schránky využívá
-* Kritizujeme nepřiměřenou cenu ISDS (jedním z viditelných důvodů je řetězec subdodavatelů) 
+* Kritizujeme nepřiměřenou cenu ISDS (jedním z viditelných důvodů je řetězec subdodavatelů)
 * Učíme úřady datové schránky častěji využívat (například při našem příchodu s námi nechtěla Sněmovna komunikovat elektronicky)
-* Datovými schránkami se zabýváme v rámci Zákonu o právu na digitální službu
+* Datovými schránkami se zabýváme v rámci Zákonu o právu na digitální služby
+* Podporujeme projednávanou novelu, aby datovou schránku šlo zřídit s použitím prostředků elektronické indentifikace online
+* Dlouhodobě kritizujeme nedostatečnou vnější komunikaci Ministerstva vnitra k ISDS
 
 ### Jaké další kroky chystáme?
 
@@ -64,6 +67,7 @@ Na datových schránkách je samozřejmě potřeba pracovat do budoucna, aby byl
 
 * Navrhneme centrální registr XML schémat, abychom podpořili využívání strojově čitelných formátů
 * Budeme podporovat snížení poplatků za odesílání datových zpráv, dlouhodobě pak budeme usilovat o jejich úplné zrušení
+* Navrhneme povinnost pro banky a pojišťovny umožnit klientům komunikaci s nimi formou DS
 
 ---
 
