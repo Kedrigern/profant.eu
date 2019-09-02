@@ -2,9 +2,9 @@
 layout:     post
 title:      "Pracovní konec letních prázdnin"
 date:       2019-09-02 10:00:00 +0100
-categories: Sněmovna
+categories: Piráti
 comments:   true
-tags:       [Piráti, sněmovna, právní stát]
+tags:       [Piráti, sněmovna, právní stát, digitalizace]
 img:        ondra-ivan.png
 author:     Ondřej Profant
 ---
