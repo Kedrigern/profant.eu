@@ -1,10 +1,10 @@
 ---
 layout:     post
-title:      "Přechylování"
+title:      "Přechylování ženských příjmení"
 date:       2019-09-09 10:00:00 +0100
 categories: Piráti
 comments:   true
-tags:       [Piráti]
+tags:       [Piráti, příjmení, matriky, jména, ová]
 img:        prechylovani.jpg
 author:     Ondřej Profant
 ---
