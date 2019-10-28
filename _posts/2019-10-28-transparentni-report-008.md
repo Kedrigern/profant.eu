@@ -128,7 +128,7 @@ Podpořil jsem svobodnou volbu žen ohledně podoby jejich příjmení. Myslím 
 
 Cesta Zákonu o právu na digitální službu pokračovala v září i přes Výbor pro veřejnou správu a regionální rozvoj. Dále jsme projednávali také Strategii regionálního rozvoje ČR 2021 nebo Zákon o základních registrech. 
 
-* [Tiskové zpráva ZPDS](https://www.pirati.cz/tiskove-zpravy/zakon-o-pravu-na-digitalni-sluzbu-podporen-garancnim-vyborem.html)
+* [Tisková zpráva ZPDS](https://www.pirati.cz/tiskove-zpravy/zakon-o-pravu-na-digitalni-sluzbu-podporen-garancnim-vyborem.html)
 * [Tisková zpráva potvrzení o studiu](https://www.pirati.cz/tiskove-zpravy/prosazujeme-elektronicke-potvrzeni-o-studiu.html)
 
 **Výzva k připojení se k žalobě proti směrnici o copyrightu**
@@ -147,13 +147,13 @@ Pátek 13. 9. byl skutečně nešťastným dnem: Sněmovnou prošlo rozšířen�
 
 Na schůzi resortního týmu jsme řešili aktuální témata jako Zákon o právu na digitální službu, bankovní identitu (SONIA) a její využití pro komunikaci se státem, digitální technickou mapu nebo implementaci směrnice o copyrightu. Věnovali jsme se i komunikaci resortního týmu s krajskými expertními týmy a informování zbytku strany i veřejnosti.
 
-[Zápis na fóru](https://forum.pirati.cz/viewtopic.php?f=544&t=45888&p=636111#p642345)
+* [Zápis na fóru](https://forum.pirati.cz/viewtopic.php?f=544&t=45888&p=636111#p642345)
 
 **Sněmovna**
 
-* 24. 9. Neprošel pirátský návrh na toleranci piva pro vodáky, ale Pirátům se podařilo dosáhnout snížení odměn politiků kumulujících funkce.
-* 25. 9. Podařilo se dosáhnout velkých úspěchů na poli digitalizace: Zákon o právu na digitální službu prošel druhým čtením, Digitální technická mapa a využívání bankovních identit pak prošly prvním čtením. 
-* 26. 9. Se projednávala ústavní žaloba na prezidenta. Přestože bylo vzhledem k rozložení sil ve Sněmovně jasné, jak to dopadne, hlasoval jsem pro podání žaloby. Svůj pohled na žalobu jsem srhnul ve [svém článku] (https://www.profant.eu/2019/ustavni-zaloba-zkouska-charakteru.html)
+* 24.9. Neprošel pirátský návrh na toleranci piva pro vodáky, ale Pirátům se podařilo dosáhnout snížení odměn politiků kumulujících funkce.
+* 25.9. Podařilo se dosáhnout velkých úspěchů na poli digitalizace: Zákon o právu na digitální službu prošel druhým čtením, Digitální technická mapa a využívání bankovních identit pak prošly prvním čtením. 
+* 26.9. Se projednávala ústavní žaloba na prezidenta. Přestože bylo vzhledem k rozložení sil ve Sněmovně jasné, jak to dopadne, hlasoval jsem pro podání žaloby. Svůj pohled na žalobu jsem srhnul ve [svém článku](https://www.profant.eu/2019/ustavni-zaloba-zkouska-charakteru.html)
 
 * [Tisková zpráva shrnutí schůze](https://www.pirati.cz/tiskove-zpravy/brifink-34schuze-pokracovani.html)
 * [Tisková zpráva kumulace platů](https://www.pirati.cz/tiskove-zpravy/kumulace-platu-bude-omezena.html)
