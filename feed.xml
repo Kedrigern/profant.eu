@@ -1,5 +1,79 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="https://www.profant.eu/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.profant.eu/" rel="alternate" type="text/html" /><updated>2019-11-14T08:48:42+00:00</updated><id>https://www.profant.eu/feed.xml</id><title type="html">Blog Ondřeje Profanta</title><subtitle>Zápisník pirátského poslance Ondřeje Profanta, který se zaměřuje na opendata a e-government. Rád bych byl, aby Česká republika byla moderním státem s rozvinutou digitální ekonomikou, kde je kladen silný důraz na vzdělávání a svobodu. V digitalizaci se musíme inspirovat ve Velké Britanii a Estonsku, řešení musí být otevřená a uživatelsky přívětivá.
-</subtitle><author><name>Ondřej Profant</name></author><entry><title type="html">Zpráva o transparentnosti červenec 2019 - září 2019</title><link href="https://www.profant.eu/2019/transparentni-report-008.html" rel="alternate" type="text/html" title="Zpráva o transparentnosti červenec 2019 - září 2019" /><published>2019-10-28T15:00:00+00:00</published><updated>2019-10-28T15:00:00+00:00</updated><id>https://www.profant.eu/2019/transparentni-report-008</id><content type="html" xml:base="https://www.profant.eu/2019/transparentni-report-008.html">&lt;p&gt;Souhrnný report mé činnosti v období červenec až září 2019. Nejčerstvější informace o mých aktivitách naleznete na mých profilech na sociálních sítích a zde na blogu v sekci &lt;a href=&quot;https://www.profant.eu/transparentnost/&quot;&gt;Otevřenost&lt;/a&gt;.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="https://www.profant.eu/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.profant.eu/" rel="alternate" type="text/html" /><updated>2019-11-14T11:22:53+00:00</updated><id>https://www.profant.eu/feed.xml</id><title type="html">Blog Ondřeje Profanta</title><subtitle>Zápisník pirátského poslance Ondřeje Profanta, který se zaměřuje na opendata a e-government. Rád bych byl, aby Česká republika byla moderním státem s rozvinutou digitální ekonomikou, kde je kladen silný důraz na vzdělávání a svobodu. V digitalizaci se musíme inspirovat ve Velké Britanii a Estonsku, řešení musí být otevřená a uživatelsky přívětivá.
+</subtitle><author><name>Ondřej Profant</name></author><entry><title type="html">Digitální technická mapa projednána výborem</title><link href="https://www.profant.eu/2019/dtm-vybor.html" rel="alternate" type="text/html" title="Digitální technická mapa projednána výborem" /><published>2019-11-13T23:00:00+00:00</published><updated>2019-11-13T23:00:00+00:00</updated><id>https://www.profant.eu/2019/dtm-vybor</id><content type="html" xml:base="https://www.profant.eu/2019/dtm-vybor.html">&lt;p&gt;&lt;a href=&quot;http://www.psp.cz/sqw/historie.sqw?o=8&amp;amp;T=525&quot;&gt;Sněmovní tisk&lt;/a&gt; k &lt;a href=&quot;https://www.profant.eu/2019/dtm.html&quot;&gt;digitální technické mapě&lt;/a&gt; a pozměňovací návrhy k němu byly dnes projednány Výborem pro veřejnou správu a regionální rozvoj, kterému předsedá Ivan Bartoš. Přijatý komplexní pozměňovací návrh tak podstatně rozšířil celý návrh zákona.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;Zákon, který závádí bezešvé digitální technické mapy krajů, byl tak komplexním pozměňovacím návrhem podstatně rozšířen i o další komponenty nezbytné pro realizaci digitalizace stavebního řízení. Nově tak definuje:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Národní geoportál územního plánování&lt;/li&gt;
+  &lt;li&gt;Portál stavebníka&lt;/li&gt;
+  &lt;li&gt;Evidenci územních a stavebních řízení&lt;/li&gt;
+  &lt;li&gt;Evidenci elektronických dokumentací&lt;/li&gt;
+  &lt;li&gt;Informační systém identifikačního čísla stavby&lt;/li&gt;
+  &lt;li&gt;elektronické řešení poskytování informací vlastníkem technické infrastruktury&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Navržené znění zákona však nejde o moc dále než k pouhé definici těchto pojmů. V případě schválení zákona tak bude záležet na vyhláškách Ministerstva pro místní rozvoj a hlavně na finálním provedení těchto systémů. &lt;strong&gt;Stálou hrozbou&lt;/strong&gt; při tvorbě informačních systémů státu zůstává předraženost, nedostatečná kvalita a &lt;strong&gt;vendor lock-in&lt;/strong&gt;, jako například v případě nechvalně známých systémů &lt;a href=&quot;https://www.svetchytre.cz/a/iwWmz/pirat-profant-nas-problem-je-ze-urednik-nezamkne-obrazovku-u-pc-kdyz-od-ni-odchazi&quot;&gt;NEN&lt;/a&gt; a &lt;a href=&quot;https://www.pirati.cz/tiskove-zpravy/otevreny-dopis-piratu-predrazene-it-v-mpsv.html&quot;&gt;systémů MPSV&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;K návrhu digitální technické mapy jsem předložil dva pozměňovací návrhy řešící &lt;strong&gt;přístupnost a otevřenost dat&lt;/strong&gt;.
+Návrh zákona totiž předpokládá rozdělení na &lt;strong&gt;veřejnou a neveřejnou část&lt;/strong&gt;, kde není jasné, které informace by měly být v neveřejné části. To má určit až vyhláška Českého úřadu zeměměřičského a katastraního (ČUZK).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Argument bezpečností&lt;/strong&gt;, který používají odpůrce zveřejnění, je lichý, protože v mapě by neměly být žádné utajované objekty. V Praze je systém DTM nasazen více jak 3 roky zcela otevřeně. Vše je veřejné a nejsou s tím problémy. Data jsou dokonce od roku 2016 poskytována jako &lt;a href=&quot;http://opendata.praha.eu&quot;&gt;opendata&lt;/a&gt;. Zrušení tohoto dělení by navíc výrazně zjednodušilo architekturu celého systému, a tím &lt;strong&gt;výrazně zlevnilo vývoj&lt;/strong&gt; a pozdější údržbu.&lt;/p&gt;
+
+&lt;p&gt;Dále navrhuji doprovodné usnesení:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Výbor pro veřejnou správu a regionální rozvoj vyzývá Český úřad zeměměřičský a katastralní a Ministerstvo pro místní rozvoj, aby navrhlo v rámci prováděcích právních předpisů takový legislativní a věcný postup, který by postupně směřoval k co nejširší&lt;/p&gt;
+
+  &lt;p&gt;1) úplnosti a přesnosti dat poskytovaných vlastníky dopravní a technické infrastruktury do digitální technické mapy a&lt;/p&gt;
+
+  &lt;p&gt;2) závaznosti dat v digitální technické mapě tak, aby mohla být omezena nebo úplně zrušena povinnost získání vyjádření o existenci sítí od jejich vlastníků, správců nebo provozovatelů.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;shrnutí-pozměňovacích-návrhů&quot;&gt;Shrnutí pozměňovacích návrhů&lt;/h3&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;SD&lt;/th&gt;
+      &lt;th&gt;Název&lt;/th&gt;
+      &lt;th&gt;Předkladatel&lt;/th&gt;
+      &lt;th&gt;Popis&lt;/th&gt;
+      &lt;th&gt;Výbor&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;3643&lt;/td&gt;
+      &lt;td&gt;Zrušení neveřejné části&lt;/td&gt;
+      &lt;td&gt;Ondřej Profant&lt;/td&gt;
+      &lt;td&gt;Zrušení neveřejné části a zavedení opendat, výrazná finanční úspora při implementaci&lt;/td&gt;
+      &lt;td&gt;Nepodpořil&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;3645&lt;/td&gt;
+      &lt;td&gt;Zavedení opendat&lt;/td&gt;
+      &lt;td&gt;Ondřej Profant&lt;/td&gt;
+      &lt;td&gt;Zavedení opendat pro veřejnou část DTM&lt;/td&gt;
+      &lt;td&gt;Nepodpořil&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;3648&lt;/td&gt;
+      &lt;td&gt;Nové portály&lt;/td&gt;
+      &lt;td&gt;Martin Kupka&lt;/td&gt;
+      &lt;td&gt;Zavedení nových webových portálů, avšak bez podrobné definice&lt;/td&gt;
+      &lt;td&gt;Podpořil&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;Doprovodné usnesení&lt;/td&gt;
+      &lt;td&gt;Ondřej Profant&lt;/td&gt;
+      &lt;td&gt;Doprovodné usnesení&lt;/td&gt;
+      &lt;td&gt;Podpořil&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</content><author><name>Ondřej Profant</name></author><category term="Piráti" /><category term="sněmovna" /><category term="digitalizace" /><category term="egovernment" /><summary type="html">Sněmovní tisk k digitální technické mapě a pozměňovací návrhy k němu byly dnes projednány Výborem pro veřejnou správu a regionální rozvoj, kterému předsedá Ivan Bartoš. Přijatý komplexní pozměňovací návrh tak podstatně rozšířil celý návrh zákona.</summary></entry><entry><title type="html">Zpráva o transparentnosti červenec 2019 - září 2019</title><link href="https://www.profant.eu/2019/transparentni-report-008.html" rel="alternate" type="text/html" title="Zpráva o transparentnosti červenec 2019 - září 2019" /><published>2019-10-28T15:00:00+00:00</published><updated>2019-10-28T15:00:00+00:00</updated><id>https://www.profant.eu/2019/transparentni-report-008</id><content type="html" xml:base="https://www.profant.eu/2019/transparentni-report-008.html">&lt;p&gt;Souhrnný report mé činnosti v období červenec až září 2019. Nejčerstvější informace o mých aktivitách naleznete na mých profilech na sociálních sítích a zde na blogu v sekci &lt;a href=&quot;https://www.profant.eu/transparentnost/&quot;&gt;Otevřenost&lt;/a&gt;.&lt;/p&gt;
 
 &lt;!--more--&gt;
 
@@ -592,93 +666,4 @@ Cílem mé iniciativy tedy není vymýcení přechylování nebo znásilňován�
 
 &lt;p&gt;Při hlasování o vyslovení nedůvěry vládě jsem 26. 6. pochopitelně hlasoval hlasoval proti dalšímu pokračování Babišovy vlády.&lt;/p&gt;
 
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/R5KTOCZbvRQ&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;</content><author><name>Ondřej Profant</name></author><category term="transparence" /><category term="report" /><category term="Piráti" /><summary type="html">Souhrnný report mé činnosti v období duben až červen 2019. Nejčerstvější informace o mých aktivitách naleznete na mých profilech na sociálních sítích a zde na blogu v sekci Otevřenost.</summary></entry><entry><title type="html">Deset let datových schránek v ČR</title><link href="https://www.profant.eu/2019/datove-schranky.html" rel="alternate" type="text/html" title="Deset let datových schránek v ČR" /><published>2019-07-11T09:00:00+00:00</published><updated>2019-07-11T09:00:00+00:00</updated><id>https://www.profant.eu/2019/datove-schranky</id><content type="html" xml:base="https://www.profant.eu/2019/datove-schranky.html">&lt;p&gt;Datové schránky oslavily 1. července 2019 deset let své existence v Česku. Mezi lidmi však ani po této době nejsou přijímány příliš kladně. Často jsou vnímány jako nepraktická alternativa emailu pro komunikaci s veřejnou správou. Jejich pověsti pak nepřispěl zejména fakt, že z jejich zřízení plyne povinnost řešit některé úkony s úřady výhradně přes ni (např. podávání daňových přiznání).&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;h3 id=&quot;k-čemu-slouží&quot;&gt;K čemu slouží?&lt;/h3&gt;
-
-&lt;p&gt;Z pohledu uživatele je komunikace prostřednictvím datových schránek (DS) skutečně podobná kostrbatějšímu emailu. Uživatel dostane přidělenou unikátní adresu (ID), ze které může poslat zprávu každému jinému uživateli DS. Komunikace s orgány veřejné moci (OVM) je zdarma. Jedná se nejen o orgány státu, jako jsou ministerstva, soudy, policie a různé správní úřady, ale i obce a kraje a jejich orgány anebo třeba školy. Komunikace se soukromoprávními subjekty je zpoplatněna a lze ji vypnout. Datové zprávy nemají tělo, jejich obsah je tvořen pouze přílohami (typicky PDF nebo XML). Datová zpráva je ve schránce uchovávána po omezenou dobu 90 dní. Kapacita datové zprávy je 20 MB, v rámci komunikace o stavebním řízení se bude kapacita navyšovat.&lt;/p&gt;
-
-&lt;p&gt;K 21. červnu 2019 bylo aktivních 542 010 DS právnických osob (zřizovány povinně), 154 802 DS fyzických osob podnikajících a 142 038 DS fyzických osob&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
-
-&lt;p&gt;Celkově se tedy pro běžného občana nejedná o žádný zázrak, ale umožňuje to to důležité - předávat si ověřené dokumenty se státní správou. Velkým plusem je, že i strojově čitelné / strukturované dokumenty.&lt;/p&gt;
-
-&lt;p&gt;Výrazně silnější stránka datových schránek je na straně veřejné správy. Ta je totiž velmi rigidní a zvláště mezi sebou má problém komunikovat méně formální formou. Datové schránky nabízejí snadné propojení jakéhokoliv OVM s jakýmkoliv jiným. Čili dva úřady z druhé strany země si snadno, téměř v reálném čase, předají autentizovaně dokumenty, tedy bez pochybností o doručení a autorovi zprávy. Dané dokumenty mohou být i XML, čili následně je lze automaticky zpracovat. S trochou nadsázky se dá systém datových schránek označit za service bus veřejné správy.&lt;/p&gt;
-
-&lt;h3 id=&quot;hlavní-problémy&quot;&gt;Hlavní problémy&lt;/h3&gt;
-
-&lt;p&gt;Datové schránky&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; mi celkově nepřipadají jako nejlepší koncept. Osobně si myslím, že se mělo jít spíše cestou certifikovaných emailů. Nicméně datové schránky už jednou máme a používat je lze. Spousta problémů vzniká jen ze způsobu použití. Například obsese úředníků v nepraktickém formátu PDF je až zarážející.&lt;/p&gt;
-
-&lt;p&gt;Uživatele nejvíce trápí již zmíněná omezená doba uložení zprávy a omezení velikosti zprávy. Oboje je v dnešní době zcela směšné a je chybou MVČR, že tyto problémy neřeší.&lt;/p&gt;
-
-&lt;p&gt;I přes konzervativnost celého systému a nemalou cenu je však komunikace přes datové schránky &lt;strong&gt;levnější než klasická pošta&lt;/strong&gt;. Veřejná správa platí 2,5 Kč za zprávu. Pokud se rozpočítají fixní paušální výdaje, tak tato cena stoupne na 4,2 Kč&lt;sup id=&quot;fnref:3&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;. Pro soukromníka je cena jedné zprávy 18 Kč, doporučené psaní v listinné podobě od ČP stojí 44 Kč&lt;sup id=&quot;fnref:4&quot;&gt;&lt;a href=&quot;#fn:4&quot; class=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
-
-&lt;p&gt;Velký potenciál datových schránek tkví v použití standardizovaných formátů datových zpráv. Je tak možné zjednodušit a automatizovat v podstatě každý úkon. A to jak mezi OVM navzájem, tak i pro komunikaci fyzických a právnických osob s veřejnou správou. Je však třeba, aby zodpovědné autority tyto standardy definovaly (například jako XML schémata) a naučily se je automatizovaně přijímat a zpracovávat. Pak mohou vzniknout (i externě) potřebné formuláře a napojení na externí agendové aplikace. Ze strany uživatele tento přístup vidíme například na portálu &lt;a href=&quot;https://podejto.cz&quot;&gt;Podej to&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Nepraktické je rovněž počáteční nastavení datové schránky. V základním nastavení totiž vyžaduje změnu hesla každých 90 dnů, což je dnes i z bezpečnostního hlediska považováno za překonané. Naštěstí dnes již (po výtkách uživatelů) lze dodatečně nastavit neomezenou platnost hesla. Rovněž velice užitečná funkce notifikace emailem není v počátečním nastavení zapnutá a uživatel na ni není upozorněn.&lt;/p&gt;
-
-&lt;h3 id=&quot;tipy-a-triky&quot;&gt;Tipy a triky&lt;/h3&gt;
-
-&lt;p&gt;Pro větší pohodlí při užívání je třeba si datovou schránku přizpůsobit v jejím nastavení. Existuje naštěstí několik způsobů, jak se dá z uživatelského pohledu používání datových schránek vylepšit.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Fyzická osoba může mít několik datových schránek (DS “nepodnikající” fyzické osoby, DS podnikající fyzické osoby, případně speciální DS). Některé agendy lze provádět jen z příslušné DS. Pokud jste podnikatel, zřiďte si oba typy DS, protože např. z DS fyzické osoby podnikající o výpis z rejstříku trestů nelze požádat.&lt;/li&gt;
-  &lt;li&gt;Lze si nastavit upozornění o nových zprávách na mail&lt;/li&gt;
-  &lt;li&gt;CZ.nic vyrobil aplikaci Datovka, která je klientem k datovým schránkám podobným jako známe u mailů&lt;/li&gt;
-  &lt;li&gt;MVČR představilo aplikaci Mobilní klíč, která umožňuje přihlásit se k systému datových schránek přes mobil (nepotřebujete u sebe mít přihlašovací údaje)&lt;/li&gt;
-  &lt;li&gt;V Portálu občana lze spravovat více datovek najednou&lt;/li&gt;
-  &lt;li&gt;Portál občana poskytuje možnost archivace datových zpráv na neomezenou dobu v objemu do 500 MB (vyhnete se tak limitu 90 dní nebo nutnosti použít placenou službu České pošty Datový trezor&lt;sup id=&quot;fnref:5&quot;&gt;&lt;a href=&quot;#fn:5&quot; class=&quot;footnote&quot;&gt;5&lt;/a&gt;&lt;/sup&gt;)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;jaké-kroky-jsme-učinili&quot;&gt;Jaké kroky jsme učinili?&lt;/h3&gt;
-
-&lt;p&gt;Datové schránky jako prostředek pro elektronickou komunikaci mezi občanem a státem jsou významným prvkem v konceptu českého e-Governmentu&lt;sup id=&quot;fnref:6&quot;&gt;&lt;a href=&quot;#fn:6&quot; class=&quot;footnote&quot;&gt;6&lt;/a&gt;&lt;/sup&gt;. Piráti se proto snaží prosazovat jejich širší využívání a posílit jejich legislativní rámec.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Navrhli jsme rozšířit poněkud zastaralý seznam formátů (definováno ve vyhlášce).&lt;/li&gt;
-  &lt;li&gt;Upozornili jsme na to, že přístupové údaje do dalších schránek (například právnických osob) se neodešlou do datovky, ale listinně, i když dotyčná osoba datovku má&lt;/li&gt;
-  &lt;li&gt;V rámci Youth Speak Up jsme jednali o fikci doručení&lt;/li&gt;
-  &lt;li&gt;Hlasovali jsme pro notifikaci konce platnosti řidičského průkazu prostřednictvím datové schránky&lt;/li&gt;
-  &lt;li&gt;Podíleli jsme se na připomínkování Portálu občana, který datové schránky využívá&lt;/li&gt;
-  &lt;li&gt;Kritizujeme nepřiměřenou cenu ISDS (jedním z viditelných důvodů je řetězec subdodavatelů)&lt;/li&gt;
-  &lt;li&gt;Učíme úřady datové schránky častěji využívat (například při našem příchodu s námi nechtěla Sněmovna komunikovat elektronicky)&lt;/li&gt;
-  &lt;li&gt;Datovými schránkami se zabýváme v rámci Zákonu o právu na digitální služby&lt;/li&gt;
-  &lt;li&gt;Podporujeme projednávanou novelu, aby datovou schránku šlo zřídit s použitím prostředků elektronické indentifikace online&lt;/li&gt;
-  &lt;li&gt;Dlouhodobě kritizujeme nedostatečnou vnější komunikaci Ministerstva vnitra k ISDS&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;jaké-další-kroky-chystáme&quot;&gt;Jaké další kroky chystáme?&lt;/h3&gt;
-
-&lt;p&gt;Na datových schránkách je samozřejmě potřeba pracovat do budoucna, aby bylo jejich využívání stále jednodušší a posléze častější než listinná komunikace. Chystáme tedy i další kroky, kterými chceme přispět k jejich zlepšení.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Navrhneme centrální registr XML schémat, abychom podpořili využívání strojově čitelných formátů&lt;/li&gt;
-  &lt;li&gt;Budeme podporovat snížení poplatků za odesílání datových zpráv, dlouhodobě pak budeme usilovat o jejich úplné zrušení&lt;/li&gt;
-  &lt;li&gt;Navrhneme povinnost pro banky a pojišťovny umožnit klientům komunikaci s nimi formou DS&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;div class=&quot;footnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:1&quot;&gt;
-      &lt;p&gt;&lt;a href=&quot;https://computerworld.cz/internet-a-komunikace/deset-let-datovych-schranek-v-cesku-55491&quot;&gt;Deset let datových schránek v Česku&lt;/a&gt; &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:2&quot;&gt;
-      &lt;p&gt;&lt;a href=&quot;https://www.jaknainternet.cz/page/1264/datove-schranky/&quot;&gt;Datové schránky&lt;/a&gt; &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:3&quot;&gt;
-      &lt;p&gt;Informace z odboru egovernmentu MVČR &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:4&quot;&gt;
-      &lt;p&gt;&lt;a href=&quot;https://www.ceskaposta.cz/ke-stazeni/cenik-sluzeb-ceske-posty&quot;&gt;Ceník služeb České pošty platný k 1. 6. 2019&lt;/a&gt; &lt;a href=&quot;#fnref:4&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:5&quot;&gt;
-      &lt;p&gt;&lt;a href=&quot;https://www.lupa.cz/clanky/jak-funguje-a-co-nabizi-portal-obcana/&quot;&gt;Jak funguje a co nabízí Portál občana&lt;/a&gt; &lt;a href=&quot;#fnref:5&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:6&quot;&gt;
-      &lt;p&gt;&lt;a href=&quot;https://www.profant.eu/2018/pilire-egovernmentu-cr.html&quot;&gt;Pilíře e-governmentu ČR&lt;/a&gt; &lt;a href=&quot;#fnref:6&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;</content><author><name>Ondřej Profant</name></author><category term="egovernment" /><category term="digitalizace" /><category term="informatika" /><category term="veřejná správa" /><summary type="html">Datové schránky oslavily 1. července 2019 deset let své existence v Česku. Mezi lidmi však ani po této době nejsou přijímány příliš kladně. Často jsou vnímány jako nepraktická alternativa emailu pro komunikaci s veřejnou správou. Jejich pověsti pak nepřispěl zejména fakt, že z jejich zřízení plyne povinnost řešit některé úkony s úřady výhradně přes ni (např. podávání daňových přiznání).</summary></entry></feed>
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/R5KTOCZbvRQ&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;</content><author><name>Ondřej Profant</name></author><category term="transparence" /><category term="report" /><category term="Piráti" /><summary type="html">Souhrnný report mé činnosti v období duben až červen 2019. Nejčerstvější informace o mých aktivitách naleznete na mých profilech na sociálních sítích a zde na blogu v sekci Otevřenost.</summary></entry></feed>
