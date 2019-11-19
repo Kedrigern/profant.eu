@@ -191,3 +191,5 @@ Ve Sněmovně se 18. 6. podařilo definitivně schválit finální znění novel
 Při hlasování o vyslovení nedůvěry vládě jsem 26. 6. pochopitelně hlasoval hlasoval proti dalšímu pokračování Babišovy vlády.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/R5KTOCZbvRQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> 
+
+[<<<< Předchozí report (leden 2019 - březen 2019)](https://www.profant.eu/2019/transparentni-report-006.html) | [Další report (červenec 2019 - září 2019) >>>>](https://www.profant.eu/2019/transparentni-report-008.html)

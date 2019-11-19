@@ -20,6 +20,7 @@ Identita je základním stavebním kamenem každého digitálního ekosystému. 
 Elektronická identita občana je dnes řešena celoevropsky nařízením eIDAS. To znamená, že každá veřejná instituce v EU by měla být schopná jednoduše identifikovat, že jste to vy. Což je první krok při řešení většiny agend.
 
 V rámci ČR jsou k tomu 3 hlavní prostředky:
+
 * **Datové schránky**: Pomocí datové schránky se můžete přihlásit na portál občana či na formuláře ČSSZ.
 * **Elektronické občanky**: Jsou všem vydávány od 1. 7. 2018, občanka nově elektronicky identifikuje osobu, ale není v ní certifikát pro podepisování dokumentů. Podpisový certifikát by mělo být možné přidat dodatečně.
 * **Důvěryhodní poskytovatelé identit**: Jedná se o společnosti, které splní veškeré náležitosti a zapojí se do sítě jednotných identit. V ČR se o to budou ucházet banky či [mojeid.cz](https://www.mojeid.cz/).
@@ -37,6 +38,8 @@ V praxi nabízí dva možné formáty souborů: PDF a XML. Naneštěstí možnos
 Pokud by však úřady častěji vystavovaly XML vzory (standardy) pro své formuláře, stal by se oběh informací skutečně elektronický a nastala by reálná digitalizace. To se v praxi stalo např. u daňového přiznání, které lze poslat doopravdy elektronicky. Kazí to jen to, že zrovna tento formulář je uživatelsky nepřívětivý.
 
 Systému ani příliš nepomáhá roztříštěnost typů datových schránek (fyzická osoba, fyzická osoba podnikající, pravnická osoba). Např. s datovkou fyzické osoby podnikající nemůžete provést některé úkony, které můžete provést s datovkou fyzické osoby.
+
+Více v samostatném článku [Deset let datových schránek v ČR](https://www.profant.eu/2019/datove-schranky.html).
 
 ## Základní registry
 
