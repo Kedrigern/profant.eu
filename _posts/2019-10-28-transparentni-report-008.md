@@ -157,3 +157,5 @@ Na schůzi resortního týmu jsme řešili aktuální témata jako Zákon o prá
 
 * [Tisková zpráva shrnutí schůze](https://www.pirati.cz/tiskove-zpravy/brifink-34schuze-pokracovani.html)
 * [Tisková zpráva kumulace platů](https://www.pirati.cz/tiskove-zpravy/kumulace-platu-bude-omezena.html)
+
+[<<<< Předchozí report (duben 2019 - červen 2019)](https://www.profant.eu/2019/transparentni-report-007.html) 
