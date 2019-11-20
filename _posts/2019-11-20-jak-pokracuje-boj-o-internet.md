@@ -9,7 +9,7 @@ img:        savetheinternet.jpg
 author:     Ondřej Profant
 ---
 
-Počátkem září jsem společně s místopředsedou Evropského parlamentu Marcelem Kolajou poslal vládě (dopis)[https://www.pirati.cz/assets/pdf/dopis-AB.pdf], ve kterém jsem ji žádal o připojení k polské žalobě k Soudnímu dvoru EU. Tato žaloba žádá zrušení problematických částí článku 17 (dříve 13) tzv. copyright směrnice. Vláda naši žádost odmítla a k žalobě se nepřipojila. Stále je však možnost zasadit se o to, aby negativní dopad na český internet byl co nejmenší. Účastním se proto za Piráty konzultačních skupin Ministerstva kultury k implementaci této směrnice.
+Počátkem září jsem společně s místopředsedou Evropského parlamentu Marcelem Kolajou poslal vládě dopis, ve kterém jsem ji žádal o připojení k polské žalobě k Soudnímu dvoru EU. Tato žaloba žádá zrušení problematických částí článku 17 (dříve 13) tzv. copyright směrnice. Vláda naši žádost odmítla a k žalobě se nepřipojila. Stále je však možnost zasadit se o to, aby negativní dopad na český internet byl co nejmenší. Účastním se proto za Piráty konzultačních skupin Ministerstva kultury k implementaci této směrnice.
 
 <!--more-->
 
