@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="https://www.profant.eu/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.profant.eu/" rel="alternate" type="text/html" /><updated>2019-11-26T13:56:45+00:00</updated><id>https://www.profant.eu/feed.xml</id><title type="html">Blog Ondřeje Profanta</title><subtitle>Zápisník pirátského poslance Ondřeje Profanta, který se zaměřuje na opendata a e-government. Rád bych byl, aby Česká republika byla moderním státem s rozvinutou digitální ekonomikou, kde je kladen silný důraz na vzdělávání a svobodu. V digitalizaci se musíme inspirovat ve Velké Britanii a Estonsku, řešení musí být otevřená a uživatelsky přívětivá.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="https://www.profant.eu/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.profant.eu/" rel="alternate" type="text/html" /><updated>2019-11-26T14:03:51+00:00</updated><id>https://www.profant.eu/feed.xml</id><title type="html">Blog Ondřeje Profanta</title><subtitle>Zápisník pirátského poslance Ondřeje Profanta, který se zaměřuje na opendata a e-government. Rád bych byl, aby Česká republika byla moderním státem s rozvinutou digitální ekonomikou, kde je kladen silný důraz na vzdělávání a svobodu. V digitalizaci se musíme inspirovat ve Velké Britanii a Estonsku, řešení musí být otevřená a uživatelsky přívětivá.
 </subtitle><author><name>Ondřej Profant</name></author><entry><title type="html">Zákon o právu na digitální služby</title><link href="https://www.profant.eu/2019/zpds.html" rel="alternate" type="text/html" title="Zákon o právu na digitální služby" /><published>2019-11-26T07:00:00+00:00</published><updated>2019-11-26T07:00:00+00:00</updated><id>https://www.profant.eu/2019/zpds</id><content type="html" xml:base="https://www.profant.eu/2019/zpds.html">&lt;p&gt;Zákon o právu na digitální službu je současná vlajková loď digitalizace. Ve veřejné správě budí obavy, u politiků velká očekávání a z odborných kruhů se snaší kritika. A všechny tyto pohledy jsou oprávněné a pravdivé.&lt;/p&gt;
 
 &lt;!--more--&gt;
 
 &lt;h2 id=&quot;česko-zaostalo&quot;&gt;Česko zaostalo&lt;/h2&gt;
 
-&lt;p&gt;Před 10 lety náš egovernment udělal ohromný krok. Byly zavedeny Základní registry, Datové schránky a síť kontaktních míst veřejné správy (Czechpoint), což je dodnes základ většiny služeb. Následně se však 10 let nedělo vůbec nic. Datové schránky byly z uživatelského pohledu velmi zaostalé. Byly jen obtížně provozovatelné na některých zařízeních, protěžovalo se zasílání PDF apod. Obdobně to bylo u základních registrů. Jejich hlavní problém je, že jsou málo využívány a bylo k jejich užití bylo třeba speciálního zákonného zmocnění.&lt;/p&gt;
+&lt;p&gt;Před 10 lety náš egovernment udělal ohromný krok. Byly zavedeny Základní registry, Datové schránky a síť kontaktních míst veřejné správy (Czechpoint), což je dodnes základ většiny služeb. Následně se však 10 let nedělo vůbec nic. Datové schránky byly z uživatelského pohledu velmi zaostalé. Byly jen obtížně provozovatelné na některých zařízeních, protěžovalo se zasílání PDF apod. Obdobně to bylo u základních registrů. Jejich hlavní problém je, že jsou málo využívány a bylo k jejich užití bylo třeba speciálního zákonného zmocnění.  Více o tomto stavu v článku &lt;a href=&quot;https://www.profant.eu/2018/pilire-egovernmentu-cr.html&quot;&gt;Pilíře e-governementu ČR&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Situace se však obrátila v tomto volebním období. Nejen Piráti začali ve velkém tlačit digitalizaci. A nejedná se jen o legislativu. Ministerstvo vnitra spustilo Portál občana, udělalo nové rozhraní datových schránek, spustilo aplikaci mobilní klíč, byly provedeny další kroky v projektu elektronické sbírky zákonů apod. Nesmíme zapomínat ani na celoevropské identity eIDAS, ale o těch v samostatném článku. Na vládní úrovni byla představena kvalitní koncepce Digitálního Česko, která však naráží na neschopnost úředníků aplikovat ji do praxe.&lt;/p&gt;
 
@@ -21,19 +21,22 @@
 
 &lt;p&gt;Kromě jasně daných práv je hlavním nástrojem tohoto zákona vyhláška, která katalogizuje veškeré služby státu. A to již rok od účinnosti. Službami jsou myšleny procesy jako vydání občanského průkazu, přihlášení auta do registru vozidel apod. U každé služby bude uvedeno, kdy bude digitalizována, popřípadě proč ji nelze digitalizovat. Příkladem nedigitalizovatelné služby je například svatba.&lt;/p&gt;
 
-&lt;p&gt;Zákon předpokládá elektronickou komunikaci se státem čtyřmi hlavními cestami:
-    - datovou schránkou
-    - prostřednictvím Czech POINTů
-    - emailem s el. podpisem či pečetí
-    - přes Portál občana nebo jiný informační systém veřejné správy s využití el. identifikace (e-občanka, bankovní identita)&lt;/p&gt;
+&lt;p&gt;Zákon předpokládá elektronickou komunikaci se státem čtyřmi hlavními cestami:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;datovou schránkou&lt;/li&gt;
+  &lt;li&gt;prostřednictvím Czech POINTů&lt;/li&gt;
+  &lt;li&gt;emailem s el. podpisem či pečetí&lt;/li&gt;
+  &lt;li&gt;přes Portál občana nebo jiný informační systém veřejné správy s využití el. identifikace (e-občanka, bankovní identita)&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;p&gt;Zákon vyžaduje po veřejné správě, aby nepožadovala po uživatelích údaje, které už stát má. Uživatelům (všem fyzickým a právnickým osobám) navíc přináší kontrolu nad oprávněními k využívaní jejich osobních údajů v jednotlivých systémech.&lt;/p&gt;
 
 &lt;h3 id=&quot;co-se-povedlo&quot;&gt;Co se povedlo&lt;/h3&gt;
 
-&lt;p&gt;Zákon je revoluční také v tom, že garantuje technologickou neutralitu (§ 13). Stát by tak již do budoucna neměl pro komunikaci používat proprietární formáty a technologie vyjma zvlášť odůvodněných případů.&lt;/p&gt;
+&lt;p&gt;Zákon je revoluční také v tom, že garantuje &lt;strong&gt;technologickou neutralitu&lt;/strong&gt; (§ 13). Stát by tak již do budoucna neměl pro komunikaci používat proprietární formáty a technologie vyjma zvlášť odůvodněných případů.&lt;/p&gt;
 
-&lt;p&gt;Zákon obsahuje pozitivní motivaci pro využívání elektronických forem služeb. Žádost podaná na elektronickém formuláři bude mít o 20 % snížený správní poplatek (maximálně o 1000 Kč).&lt;/p&gt;
+&lt;p&gt;Zákon obsahuje pozitivní motivaci pro využívání elektronických forem služeb. Žádost podaná na elektronickém formuláři bude mít o &lt;strong&gt;20 % snížený správní poplatek&lt;/strong&gt; (maximálně o 1000 Kč).&lt;/p&gt;
 
 &lt;h3 id=&quot;a-co-ne&quot;&gt;A co ne&lt;/h3&gt;
 
@@ -55,7 +58,7 @@
 
 &lt;p&gt;V průběhu následujících let pak budou muset být upravovány další zákony napříč veřejnou správou tak, aby mohly být služby státu poskytovány digitálně. Mnohé z nich totiž dnes nepřipouští jiné možnosti podání a komunikace než vlastnoručně vyplněné žádosti hůlkovým písmem na předtištěném formuláři.&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;Zákon bude v prosinci projednáván v Senátu jako &lt;a href=&quot;https://senat.cz/xqw/xervlet/pssenat/historie&quot;&gt;senátní tisk 153&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content><author><name>Ondřej Profant</name></author><category term="Digitalizace" /><category term="sněmovna" /><category term="Egovernment" /><summary type="html">Zákon o právu na digitální službu je současná vlajková loď digitalizace. Ve veřejné správě budí obavy, u politiků velká očekávání a z odborných kruhů se snaší kritika. A všechny tyto pohledy jsou oprávněné a pravdivé.</summary></entry><entry><title type="html">Jak pokračuje boj o záchranu internetu v EU?</title><link href="https://www.profant.eu/2019/jak-pokracuje-boj-o-internet.html" rel="alternate" type="text/html" title="Jak pokračuje boj o záchranu internetu v EU?" /><published>2019-11-20T16:00:00+00:00</published><updated>2019-11-20T16:00:00+00:00</updated><id>https://www.profant.eu/2019/jak-pokracuje-boj-o-internet</id><content type="html" xml:base="https://www.profant.eu/2019/jak-pokracuje-boj-o-internet.html">&lt;p&gt;Počátkem září jsem společně s místopředsedou Evropského parlamentu Marcelem Kolajou poslal vládě dopis, ve kterém jsem ji žádal o připojení k polské žalobě k Soudnímu dvoru EU. Tato žaloba žádá zrušení problematických částí článku 17 (dříve 13) tzv. copyright směrnice. Vláda naši žádost odmítla a k žalobě se nepřipojila. Stále je však možnost zasadit se o to, aby negativní dopad na český internet byl co nejmenší. Účastním se proto za Piráty konzultačních skupin Ministerstva kultury k implementaci této směrnice.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Zákon bude v prosinci projednáván v Senátu jako &lt;a href=&quot;https://senat.cz/xqw/webdav/pssenat/original/93221/78166&quot;&gt;senátní tisk 153&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content><author><name>Ondřej Profant</name></author><category term="Digitalizace" /><category term="sněmovna" /><category term="Egovernment" /><summary type="html">Zákon o právu na digitální službu je současná vlajková loď digitalizace. Ve veřejné správě budí obavy, u politiků velká očekávání a z odborných kruhů se snaší kritika. A všechny tyto pohledy jsou oprávněné a pravdivé.</summary></entry><entry><title type="html">Jak pokračuje boj o záchranu internetu v EU?</title><link href="https://www.profant.eu/2019/jak-pokracuje-boj-o-internet.html" rel="alternate" type="text/html" title="Jak pokračuje boj o záchranu internetu v EU?" /><published>2019-11-20T16:00:00+00:00</published><updated>2019-11-20T16:00:00+00:00</updated><id>https://www.profant.eu/2019/jak-pokracuje-boj-o-internet</id><content type="html" xml:base="https://www.profant.eu/2019/jak-pokracuje-boj-o-internet.html">&lt;p&gt;Počátkem září jsem společně s místopředsedou Evropského parlamentu Marcelem Kolajou poslal vládě dopis, ve kterém jsem ji žádal o připojení k polské žalobě k Soudnímu dvoru EU. Tato žaloba žádá zrušení problematických částí článku 17 (dříve 13) tzv. copyright směrnice. Vláda naši žádost odmítla a k žalobě se nepřipojila. Stále je však možnost zasadit se o to, aby negativní dopad na český internet byl co nejmenší. Účastním se proto za Piráty konzultačních skupin Ministerstva kultury k implementaci této směrnice.&lt;/p&gt;
 
 &lt;!--more--&gt;
 
