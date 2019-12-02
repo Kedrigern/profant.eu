@@ -26,8 +26,7 @@ skupinu čekalo ocenění za Zákon o právu na digitální službu. Tento záko
 Ústavně-právní výbor doporučil ke schválení ve znění postoupeném poslaneckou sněmovnou,
 čili bez dalších komplikací.
 
-![Návštěva ČSÚ]({{'csu.jpg' | prepend: '/assets/img/posts/' | base_url}})
-![Fotka z cen Egovernment The best](/assets/img/posts/egovthebest.jpg)
+![Foto z ČSÚ a z předávání Egovernment The best]({{'csu-egov.jpg' | prepend: '/assets/img/posts/' | base_url}})
 
 V **úterý** prošly 2. čtením dva důležité **digitalizační zákony**.
 
