@@ -11,6 +11,8 @@ author:     Ondřej Profant
 
 Minulý týden byl nabitý. Spousta věcí se povedla, jiné jsou trochu smutné. Pojďme se podívat, co se dělo.
 
+<!--more-->
+
 V **pondělí** jsme začali na Českém statistickém úřadě. Řešili jsme Sčítání lidu, domů a bytů.
 Kromě vyjasnění přesného průběhu jsme řešili i s tím spojené IT zakázky. Velmi dobrá zpráva je
 že díky parlamentnímu tlaku na schválení bankovních identit v egovernmentu bude mít více než
@@ -33,7 +35,6 @@ V **úterý** prošly 2. čtením dva důležité **digitalizační zákony**.
 2. **Bankovní identity ve veřejné správě**, které přivedou na portál občana a další služby více jak 5 milionů nových uživatelů.
 Již 3. prosince uplyne lhůta a bude se moci konat třetí čtení, pak 30 dní v Senátu.
 
-
 <blockquote class="twitter-tweet"><p lang="cs" dir="ltr"> Digitální technická mapa, která zjednoduší stavební řízení a <br>Bankovní identity ve veřejné správě, které přivedou na portál občana a další služby více jak 5 milionů nových uživatelů<br>právě prošly 2. čtením v poslanecké sněmovně. Již brzy ve vaší sbírce zákonů! <a href="https://twitter.com/hashtag/psp?src=hash&amp;ref_src=twsrc%5Etfw">#psp</a> <a href="https://twitter.com/hashtag/egov?src=hash&amp;ref_src=twsrc%5Etfw">#egov</a></p>&mdash; Ondřej Profant (@ondrej_profant) <a href="https://twitter.com/ondrej_profant/status/1199350633008189440?ref_src=twsrc%5Etfw">November 26, 2019</a></blockquote> 
 
 
@@ -55,7 +56,6 @@ plnění svého rozpočtu také nestydí, tak proč stát? Plné znění doprovo
 > 
 > Tento systém, tzv. rozklikávací rozpočet, by měl kromě členění vyžadovaného vyhláškou o rozpočtové skladbě umožnit zobrazení dat až na úroveň jednotlivých výdajů státního rozpočtu včetně identifikace příjemce a propojení s relevantní smlouvou, a to s výjimkou případů, kdy toto zveřejnění zvláštní předpis zakazuje.
 
-
 Ve **čtvrtek** jsme interpelovali **Národní investiční plán**. Dle očekávání se ukázalo,
 že se nejedná o soupis hodnotných a promyšlených investic, ale jen o náhodné požadavky 
 na velmi drahé projekty. Hospodaření dle Andreje Babiše mě nikdy nepřestane fascinovat.
@@ -67,9 +67,7 @@ výboru pro DTM a SONIU. Smutný byl osud novelizace Římského statutu, který
 Mezinárodní trestní soud. Vláda si neopatřila ústavní většinu a novelizace neprošla. 
 Proti byla například ODS.
 
-
 <blockquote class="twitter-tweet"><p lang="cs" dir="ltr">Neuvěřitelné selhání vlády.<br><br>Měli jsme ústavní většinou upravit statut mezinárodního trestního soudu. <br><br>Namísto toho nedorazila ani ministryně spravedlnosti a 33 dalších vládních poslanců.<br><br>Podpora Pirátů nestačila.<br><br>Kdo tady &quot;maká&quot;?<a href="https://twitter.com/hashtag/piratipracuji?src=hash&amp;ref_src=twsrc%5Etfw">#piratipracuji</a> <a href="https://t.co/os2EvJ9FLB">pic.twitter.com/os2EvJ9FLB</a></p>&mdash; Olga Richterová (@olgarichterova) <a href="https://twitter.com/olgarichterova/status/1200010940126769152?ref_src=twsrc%5Etfw">November 28, 2019</a></blockquote>
-
 
 Na druhou stranu se podařilo se schválit **záchranu řeky Berounky**, respektive její
 vyjmutí se soupisu splavných toků. Nehrozí tedy budování velkých betonářských děl.
@@ -78,6 +76,7 @@ kterou předal britskému velvyslanci Nicku Archerovi předseda Pirátů Ivan Ba
 
 
 <blockquote class="twitter-tweet"><p lang="cs" dir="ltr">Sněmovna dnes rozhodla o záchraně Berounky a jejího okolí, resp. o vyjmutí této řeky ze soupisu splavných toků. Doteď pravidelně někdo chodil s myšlenkou na budování velkých vodních děl. Tomu je snad konec a tato řeka zůstane zachována tak jak ji všichni známe. Mám velkou radost</p>&mdash; Ondřej Profant (@ondrej_profant) <a href="https://twitter.com/ondrej_profant/status/1200071732834504705?ref_src=twsrc%5Etfw">November 28, 2019</a></blockquote> 
+
 
 
 V **pátek** dorazily do ČR finální **audity Evropské komise**, které má v tuto chvíli
