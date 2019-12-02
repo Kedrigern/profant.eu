@@ -11,10 +11,10 @@ author:     Ondřej Profant
 
 Minulý týden byl nabitý. Spousta věcí se povedla, jiné jsou trochu smutné. Pojďme se podívat, co se dělo.
 
-V **pondělí** jsme začali na Českém statistickém úřadě. Řešili jsme Sčítání lidu, domů a bytů. 
-Kromě vyjasnění přesného průběhu jsme řešili i s tím spojené IT zakázky. Velmi dobrá zpráva je, 
-že díky parlamentnímu tlaku na schválení bankovních identit v egovernmentu bude mít více než 
-5 milionů lidí možnost vše vyplnit jednoduše online. Sám ČSÚ se velmi snaží a mnoho dat posbírá 
+V **pondělí** jsme začali na Českém statistickém úřadě. Řešili jsme Sčítání lidu, domů a bytů.
+Kromě vyjasnění přesného průběhu jsme řešili i s tím spojené IT zakázky. Velmi dobrá zpráva je
+že díky parlamentnímu tlaku na schválení bankovních identit v egovernmentu bude mít více než
+5 milionů lidí možnost vše vyplnit jednoduše online. Sám ČSÚ se velmi snaží a mnoho dat posbírá
 z "administrativních zdrojů", čili bez obtěžování lidí.
 
 Následovalo jednání klubu, kde jsme si ujasnili naše postoje k tiskům na další třítýdenní 39. schůzi Poslanecké sněmovny.
