@@ -30,7 +30,7 @@ skupinu čekalo ocenění za Zákon o právu na digitální službu. Tento záko
 
 V **úterý** prošly 2. čtením dva důležité **digitalizační zákony**.
 
-1. **Digitální technická mapa**, která zjednoduší stavební řízení a
+1. [**Digitální technická mapa**](https://www.profant.eu/2019/dtm-vybor.html), která zjednoduší stavební řízení a
 2. **Bankovní identity ve veřejné správě**, které přivedou na portál občana a další služby více jak 5 milionů nových uživatelů.
 Již 3. prosince uplyne lhůta a bude se moci konat třetí čtení, pak 30 dní v Senátu.
 
@@ -70,7 +70,7 @@ Proti byla například ODS.
 
 Na druhou stranu se podařilo se schválit **záchranu řeky Berounky**, respektive její
 vyjmutí se soupisu splavných toků. Nehrozí tedy budování velkých betonářských děl.
-A také jsem se osobně podepsal pod žádost o poskytnutí zdravotní péče Julianu Assangovi,
+A také jsem se osobně podepsal pod žádost o [poskytnutí zdravotní péče Julianu Assangovi](https://www.pirati.cz/tiskove-zpravy/bartos-se-setkal-s-britskym-velvyslancem.html),
 kterou předal britskému velvyslanci Nicku Archerovi předseda Pirátů Ivan Bartoš.
 
 
@@ -78,7 +78,7 @@ kterou předal britskému velvyslanci Nicku Archerovi předseda Pirátů Ivan Ba
 
 
 
-V **pátek** dorazily do ČR finální **audity Evropské komise**, které má v tuto chvíli
+V **pátek** [dorazily](https://zpravy.aktualne.cz/domaci/babis-je-ve-stretu-zajmu-potvrdila-konecna-verze-auditu-evro/r~9aa81d3a145611eaa24cac1f6b220ee8/) do ČR finální **audity Evropské komise**, které má v tuto chvíli
 Ministerstvo pro místní rozvoj. Vypadá to, že se potvrdila naše analýza, že Andrej
 Babiš porušuje jak český zákon, tak i evropské nařízení proti střetu zájmů. Čerpá
 tedy neoprávněně peníze z národních a evropských zdrojů. Teď nás nejspíše čeká
@@ -93,4 +93,6 @@ je opravdu neuvěřitelné.
 Večer jsem si dal výbornou únikovou hru Nautilus. Mohu jen doporučit.
 
 No a příští týden opět jednáme. Zatím to vypadá, že nás čekají vratky ze Senátu
-a hodně prvních čtení. Nejspíše bude i opoziční okénko.
+a hodně prvních čtení. Nejspíše bude i opoziční okénko, tedy výjimečný moment, kdy koalice bude hlasovat pro zařazení opozičních tisků na čas, kdy je šance je probrat.
+
+*Příspěvek vznikl jako [FB post](https://www.facebook.com/ondrej.profant/posts/10215645215110124).*
