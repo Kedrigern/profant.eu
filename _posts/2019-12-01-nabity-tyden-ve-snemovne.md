@@ -23,8 +23,8 @@ skupinu čekalo ocenění za Zákon o právu na digitální službu. Tento záko
 Ústavně-právní výbor doporučil ke schválení ve znění postoupeném poslaneckou sněmovnou,
 čili bez dalších komplikací.
 
-![Návštěva ČSÚ](assets/img/posts/csu.jpg)
-![Fotka z cen Egovernment The best](assets/img/posts/egovthebest.jpg)
+![Návštěva ČSÚ]({{'csu.jpg' | prepend: '/assets/img/posts/' | base_url}})
+![Fotka z cen Egovernment The best](/assets/img/posts/egovthebest.jpg)
 
 👉 V **úterý** prošly 2. čtením dva důležité **digitalizační zákony**.
 
@@ -83,7 +83,7 @@ kolečko tahanic o zveřejnění auditů.
 který je pojízdným muzeem Československých legii. Co tenkrát dokázaly Československé legie
 je opravdu neuvěřitelné.
 
-![Fotka OP s legiovlakem](assets/img/posts/legiovlak.jpg)
+![Fotka OP s legiovlakem]({{'legiovlak.jpg' | prepend: '/assets/img/posts/' | base_url}})
 
 Večer jsem si dal výbornou únikovou hru Nautilus. Mohu jen doporučit.
 
