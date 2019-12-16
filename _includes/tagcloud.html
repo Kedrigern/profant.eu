@@ -12,7 +12,7 @@
 							{% endfor %}
 							{% for cat in cats %}
 								{% assign weight = cat[1] | size | divided_by: total_posts_in_cats %}
-								{% assign compensated_weight = weight | times: weight | times: weight | times: weight | times: 25 %}
+								{% assign compensated_weight = weight | times: weight | times: weight | times: weight | times: 15 %}
 								{% assign opacity = 0.2 | plus: compensated_weight %}
 								{% assign size = compensated_weight | times: 80 | plus: 200 %}
 								<a class="tagcloud__tag" href="{{ 'kategorie' | relative_url }}#{{ cat[0] | slugify }}" style="font-size: {{ size }}%; opacity: {{ opacity }};">{{ cat[0] }}</a>
