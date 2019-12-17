@@ -129,7 +129,7 @@
 
 <h2 id="nia">NIA</h2>
 
-<p>V Česku je jedním ze základních kamenů implementace nařízení eIDAS tzv. Národní identitní bod NIA na portálu eidentita.cz. Ta je národním poskytovatelem identity pro služby českého e-governmentu, a protože splňuje standardy eIDAS, tak i pro služby v jiných státech EU.</p>
+<p>V Česku je jedním ze základních kamenů e-governmentu tzv. Národní identitní bod NIA na portálu eidentita.cz. Ta je národním poskytovatelem identity pro služby českého e-governmentu. NIA je napojena na ostatní evropské státy prostřednictvím eIDAS uzlu provozovaným společností CZ.NIC. Díky tomu je možné českou identitu používat i pro digitální služby v jiných státech EU.</p>
 
 <p>V současnosti se lze přihlásit do NIA přes tyto identitní prostředky:</p>
 <ul>
@@ -158,10 +158,10 @@
 
 <h2 id="úrovně-záruky">Úrovně záruky</h2>
 
-<p>Nařízení eIDAS předpokládá pro identitní prostředky 3 úrovně záruky (Level of Assurance - LoA): nízká, značná a vysoká. Každý prostředek je pak dle bezpečnosti zařazen do jedné ze tří kategorií, přičemž pro přeshraniční komunikaci jsou určeny kategorie značná a vysoká.</p>
+<p>Nařízení eIDAS předpokládá pro identitní prostředky 3 úrovně záruky (Level of Assurance - LoA): nízká, značná a vysoká. Každý prostředek je pak dle bezpečnosti zařazen do jedné z nich:</p>
 <ul>
   <li><strong>Nízká úroveň</strong> - nedochází k zaručenému ověření totožnosti - zvolím si uživatelské jméno a heslo a svojí identitu pouze deklaruji</li>
-  <li><strong>Značná úroveň</strong> - přihlášení přes datové schránky - jméno, heslo, další faktor (např. SMS).  Dochází k zaručenému ověření totožnosti (na Czech POINTu při podání žádosti), přihlášení doplněno o další faktor (např. SMS).</li>
+  <li><strong>Značná úroveň</strong> - přihlášení přes jméno, heslo a další faktor (např. SMS).  Dochází k zaručenému ověření totožnosti (na Czech POINTu při podání žádosti), přihlášení doplněno o další faktor.</li>
   <li><strong>Vysoká úroveň</strong> - elektronické občanky - autentizace je prováděna navíc přes fyzický identitní prostředek na bezpečném zařízení (na kontaktním čipu eOP, který mám u sebe), při jehož vydání byla zaručeně ověřena totožnost a jsou vyžadovány přístupové údaje k jeho použití (IOK, DOK)</li>
 </ul>
 
@@ -209,7 +209,7 @@ s.setAttribute('data-timestamp', +new Date());
     <div class="medium-4 columns show-for-medium">
       <aside class="rbox">
   
-    <a class="twitter-timeline" href="https://twitter.com/ondrej_profant" data-height="1060">Krátce od @ondrej_profant</a>
+    <a class="twitter-timeline" data-lang="cs" data-height="1080" data-dnt="true" data-theme="light" href="https://twitter.com/ondrej_profant">Krátce od @ondrej_profant</a> 
   
 
   
@@ -275,25 +275,9 @@ s.setAttribute('data-timestamp', +new Date());
 <script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/foundation/6.3.1/js/foundation.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.2/Chart.min.js"></script>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 <script>
   $(document).foundation();
-  https://www.profant.eu/e-privacy.jpg
-  /* Twitter */
-  window.twttr = (function(d, s, id) {
-    var js, fjs = d.getElementsByTagName(s)[0],
-      t = window.twttr || {};
-    if (d.getElementById(id)) return t;
-    js = d.createElement(s);
-    js.id = id;
-    js.src = "https://platform.twitter.com/widgets.js";
-    fjs.parentNode.insertBefore(js, fjs);
-    t._e = [];
-    t.ready = function(f) {
-      t._e.push(f);
-    };
-    return t;
-  }(document, "script", "twitter-wjs"));
-
   
 </script>
 

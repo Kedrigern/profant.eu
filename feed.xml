@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="https://www.profant.eu/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.profant.eu/" rel="alternate" type="text/html" /><updated>2019-12-17T10:54:58+00:00</updated><id>https://www.profant.eu/feed.xml</id><title type="html">Blog Ondřeje Profanta</title><subtitle>Zápisník pirátského poslance Ondřeje Profanta, který se zaměřuje na opendata a e-government. Rád bych byl, aby Česká republika byla moderním státem s rozvinutou digitální ekonomikou, kde je kladen silný důraz na vzdělávání a svobodu. V digitalizaci se musíme inspirovat ve Velké Britanii a Estonsku, řešení musí být otevřená a uživatelsky přívětivá.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="https://www.profant.eu/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.profant.eu/" rel="alternate" type="text/html" /><updated>2019-12-17T11:26:28+00:00</updated><id>https://www.profant.eu/feed.xml</id><title type="html">Blog Ondřeje Profanta</title><subtitle>Zápisník pirátského poslance Ondřeje Profanta, který se zaměřuje na opendata a e-government. Rád bych byl, aby Česká republika byla moderním státem s rozvinutou digitální ekonomikou, kde je kladen silný důraz na vzdělávání a svobodu. V digitalizaci se musíme inspirovat ve Velké Britanii a Estonsku, řešení musí být otevřená a uživatelsky přívětivá.
 </subtitle><author><name>Ondřej Profant</name></author><entry><title type="html">Identity v e-governmentu</title><link href="https://www.profant.eu/2019/sonia.html" rel="alternate" type="text/html" title="Identity v e-governmentu" /><published>2019-12-16T07:00:00+00:00</published><updated>2019-12-16T07:00:00+00:00</updated><id>https://www.profant.eu/2019/sonia</id><content type="html" xml:base="https://www.profant.eu/2019/sonia.html">&lt;p&gt;Sněmovna schválila novelu zákona o bankách, která umožní přibližně 5,5 milionům občanů ČR využívajících dnes internetové bankovnictví přístup ke službám e-governmentu. Zákon byl schválen v široké shodě napříč politickým spektrem (pro hlasovalo 175 ze 178 přítomných poslanců).&lt;/p&gt;
 
 &lt;!--more--&gt;
@@ -21,7 +21,7 @@
 
 &lt;h2 id=&quot;nia&quot;&gt;NIA&lt;/h2&gt;
 
-&lt;p&gt;V Česku je jedním ze základních kamenů implementace nařízení eIDAS tzv. Národní identitní bod NIA na portálu eidentita.cz. Ta je národním poskytovatelem identity pro služby českého e-governmentu, a protože splňuje standardy eIDAS, tak i pro služby v jiných státech EU.&lt;/p&gt;
+&lt;p&gt;V Česku je jedním ze základních kamenů e-governmentu tzv. Národní identitní bod NIA na portálu eidentita.cz. Ta je národním poskytovatelem identity pro služby českého e-governmentu. NIA je napojena na ostatní evropské státy prostřednictvím eIDAS uzlu provozovaným společností CZ.NIC. Díky tomu je možné českou identitu používat i pro digitální služby v jiných státech EU.&lt;/p&gt;
 
 &lt;p&gt;V současnosti se lze přihlásit do NIA přes tyto identitní prostředky:&lt;/p&gt;
 &lt;ul&gt;
@@ -50,10 +50,10 @@
 
 &lt;h2 id=&quot;úrovně-záruky&quot;&gt;Úrovně záruky&lt;/h2&gt;
 
-&lt;p&gt;Nařízení eIDAS předpokládá pro identitní prostředky 3 úrovně záruky (Level of Assurance - LoA): nízká, značná a vysoká. Každý prostředek je pak dle bezpečnosti zařazen do jedné ze tří kategorií, přičemž pro přeshraniční komunikaci jsou určeny kategorie značná a vysoká.&lt;/p&gt;
+&lt;p&gt;Nařízení eIDAS předpokládá pro identitní prostředky 3 úrovně záruky (Level of Assurance - LoA): nízká, značná a vysoká. Každý prostředek je pak dle bezpečnosti zařazen do jedné z nich:&lt;/p&gt;
 &lt;ul&gt;
   &lt;li&gt;&lt;strong&gt;Nízká úroveň&lt;/strong&gt; - nedochází k zaručenému ověření totožnosti - zvolím si uživatelské jméno a heslo a svojí identitu pouze deklaruji&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Značná úroveň&lt;/strong&gt; - přihlášení přes datové schránky - jméno, heslo, další faktor (např. SMS).  Dochází k zaručenému ověření totožnosti (na Czech POINTu při podání žádosti), přihlášení doplněno o další faktor (např. SMS).&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Značná úroveň&lt;/strong&gt; - přihlášení přes jméno, heslo a další faktor (např. SMS).  Dochází k zaručenému ověření totožnosti (na Czech POINTu při podání žádosti), přihlášení doplněno o další faktor.&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;Vysoká úroveň&lt;/strong&gt; - elektronické občanky - autentizace je prováděna navíc přes fyzický identitní prostředek na bezpečném zařízení (na kontaktním čipu eOP, který mám u sebe), při jehož vydání byla zaručeně ověřena totožnost a jsou vyžadovány přístupové údaje k jeho použití (IOK, DOK)&lt;/li&gt;
 &lt;/ul&gt;
 
