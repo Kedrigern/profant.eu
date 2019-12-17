@@ -154,7 +154,7 @@ s.setAttribute('data-timestamp', +new Date());
     <div class="medium-4 columns show-for-medium">
       <aside class="rbox">
   
-    <a class="twitter-timeline" data-lang="cs" data-height="1080" data-dnt="true" data-theme="light" href="https://twitter.com/ondrej_profant">Krátce od @ondrej_profant</a> 
+    <a class="twitter-timeline" href="https://twitter.com/ondrej_profant" data-height="1060">Krátce od @ondrej_profant</a>
   
 
   
@@ -220,9 +220,25 @@ s.setAttribute('data-timestamp', +new Date());
 <script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/foundation/6.3.1/js/foundation.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.2/Chart.min.js"></script>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 <script>
   $(document).foundation();
+  https://www.profant.eu/e-privacy.jpg
+  /* Twitter */
+  window.twttr = (function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0],
+      t = window.twttr || {};
+    if (d.getElementById(id)) return t;
+    js = d.createElement(s);
+    js.id = id;
+    js.src = "https://platform.twitter.com/widgets.js";
+    fjs.parentNode.insertBefore(js, fjs);
+    t._e = [];
+    t.ready = function(f) {
+      t._e.push(f);
+    };
+    return t;
+  }(document, "script", "twitter-wjs"));
+
   
 </script>
 
