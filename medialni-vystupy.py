@@ -48,6 +48,14 @@ def article_clean(article):
         print("Error: " + title[0])
 
 def create_url(path, prefix):
+    """
+    TODO BUG:
+    Okusuje o znak víc
+    https://praha.pirati.cz/hrib-proti-kamera.html => https://praha.pirati.cz/hrib-proti-kameraM.html
+    https://praha.pirati.cz/kamerovy-syste.html => https://praha.pirati.cz/kamerovy-systeM.html
+    Funguje:
+    https://praha.pirati.cz/dopis-white-media.html
+    """
     spath = path.rstrip(".md")[25:] # example: ./_post/2016/2016-03-16-
     return prefix + spath + ".html"
 
@@ -84,7 +92,7 @@ def process_article(filepath, prefix):
             Result.articles.append(record)
         if not Config.verbose:
             print(".", end="")
-    except KeyError as er:
+    except KeyError:
         print("KeyError: ", filepath)
 
 def process_repo(dirname, repo):
