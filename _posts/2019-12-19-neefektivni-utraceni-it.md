@@ -2,7 +2,7 @@
 layout:     post
 title:      "Neefektivní utrácení za informační systémy je překážkou jejich rozvoje"
 date:       2019-12-19 08:00:00 +0100
-categories: digitalizace
+categories: Digitalizace
 comments:   true
 tags:       [Digitalizace, Egovernment]
 img:        IT-vydaje.png
@@ -19,5 +19,4 @@ Stoupající výdaje na IT služby v posledních pěti letech ale nejsou výsled
 
 Doufám, že se při řešení neefektivního utrácení za informační systémy najde dostatečná vůle k hledání konsensu, jako tomu bylo v případě projednávání návrhu zákona o právu na digitální služby (podrobnější informace v [článku](https://www.profant.eu/2019/zpds.html)). Ten při hlasováních ve [Sněmovně](http://www.psp.cz/sqw/hlasy.sqw?G=71480&o=8) i [Senátu](https://www.senat.cz/xqw/xervlet/pssenat/hlasy?G=18527&O=12) podpořili téměř všichni přítomní zákonodárci ze všech stran a klubů. Funkční systémy a kvalitní a bezpečná informační infrastruktura jsou totiž v zájmu všech občanů. S tím pochopitelně souvisí i další problém, kterému je potřeba věnovat pozornost - zajištění odpovídajícího ohodnocení IT odborníků ve státní správě, aby už nebyli tolik nuceni odcházet do soukromého sektoru.
 
-Nejde ale jen o vysoce postavené politiky. Krajští a komunální zastupitelé se rovněž musí snažit o odbourávání neduhů dlouhodobé špatné praxe. Zejména malé obce pak mohou díky otevřeným technologiím ušetřit ve svém napjatém rozpočtu. Pirátský [Akční plán pro boj s vendor lock-inem a rozšíření využití open source ve veřejné správě](https://www.pirati.cz/assets/pdf/Ak%C4%8Dn%C3%AD%20pl%C3%A1n%20open%20source%201.0.pdf) obsahuje spoustu doporučení, která mohou pomoci komunálním zastupitelům a vedoucím pracovníkům IT útvarů na úřadech k dosažení úspor za informační systémy a zároveň dosáhnout jejich lepší kvality. Metodickou i praktickou podporu pak může nabidnout spolek [Otevřená města](https://otevrenamesta.cz/), který byl založen právě za účelem podpory otevřeného fungování veřejné správy.
-
+Nejde ale jen o vysoce postavené politiky. Krajští a komunální zastupitelé se rovněž musí snažit o odbourávání neduhů dlouhodobé špatné praxe. Zejména malé obce pak mohou díky otevřeným technologiím ušetřit ve svém napjatém rozpočtu. Pirátský [Akční plán pro boj s vendor lock-inem a rozšíření využití open source ve veřejné správě](https://www.profant.eu/assets/pdf/akcni-plan-opensource-v3.pdf) obsahuje spoustu doporučení, která mohou pomoci komunálním zastupitelům a vedoucím pracovníkům IT útvarů na úřadech k dosažení úspor za informační systémy a zároveň dosáhnout jejich lepší kvality. Metodickou i praktickou podporu pak může nabidnout spolek [Otevřená města](https://otevrenamesta.cz/), který byl založen právě za účelem podpory otevřeného fungování veřejné správy.
