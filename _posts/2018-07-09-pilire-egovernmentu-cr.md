@@ -27,7 +27,7 @@ V rámci ČR jsou k tomu 3 hlavní prostředky:
 
 Eidas navíc rozlišuje tři úrovně záruky identity, které se liší svými požadavky. Např. zdravotnickou dokumentaci dostanete pouze na tu nejvyšší, zatímco jednoduchý výpis můžete udělat i s tou nejnižší. Díky tomu se nemusíme bát digitalizovat ani velmi citlivé údaje, protože budou řádně zabezpečeny.
 
-Možnosti by měly být shrnuty na webu [eIdentita](https://www.eidentita.cz).
+Možnosti by měly být shrnuty na webu [eIdentita](https://www.eidentita.cz), více v samostatném článku [Identity v e-governmentu](https://www.profant.eu/2019/sonia.html).
 
 ## Datové schránky
 
