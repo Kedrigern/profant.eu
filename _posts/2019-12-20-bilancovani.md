@@ -67,7 +67,7 @@ Podporujeme projekt [národního GitLabu](https://code.gov.cz/) pro správu a sd
 Pokračujeme v tlaku na **zveřejňování otevřených dat** veřejným sektorem:
 - Interpeluji ministra dopravy Vladimíra Kremlíka ohledně dat SŽDC. Jejich zveřejnění by pomohlo koordinátorům dopravních systémů, vývojářům dopravních aplikací i vědcům.
 - Připomínkujeme novelizaci nařízení č. 425/2016 Sb. o otevřených datech. Chceme doplnění a zveřejňování dalších dat napříč rezorty.
-- Snažíme se o zakotvení otevřených dat přímo do zákonů. Pozměňovací návrhy pro digitální technickou mapu, který by celý projekt i [zlevnily](https://www.profant.eu/2019/dtm-vybor.html) bohužel neprošly, aktuálně navrhujeme povinné zveřejnění dat o exekucích pro účely aktualizace [Mapy exekucí](www.mapaexekuci.cz).
+- Snažíme se o zakotvení otevřených dat přímo do zákonů. Pozměňovací návrhy pro digitální technickou mapu, který by celý projekt i [zlevnily](https://www.profant.eu/2019/dtm-vybor.html) bohužel neprošly, aktuálně navrhujeme povinné zveřejnění dat o exekucích pro účely aktualizace [Mapy exekucí](http://mapaexekuci.cz/).
 - Prosadili jsme [poskytování open dat Státním zemědělským intervenčním fondem](https://www.piratskelisty.cz/clanek-2384-komentar-radka-holomcika-diky-piratum-budou-dotace-v-zemedelstvi-pruhlednejsi).
 
 > **Podpoříme rozvoj open-source software, ve školách i na úřadě**: Budeme tak následovat USA, UK a státy EU, které již jeho výhody využívají.
