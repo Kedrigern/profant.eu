@@ -5,7 +5,7 @@ date:       2019-12-20 08:00:00 +0100
 categories: Digitalizace
 comments:   true
 tags:       [Digitalizace, Egovernment]
-img:        informatika.svg
+img:        piratske-digitalni-cesko.jpg
 author:     Ondřej Profant
 ---
 
