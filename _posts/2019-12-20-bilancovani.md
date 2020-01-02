@@ -6,7 +6,7 @@ categories: Digitalizace
 comments:   true
 tags:       [Digitalizace, Egovernment]
 img:        piratske-digitalni-cesko.jpg
-author:     Ondřej Profant
+author:     Ondřej Profant, Bara Soukupová
 ---
 
 Pirátští poslanci byli zvoleni před více než dvěma roky, a přestože působíme jenom z opozice, daří se v oblasti informatiky pracovat na velké části volebního programu. Polovina funkčního období Poslanecké sněmovny je vhodným časem k bilancování, co se z programu naplnit povedlo a co ne.
