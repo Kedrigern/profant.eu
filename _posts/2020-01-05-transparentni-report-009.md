@@ -128,11 +128,11 @@ Spolu s kolegou Františkem Navrkalem připravujeme zpracování analýzy ke kyb
 **Sněmovna**
 
 Ve Sněmovně už od 30. 10. probíhal schůzovací maraton k daňovému balíčku, tedy k dalšímu zvyšování daňového zatížení občanů. Naštěstí se v listopadu podařilo prosadit i dost užitečných návrhů. O posledním listopadovém týdnu ve Sněmovně se více dočtete na [blogu](https://www.profant.eu/2019/nabity-tyden-ve-snemovne.html).
-* 6. 11. byl pro Piráty úspěšným dnem, podařilo se například prosadit liberalizaci domácího vaření piva, navýšení rodičovského příspěvku nebo zrušení diskriminace českých hráčů pokeru (více na [Facebooku](https://www.facebook.com/ondrej.profant/posts/10215453998409826)).
-* 8. 11. byl Sněmovnou schválen návrh Zákona o právu na digitální službu, který bude v prosinci projednán Senátem. Zákon výrazně pomůže rozvoji digitálních služeb státu a já jsem hrdý na to, že jsem se na jeho přípravě a schválení mohl podílet. Více o zákonu na [blogu](https://www.profant.eu/2019/zpds.html).
-* 26. 11. prošly druhým čtením další dva důležité digitalizační zákony - digitální technická mapa a využití bankovní identity ve veřejné správě.
-* 27. 11. jsem při projednávání rozpočtu společně s Mikulášem Ferjenčíkem navrhoval doprovodné usnesení o zpřístupnění státního rozpočtu v takzvaně rozklikávací podobě.
-* 28. 11. jsme sice vinou neúčasti vládních poslanců a odporu ODS neschválili novelizaci Římského statutu, podařilo se ale schválit vyjmutí Berounky ze soupisu splavných toků.
+* 6.11. byl pro Piráty úspěšným dnem, podařilo se například prosadit liberalizaci domácího vaření piva, navýšení rodičovského příspěvku nebo zrušení diskriminace českých hráčů pokeru (více na [Facebooku](https://www.facebook.com/ondrej.profant/posts/10215453998409826)).
+* 8.11. byl Sněmovnou schválen návrh Zákona o právu na digitální službu, který bude v prosinci projednán Senátem. Zákon výrazně pomůže rozvoji digitálních služeb státu a já jsem hrdý na to, že jsem se na jeho přípravě a schválení mohl podílet. Více o zákonu na [blogu](https://www.profant.eu/2019/zpds.html).
+* 26.11. prošly druhým čtením další dva důležité digitalizační zákony - digitální technická mapa a využití bankovní identity ve veřejné správě.
+* 27.11. jsem při projednávání rozpočtu společně s Mikulášem Ferjenčíkem navrhoval doprovodné usnesení o zpřístupnění státního rozpočtu v takzvaně rozklikávací podobě.
+* 28.11. jsme sice vinou neúčasti vládních poslanců a odporu ODS neschválili novelizaci Římského statutu, podařilo se ale schválit vyjmutí Berounky ze soupisu splavných toků.
 
 Celkově byl listopad z hlediska prosazování pirátských cílů úspěšný, zejména pak na poli digitalizace, což mě osobně velice těší.
 
@@ -156,19 +156,19 @@ Na [setkání](https://m.facebook.com/ondrej.profant/posts/10215727466046346) re
 
 **Konference NZIS open**
 
-Zúčastnil jsem se [konference o poskytování údajů]((https://m.facebook.com/ondrej.profant/posts/10215733742883263)) z Národního zdravotnického informačního systému jako otevřených dat. Doufám, že se v České republice podaří časem data ve zdravotnictví využívat stejně efektivně jako třeba ve Velké Británii.
+Zúčastnil jsem se [konference o poskytování údajů](https://m.facebook.com/ondrej.profant/posts/10215733742883263) z Národního zdravotnického informačního systému jako otevřených dat. Doufám, že se v České republice podaří časem data ve zdravotnictví využívat stejně efektivně jako třeba ve Velké Británii.
 
 **Benefiční koncert pro psí útulek**
 
-Vypravil jsem se do Kutné Hory, kde místní Piráti uspořádali 20. 12. [benefiční koncert pro psí útulek]((https://m.facebook.com/photo.php?fbid=10215789173508994)). Bylo mi potěšením se této milé akce zúčastnit a pohovořit s kutnohorskými obyvateli o jejich problémech a potřebách.
+Vypravil jsem se do Kutné Hory, kde místní Piráti uspořádali 20. 12. [benefiční koncert pro psí útulek](https://m.facebook.com/photo.php?fbid=10215789173508994). Bylo mi potěšením se této milé akce zúčastnit a pohovořit s kutnohorskými obyvateli o jejich problémech a potřebách.
 
 **Sněmovna**
 
 <blockquote class="twitter-tweet" data-lang="cs"><p lang="cs" dir="ltr">Předseda vlády představuje v Poslanecké sněmovně státní rozpočet a hřímá, že jeho vláda nebude zvyšovat daně.<br>Paní ministryně financí bohužel nemůže být na jednání o rozpočtu přítomna - obhajuje zrovna v Senátu vládní návrh na zvýšení daní.  (převzato od Matouše Vanči)</p>&mdash; Ondřej Profant (@ondrej_profant) <a href="https://twitter.com/ondrej_profant/status/1202167028540477440?ref_src=twsrc%5Etfw">4. prosince 2019</a></blockquote>
 
 Před koncem roku se podařilo schválit ještě dva klíčové digitalizační zákony, zároveň probíhaly premiérovy tanečky ohledně jeho střetu zájmů.
-* 4. 12. návrhy zákonů o celostátní digitální technické mapě a využívání bankovní identity ve veřejné správě úspěšně [prošly třetím čtením](https://m.facebook.com/photo.php?fbid=10215664486071886)
-* 5. 12. zatímco premiér Andrej Babiš si při [interpelacích](https://m.facebook.com/photo.php?fbid=10215673480136732) udělal pořádnou ostudu, ministr dopravy Vladimír Kremlík mi dokázal smysluplně odpovědět ve věci otevřených dat poskytovaných SŽDC
+* 4.12. návrhy zákonů o celostátní digitální technické mapě a využívání bankovní identity ve veřejné správě úspěšně [prošly třetím čtením](https://m.facebook.com/photo.php?fbid=10215664486071886)
+* 5.12. zatímco premiér Andrej Babiš si při [interpelacích](https://m.facebook.com/photo.php?fbid=10215673480136732) udělal pořádnou ostudu, ministr dopravy Vladimír Kremlík mi dokázal smysluplně odpovědět ve věci otevřených dat poskytovaných SŽDC
 
 V případě zájmu o další novinky v oblasti digitalizace a e-governmentu se můžete přihlásit k odběru newsletteru [resortního týmu Informatika](https://nalodeni.pirati.cz/news/list/17/).
 
