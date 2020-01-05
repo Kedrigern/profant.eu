@@ -21,11 +21,11 @@ Od 30. září do 1. října probíhalo v Lipnici výjezdní zasedání Stálé 
 
 **Schůzka s ředitelem BIS**
 
-Sešel jsem se s ředitelem Bezpečnostní informační služby Michalem Koudelkou (zápisl v evidenci kontaktů https://evidence.pirati.cz/report/3681/). Vzhledem k mému zaměření jsem s panem ředitelem řešil novelu zákona o vojenském zpravodajství, otázky kyberbezpečnosti a využívání bankovní identity v rámci služeb e-governmentu.
+Sešel jsem se s ředitelem Bezpečnostní informační služby Michalem Koudelkou ([zápis v evidenci kontaktů](https://evidence.pirati.cz/report/3681/)). Vzhledem k mému zaměření jsem s panem ředitelem řešil novelu zákona o vojenském zpravodajství, otázky kyberbezpečnosti a využívání bankovní identity v rámci služeb e-governmentu.
 
 **MHMP spouští Cityvizor**
 
-Magistrát hlavního města Prahy zahájil provoz svého Cityvizoru, což je takzvaný “rozklikávací rozpočet” postavený na otevřených technologiích. Více se můžete dočíst v mém [facebookovém příspěvku](https://m.facebook.com/ondrej.profant/posts/10215186735888430), samotný pražský Cityvizor si můžete vyzkoušet na https://cityvizor.praha.eu/ (o projektu Cityvizor, na kterém jsem se podílel, více na https://cityvizor.cz/).
+Magistrát hlavního města Prahy zahájil provoz svého Cityvizoru, což je takzvaný “rozklikávací rozpočet” postavený na otevřených technologiích. Více se můžete dočíst v mém [facebookovém příspěvku](https://m.facebook.com/ondrej.profant/posts/10215186735888430), samotný [pražský Cityvizor si můžete vyzkoušet](https://cityvizor.praha.eu/) (o projektu Cityvizor, na kterém jsem se podílel, více na [webu](https://cityvizor.cz/)).
 
 **Vyjádření k turecké agresi v Sýrii**
 
