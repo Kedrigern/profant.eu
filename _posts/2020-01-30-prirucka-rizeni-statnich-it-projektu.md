@@ -2,7 +2,7 @@
 layout:     post
 title:      "Příručka řízení státních IT projektů"
 date:       2020-01-30 10:00:00 +0100
-categories: digitalizace
+categories: Digitalizace
 comments:   true
 tags:       [egovernment, bezpečnost, Piráti]
 img:        prirucky.jpg
