@@ -1,5 +1,40 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="https://www.profant.eu/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.profant.eu/" rel="alternate" type="text/html" /><updated>2020-01-30T18:39:23+00:00</updated><id>https://www.profant.eu/feed.xml</id><title type="html">Blog Ondřeje Profanta</title><subtitle>Zápisník pirátského poslance Ondřeje Profanta, který se zaměřuje na opendata a e-government. Rád bych byl, aby Česká republika byla moderním státem s rozvinutou digitální ekonomikou, kde je kladen silný důraz na vzdělávání a svobodu. V digitalizaci se musíme inspirovat ve Velké Britanii a Estonsku, řešení musí být otevřená a uživatelsky přívětivá.
-</subtitle><author><name>Ondřej Profant</name></author><entry><title type="html">Příručka řízení státních IT projektů</title><link href="https://www.profant.eu/2020/prirucka-rizeni-statnich-it-projektu.html" rel="alternate" type="text/html" title="Příručka řízení státních IT projektů" /><published>2020-01-30T09:00:00+00:00</published><updated>2020-01-30T09:00:00+00:00</updated><id>https://www.profant.eu/2020/prirucka-rizeni-statnich-it-projektu</id><content type="html" xml:base="https://www.profant.eu/2020/prirucka-rizeni-statnich-it-projektu.html">&lt;p&gt;Dobrovolnická platforma &lt;a href=&quot;https://cesko.digital/&quot;&gt;Česko.Digital&lt;/a&gt;, sdružující IT profesionály, vydala &lt;strong&gt;Příručku řízení státních IT projektů&lt;/strong&gt;. Ta je určena hlavně exekutivcům, rozpočtovým specialistům, zákonodárcům a dalším lidem, kteří rozhodují o veřejných IT projektech.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="https://www.profant.eu/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.profant.eu/" rel="alternate" type="text/html" /><updated>2020-02-17T10:03:40+00:00</updated><id>https://www.profant.eu/feed.xml</id><title type="html">Blog Ondřeje Profanta</title><subtitle>Zápisník pirátského poslance Ondřeje Profanta, který se zaměřuje na opendata a e-government. Rád bych byl, aby Česká republika byla moderním státem s rozvinutou digitální ekonomikou, kde je kladen silný důraz na vzdělávání a svobodu. V digitalizaci se musíme inspirovat ve Velké Britanii a Estonsku, řešení musí být otevřená a uživatelsky přívětivá.
+</subtitle><author><name>Ondřej Profant</name></author><entry><title type="html">Otevřené licence softwarových projektů pro veřejnou správu</title><link href="https://www.profant.eu/2020/otevrene-licence.html" rel="alternate" type="text/html" title="Otevřené licence softwarových projektů pro veřejnou správu" /><published>2020-02-16T00:00:00+00:00</published><updated>2020-02-16T00:00:00+00:00</updated><id>https://www.profant.eu/2020/otevrene-licence</id><content type="html" xml:base="https://www.profant.eu/2020/otevrene-licence.html">&lt;p&gt;Tomu, aby veřejné instituce pořizovaly software za podmínek umožňujících jeho další rozvoj a sdílení, nic nebrání. Experti na autorské právo a veřejné zakázky se na tom shodují i se zaměstnanci Ministerstva vnitra a dalších úřadů. Za jakých podmínek by však měly veřejné instituce takto získaný kód dále šířit?&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;Protože veřejná instituce musí postupovat s péčí řádného hospodáře, měla by stanovit takové licenční podmínky, které jsou pro ni prospěšné. Tedy takové, které budou motivovat k dalšímu užívání daného softwarového projektu, opravování jeho nedostatků a jeho rozvíjení.&lt;/p&gt;
+
+&lt;p&gt;Volba vhodné licence může šíření projektu výrazně pomoci, nebo z něj naopak udělat propadák. A protože je běžně užívaných &lt;a href=&quot;https://opensource.org/licenses/category&quot;&gt;otevřených licencí celá řada&lt;/a&gt;, nemusí být na první pohled zřejmé, kterou zvolit. Existuje však dobrá praxe, kterou se vyplatí následovat.&lt;/p&gt;
+
+&lt;p&gt;V první řadě je potřeba si uvědomit, jaký software má být vlastně uveřejněn. Obecně se může jednat buď o hotovou aplikaci (spisová služba, agendový systém), nebo pouze o dílčí komponentu (knihovna pro připojení k datovým schránkám, framework pro uživatelská rozhraní). Aplikace může mít architekturu klient-server (typicky informační systém) nebo běžet přímo na zařízení uživatele (například nástroj na úpravu dokumentů).&lt;/p&gt;
+
+&lt;p&gt;Pro aplikace je vhodné zvolit silnější, tedy tzv. copyleftovou licenci z rodiny GPL. Tyto licence požadují, aby uživatel původního i upraveného programu získal přístup k jeho zdrojovému kódu a mohl jej za stejných podmínek šířit dále. Takže v případě, že jiný subjekt takovou aplikaci vylepší a prodá, získá nabyvatel možnost všechna vylepšení uveřejnit nebo rovnou navrhnout jejich začlenění do původního projektu.&lt;/p&gt;
+
+&lt;p&gt;Pro aplikace určené k běhu na zařízení uživatele postačí licence GPLv3, ale pro systémy s architekturou klient-server je potřeba zvolit licenci AGPLv3 (Affero GPL), která zaručuje uživateli klientské části systému přístup ke zdrojovým kódům serverové části. Bez ní by bylo snadné “uzavřít” projekt jeho poskytováním formou SaaS (tedy hostováním serverové části v cloudu).&lt;/p&gt;
+
+&lt;p&gt;Pro komponenty, tedy různé knihovny a frameworky se naopak vyplatí použít slabší, tzv. permisivní licenci. Oblíbené jsou licence MIT a Apache Software License (ASL) 2.0. Licence Mozilla Public License (MPL) 2.0 je pak určitým mezistupněm. Slabší licence je zde výhodou proto, že komponentu může použít více subjektů pro vytvoření různých aplikací včetně uzavřených. Motivace přispět do projektu je zde stejná jako u původní instituce - podělit se o náklady na údržbu a rozvoj.&lt;/p&gt;
+
+&lt;h3 id=&quot;příklady-otevřených-licencí-a-jejich-výhody&quot;&gt;Příklady otevřených licencí a jejich výhody&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://choosealicense.com/licenses/gpl-3.0/&quot;&gt;GNU GPLv3&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+Další šíření musí být pod stejnou licencí, včetně zdrojového kódu a to i pro odvozená díla. Aplikaci nelze uzavřít a uživatelé jsou motivováni rozvíjet stejnou code base.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://choosealicense.com/licenses/agpl-3.0/&quot;&gt;GNU AGPLv3&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+Stejná jako GPLv3, ale na zdrojový kód má nárok každý jednotlivý uživatel (tedy i uživatel konzumující software prostřednictvím SAAS).&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://choosealicense.com/licenses/mpl-2.0/&quot;&gt;Mozilla Public License 2.0&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+Další šíření může být pod smíšenou licencí. Části původně pod MPL musí být dodány včetně zdrojových kódů, ale další vylepšení mohou zůstat uzavřená.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://choosealicense.com/licenses/apache-2.0/&quot;&gt;Apache License 2.0&lt;/a&gt;&lt;/strong&gt; a &lt;strong&gt;&lt;a href=&quot;https://choosealicense.com/licenses/mit/&quot;&gt;MIT License&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+Další sdílení nemusí být se zdrojovými kódy. Velmi se hodí pro programovací frameworky či knihovny, které jsou určeny k integraci do dalšího projektu.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Ondřej Profant</name></author><category term="egovernment" /><category term="digitalizace" /><category term="licence" /><summary type="html">Tomu, aby veřejné instituce pořizovaly software za podmínek umožňujících jeho další rozvoj a sdílení, nic nebrání. Experti na autorské právo a veřejné zakázky se na tom shodují i se zaměstnanci Ministerstva vnitra a dalších úřadů. Za jakých podmínek by však měly veřejné instituce takto získaný kód dále šířit?</summary></entry><entry><title type="html">Příručka řízení státních IT projektů</title><link href="https://www.profant.eu/2020/prirucka-rizeni-statnich-it-projektu.html" rel="alternate" type="text/html" title="Příručka řízení státních IT projektů" /><published>2020-01-30T09:00:00+00:00</published><updated>2020-01-30T09:00:00+00:00</updated><id>https://www.profant.eu/2020/prirucka-rizeni-statnich-it-projektu</id><content type="html" xml:base="https://www.profant.eu/2020/prirucka-rizeni-statnich-it-projektu.html">&lt;p&gt;Dobrovolnická platforma &lt;a href=&quot;https://cesko.digital/&quot;&gt;Česko.Digital&lt;/a&gt;, sdružující IT profesionály, vydala &lt;strong&gt;Příručku řízení státních IT projektů&lt;/strong&gt;. Ta je určena hlavně exekutivcům, rozpočtovým specialistům, zákonodárcům a dalším lidem, kteří rozhodují o veřejných IT projektech.&lt;/p&gt;
 
 &lt;!--more--&gt;
 
@@ -639,187 +674,4 @@ Návrh zákona totiž předpokládá rozdělení na &lt;strong&gt;veřejnou a ne
       &lt;td&gt;Podpořil&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
-&lt;/table&gt;</content><author><name>Ondřej Profant</name></author><category term="Piráti" /><category term="sněmovna" /><category term="digitalizace" /><category term="egovernment" /><summary type="html">Sněmovní tisk k digitální technické mapě a pozměňovací návrhy k němu byly dnes projednány Výborem pro veřejnou správu a regionální rozvoj, kterému předsedá Ivan Bartoš. Přijatý komplexní pozměňovací návrh tak podstatně rozšířil celý návrh zákona. Jsme zas o krok blíž k digitalizaci stavebního řízení.</summary></entry><entry><title type="html">Zpráva o transparentnosti červenec 2019 - září 2019</title><link href="https://www.profant.eu/2019/transparentni-report-008.html" rel="alternate" type="text/html" title="Zpráva o transparentnosti červenec 2019 - září 2019" /><published>2019-10-28T15:00:00+00:00</published><updated>2019-10-28T15:00:00+00:00</updated><id>https://www.profant.eu/2019/transparentni-report-008</id><content type="html" xml:base="https://www.profant.eu/2019/transparentni-report-008.html">&lt;p&gt;Souhrnný report mé činnosti v období červenec až září 2019. Nejčerstvější informace o mých aktivitách naleznete na mých profilech na sociálních sítích a zde na blogu v sekci &lt;a href=&quot;https://www.profant.eu/transparentnost/&quot;&gt;Otevřenost&lt;/a&gt;.&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;h3 id=&quot;červenec-2019&quot;&gt;Červenec 2019&lt;/h3&gt;
-
-&lt;p&gt;&lt;strong&gt;Resortní tým Informatika&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Hned na začátku července jsme měli schůzi resortního týmu Informatika, na které jsme řešili témata jako zákon o právu na digitální službu, e-Government cloud nebo digitální technickou mapu.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://forum.pirati.cz/viewtopic.php?f=544&amp;amp;t=45888&amp;amp;p=636111#p636111&quot;&gt;Zápis na fóru&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Interpelace ohledně veřejných zakázek&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Na 33. schůzi Sněmovny &lt;a href=&quot;https://twitter.com/ondrej_profant/status/1149275861243367424&quot;&gt;jsem interpeloval&lt;/a&gt; ministra vnitra Hamáčka a ministryni financí Schillerovou ohledně veřejných zakázek na rádiový systém pro integrovaný záchranný systém a projekt ARES 2.0.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Komise NÚKIB&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Na schůzi Stálé komise pro kontrolu činnosti Národního úřadu pro kybernetickou a informační bezpečnost jsme se zabývali škrty tabulkových míst na úřadě, které provedla vláda. Dále jsme se věnovali pravidelným kontrolám centrálních úřadů, ze kterých vyplynuly výrazné nedostatky v kybernetické bezpečnosti.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Youth Speak Up!&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Zúčastnil jsem se &lt;a href=&quot;https://m.facebook.com/photo.php?fbid=10211233235266087&quot;&gt;setkání Youth, speak up&lt;/a&gt;. Společně jsme oslavili dosavadní úspěchy spolku a probírali plány do budoucna.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Konference CACIO&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Opět jsem se zúčastnil konference CACIO, &lt;a href=&quot;https://www.facebook.com/ondrej.profant/posts/10214655911618155&quot;&gt;kterou jsem tentokrát zahajoval&lt;/a&gt;. Na konferenci jsem představil pirátský Akční plán pro boj s vendor lock-in a rozšíření open source ve veřejné správě.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Digitální technická mapa&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Vláda dala 22. 7. souhlasné stanovisko k návrhu na zavedení digitální technické mapy ČR, na kterém jsem se jako jeden z předkladatelů podílel. Využití digitální technické mapy by usnadnilo přípravu a povolování staveb veřejné správě i občanům.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.pirati.cz/tiskove-zpravy/digitalizace-technicke-mapy-o-krok-bliz.html&quot;&gt;Tisková zpráva&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.profant.eu/2019/dtm.html&quot;&gt;Blog&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Boj o záchranu internetu&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;V červenci jsem se zapojil do konzultační skupiny Ministerstva kultury ke směrnici o autorském právu na jednotném digitálním trhu. Mým cílem je zmírnit negativní dopady směrnice na používání internetu v ČR.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.profant.eu/2019/boj-o-internet.html&quot;&gt;Blog&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Zveřejnění auditu České pošty&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Pirátům (zejména pak Lukáši Blažejovi) se podařilo u soudu dosáhnout zveřejnění bezpečnostního auditu informačního systému datových schránek. Česká pošta původně odmítla audit Pirátům vydat, ale Městský soud v Praze rozhodnutí generálního ředitele pošty zrušil.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.pirati.cz/tiskove-zpravy/ceska-posta-yverejni-audit-po-royhodnuti-soudu.html&quot;&gt;Tisková zpráva&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;srpen-2019&quot;&gt;Srpen 2019&lt;/h3&gt;
-
-&lt;p&gt;&lt;strong&gt;Přípravy zákona o právu na digitální službu&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;I přes léto probíhaly intenzivní &lt;a href=&quot;https://m.facebook.com/ivan.bartos.37/posts/10217014146446444&quot;&gt;přípravy zákona o právu na digitální službu&lt;/a&gt;. Ve spolupráci s ICT Unií, vládním zmocněncem pro digitalizaci a dalšími členy odborného týmu jsme na Ministerstvu vnitra připravili komplexní pozměňovací návrh, který vypořádává připomínky k návrhu zákona.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.pirati.cz/tiskove-zpravy/druhe-cteni-zakon-o-digitalni-sluzbe.html&quot;&gt;Tisková zpráva&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Kritika vládního pojetí e-Governmentu&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;V &lt;a href=&quot;https://svetchytre.cz/a/pX83g/e-government-je-v-podani-soucasne-vlady-pouze-e-marketing&quot;&gt;článku pro Svět chytře&lt;/a&gt; jsem opět zkritizoval přístup vlády k e-Governmentu a jeho rozvoji. Jen těžko se dá český e-Government dostatečně rozvíjet, když je i dle vyjádření ministra vnitra silně podfinancovaný.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Účast na Prague Pride&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Zúčastnil jsem se pochodu Prague Pride, abych dal najevo svou podporu lidem s odlišnou sexuální orientací. Ve &lt;a href=&quot;https://www.profant.eu/2019/prague-pride.html&quot;&gt;svém článku&lt;/a&gt; jsem pak shrnul, proč podporuji manželství pro stejnopohlavní páry.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Nová posila týmu&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Na konci srpna nastoupil můj nový asistent Dan Kolář. Ten je hlavní kontaktní osobou, kdybyste něco potřebovali.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Vyjádření k návrhu na využívání bankovních identit&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Vláda podpořila návrh, který by měl umožňovat komunikaci mezi občanem a státem prostřednictvím jeho údajů z internetového bankovnictví. Služeb internetového bankovnictví využívá daleko více občanů než elektronických občanek nebo datových schránek. Bankovní identity by tak mohly napomoci častějšímu elektronickému styku. Víme, že jsou tam jisté nedostatky, ale existuje silný politický konsenzus na komplexním pozměňovacím návrhu v druhém čtení.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.pirati.cz/tiskove-zpravy/navrh-komunikace-se-statem-bankovni-identitou.html&quot;&gt;Tisková zpráva&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Spuštění Otevřené sněmovny&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Společně s Ivanem Bartošem jsme spustili projekt Otevřené sněmovny. Účelem projektu je přehledně vysvětlit legislativní proces. Chceme ukázat jak vypadá reálný vznik legislativy široké veřejnosti. Důraz je kladen na komunikaci s jednotlivými stakeholdery.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.pirati.cz/tiskove-zpravy/otevrena-snemovna-pirati-spustili-legislativni-web.html&quot;&gt;Tisková zpráva&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.profant.eu/2019/otevrena-snemovna.html&quot;&gt;Blog&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Diskuze o otevřených licencích&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Zúčastnil jsem &lt;a href=&quot;https://twitter.com/ondrej_profant/status/1166618595696304128&quot;&gt;diskuze o otevřených softwarových licencích na Ministerstvu vnitra&lt;/a&gt;. Velmi jsem uvítal nasazení Gitlabu v prostředí ministerstva. To jsem ostatně ministerstvu doporučoval již před víc jak rokem. Projekt je prozatím v začátcích a je na něm ještě spousta práce.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Vyjádření k neoprávněnému přístupu k údajům na MVČR&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Přestože kontrola Úřadu pro ochranu osobních údajů odhalila na Ministerstvu vnitra nezákonné přístupy do registru obyvatel, nehrozí ministerstvu žádná pokuta. Jedná se o výraznou nerovnost před zákonem, na což jsem upozorňoval už při projednávání zákona o zpracování osobních údajů.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.pirati.cz/tiskove-zpravy/mv-bez-pokuty-za-100tisic-neopravnenych-pristupu.html&quot;&gt;Tisková zpráva&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Komunikace resortního týmu a krajských expertních týmů&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Za resortní tým jsme 29. 8. rozeslali mail pirátským zastupitelům, radním a starostům a členům KET zodpovědným za IT. Vyzvali jsme je ke spolupráci s resortním týmem. V rámci resortního týmu se tak snažíme lépe komunikovat a koordinovat spolupráci mezi celostátním resortním týmem a krajskými týmy zabývajícími se e-Governmentem.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Grilování s Piráty na Praze 12&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;V sobotu 31. 8. jsem byl ještě na venkovní grilovačce s Piráty na Praze 12. V této městské části máme starostu. S místními Piráty jsem řešil jejich zkušenosti z vedení radnice a porovnával to ze zkušenostmi z Otevřených měst a MHMP.&lt;/p&gt;
-
-&lt;h3 id=&quot;září-2019&quot;&gt;Září 2019&lt;/h3&gt;
-
-&lt;p&gt;&lt;strong&gt;Podvýbor pro e-Government&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Sněmovní podvýbor se zabýval komplexním pozměňovacím návrhem k Zákonu o právu na digitální službu. Také jsme formulovali usnesení k elektronickému potvrzení o studiu, aby studenti nemuseli zbytečně prokazovat studium různým institucím.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Konference o státní správě v Mikulově&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Společně s Ivanem Bartošem &lt;a href=&quot;https://m.facebook.com/ceska.piratska.strana/photos/a.117963484038/10156830572524039/&quot;&gt;jsem se zúčastnil konference v Mikulově&lt;/a&gt;, kde Ivan Bartoš jako zástupce skupiny poslanců přebíral ocenění magazínu Egovernment za Zákon o právu na digitální službu.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Přechylování ženských příjmení&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Podpořil jsem svobodnou volbu žen ohledně podoby jejich příjmení. Myslím si, že každý má nárok používat takové jméno, jaké mu vyhovuje.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.pirati.cz/tiskove-zpravy/mo%C5%BEnost-%C5%BEen-rozhodovat-svobodne-o-prijmeni.html&quot;&gt;Tisková zpráva&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.profant.eu/2019/prechylovani.html&quot;&gt;Blog&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Výbor pro veřejnou správu a regionální rozvoj&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Cesta Zákonu o právu na digitální službu pokračovala v září i přes Výbor pro veřejnou správu a regionální rozvoj. Dále jsme projednávali také Strategii regionálního rozvoje ČR 2021 nebo Zákon o základních registrech.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.pirati.cz/tiskove-zpravy/zakon-o-pravu-na-digitalni-sluzbu-podporen-garancnim-vyborem.html&quot;&gt;Tisková zpráva ZPDS&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.pirati.cz/tiskove-zpravy/prosazujeme-elektronicke-potvrzeni-o-studiu.html&quot;&gt;Tisková zpráva potvrzení o studiu&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Výzva k připojení se k žalobě proti směrnici o copyrightu&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Piráti vyzvali premiéra, ministra zahraničí a ministra kultury, aby se ČR připojila k polské žalobě ohledně směrnice o copyrightu. Ministr kultury Lubomír Zaorálek ale spoluúčast ČR na žalobě v rámci interpelací odmítl.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.pirati.cz/tiskove-zpravy/copyrightova-smernice-je-protiustavni-apelujeme-na-premiera-k-pripojeni-k-polske-zalobe.html&quot;&gt;Výzva k žalobě&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.pirati.cz/tiskove-zpravy/cenzura-internetu-zaoralek-odmita-pripojit-se-k-polske-zalobe.html&quot;&gt;Tisková zpráva&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://mikulas-peksa.eu/2019/reakce-copyright-smernice.html&quot;&gt;Reakce Mikuláše Peksy na dezinformace o pirátském postoji&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Pátek třináctého&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Pátek 13. 9. byl skutečně nešťastným dnem: Sněmovnou prošlo rozšíření EET, zároveň se Sněmovna odmítla zabývat plošným šmírováním občanů. A k tomu všemu bylo ještě zastaveno Babišovo trestní stíhání.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Resortní tým Informatika&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Na schůzi resortního týmu jsme řešili aktuální témata jako Zákon o právu na digitální službu, bankovní identitu (SONIA) a její využití pro komunikaci se státem, digitální technickou mapu nebo implementaci směrnice o copyrightu. Věnovali jsme se i komunikaci resortního týmu s krajskými expertními týmy a informování zbytku strany i veřejnosti.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://forum.pirati.cz/viewtopic.php?f=544&amp;amp;t=45888&amp;amp;p=636111#p642345&quot;&gt;Zápis na fóru&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Sněmovna&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;24.9. Neprošel pirátský návrh na toleranci piva pro vodáky, ale Pirátům se podařilo dosáhnout snížení odměn politiků kumulujících funkce.&lt;/li&gt;
-  &lt;li&gt;25.9. Podařilo se dosáhnout velkých úspěchů na poli digitalizace: Zákon o právu na digitální službu prošel druhým čtením, Digitální technická mapa a využívání bankovních identit pak prošly prvním čtením.&lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;26.9. Se projednávala ústavní žaloba na prezidenta. Přestože bylo vzhledem k rozložení sil ve Sněmovně jasné, jak to dopadne, hlasoval jsem pro podání žaloby. Svůj pohled na žalobu jsem srhnul ve &lt;a href=&quot;https://www.profant.eu/2019/ustavni-zaloba-zkouska-charakteru.html&quot;&gt;svém článku&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.pirati.cz/tiskove-zpravy/brifink-34schuze-pokracovani.html&quot;&gt;Tisková zpráva shrnutí schůze&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.pirati.cz/tiskove-zpravy/kumulace-platu-bude-omezena.html&quot;&gt;Tisková zpráva kumulace platů&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;table&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;a href=&quot;https://www.profant.eu/2019/transparentni-report-007.html&quot;&gt;«« Předchozí report (duben 2019 - červen 2019)&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt;&lt;a href=&quot;https://www.profant.eu/2020/transparentni-report-009.html&quot;&gt;Další report (říjen 2019 - prosinec 2019) »»&lt;/a&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;</content><author><name>Ondřej Profant</name></author><category term="transparence" /><category term="report" /><category term="Piráti" /><summary type="html">Souhrnný report mé činnosti v období červenec až září 2019. Nejčerstvější informace o mých aktivitách naleznete na mých profilech na sociálních sítích a zde na blogu v sekci Otevřenost.</summary></entry></feed>
+&lt;/table&gt;</content><author><name>Ondřej Profant</name></author><category term="Piráti" /><category term="sněmovna" /><category term="digitalizace" /><category term="egovernment" /><summary type="html">Sněmovní tisk k digitální technické mapě a pozměňovací návrhy k němu byly dnes projednány Výborem pro veřejnou správu a regionální rozvoj, kterému předsedá Ivan Bartoš. Přijatý komplexní pozměňovací návrh tak podstatně rozšířil celý návrh zákona. Jsme zas o krok blíž k digitalizaci stavebního řízení.</summary></entry></feed>
