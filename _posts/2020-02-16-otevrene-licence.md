@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Otevřené licence softwarových projektů pro veřejnou správu"
-date:       2020-16-02
+date:       2020-02-16
 categories: Digitalizace
 comments:   true
 tags:       [egovernment, digitalizace, licence]
