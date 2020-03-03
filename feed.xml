@@ -1,5 +1,31 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="https://www.profant.eu/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.profant.eu/" rel="alternate" type="text/html" /><updated>2020-03-03T12:58:48+00:00</updated><id>https://www.profant.eu/feed.xml</id><title type="html">Blog Ondřeje Profanta</title><subtitle>Zápisník pirátského poslance Ondřeje Profanta, který se zaměřuje na opendata a e-government. Rád bych byl, aby Česká republika byla moderním státem s rozvinutou digitální ekonomikou, kde je kladen silný důraz na vzdělávání a svobodu. V digitalizaci se musíme inspirovat ve Velké Britanii a Estonsku, řešení musí být otevřená a uživatelsky přívětivá.
-</subtitle><author><name>Ondřej Profant</name></author><entry><title type="html">Otevřené licence softwarových projektů pro veřejnou správu</title><link href="https://www.profant.eu/2020/otevrene-licence.html" rel="alternate" type="text/html" title="Otevřené licence softwarových projektů pro veřejnou správu" /><published>2020-02-16T00:00:00+00:00</published><updated>2020-02-16T00:00:00+00:00</updated><id>https://www.profant.eu/2020/otevrene-licence</id><content type="html" xml:base="https://www.profant.eu/2020/otevrene-licence.html">&lt;p&gt;Tomu, aby veřejné instituce pořizovaly software za podmínek umožňujících jeho další rozvoj a sdílení, nic nebrání. Experti na autorské právo a veřejné zakázky se na tom shodují i se zaměstnanci Ministerstva vnitra a dalších úřadů. Za jakých podmínek by však měly veřejné instituce takto získaný kód dále šířit?&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="https://www.profant.eu/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.profant.eu/" rel="alternate" type="text/html" /><updated>2020-03-03T13:00:33+00:00</updated><id>https://www.profant.eu/feed.xml</id><title type="html">Blog Ondřeje Profanta</title><subtitle>Zápisník pirátského poslance Ondřeje Profanta, který se zaměřuje na opendata a e-government. Rád bych byl, aby Česká republika byla moderním státem s rozvinutou digitální ekonomikou, kde je kladen silný důraz na vzdělávání a svobodu. V digitalizaci se musíme inspirovat ve Velké Britanii a Estonsku, řešení musí být otevřená a uživatelsky přívětivá.
+</subtitle><author><name>Ondřej Profant</name></author><entry><title type="html">Czechiana: Další selhání Digitálního Česka</title><link href="https://www.profant.eu/2020/czechiana.html" rel="alternate" type="text/html" title="Czechiana: Další selhání Digitálního Česka" /><published>2020-03-03T00:00:00+00:00</published><updated>2020-03-03T00:00:00+00:00</updated><id>https://www.profant.eu/2020/czechiana</id><content type="html" xml:base="https://www.profant.eu/2020/czechiana.html">&lt;p&gt;Po e-shopu na dálniční známky se na veřejnost dostal další podezřelý IT projekt - Kulturní portál Czechiana. Spojuje je cena lehce pod půl miliardy, nedostatečná informovanost veřejnosti a mlžení či mlčení ministerstev. V článku mapuji vývoj Czechiany od okamžiku, kdy jsme na ni narazili, až po její zrušení. Nedávné kauzy také ukazují na hlubší a systémový problém státní správy - chybí kontrolní mechanismy pro velké IT projekty. To by přitom měl být jeden ze základních úkolů projektu Digitální Česko.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;Na Czechianu jsme přišli v rámci zkoumání projektů Digitálního Česka a přípravě článku pro web Svět chytře, kde shrnuji problematické IT systémy, kterými je česká státní správa zatížena (článek by měl vyjít v řádu dnů).&lt;/p&gt;
+
+&lt;p&gt;Czechiana měla být portálem s digitalizovanými kulturními památkami české historie. Problémem se zdála být duplicita a zbytečnost projektu, protože již nyní kulturní instituce data vytváří, archivují a posílají do Europeany. &lt;a href=&quot;https://www.europeana.eu/portal/cs&quot;&gt;Europeana&lt;/a&gt; je evropský portál kulturního dědictví, kde najdete spoustu fotografií a uměleckých děl ze sbírek evropských kulturních institucí.&lt;/p&gt;
+
+&lt;p&gt;Pokud by Czechiana byla jen vložená vrstva s jednotným vyhledáváním, šlo by o zcela nadbytečný mezičlánek. Dané prostředky by se spíše měly rozdat kulturním institucím, které své sbírky digitalizují, na posílení jejich infrastruktury.&lt;/p&gt;
+
+&lt;p&gt;Chtěl jsem, aby Ministerstvo kultury tato podezření buď potvrdilo, nebo vyvrátilo. Na konci ledna jsem jim proto poslal dopis s žádostí o vysvětlení a popis funkcionalit, které Czechiana bude mít nad rámec Europeany. Ptal jsem se například na následující skutečnosti:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Jaké funkcionality Czechiana oproti Europeaně navíc nabízí? A znamená její zřízení nějakou dodatečnou administrativní zátěž pro jednotlivé sektorové agregátory (pozn. kulturní instituce)? A jaké jsou celkové náklady na zřízení Czechiany (oproti stavu, kdy by data byla posílána pouze do Europeany)?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Na tyto své velmi konkrétní otázky jsem odpověď zatím neobdržel. Přitom jde o klíčové otázky, které by vyjasnily, do jaké míry byla Czechiana skutečně předražená. Každopádně předpokládám, že odpovědi už ani neobdržím. Lubomír Zaorálek (ČSSD) totiž jen tři dny po &lt;a href=&quot;https://archiv.ihned.cz/c1-66725020-ministerstvo-pripravuje-za-pul-miliardy-portal-kulturnich-pamatek-podobny-pritom-uz-vytvorila-evropska-unie&quot;&gt;publikaci článku HN&lt;/a&gt; oznámil, že projekt ruší.&lt;/p&gt;
+
+&lt;p&gt;Na jeho tiskové konferenci také vyplynulo, jak špatně byl celý projekt od samého začátku veden. Projekt připravovaný od roku 2015 měl na starosti jen jeden zaměstnanec a jinak jej kompletně outsourcovala advokátní kancelář Rowan Legal. Ano, ta samá Rowan Legal, jejíž právník údajně nabídl před Vánoci &lt;a href=&quot;https://archiv.ihned.cz/c1-66725080-nekomu-jsem-vadil-odmital-jsem-se-podridit-vlivu-zajmovych-skupin-rika-exministr-dopravy-kremlik&quot;&gt;ministru Kremlíkovi úplatek 1,5 milionu korun&lt;/a&gt;. Navic prý ministrovi kultury nebyl nikdo schopný pořádně vysvětlit, proč se takový projekt vůbec připravuje. K Czechianě se nehlásí ani bývalý ministr kultury Antonín Staněk, ani jeho předchůdce Daniel Herman. To snad ani nepotřebuje komentář.&lt;/p&gt;
+
+&lt;p&gt;Je ale potřeba ocenit Lubomíra Zaorálka za to, jak se k projektu postavil. To je v přímém kontrastu s reakcí Vladimíra Kremlíka (ANO), který se v kauze e-shopu za 401 milionů ze začátku držel spíše jen pravidla zatloukat.&lt;/p&gt;
+
+&lt;p&gt;Jak se to celé mohlo stát? Kromě notorického problému české státní správy, kterým je nekompetentnost a nízká motivace úředníků, vidím problém také v selhání vládního programu Digitální Česko. Jen pár minut před zrušením projektu prohlásil v Radiožurnálu vládní zmocněnec pro digitalizaci Vladimír Dzurilla, že vlastně neví, k čemu má Czechiana sloužit. Že to je věc Ministerstva kultury, že oni projekt řešili jen “z pohledu IT, z pohledu celého nastavení a toho, jak je to všechno propojováno”. To ale nestačí, obvykle je důležitější poctivá analýza procesů a jejich nové navržení tak, aby byl projekt digital born. Tedy aby nedošlo pouze k elektronizaci již existujících procesů, které ale byly navrženy pro offline prostředí a neberou v potaz nové možnosti, které s digitalizací přichází.&lt;/p&gt;
+
+&lt;p&gt;Od Digitálního Česka bych ale přinejmenším očekával, že bude zjevně předražené a zbytečné projekty podchycovat a bránit jejich vzniku. Případy z posledních týdnů (Czechiana, e-shop na známky) ukazují, že v tomto Digitální Česko totálně selhává. A opět musí roli státu nahrazovat média, odborná veřejnost a opoziční politici.&lt;/p&gt;
+
+&lt;p&gt;Digitální Česko se chlubí vytvářením kvanta metodik a koncepcí k digitalizaci české státní správy. Kauzy s e-shopem na dálniční známky a Czechiana ale naplno ukázaly, že vytvářet metodiky, které úředníci buďto nechápou nebo se jimi neřídí, prostě nestačí.&lt;/p&gt;</content><author><name>Ondřej Profant</name></author><category term="egovernment" /><category term="digitalizace" /><summary type="html">Po e-shopu na dálniční známky se na veřejnost dostal další podezřelý IT projekt - Kulturní portál Czechiana. Spojuje je cena lehce pod půl miliardy, nedostatečná informovanost veřejnosti a mlžení či mlčení ministerstev. V článku mapuji vývoj Czechiany od okamžiku, kdy jsme na ni narazili, až po její zrušení. Nedávné kauzy také ukazují na hlubší a systémový problém státní správy - chybí kontrolní mechanismy pro velké IT projekty. To by přitom měl být jeden ze základních úkolů projektu Digitální Česko.</summary></entry><entry><title type="html">Otevřené licence softwarových projektů pro veřejnou správu</title><link href="https://www.profant.eu/2020/otevrene-licence.html" rel="alternate" type="text/html" title="Otevřené licence softwarových projektů pro veřejnou správu" /><published>2020-02-16T00:00:00+00:00</published><updated>2020-02-16T00:00:00+00:00</updated><id>https://www.profant.eu/2020/otevrene-licence</id><content type="html" xml:base="https://www.profant.eu/2020/otevrene-licence.html">&lt;p&gt;Tomu, aby veřejné instituce pořizovaly software za podmínek umožňujících jeho další rozvoj a sdílení, nic nebrání. Experti na autorské právo a veřejné zakázky se na tom shodují i se zaměstnanci Ministerstva vnitra a dalších úřadů. Za jakých podmínek by však měly veřejné instituce takto získaný kód dále šířit?&lt;/p&gt;
 
 &lt;!--more--&gt;
 
@@ -600,78 +626,4 @@ a hodně prvních čtení. Nejspíše bude i opoziční okénko, tedy výjimečn
 
 &lt;p&gt;Oceňuji nicméně zřízení konzultační skupiny na Ministerstvu kultury k implementaci copyrightové směrnice. V rámci této skupiny se ve spolupráci s nevládními organizacemi budu zasazovat o to, aby dopad směrnice byl co nejméně škodlivý. Zejména aby nedošlo k aplikaci automatizovaných filtrů, které by mohly mazat i zcela legální obsah a vést k cenzuře.&lt;/p&gt;
 
-&lt;p&gt;Minulý týden došlo k prvním ústním konzultacím a začalo se článkem 15, tedy tzv. „daní z odkazu“. Ministerstvo nicméně řeklo, že bude do znění směrnice zasahovat jen minimálně, dá se tedy očekávat, že nastane podobná situace jako ve Francii, kde implementace článku 15 &lt;a href=&quot;https://www.pirati.cz/tiskove-zpravy/ondrej-profant-komentar-copyrightova-smernice-ve-francii-narazila.html&quot;&gt;skončila pro vydavatele fiaskem&lt;/a&gt;. Vydavatelé se snažili prosazovat povinnou kolektivní správu, ale ani ta by nevyřešila jejich základní problém. Google zkrátka nemá zájem platit za náhledy jejich článků a radši je prostě přestane zobrazovat. Za Piráty budu dohlížet na to, aby vliv článku 15 na současný stav byl co nejmenší. A také abychom zabránili možnému posílení dezinformačních webů v důsledku toho, že Google přestane zobrazovat náhledy článků velkých vydavatelství. Proto jsem požadoval, aby se ministerstvo touto otázkou explicitně zabývalo v důvodové zprávě.&lt;/p&gt;</content><author><name>Ondřej Profant</name></author><category term="Piráti" /><category term="EU" /><summary type="html">Počátkem září jsem společně s místopředsedou Evropského parlamentu Marcelem Kolajou poslal vládě dopis, ve kterém jsem ji žádal o připojení k polské žalobě k Soudnímu dvoru EU. Tato žaloba žádá zrušení problematických částí článku 17 (dříve 13) tzv. copyright směrnice. Vláda naši žádost odmítla a k žalobě se nepřipojila. Stále je však možnost zasadit se o to, aby negativní dopad na český internet byl co nejmenší. Účastním se proto za Piráty konzultačních skupin Ministerstva kultury k implementaci této směrnice.</summary></entry><entry><title type="html">Digitální technická mapa projednána výborem</title><link href="https://www.profant.eu/2019/dtm-vybor.html" rel="alternate" type="text/html" title="Digitální technická mapa projednána výborem" /><published>2019-11-13T23:00:00+00:00</published><updated>2019-11-13T23:00:00+00:00</updated><id>https://www.profant.eu/2019/dtm-vybor</id><content type="html" xml:base="https://www.profant.eu/2019/dtm-vybor.html">&lt;p&gt;&lt;a href=&quot;http://www.psp.cz/sqw/historie.sqw?o=8&amp;amp;T=525&quot;&gt;Sněmovní tisk&lt;/a&gt; k &lt;a href=&quot;https://www.profant.eu/2019/dtm.html&quot;&gt;digitální technické mapě&lt;/a&gt; a pozměňovací návrhy k němu byly dnes projednány Výborem pro veřejnou správu a regionální rozvoj, kterému předsedá Ivan Bartoš. Přijatý komplexní pozměňovací návrh tak podstatně rozšířil celý návrh zákona. Jsme zas o krok blíž k digitalizaci stavebního řízení.&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;p&gt;Zákon, který závádí bezešvé digitální technické mapy krajů, byl tak komplexním pozměňovacím návrhem podstatně rozšířen i o další komponenty nezbytné pro realizaci digitalizace stavebního řízení. Nově tak definuje:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Národní geoportál územního plánování&lt;/li&gt;
-  &lt;li&gt;Portál stavebníka&lt;/li&gt;
-  &lt;li&gt;Evidenci územních a stavebních řízení&lt;/li&gt;
-  &lt;li&gt;Evidenci elektronických dokumentací&lt;/li&gt;
-  &lt;li&gt;Informační systém identifikačního čísla stavby&lt;/li&gt;
-  &lt;li&gt;elektronické řešení poskytování informací vlastníkem technické infrastruktury&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Navržené znění zákona však nejde o moc dále než k pouhé definici těchto pojmů. V případě schválení zákona tak bude záležet na vyhláškách Ministerstva pro místní rozvoj a hlavně na finálním provedení těchto systémů. &lt;strong&gt;Stálou hrozbou&lt;/strong&gt; při tvorbě informačních systémů státu zůstává předraženost, nedostatečná kvalita a &lt;strong&gt;vendor lock-in&lt;/strong&gt;, jako například v případě nechvalně známých systémů &lt;a href=&quot;https://www.svetchytre.cz/a/iwWmz/pirat-profant-nas-problem-je-ze-urednik-nezamkne-obrazovku-u-pc-kdyz-od-ni-odchazi&quot;&gt;NEN&lt;/a&gt; a &lt;a href=&quot;https://www.pirati.cz/tiskove-zpravy/otevreny-dopis-piratu-predrazene-it-v-mpsv.html&quot;&gt;systémů MPSV&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;K návrhu digitální technické mapy jsem předložil dva pozměňovací návrhy řešící &lt;strong&gt;přístupnost a otevřenost dat&lt;/strong&gt;.
-Návrh zákona totiž předpokládá rozdělení na &lt;strong&gt;veřejnou a neveřejnou část&lt;/strong&gt;, kde není jasné, které informace by měly být v neveřejné části. To má určit až vyhláška Českého úřadu zeměměřičského a katastrálního (ČUZK).&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Argument bezpečností&lt;/strong&gt;, který používají odpůrce zveřejnění, je lichý, protože v mapě by neměly být žádné utajované objekty. V Praze je systém DTM nasazen více než 3 roky zcela otevřeně. Vše je veřejné a nejsou s tím problémy. Data jsou dokonce od roku 2016 poskytována jako &lt;a href=&quot;http://opendata.praha.eu&quot;&gt;opendata&lt;/a&gt;. Zrušení tohoto dělení by navíc výrazně zjednodušilo architekturu celého systému, a tím &lt;strong&gt;výrazně zlevnilo vývoj&lt;/strong&gt; a pozdější údržbu.&lt;/p&gt;
-
-&lt;p&gt;Dále jsem úspěšně navrhl doprovodné usnesení:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Výbor pro veřejnou správu a regionální rozvoj vyzývá Český úřad zeměměřičský a katastrální a Ministerstvo pro místní rozvoj, aby navrhly v rámci prováděcích právních předpisů takový legislativní a věcný postup, který by postupně směřoval k co nejširší&lt;/p&gt;
-
-  &lt;p&gt;1) úplnosti a přesnosti dat poskytovaných vlastníky dopravní a technické infrastruktury do digitální technické mapy a&lt;/p&gt;
-
-  &lt;p&gt;2) závaznosti dat v digitální technické mapě tak, aby mohla být omezena nebo úplně zrušena povinnost získání vyjádření o existenci sítí od jejich vlastníků, správců nebo provozovatelů.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&quot;shrnutí-pozměňovacích-návrhů&quot;&gt;Shrnutí pozměňovacích návrhů&lt;/h3&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;SD&lt;/th&gt;
-      &lt;th&gt;Název&lt;/th&gt;
-      &lt;th&gt;Předkladatel&lt;/th&gt;
-      &lt;th&gt;Popis&lt;/th&gt;
-      &lt;th&gt;Výbor&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;3643&lt;/td&gt;
-      &lt;td&gt;Zrušení neveřejné části&lt;/td&gt;
-      &lt;td&gt;Ondřej Profant&lt;/td&gt;
-      &lt;td&gt;Zrušení neveřejné části a zavedení opendat, výrazná finanční úspora při implementaci&lt;/td&gt;
-      &lt;td&gt;Nepodpořil&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;3645&lt;/td&gt;
-      &lt;td&gt;Zavedení opendat&lt;/td&gt;
-      &lt;td&gt;Ondřej Profant&lt;/td&gt;
-      &lt;td&gt;Zavedení opendat pro veřejnou část DTM&lt;/td&gt;
-      &lt;td&gt;Nepodpořil&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;3648&lt;/td&gt;
-      &lt;td&gt;Nové portály&lt;/td&gt;
-      &lt;td&gt;Martin Kupka&lt;/td&gt;
-      &lt;td&gt;Zavedení nových webových portálů, avšak bez podrobné definice&lt;/td&gt;
-      &lt;td&gt;Podpořil&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt;Doprovodné usnesení&lt;/td&gt;
-      &lt;td&gt;Ondřej Profant&lt;/td&gt;
-      &lt;td&gt;Doprovodné usnesení&lt;/td&gt;
-      &lt;td&gt;Podpořil&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;</content><author><name>Ondřej Profant</name></author><category term="Piráti" /><category term="sněmovna" /><category term="digitalizace" /><category term="egovernment" /><summary type="html">Sněmovní tisk k digitální technické mapě a pozměňovací návrhy k němu byly dnes projednány Výborem pro veřejnou správu a regionální rozvoj, kterému předsedá Ivan Bartoš. Přijatý komplexní pozměňovací návrh tak podstatně rozšířil celý návrh zákona. Jsme zas o krok blíž k digitalizaci stavebního řízení.</summary></entry></feed>
+&lt;p&gt;Minulý týden došlo k prvním ústním konzultacím a začalo se článkem 15, tedy tzv. „daní z odkazu“. Ministerstvo nicméně řeklo, že bude do znění směrnice zasahovat jen minimálně, dá se tedy očekávat, že nastane podobná situace jako ve Francii, kde implementace článku 15 &lt;a href=&quot;https://www.pirati.cz/tiskove-zpravy/ondrej-profant-komentar-copyrightova-smernice-ve-francii-narazila.html&quot;&gt;skončila pro vydavatele fiaskem&lt;/a&gt;. Vydavatelé se snažili prosazovat povinnou kolektivní správu, ale ani ta by nevyřešila jejich základní problém. Google zkrátka nemá zájem platit za náhledy jejich článků a radši je prostě přestane zobrazovat. Za Piráty budu dohlížet na to, aby vliv článku 15 na současný stav byl co nejmenší. A také abychom zabránili možnému posílení dezinformačních webů v důsledku toho, že Google přestane zobrazovat náhledy článků velkých vydavatelství. Proto jsem požadoval, aby se ministerstvo touto otázkou explicitně zabývalo v důvodové zprávě.&lt;/p&gt;</content><author><name>Ondřej Profant</name></author><category term="Piráti" /><category term="EU" /><summary type="html">Počátkem září jsem společně s místopředsedou Evropského parlamentu Marcelem Kolajou poslal vládě dopis, ve kterém jsem ji žádal o připojení k polské žalobě k Soudnímu dvoru EU. Tato žaloba žádá zrušení problematických částí článku 17 (dříve 13) tzv. copyright směrnice. Vláda naši žádost odmítla a k žalobě se nepřipojila. Stále je však možnost zasadit se o to, aby negativní dopad na český internet byl co nejmenší. Účastním se proto za Piráty konzultačních skupin Ministerstva kultury k implementaci této směrnice.</summary></entry></feed>
