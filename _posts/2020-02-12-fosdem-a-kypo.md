@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "FOSDEM a KYPO"
-date:       2020-02-16
+date:       2020-02-12
 categories: Bezpečnost
 comments:   true
 tags:       [bezpečnost, licence]
@@ -16,7 +16,7 @@ Pirátský tým pro IT a e-government nemohl chybět na největší evropské ko
 
 V Bruselu jsme se soustředili na novinky v oblasti open source, hlavně v oblasti politiky a pronikání do veřejné správy, prohloubili jsme dosavadní známosti a navázali nové kontakty.
 
-Celý festival probíhá ve 2 dnech v kampusu Université Libre de Bruxelles a je rozdělen do množství paralelně probíhajících tematických bloků. Některé jsou velmi specializované, určené pro úzký okruh vývojářů či jiných odborníků, jiné jsou široce pojaté a multidisciplinární. K takovým patřil i jeden z ústředních bloků "Community and Ethics" zabývající se vztahem etiky a otevřeného softwaru. Jedním z klíčových témat byla umělá inteligence (AI) a důležitost její otevřenosti. Jak umělá inteligence a strojové učení hrají ve společnosti stále větší roli, rozhodují více než kdy předtím o našich životech. A jejich rozhodnutí mohou fatální, jak ukázal nedávný případ autopilota Boeingu 737 MAX. Takové systémy, aby si zasloužily důvěru lidí, musí být veřejně auditované, aby mohlo být přezkoumáno jejich fungování a případně objeviny jejich chyby. Proto je nutné, aby algoritmy, kterým svěřujeme svoje životy, měly otevřený zdrojový kód a v případě strojové učení i trénovací data. Problematika AI je také aktuálně intenzivně řešena Evropskou komisí. Její aktuální white paper na téma AI diskutuje pirátský europoslanec Marcel Kolaja [na svém blogu](https://www.kolaja.eu/cs/post/20200219-artificial_intelligence_the_future_european_approach/).
+Celý festival probíhá ve 2 dnech v kampusu Université Libre de Bruxelles a je rozdělen do množství paralelně probíhajících tematických bloků. Některé jsou velmi specializované, určené pro úzký okruh vývojářů či jiných odborníků, jiné jsou široce pojaté a multidisciplinární. K takovým patřil i jeden z ústředních bloků *"Community and Ethics"* zabývající se vztahem etiky a otevřeného softwaru. Jedním z klíčových témat byla **umělá inteligence** (AI) a důležitost její otevřenosti. Jak umělá inteligence a strojové učení hrají ve společnosti stále větší roli, rozhodují více než kdy předtím o našich životech. A jejich rozhodnutí mohou fatální, jak ukázal nedávný případ autopilota Boeingu 737 MAX. Takové systémy, aby si zasloužily důvěru lidí, musí být veřejně auditované, aby mohlo být přezkoumáno jejich fungování a případně objeviny jejich chyby. Proto je nutné, aby algoritmy, kterým svěřujeme svoje životy, měly otevřený zdrojový kód a v případě strojové učení i trénovací data. Problematika AI je také aktuálně intenzivně řešena Evropskou komisí. Její aktuální white paper na téma AI diskutuje pirátský europoslanec Marcel Kolaja [na svém blogu](https://www.kolaja.eu/cs/post/20200219-artificial_intelligence_the_future_european_approach/).
 
 ![Software jako black box](/assets/img/posts/fosdem3.jpg)
 
@@ -42,7 +42,7 @@ Hned další den jsme vyrazili do brněnského kybernetického polygonu [KYPO](h
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpirat.kolarik%2Fposts%2F2533364133456079&width=500" width="500" height="630" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
 
-Masarykova univerzita byla také jednou z prvních, která spustila funkční řešení elektronického potvrzení o studiu. O celostátním řešení [jednáme už od loňska](https://www.piratskelisty.cz/clanek-2581-pirati-prosazuji-elektronicke-potvrzeni-o-studiu) v rámci platformy Youth, speak up! s Ministerstvem školství.
+Masarykova univerzita byla také jednou z prvních, která spustila funkční řešení elektronického potvrzení o studiu. O celostátním řešení [jednáme už od loňska](https://www.piratskelisty.cz/clanek-2581-pirati-prosazuji-elektronicke-potvrzeni-o-studiu) v rámci platformy *Youth, speak up!* s Ministerstvem školství.
 [Řešení Masarykovy univerzity](https://is.muni.cz/napoveda/student/potvrzeni_o_studiu) je jednoduché, elegantní a uživatelsky přívětivé. Potvrzení Funguje na principu PDF souboru zapečetěného  elektronickou pečetí, proto má elektronické potvrzení minimálně stejnou důvěryhodnost jako jeho papírová varianta.
 Škola navíc spolupracuje s Dopravním podnikem města Brna, kterému mohou studenti a studentky přímo povolit přístup k informaci, zda studují.
 Elektronické potvrzení škola implementovala z vlastní iniciativy a za minimálních nákladů. Ukazuje tak, že pokud je na straně veřejných orgánů vůle, lze potřebné inovace v oblasti e-governmentu realizovat celkem rychle a snadno.
