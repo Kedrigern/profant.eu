@@ -5,7 +5,7 @@ date:       2020-03-03
 categories: Digitalizace
 comments:   true
 tags:       [egovernment, digitalizace]
-img:        europeana.png
+img:        europeana-small.jpg
 author:     Ondřej Profant
 ---
 
