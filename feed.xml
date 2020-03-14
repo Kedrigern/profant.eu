@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="https://www.profant.eu/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.profant.eu/" rel="alternate" type="text/html" /><updated>2020-03-07T11:18:35+00:00</updated><id>https://www.profant.eu/feed.xml</id><title type="html">Blog Ondřeje Profanta</title><subtitle>Zápisník pirátského poslance Ondřeje Profanta, který se zaměřuje na opendata a e-government. Rád bych byl, aby Česká republika byla moderním státem s rozvinutou digitální ekonomikou, kde je kladen silný důraz na vzdělávání a svobodu. V digitalizaci se musíme inspirovat ve Velké Britanii a Estonsku, řešení musí být otevřená a uživatelsky přívětivá.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="https://www.profant.eu/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.profant.eu/" rel="alternate" type="text/html" /><updated>2020-03-14T15:42:56+00:00</updated><id>https://www.profant.eu/feed.xml</id><title type="html">Blog Ondřeje Profanta</title><subtitle>Zápisník pirátského poslance Ondřeje Profanta, který se zaměřuje na opendata a e-government. Rád bych byl, aby Česká republika byla moderním státem s rozvinutou digitální ekonomikou, kde je kladen silný důraz na vzdělávání a svobodu. V digitalizaci se musíme inspirovat ve Velké Britanii a Estonsku, řešení musí být otevřená a uživatelsky přívětivá.
 </subtitle><author><name>Ondřej Profant</name></author><entry><title type="html">Czechiana: Další selhání Digitálního Česka</title><link href="https://www.profant.eu/2020/czechiana.html" rel="alternate" type="text/html" title="Czechiana: Další selhání Digitálního Česka" /><published>2020-03-03T00:00:00+00:00</published><updated>2020-03-03T00:00:00+00:00</updated><id>https://www.profant.eu/2020/czechiana</id><content type="html" xml:base="https://www.profant.eu/2020/czechiana.html">&lt;p&gt;Po e-shopu na dálniční známky se na veřejnost dostal další podezřelý IT projekt - Kulturní portál Czechiana. Spojuje je cena lehce pod půl miliardy, nedostatečná informovanost veřejnosti a mlžení či mlčení ministerstev. V článku mapuji vývoj Czechiany od okamžiku, kdy jsme na ni narazili, až po její zrušení. Nedávné kauzy také ukazují na hlubší a systémový problém státní správy - chybí kontrolní mechanismy pro velké IT projekty. To by přitom měl být jeden ze základních úkolů projektu Digitální Česko.&lt;/p&gt;
 
 &lt;!--more--&gt;
@@ -29,7 +29,61 @@
 
 &lt;p&gt;Od Digitálního Česka bych ale přinejmenším očekával, že bude zjevně předražené a zbytečné projekty podchycovat a bránit jejich vzniku. Případy z posledních týdnů (Czechiana, e-shop na známky) ukazují, že v tomto Digitální Česko totálně selhává. A opět musí roli státu nahrazovat média, odborná veřejnost a opoziční politici.&lt;/p&gt;
 
-&lt;p&gt;Digitální Česko se chlubí vytvářením kvanta metodik a koncepcí k digitalizaci české státní správy. Kauzy s e-shopem na dálniční známky a Czechiana ale naplno ukázaly, že vytvářet metodiky, které úředníci buďto nechápou nebo se jimi neřídí, prostě nestačí.&lt;/p&gt;</content><author><name>Ondřej Profant</name></author><category term="egovernment" /><category term="digitalizace" /><summary type="html">Po e-shopu na dálniční známky se na veřejnost dostal další podezřelý IT projekt - Kulturní portál Czechiana. Spojuje je cena lehce pod půl miliardy, nedostatečná informovanost veřejnosti a mlžení či mlčení ministerstev. V článku mapuji vývoj Czechiany od okamžiku, kdy jsme na ni narazili, až po její zrušení. Nedávné kauzy také ukazují na hlubší a systémový problém státní správy - chybí kontrolní mechanismy pro velké IT projekty. To by přitom měl být jeden ze základních úkolů projektu Digitální Česko.</summary></entry><entry><title type="html">Otevřené licence softwarových projektů pro veřejnou správu</title><link href="https://www.profant.eu/2020/otevrene-licence.html" rel="alternate" type="text/html" title="Otevřené licence softwarových projektů pro veřejnou správu" /><published>2020-02-16T00:00:00+00:00</published><updated>2020-02-16T00:00:00+00:00</updated><id>https://www.profant.eu/2020/otevrene-licence</id><content type="html" xml:base="https://www.profant.eu/2020/otevrene-licence.html">&lt;p&gt;Tomu, aby veřejné instituce pořizovaly software za podmínek umožňujících jeho další rozvoj a sdílení, nic nebrání. Experti na autorské právo a veřejné zakázky se na tom shodují i se zaměstnanci Ministerstva vnitra a dalších úřadů. Za jakých podmínek by však měly veřejné instituce takto získaný kód dále šířit?&lt;/p&gt;
+&lt;p&gt;Digitální Česko se chlubí vytvářením kvanta metodik a koncepcí k digitalizaci české státní správy. Kauzy s e-shopem na dálniční známky a Czechiana ale naplno ukázaly, že vytvářet metodiky, které úředníci buďto nechápou nebo se jimi neřídí, prostě nestačí.&lt;/p&gt;</content><author><name>Ondřej Profant</name></author><category term="egovernment" /><category term="digitalizace" /><summary type="html">Po e-shopu na dálniční známky se na veřejnost dostal další podezřelý IT projekt - Kulturní portál Czechiana. Spojuje je cena lehce pod půl miliardy, nedostatečná informovanost veřejnosti a mlžení či mlčení ministerstev. V článku mapuji vývoj Czechiany od okamžiku, kdy jsme na ni narazili, až po její zrušení. Nedávné kauzy také ukazují na hlubší a systémový problém státní správy - chybí kontrolní mechanismy pro velké IT projekty. To by přitom měl být jeden ze základních úkolů projektu Digitální Česko.</summary></entry><entry><title type="html">Czechiana: Další selhání Digitálního Česka</title><link href="https://www.profant.eu/2020/covid-19.html" rel="alternate" type="text/html" title="Czechiana: Další selhání Digitálního Česka" /><published>2020-03-03T00:00:00+00:00</published><updated>2020-03-03T00:00:00+00:00</updated><id>https://www.profant.eu/2020/covid-19</id><content type="html" xml:base="https://www.profant.eu/2020/covid-19.html">&lt;p&gt;Oficiální web ke koronaviru: &lt;a href=&quot;https://koronavirus.mzcr.cz&quot;&gt;&lt;strong&gt;koronavirus.mzcr.cz&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Situaci je třeba nepodceňovat. Prosím:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;respektujte pokyny&lt;/li&gt;
+  &lt;li&gt;žádnou paniku&lt;/li&gt;
+  &lt;li&gt;žádné přehnané nákupy&lt;/li&gt;
+  &lt;li&gt;dobrou hygienu, hlavně mytí rukou (stačí normální mýdlo, nepotřebujete desinfekční gel)&lt;/li&gt;
+  &lt;li&gt;nepodnikat zbytečné cesty mezi lidi&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;!--more--&gt;
+
+&lt;h2 id=&quot;proč-dodržovat-opatření&quot;&gt;Proč dodržovat opatření&lt;/h2&gt;
+
+&lt;p&gt;Musíme si uvědomit, že obdobnou situaci nikdo z nás nezažil. Ano, budou ohromné ekonomické ztráty, ale když budeme odpovědní, tak zabráníme zbytečným ztrátám na lidských životech.&lt;/p&gt;
+
+&lt;p&gt;Nejde o vás jako jednotlivce. Pro zdravého člověka riziko není velké. Velké riziko je, že nakazíte jiné. Pro seniory a lidi se slabší imunitou je tato nemoc extrémně nebezpečná. V Itálii lékaři již stojí před &lt;a href=&quot;https://denikn.cz/313758/uprednostnete-mladsi-a-zdravejsi-pokyn-pomaha-kolabujicim-italskym-nemocnicim-vybrat-koho-zachranit/&quot;&gt;volbou koho budou léčit&lt;/a&gt;. Ve vážných případech nemohou léčit všechny.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/posts/epidemie.jpg&quot; alt=&quot;Průběh epidemie&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Karantení opatření nezabrání šíření nemoci, ale rozloží nemoc v čase. Čili náš zdravotní systém zvládne léčit všechny vážné případy. Bez karantény a opatrnosti by se nemoc rozšířila třeba za 2 týdny a měli bychom hrozně moc pacientů s vážným průběhem najednou. Tak vážným, že by potřebovali plicní ventilaci. Těch máme v celé ČR pár stovek. Normálně to stačí. Díky karanténě to snad bude stačit i teď.&lt;/p&gt;
+
+&lt;h2 id=&quot;sněmovna&quot;&gt;Sněmovna&lt;/h2&gt;
+
+&lt;p&gt;Sněmovna teď nezasedá. Nicméně pokud by se stav nouze měl prodloužit nad 30 dní, tak bychom to museli odhlasovat. Jsme připraveni.&lt;/p&gt;
+
+&lt;p&gt;Samozřejmě stále pracujeme. I v této vážné situaci kontrolojeme kroky Vlády. Zatím to stále vypadá, že v pondělí na Vládě budou velmi kontroverzní návrhy zákonů nesouvisejících s pandemii. Hlava mi to nebere. Situace je vážná, nesmírně vyčerpávající a nejméně polovina Vlády má opravdu hodně práce. Uvidíme v pondělí, osobně doufám, že tyhle body vyřadí a zaměří se na reálné problémy. Zvláště pak na problém extrémního nedostatku ochranných pomůcek u lékařů.&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p lang=&quot;cs&quot; dir=&quot;ltr&quot;&gt;Lékaři jsou v první linii! Nemocnice a mnoho soukromých lékařů potřebuji respiratory typu FFP3. &lt;a href=&quot;https://t.co/Pe864NCkF0&quot;&gt;https://t.co/Pe864NCkF0&lt;/a&gt;&lt;/p&gt;&amp;mdash; Ondřej Profant (@ondrej_profant) &lt;a href=&quot;https://twitter.com/ondrej_profant/status/1238747768002314240?ref_src=twsrc%5Etfw&quot;&gt;March 14, 2020&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;h2 id=&quot;piráti&quot;&gt;Piráti&lt;/h2&gt;
+
+&lt;p&gt;1) Snažíme se získávat relevantní informace a předáváme je dál, např. našim zastupitelům. Též předáváme zpětnou vazbu Vládě. Potvrzovat a správně vyhodnocovat informace není lehké. Náš resortní tým pro zdravotnictví pracuje naplno.
+2) &lt;a href=&quot;https://www.pirati.cz/tiskove-zpravy/cba-opatreni-martinek.html&quot;&gt;Tomáš Martínek vyzval&lt;/a&gt; Českou bankovní asociaci, aby odložila splátky hypoték. Ta ho vyslyšela!
+3) Piráti v Kutné hoře &lt;a href=&quot;https://www.facebook.com/PiratiKutnaHora/posts/1315397998660802?hc_location=ufi&quot;&gt;nabízí pomoc seniorům&lt;/a&gt;. Nakoupí jim léky, potraviny i drogerii. Díky Klára Kocmanová!
+4) Poradili jsme &lt;a href=&quot;https://www.facebook.com/photo.php?fbid=10218817811256937&amp;amp;set=a.1533172209836&amp;amp;type=3&amp;amp;theater&quot;&gt;jak si vyřídit ošetřovné&lt;/a&gt; (finanční náhradu pro zaměstnance, pokud se staráte o děti).
+5) Zdeněk Hřib, primátor Prahy, samozřejmě zavedl celou řadu opatření. Byla třeba zřízena linka pro seniory, kteří potřebují nakoupit či obstarat léky. Dobrovolníci nebo kurýři jim je obstarají a donesou až před dům.&lt;/p&gt;
+
+&lt;h2 id=&quot;pomáhají-všichni&quot;&gt;Pomáhají všichni&lt;/h2&gt;
+
+&lt;p&gt;I) Výrobce 3D tiskáren Josef Průša začal vyrábět v rámci stávajících kapacit vlastní dezinfekční gel na ruce.
+II) Stejný Josef Průša a také &lt;a href=&quot;http://rohlik.cz&quot;&gt;Rohlik.cz&lt;/a&gt; sponzorují bikesharing Rekola. Ten je do do 27. 3. zdarma. 🚴‍♂️
+III) O2 CZ spustilo pro zákazníky neomezená data.
+IV) Desítky IT firem se pod hlavičkou “Data proti Covid” spojily ve skupině Covid19cz a nabízí pomoc Bezpečnostní radě státu pro zásadně důležitou a nezbytnou práci s daty, jejich analýzou a následně službami pro lidi.
+V) Část zákazníků v rámci podpory divadel a dalších kulturních organizací nepožaduje vrátit zaplacené vstupné.&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p lang=&quot;cs&quot; dir=&quot;ltr&quot;&gt;1) Výrobce 3D tiskáren Josef Průša začal vyrábět v rámci stávajících kapacit vlastní dezinfekční gel na ruce.&lt;br /&gt;&lt;br /&gt;2) Stejný Josef Průša a také &lt;a href=&quot;https://t.co/3ghOoKTEft&quot;&gt;https://t.co/3ghOoKTEft&lt;/a&gt; sponzorují bikesharing &lt;a href=&quot;https://twitter.com/RekolaEU?ref_src=twsrc%5Etfw&quot;&gt;@RekolaEU&lt;/a&gt;. Ten je do do 27. 3. zdarma.&lt;br /&gt;&lt;br /&gt;Skvělá práce! &lt;a href=&quot;https://t.co/VIm9Gf1REU&quot;&gt;https://t.co/VIm9Gf1REU&lt;/a&gt;&lt;/p&gt;&amp;mdash; Ondřej Profant (@ondrej_profant) &lt;a href=&quot;https://twitter.com/ondrej_profant/status/1238521725194842113?ref_src=twsrc%5Etfw&quot;&gt;March 13, 2020&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;h2 id=&quot;jsme-v-tom-spolu&quot;&gt;Jsme v tom spolu&lt;/h2&gt;
+
+&lt;p&gt;Děkuji všem, kteří pomáhají. Stejně tak děkuji všem, kteří respektují pokyny a chovají se ohleduplně. Musíme to zvládnout společně.&lt;/p&gt;</content><author><name>Ondřej Profant</name></author><category term="Bezpečnost" /><category term="Zdraví" /><summary type="html">Oficiální web ke koronaviru: koronavirus.mzcr.cz Situaci je třeba nepodceňovat. Prosím: respektujte pokyny žádnou paniku žádné přehnané nákupy dobrou hygienu, hlavně mytí rukou (stačí normální mýdlo, nepotřebujete desinfekční gel) nepodnikat zbytečné cesty mezi lidi</summary></entry><entry><title type="html">Otevřené licence softwarových projektů pro veřejnou správu</title><link href="https://www.profant.eu/2020/otevrene-licence.html" rel="alternate" type="text/html" title="Otevřené licence softwarových projektů pro veřejnou správu" /><published>2020-02-16T00:00:00+00:00</published><updated>2020-02-16T00:00:00+00:00</updated><id>https://www.profant.eu/2020/otevrene-licence</id><content type="html" xml:base="https://www.profant.eu/2020/otevrene-licence.html">&lt;p&gt;Tomu, aby veřejné instituce pořizovaly software za podmínek umožňujících jeho další rozvoj a sdílení, nic nebrání. Experti na autorské právo a veřejné zakázky se na tom shodují i se zaměstnanci Ministerstva vnitra a dalších úřadů. Za jakých podmínek by však měly veřejné instituce takto získaný kód dále šířit?&lt;/p&gt;
 
 &lt;!--more--&gt;
 
@@ -605,63 +659,4 @@ je opravdu neuvěřitelné.&lt;/p&gt;
 &lt;p&gt;No a příští týden opět jednáme. Zatím to vypadá, že nás čekají vratky ze Senátu
 a hodně prvních čtení. Nejspíše bude i opoziční okénko, tedy výjimečný moment, kdy koalice bude hlasovat pro zařazení opozičních tisků na čas, kdy je šance je probrat.&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;Příspěvek vznikl jako &lt;a href=&quot;https://www.facebook.com/ondrej.profant/posts/10215645215110124&quot;&gt;FB post&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;</content><author><name>Ondřej Profant</name></author><category term="sněmovna" /><summary type="html">Minulý týden byl nabitý. Spousta věcí se povedla, jiné jsou trochu smutné. Pojďme se podívat, co se dělo.</summary></entry><entry><title type="html">Zákon o právu na digitální služby</title><link href="https://www.profant.eu/2019/zpds.html" rel="alternate" type="text/html" title="Zákon o právu na digitální služby" /><published>2019-11-26T07:00:00+00:00</published><updated>2019-11-26T07:00:00+00:00</updated><id>https://www.profant.eu/2019/zpds</id><content type="html" xml:base="https://www.profant.eu/2019/zpds.html">&lt;p&gt;Zákon o právu na digitální službu je současná vlajková loď digitalizace. Ve veřejné správě budí obavy, u politiků velká očekávání a z odborných kruhů se snaší kritika. A všechny tyto pohledy jsou oprávněné a pravdivé.&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;h2 id=&quot;česko-zaostalo&quot;&gt;Česko zaostalo&lt;/h2&gt;
-
-&lt;p&gt;Před 10 lety náš egovernment udělal ohromný krok. Byly zavedeny Základní registry, Datové schránky a síť kontaktních míst veřejné správy (Czechpoint), což je dodnes základ většiny služeb. Následně se však 10 let nedělo vůbec nic. Datové schránky byly z uživatelského pohledu velmi zaostalé. Byly jen obtížně provozovatelné na některých zařízeních, protěžovalo se zasílání PDF apod. Obdobně to bylo u základních registrů. Jejich hlavní problém je, že jsou málo využívány a bylo k jejich užití bylo třeba speciálního zákonného zmocnění.  Více o tomto stavu v článku &lt;a href=&quot;https://www.profant.eu/2018/pilire-egovernmentu-cr.html&quot;&gt;Pilíře e-governementu ČR&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Situace se však obrátila v tomto volebním období. Nejen Piráti začali ve velkém tlačit digitalizaci. A nejedná se jen o legislativu. Ministerstvo vnitra spustilo Portál občana, udělalo nové rozhraní datových schránek, spustilo aplikaci mobilní klíč, byly provedeny další kroky v projektu elektronické sbírky zákonů apod. Nesmíme zapomínat ani na celoevropské identity eIDAS, ale o těch v samostatném článku. Na vládní úrovni byla představena kvalitní koncepce Digitálního Česko, která však naráží na neschopnost úředníků aplikovat ji do praxe.&lt;/p&gt;
-
-&lt;h2 id=&quot;příprava-zákona&quot;&gt;Příprava zákona&lt;/h2&gt;
-
-&lt;p&gt;I přes to všechno jsou však legislativní změny první a nezbytný krok. Změn legislativy se však nechopila vláda, nýbrž poslanci. Pod výborem pro veřejnou správu jsme vytvořili skupinu z poslanců všech stran zastoupených ve sněmovně. Nejdříve jsme začali diskutovat o Zákonu o právu na digitální služby, ale pak přišly i další zákony: Digitální technická mapa, Bankovní identity v NIA (SoNIA) a založení firmy za 1 den.&lt;/p&gt;
-
-&lt;p&gt;Shoda mezi poslanci se našla celkem snadno, avšak vyjednávání s ministerstvy bylo náročné. Některé jejich připomínky byly vysloveně lživé. V tomto je česká veřejná správa velmi pozadu. Nakonec se však podařilo najít klíčové kompromisy a Zákon o právu na digitální službyv pátek 8. 11. 2019 úspěšně prošel 3. čtením v Poslanecké sněmovně. Teď je na řadě senát a pak prezident. Ostatní zákony snad budou v zápětí následovat.&lt;/p&gt;
-
-&lt;h2 id=&quot;zákon-o-právu-na-digitální-službu&quot;&gt;Zákon o právu na digitální službu&lt;/h2&gt;
-
-&lt;p&gt;Zákon o právu na digitální službu je přelomový. Zcela mění pohled legislativy na egovernment a digitalizaci. Dřívější zákony vždy řešily byrokratické procesy, které vykonávají úředníci - dívaly se na procesy z hlediska úřadů. Z toho důvodu samozřejmě rychle začaly zaostávat. Jenže nový zákon je střechovým zákonem a dívá se na celou problematiku z pohledu občana. Občan má totiž právo - nikoliv povinnost - komunikovat digitálně. Zároveň je zákon relativně čtivý, například ve srovnání se zákonem o službách vytvářejících důvěru, kde odradí už jen název.&lt;/p&gt;
-
-&lt;p&gt;Kromě jasně daných práv je hlavním nástrojem tohoto zákona vyhláška, která katalogizuje veškeré služby státu. A to již rok od účinnosti. Službami jsou myšleny procesy jako vydání občanského průkazu, přihlášení auta do registru vozidel apod. U každé služby bude uvedeno, kdy bude digitalizována, popřípadě proč ji nelze digitalizovat. Příkladem nedigitalizovatelné služby je například svatba.&lt;/p&gt;
-
-&lt;p&gt;Zákon předpokládá elektronickou komunikaci se státem čtyřmi hlavními cestami:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;datovou schránkou&lt;/li&gt;
-  &lt;li&gt;prostřednictvím Czech POINTů&lt;/li&gt;
-  &lt;li&gt;emailem s el. podpisem či pečetí&lt;/li&gt;
-  &lt;li&gt;přes Portál občana nebo jiný informační systém veřejné správy s využití el. identifikace (e-občanka, bankovní identita)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Zákon vyžaduje po veřejné správě, aby nepožadovala po uživatelích údaje, které už stát má. Uživatelům (všem fyzickým a právnickým osobám) navíc přináší kontrolu nad oprávněními k využívaní jejich osobních údajů v jednotlivých systémech.&lt;/p&gt;
-
-&lt;h3 id=&quot;co-se-povedlo&quot;&gt;Co se povedlo&lt;/h3&gt;
-
-&lt;p&gt;Zákon je revoluční také v tom, že garantuje &lt;strong&gt;technologickou neutralitu&lt;/strong&gt; (§ 13). Stát by tak již do budoucna neměl pro komunikaci používat proprietární formáty a technologie vyjma zvlášť odůvodněných případů.&lt;/p&gt;
-
-&lt;p&gt;Zákon obsahuje pozitivní motivaci pro využívání elektronických forem služeb. Žádost podaná na elektronickém formuláři bude mít o &lt;strong&gt;20 % snížený správní poplatek&lt;/strong&gt; (maximálně o 1000 Kč).&lt;/p&gt;
-
-&lt;h3 id=&quot;a-co-ne&quot;&gt;A co ne&lt;/h3&gt;
-
-&lt;p&gt;Co se naopak nepovedlo je defaultní nastavení formátů komunikace (§ 4). Do zákona se totiž dostal odkaz na zákon o archivnictví a spisové službě, který výstupní formáty limituje ve většině případů na PDF/A. Nesmyslně tak dochází ke směšování komunikačních a archivačních formátů. K tomuto ustanovení jsem podával pozměňovací návrh, který však nebyl přijat.&lt;/p&gt;
-
-&lt;p&gt;Zákon také není důsledný k územním samosprávám, kterým dovoluje služby v samostatné působnosti neposkytovat digitálně, a školám, u kterých se povinnost bude týkat jen některých služeb.&lt;/p&gt;
-
-&lt;h3 id=&quot;co-dál&quot;&gt;Co dál&lt;/h3&gt;
-
-&lt;p&gt;Pokud bude zákon schválen, bude záležet hlavně na jednotlivých ministerstvech a úřadech, jak bude zákon realizován. V nejhorší možné variantě může být mnoho služeb prohlášeno za nedigitalizovatelné a ty zbývající mohou být implementovány tak nešťastným způsobem, že nebudou téměř využívány. V té nejlepší možné naopak vznikne ucelený, uživatelsky přívětivý ekosystém veřejných služeb, který bude široce využíván občany napříč generacemi.&lt;/p&gt;
-
-&lt;h3 id=&quot;egovernment-cloud&quot;&gt;eGovernment cloud&lt;/h3&gt;
-
-&lt;p&gt;Do zákona o právu na digitální služby se narychlo formou pozměňovacího návrhu dostaly základní definice pro cloud computing veřejné správy včetně katalogu a nabídkového systému (Hlava V). Jelikož o finální podobě fungování cloudu se stále jedná, předpokládá se ještě upřesnění zákonných deficin v navazujícím zákoně příští rok včetně upřesnění rozdělení na komerční a státní poskytovatele cloudu pro služby jednotlivých kritických úrovní. Návazné prováděcí předpisy pak budou shrnovat kategorie služeb poskytovaných formou cloudu - jak ve formě IaaS, PaaS, tak SaaS.&lt;/p&gt;
-
-&lt;h2 id=&quot;další-zákony&quot;&gt;Další zákony&lt;/h2&gt;
-
-&lt;p&gt;Během přípravy Zákona o právo na digitální službu došlo k identifikaci množství legislativních překážek bránících rozvoji  či jinak souvisejících s egovernmentem. Týkají se datových schránek, cloudových služeb a sladění dalších předpisů. Některé byly vyřešeny již v rámci Zákona o právu na digitální službu, další budou řešeny v navazujícím zákoně s pracovním názvem DEPO, který v současné době připravuje Ministerstvo vnitra. U datových schránek by to mělo být hlavně zlevnění soukromoprávní komunikace a povinný příjem právnických osob (zejména bank a pojišťoven) od soukromých subjektů.&lt;/p&gt;
-
-&lt;p&gt;V průběhu následujících let pak budou muset být upravovány další zákony napříč veřejnou správou tak, aby mohly být služby státu poskytovány digitálně. Mnohé z nich totiž dnes nepřipouští jiné možnosti podání a komunikace než vlastnoručně vyplněné žádosti hůlkovým písmem na předtištěném formuláři.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Zákon bude v prosinci projednáván v Senátu jako &lt;a href=&quot;https://senat.cz/xqw/webdav/pssenat/original/93221/78166&quot;&gt;senátní tisk 153&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content><author><name>Ondřej Profant</name></author><category term="Digitalizace" /><category term="sněmovna" /><category term="Egovernment" /><summary type="html">Zákon o právu na digitální službu je současná vlajková loď digitalizace. Ve veřejné správě budí obavy, u politiků velká očekávání a z odborných kruhů se snaší kritika. A všechny tyto pohledy jsou oprávněné a pravdivé.</summary></entry></feed>
+&lt;p&gt;&lt;em&gt;Příspěvek vznikl jako &lt;a href=&quot;https://www.facebook.com/ondrej.profant/posts/10215645215110124&quot;&gt;FB post&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;</content><author><name>Ondřej Profant</name></author><category term="sněmovna" /><summary type="html">Minulý týden byl nabitý. Spousta věcí se povedla, jiné jsou trochu smutné. Pojďme se podívat, co se dělo.</summary></entry></feed>
