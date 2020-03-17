@@ -64,7 +64,6 @@ Celkově se Česko žebříčkem pomalu, ale jistě propadá. Ze 14. místa v ro
 
 {% raw %}
 <iframe markdown="0" src="https://digital-agenda-data.eu/charts/desi-composite/embedded#chart={%22indicator%22:%22desi_sliders%22,%22breakdown%22:{%22desi_1_conn%22:5,%22desi_2_hc%22:5,%22desi_3_ui%22:3,%22desi_4_idt%22:4,%22desi_5_dps%22:3},%22unit-measure%22:%22pc_desi_sliders%22,%22time-period%22:%222019%22}"></iframe>
-{% endraw %}
 V oblasti konektivy je Česko průměrné. Zaostává ve využití mobilního širokopásmového připojení (82 účastníků na 100 obyvatel - 22. místo) a využití rychlého širokopásmového připojení domácností (37 % domácností - 18. místo).
 
 V lidském kapitálu jsou stále rezervy ve vzdělávání - vyšší než základní digitální dovednosti má jenom 24 % osob (22. místo v EU).
@@ -136,3 +135,5 @@ Oblast lidského kapitálu vykazuje od roku 2014 stagnaci, z nadprůměrných ho
 ### Digitální veřejné služby
 
 E-government a e-health jsou v Česku dlouhodobě podceňovány a hodnoty jejich indikátorů jsou podprůměrné. To je zřetelné jak z průzkumu EU DESI (20. místo v digitálních veřejných službách z 28), tak z průzkumu OSN (54. místo v E-Government Development Indexu a 96. v E-Participation Indexu). Až změny posledních let - vytvoření strategie Digitální Česko a hlavně přijetí Zákona o právu na digitální službu - dávají reálnou šanci na zlepšení situace. Záležet však bude hlavně na systematickém přístupu vlády k e-governmentu napříč resorty. Rovněž rozvoj portálů samospráv s důrazem na e-government a e-participaci představuje příležitost k pozitivní změně v této oblasti. E-health si na výrazný posun počká ještě déle - debaty o klíčovém zákonu o elektronickém zdravotnictví stále probíhají a změna v této oblasti bude ještě pomalejší.
+
+{% endraw %}
