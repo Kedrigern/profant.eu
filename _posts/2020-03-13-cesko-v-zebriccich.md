@@ -62,29 +62,29 @@ Evropské unie od roku 2014 každý rok zveřejňuje index digitální ekonomiky
 
 Celkově se Česko žebříčkem pomalu, ale jistě propadá. Ze 14. místa v roce 2015 (skóre 55 - průměr EU) na 18. místo v roce 2019 (skóre 50 - podprůměr EU).
 
-<iframe src="https://digital-agenda-data.eu/charts/desi-composite/embedded#chart={%22indicator%22:%22desi_sliders%22,%22breakdown%22:{%22desi_1_conn%22:5,%22desi_2_hc%22:5,%22desi_3_ui%22:3,%22desi_4_idt%22:4,%22desi_5_dps%22:3},%22unit-measure%22:%22pc_desi_sliders%22,%22time-period%22:%222019%22}"></iframe>
+<iframe markdown="0" src="https://digital-agenda-data.eu/charts/desi-composite/embedded#chart={%22indicator%22:%22desi_sliders%22,%22breakdown%22:{%22desi_1_conn%22:5,%22desi_2_hc%22:5,%22desi_3_ui%22:3,%22desi_4_idt%22:4,%22desi_5_dps%22:3},%22unit-measure%22:%22pc_desi_sliders%22,%22time-period%22:%222019%22}"></iframe>
 
 V oblasti konektivy je Česko průměrné. Zaostává ve využití mobilního širokopásmového připojení (82 účastníků na 100 obyvatel - 22. místo) a využití rychlého širokopásmového připojení domácností (37 % domácností - 18. místo).
 
 V lidském kapitálu jsou stále rezervy ve vzdělávání - vyšší než základní digitální dovednosti má jenom 24 % osob (22. místo v EU).
 
-<iframe src="https://digital-agenda-data.eu/charts/desi-components/embedded#chart={%22indicator%22:%22desi_2a2_abds%22,%22breakdown-group%22:%22total%22,%22unit-measure%22:%22pc_ind%22,%22time-period%22:%222019%22}"></iframe>
+<iframe markdown="0" src="https://digital-agenda-data.eu/charts/desi-components/embedded#chart={%22indicator%22:%22desi_2a2_abds%22,%22breakdown-group%22:%22total%22,%22unit-measure%22:%22pc_ind%22,%22time-period%22:%222019%22}"></iframe>
 
 Ještě horší situace je při rozpadu tohoto indikátoru na jednotlivé věkové skupiny. Ve věkové skupině 35 - 44 let, tedy u osob, které budou ještě nejméně 20 let v produktivním věku, má vyšší digitální znalosti jen 29 % osob (25. místo). Státu se tak dlouhodobě nedaří digitálně vzdělávat dospělé, což bude problémem nejen při rozvoji e-governmentu u nás, ale hlavně při dalším rozvoji digitální ekonomiky.
 
-<iframe src="https://digital-agenda-data.eu/charts/analyse-one-indicator-and-compare-breakdowns/embedded#chart={%22indicator-group%22:%22ict-skills%22,%22indicator%22:%22i_dsk_ab%22,%22breakdown-group%22:%22byage6classes%22,%22unit-measure%22:%22pc_ind%22,%22time-period%22:%222019%22,%22ref-area%22:[%22CZ%22,%22DK%22,%22EU%22]}"></iframe>
+<iframe markdown="0" src="https://digital-agenda-data.eu/charts/analyse-one-indicator-and-compare-breakdowns/embedded#chart={%22indicator-group%22:%22ict-skills%22,%22indicator%22:%22i_dsk_ab%22,%22breakdown-group%22:%22byage6classes%22,%22unit-measure%22:%22pc_ind%22,%22time-period%22:%222019%22,%22ref-area%22:[%22CZ%22,%22DK%22,%22EU%22]}"></iframe>
 
-<iframe src="https://digital-agenda-data.eu/charts/analyse-one-indicator-and-compare-countries/embedded#chart={%22indicator-group%22:%22ict-skills%22,%22indicator%22:%22i_dsk_ab%22,%22breakdown%22:%22y35_44%22,%22unit-measure%22:%22pc_ind%22,%22ref-area%22:[%22BE%22,%22BG%22,%22CZ%22,%22DK%22,%22DE%22,%22EE%22,%22IE%22,%22EL%22,%22ES%22,%22FR%22,%22IT%22,%22CY%22,%22LV%22,%22LT%22,%22LU%22,%22HU%22,%22MT%22,%22NL%22,%22AT%22,%22PL%22,%22PT%22,%22RO%22,%22SI%22,%22SK%22,%22FI%22,%22SE%22,%22UK%22,%22EU%22,%22HR%22,%22IS%22,%22NO%22]}"></iframe>
+<iframe markdown="0" src="https://digital-agenda-data.eu/charts/analyse-one-indicator-and-compare-countries/embedded#chart={%22indicator-group%22:%22ict-skills%22,%22indicator%22:%22i_dsk_ab%22,%22breakdown%22:%22y35_44%22,%22unit-measure%22:%22pc_ind%22,%22ref-area%22:[%22BE%22,%22BG%22,%22CZ%22,%22DK%22,%22DE%22,%22EE%22,%22IE%22,%22EL%22,%22ES%22,%22FR%22,%22IT%22,%22CY%22,%22LV%22,%22LT%22,%22LU%22,%22HU%22,%22MT%22,%22NL%22,%22AT%22,%22PL%22,%22PT%22,%22RO%22,%22SI%22,%22SK%22,%22FI%22,%22SE%22,%22UK%22,%22EU%22,%22HR%22,%22IS%22,%22NO%22]}"></iframe>
 
 Ve využívání internetových služeb je Česko dlouhodobě podprůměrné - např. video na vyžádání (tedy služby typu Netflix) používá jen 5 % populace (28. místo v EU), profesní sociální sítě jen 5 % (26. místo) a online kurzy jen 4 % (26.místo). Slabá je i online participace - konzultace a hlasování online využívají jen 3 % osob (27. místo). Naproti tomu nadprůměrné využívané je elektronické bankovnictví (72 % osob - 10. místo).
 
-<iframe src="https://digital-agenda-data.eu/charts/desi-components/embedded#chart={%22indicator%22:%22desi_3b_acton%22,%22breakdown-group%22:%22desi_3b_acton%22,%22unit-measure%22:%22pc_desi_3b_acton%22,%22time-period%22:%222019%22}"></iframe>
+<iframe markdown="0" src="https://digital-agenda-data.eu/charts/desi-components/embedded#chart={%22indicator%22:%22desi_3b_acton%22,%22breakdown-group%22:%22desi_3b_acton%22,%22unit-measure%22:%22pc_desi_3b_acton%22,%22time-period%22:%222019%22}"></iframe>
 
 V oblasti integrace digitálních technologií, tedy podnikatelské sféře, jsou mezery hlavně v elektronickém sdílení informací (28 % podniků - 20. místo), používání sociálních médií (13 % podniků - 23. místo) a použití velkých dat (8 % podniků - 21. místo).
 
 Nejvíce však Česko zaostává v digitálních veřejných službách - celkově 20. místo v Evropě, podprůměrné jsou hodnoty všech indikátorů, i když postupně pomalu vzrůstají. 52 % uživatelů internetu používající služby elektronické veřejné správy je stále podprůměrnou hodnotou (22. místo). Hodnocení předvyplněných formulářů (18. místo), úplnosti online postupů (21. místo) a digitálních služeb pro podniky (19. místo) je také nízké. Nedávno přijatý Zákon o právu na digitální služby má ambici právě hodnoty těchto indikátorů výrazně zlepšit. Hodnocení otevřených dat je jen na 62 % maxima (21. místo v EU). Samostatnou kapitolou jsou služby eHealth, které, vyjma nedávno zavedeného eReceptu, jsou v ČR stále ještě nerozvinuté.
 
-<iframe src="https://digital-agenda-data.eu/charts/desi-components/embedded#chart={%22indicator%22:%22desi_5_dps%22,%22breakdown-group%22:%22desi_5_dps%22,%22unit-measure%22:%22pc_desi_5_dps%22,%22time-period%22:%222019%22}"></iframe>
+<iframe markdown="0" src="https://digital-agenda-data.eu/charts/desi-components/embedded#chart={%22indicator%22:%22desi_5_dps%22,%22breakdown-group%22:%22desi_5_dps%22,%22unit-measure%22:%22pc_desi_5_dps%22,%22time-period%22:%222019%22}"></iframe>
 
 ## EU Women in Digital (WiD)
 
@@ -93,7 +93,7 @@ Nejvíce však Česko zaostává v digitálních veřejných službách - celkov
 
 Samostatný report vydává Evropská unie o pozici žen v digitální sféře. Celoevropsky totiž v posledních letech varovně klesá zapojení žen v digitálním sektoru, ICT a oborech STEM (přírodní vědy, matematika, technika a technologie).
 
-<iframe src="https://digital-agenda-data.eu/charts/analyse-one-indicator-and-compare-countries/embedded#chart={%22indicator-group%22:%22wid%22,%22indicator%22:%22wid_score%22,%22breakdown%22:%22women%22,%22unit-measure%22:%22egov_score%22,%22ref-area%22:[%22BE%22,%22BG%22,%22CZ%22,%22DK%22,%22DE%22,%22EE%22,%22IE%22,%22EL%22,%22ES%22,%22FR%22,%22IT%22,%22CY%22,%22LV%22,%22LT%22,%22LU%22,%22HU%22,%22MT%22,%22NL%22,%22AT%22,%22PL%22,%22PT%22,%22RO%22,%22SI%22,%22SK%22,%22FI%22,%22SE%22,%22UK%22,%22EU%22,%22HR%22,%22IS%22,%22NO%22]}"></iframe>
+<iframe markdown="0" src="https://digital-agenda-data.eu/charts/analyse-one-indicator-and-compare-countries/embedded#chart={%22indicator-group%22:%22wid%22,%22indicator%22:%22wid_score%22,%22breakdown%22:%22women%22,%22unit-measure%22:%22egov_score%22,%22ref-area%22:[%22BE%22,%22BG%22,%22CZ%22,%22DK%22,%22DE%22,%22EE%22,%22IE%22,%22EL%22,%22ES%22,%22FR%22,%22IT%22,%22CY%22,%22LV%22,%22LT%22,%22LU%22,%22HU%22,%22MT%22,%22NL%22,%22AT%22,%22PL%22,%22PT%22,%22RO%22,%22SI%22,%22SK%22,%22FI%22,%22SE%22,%22UK%22,%22EU%22,%22HR%22,%22IS%22,%22NO%22]}"></iframe>
 
 Celkově se v tomto žebříčku Česko v roce 2019 umístilo na podprůměrném 23. místě (z 28 zemí EU). Hodnocení se skládá ze 3 komponent:
 1. Use of internet - používání internetových služeb
@@ -102,15 +102,15 @@ Celkově se v tomto žebříčku Česko v roce 2019 umístilo na podprůměrném
 
 Špatné hodnocení mělo Česko zejména v používání profesních sociálních sítí (jen 4 % žen, 26. místo, pro srovnání v 2. Dánsko - 28 %), online kurzů (4,2 % žen - 25. místo) a konzultacích a hlasování online (2,6 % žen - 27. místo).
 
-<iframe src="https://digital-agenda-data.eu/charts/analyse-one-indicator-and-compare-countries/embedded#chart={%22indicator-group%22:%22wid%22,%22indicator%22:%22wid_ui_oc%22,%22breakdown%22:%22f_y16_74%22,%22unit-measure%22:%22pc_ind_iu3%22,%22ref-area%22:[%22BE%22,%22BG%22,%22CZ%22,%22DK%22,%22DE%22,%22EE%22,%22IE%22,%22EL%22,%22ES%22,%22FR%22,%22IT%22,%22CY%22,%22LV%22,%22LT%22,%22LU%22,%22HU%22,%22MT%22,%22NL%22,%22AT%22,%22PL%22,%22PT%22,%22RO%22,%22SI%22,%22SK%22,%22FI%22,%22SE%22,%22UK%22,%22EU%22,%22HR%22,%22IS%22,%22NO%22]}"></iframe>
+<iframe markdown="0" src="https://digital-agenda-data.eu/charts/analyse-one-indicator-and-compare-countries/embedded#chart={%22indicator-group%22:%22wid%22,%22indicator%22:%22wid_ui_oc%22,%22breakdown%22:%22f_y16_74%22,%22unit-measure%22:%22pc_ind_iu3%22,%22ref-area%22:[%22BE%22,%22BG%22,%22CZ%22,%22DK%22,%22DE%22,%22EE%22,%22IE%22,%22EL%22,%22ES%22,%22FR%22,%22IT%22,%22CY%22,%22LV%22,%22LT%22,%22LU%22,%22HU%22,%22MT%22,%22NL%22,%22AT%22,%22PL%22,%22PT%22,%22RO%22,%22SI%22,%22SK%22,%22FI%22,%22SE%22,%22UK%22,%22EU%22,%22HR%22,%22IS%22,%22NO%22]}"></iframe>
 
-<iframe src="https://digital-agenda-data.eu/charts/analyse-one-indicator-and-compare-countries/embedded#chart={%22indicator-group%22:%22wid%22,%22indicator%22:%22wid_sse%22,%22breakdown%22:%22wid_score%22,%22unit-measure%22:%22egov_score%22,%22ref-area%22:[%22BE%22,%22BG%22,%22CZ%22,%22DK%22,%22DE%22,%22EE%22,%22IE%22,%22EL%22,%22ES%22,%22FR%22,%22IT%22,%22CY%22,%22LV%22,%22LT%22,%22LU%22,%22HU%22,%22MT%22,%22NL%22,%22AT%22,%22PL%22,%22PT%22,%22RO%22,%22SI%22,%22SK%22,%22FI%22,%22SE%22,%22UK%22,%22EU%22,%22HR%22,%22IS%22,%22NO%22]}"></iframe>
+<iframe markdown="0" src="https://digital-agenda-data.eu/charts/analyse-one-indicator-and-compare-countries/embedded#chart={%22indicator-group%22:%22wid%22,%22indicator%22:%22wid_sse%22,%22breakdown%22:%22wid_score%22,%22unit-measure%22:%22egov_score%22,%22ref-area%22:[%22BE%22,%22BG%22,%22CZ%22,%22DK%22,%22DE%22,%22EE%22,%22IE%22,%22EL%22,%22ES%22,%22FR%22,%22IT%22,%22CY%22,%22LV%22,%22LT%22,%22LU%22,%22HU%22,%22MT%22,%22NL%22,%22AT%22,%22PL%22,%22PT%22,%22RO%22,%22SI%22,%22SK%22,%22FI%22,%22SE%22,%22UK%22,%22EU%22,%22HR%22,%22IS%22,%22NO%22]}"></iframe>
 
 Alarmující jsou výsledky v komponentě Specialist skills and employment. V Česku je jen 9,3 % žen ze všech ICT specialistů a specialistek (průměr EU je 17,2 %) a jen 0,7 % žen jsou ICT specialistky (v porovnání s 5,8 % mužů - 24. místo v EU). Procentuální rozdíl v odměňování mužů a žen v ICT je 33 % (28. místo - největší rozdíl v EU). To je 1,5x větší platový rozdíl než v české ekonomice jako celku (22 %).
 
-<iframe src="https://digital-agenda-data.eu/charts/analyse-one-indicator-and-compare-breakdowns/embedded#chart={%22indicator-group%22:%22wid%22,%22indicator%22:%22wid_sse_icts%22,%22breakdown-group%22:%22bygender%22,%22unit-measure%22:%22pc_ind_emp%22,%22time-period%22:%222017%22,%22ref-area%22:[%22CZ%22,%22DK%22,%22EU%22]}"></iframe>
+<iframe markdown="0" src="https://digital-agenda-data.eu/charts/analyse-one-indicator-and-compare-breakdowns/embedded#chart={%22indicator-group%22:%22wid%22,%22indicator%22:%22wid_sse_icts%22,%22breakdown-group%22:%22bygender%22,%22unit-measure%22:%22pc_ind_emp%22,%22time-period%22:%222017%22,%22ref-area%22:[%22CZ%22,%22DK%22,%22EU%22]}"></iframe>
 
-<iframe src="https://digital-agenda-data.eu/charts/analyse-one-indicator-and-compare-countries/embedded#chart={%22indicator-group%22:%22wid%22,%22indicator%22:%22wid_sse_gpg%22,%22breakdown%22:%22women%22,%22unit-measure%22:%22pc_male_earning%22,%22ref-area%22:[%22AT%22,%22BE%22,%22BG%22,%22HR%22,%22CY%22,%22CZ%22,%22DK%22,%22EE%22,%22EU%22,%22FI%22,%22FR%22,%22DE%22,%22EL%22,%22HU%22,%22IE%22,%22IT%22,%22LV%22,%22LT%22,%22LU%22,%22MT%22,%22NL%22,%22PL%22,%22PT%22,%22RO%22,%22SK%22,%22SI%22,%22ES%22,%22SE%22,%22UK%22]}"></iframe>
+<iframe markdown="0" src="https://digital-agenda-data.eu/charts/analyse-one-indicator-and-compare-countries/embedded#chart={%22indicator-group%22:%22wid%22,%22indicator%22:%22wid_sse_gpg%22,%22breakdown%22:%22women%22,%22unit-measure%22:%22pc_male_earning%22,%22ref-area%22:[%22AT%22,%22BE%22,%22BG%22,%22HR%22,%22CY%22,%22CZ%22,%22DK%22,%22EE%22,%22EU%22,%22FI%22,%22FR%22,%22DE%22,%22EL%22,%22HU%22,%22IE%22,%22IT%22,%22LV%22,%22LT%22,%22LU%22,%22MT%22,%22NL%22,%22PL%22,%22PT%22,%22RO%22,%22SK%22,%22SI%22,%22ES%22,%22SE%22,%22UK%22]}"></iframe>
 
 ## Shrnutí a co s tím?
 
