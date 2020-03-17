@@ -15,13 +15,13 @@ author:     Bára Soukupová
 
 ## United Nations e-Government Survey
 
-[UN e-Government Surveys](https://publicadministration.un.org/en/Research/UN-e-Government-Surveys])
+[Stránka UN e-Government Surveys](https://publicadministration.un.org/en/Research/UN-e-Government-Surveys])
 
 Organizace spojených národů vydává od roku 2003 každé dva roky vlastní report zahrnující svých 193 členských států. Výkon států je měřen prostřednictvím tzv. **E-Government Development Indexu (EGDI)**, který je tvořen třemi komponentami:
 
-**1.Online Service Index (OSI)** - hodnotí e-government, portály a webové stránky veřejné správy
-**2.Telecommunication Infrastructure Index (TII)** - hodnotí dostupnost a kvalitu připojení k internetu
-**3.Human Capital Index (HCI)** - hodnotí gramotnost, vzdělanost a počet let školní docházky
+**1. Online Service Index (OSI)** - hodnotí e-government, portály a webové stránky veřejné správy
+**2. Telecommunication Infrastructure Index (TII)** - hodnotí dostupnost a kvalitu připojení k internetu
+**3. Human Capital Index (HCI)** - hodnotí gramotnost, vzdělanost a počet let školní docházky
 
 EGDI je pak doplněn **E-Participation Indexem (EPI)**, který hodnotí sdílení informací veřejnou správou, interakci a participaci občanů a institucí.
 
@@ -45,27 +45,24 @@ Hodnota všech komponent i indexů je relativní - nejhorší stát má hodnotu 
 Česko v nultých letech oscilovalo kolem 30. místa ve světě, bohužel se kvůli relativní nečinnosti v této oblasti propadlo až na předloňské 54. místo (4 místa za Slovenskem). Na letošní výsledky se stále čeká. Ještě horší výsledky jsou v digitální participaci, kde jsme se umístili naposledy na 96. místě (tedy za Ukrajinou, Ugandou, Burkinou Faso i Ghanou).
 Hodnota EGDI Česka (0.71) je navíc do velké míry tažena indexem lidského kapitálu, tedy systémem vzdělávání (HCI = 0.88). Kvalita telekomunikační infrastruktury (TII = 0.60) a poskytovaných online služeb (OSI = 0.65) jsou výrazně nižší.
 
-
 ## OECD Key ICT Indicators
 
-[OECD Key ICT Indicators](https://www.oecd.org/sti/ieconomy/oecdkeyictindicators.htm])
+[Stránka OECD Key ICT Indicators](https://www.oecd.org/sti/ieconomy/oecdkeyictindicators.htm])
 
 Organizace pro ekonomickou spolupráci a rozvoj monitoruje oblast ICT sadou vlastní indikátorů s různými daty aktualizace. Za zmínku stojí [data o přístupu k širokopásmovému připojení k internetu](http://www.oecd.org/sti/broadband/1.2.OECD-FixedMobileBB-2018-12.xls). Ze 37 hodnocených členů OECD se Česko umístilo na podprůměrném 24. místě s nízkým zastoupením kvalitního optického připojení a naopak nejvyšším podílem nepříliš stabilního bezdrátového připojení.
 
 ## EU Digital Economy and Society Index (DESI)
 
-[The Digital Economy and Society Index (DESI)](https://ec.europa.eu/digital-single-market/en/desi)
-
-[Profil Česka](https://ec.europa.eu/newsroom/dae/document.cfm?doc_id=59981)
-
+[Stránka The Digital Economy and Society Index (DESI)](https://ec.europa.eu/digital-single-market/en/desi)  
+[Profil Česka](https://ec.europa.eu/newsroom/dae/document.cfm?doc_id=59981)  
 [Grafy a vizualizace](https://digital-agenda-data.eu/datasets/desi/visualizations)
 
 Evropské unie od roku 2014 každý rok zveřejňuje index digitální ekonomiky a společnosti. Index se skládá z 5 komponent, z nichž každá je tvořena sadou indikátorů:
-1. Konektivita - hodnotí se pokrytí širokopásmovým internetem, mobilními sítěmi 4G a 5G, jejich využití a cena
-2. Lidský kapitál - hodnotí digitální dovednosti populace a počty odborníků, odbornic a absolventů v oblasti ICT
-3. Využívání internetových služeb - shrnuje používání internetu a jednotlivých typů jeho služeb
-4. Integrace digitálních technologií - zaměřuje se na podniky, jejich digitalizaci a zapojení do digitální ekonomiky
-5. Digitální veřejné služby - hodnotí elektronické služby veřejné správy, předvyplněné formuláře, otevřená data a elektronické zdravotnictví
+**1. Konektivita** - hodnotí se pokrytí širokopásmovým internetem, mobilními sítěmi 4G a 5G, jejich využití a cena
+**2. Lidský kapitál** - hodnotí digitální dovednosti populace a počty odborníků, odbornic a absolventů v oblasti ICT
+**3. Využívání internetových služeb** - shrnuje používání internetu a jednotlivých typů jeho služeb
+**4. Integrace digitálních technologií** - zaměřuje se na podniky, jejich digitalizaci a zapojení do digitální ekonomiky
+**5. Digitální veřejné služby** - hodnotí elektronické služby veřejné správy, předvyplněné formuláře, otevřená data a elektronické zdravotnictví
 
 Celkově se Česko žebříčkem pomalu, ale jistě propadá. Ze 14. místa v roce 2015 (skóre 55 - průměr EU) na 18. místo v roce 2019 (skóre 50 - podprůměr EU).
 
@@ -98,8 +95,7 @@ Nejvíce však Česko zaostává v digitálních veřejných službách - celkov
 
 ## EU Women in Digital (WiD)
 
-[Women in Digital Scoreboard](https://ec.europa.eu/digital-single-market/en/women-digital-scoreboard)
-
+[Women in Digital Scoreboard](https://ec.europa.eu/digital-single-market/en/women-digital-scoreboard)  
 [Profil Česka](https://ec.europa.eu/newsroom/dae/document.cfm?doc_id=59824)
 
 Samostatný report vydává Evropská unie o pozici žen v digitální sféře. Celoevropsky totiž v posledních letech varovně klesá zapojení žen v digitálním sektoru, ICT a oborech STEM (přírodní vědy, matematika, technika a technologie).
@@ -107,9 +103,9 @@ Samostatný report vydává Evropská unie o pozici žen v digitální sféře. 
 <iframe width="1000" height="600" src="https://digital-agenda-data.eu/charts/analyse-one-indicator-and-compare-countries/embedded#chart={%22indicator-group%22:%22wid%22,%22indicator%22:%22wid_score%22,%22breakdown%22:%22women%22,%22unit-measure%22:%22egov_score%22,%22ref-area%22:[%22BE%22,%22BG%22,%22CZ%22,%22DK%22,%22DE%22,%22EE%22,%22IE%22,%22EL%22,%22ES%22,%22FR%22,%22IT%22,%22CY%22,%22LV%22,%22LT%22,%22LU%22,%22HU%22,%22MT%22,%22NL%22,%22AT%22,%22PL%22,%22PT%22,%22RO%22,%22SI%22,%22SK%22,%22FI%22,%22SE%22,%22UK%22,%22EU%22,%22HR%22,%22IS%22,%22NO%22]}"></iframe>
 
 Celkově se v tomto žebříčku Česko v roce 2019 umístilo na podprůměrném 23. místě (z 28 zemí EU). Hodnocení se skládá ze 3 komponent:
-1. Use of internet - používání internetových služeb
-2. Internet user skills - dovednosti internetových uživatelek
-3. Specialist skills and employment  - ICT specialistky, absolventky STEM oborů a genderové rozdíly v odměňování
+**1. Use of internet** - používání internetových služeb
+**2. Internet user skills** - dovednosti internetových uživatelek
+**3. Specialist skills and employment**  - ICT specialistky, absolventky STEM oborů a genderové rozdíly v odměňování
 
 Špatné hodnocení mělo Česko zejména v používání profesních sociálních sítí (jen 4 % žen, 26. místo, pro srovnání v 2. Dánsko - 28 %), online kurzů (4,2 % žen - 25. místo) a konzultacích a hlasování online (2,6 % žen - 27. místo).
 
