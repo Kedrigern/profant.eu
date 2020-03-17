@@ -27,14 +27,20 @@ EGDI je pak doplněn **E-Participation Indexem (EPI)**, který hodnotí sdílen�
 
 Hodnota všech komponent i indexů je relativní - nejhorší stát má hodnotu 0 a nejlepší 1.
 
-|             |          Grouping           ||
-First Header  | Second Header | Third Header |
- ------------ | :-----------: | -----------: |
-Content       |          *Long Cell*        ||
-Content       |   **Cell**    |         Cell |
-New section   |     More      |         Data |
-And more      | With an escaped '\|'         ||  
-[Prototype table]
+<table class="tableizer-table">
+<thead><tr class="tableizer-firstrow"><th></th><th>E-Government Development Index</th><th>&nbsp;</th><th>&nbsp;</th><th>&nbsp;</th><th>E-Participation Index</th><th>&nbsp;</th><th>&nbsp;</th><th>&nbsp;</th></tr></thead><tbody>
+ <tr><td>&nbsp;</td><td>Česko</td><td>&nbsp;</td><td>Slovensko</td><td>&nbsp;</td><td>Česko</td><td>&nbsp;</td><td>Slovensko</td><td>&nbsp;</td></tr>
+ <tr><td>&nbsp;</td><td>index</td><td>pořadí</td><td>index</td><td>pořadí</td><td>index</td><td>pořadí</td><td>index</td><td>pořadí</td></tr>
+ <tr><td>2003</td><td>0.54</td><td>35</td><td>0.53</td><td>40</td><td>0.24</td><td>46</td><td>0.17</td><td>55</td></tr>
+ <tr><td>2004</td><td>0.62</td><td>28</td><td>0.56</td><td>37</td><td>0.21</td><td>46</td><td>0.15</td><td>58</td></tr>
+ <tr><td>2005</td><td>0.64</td><td>29</td><td>0.59</td><td>36</td><td>0.21</td><td>48</td><td>0.17</td><td>56</td></tr>
+ <tr><td>2008</td><td>0.67</td><td>25</td><td>0.59</td><td>38</td><td>0.2</td><td>69</td><td>0.07</td><td>134</td></tr>
+ <tr><td>2010</td><td>0.61</td><td>33</td><td>0.56</td><td>43</td><td>0.13</td><td>92</td><td>0.07</td><td>126</td></tr>
+ <tr><td>2012</td><td>0.65</td><td>46</td><td>0.63</td><td>53</td><td>0.26</td><td>57</td><td>0.13</td><td>100</td></tr>
+ <tr><td>2014</td><td>0.61</td><td>53</td><td>0.61</td><td>51</td><td>0.25</td><td>126</td><td>0.63</td><td>44</td></tr>
+ <tr><td>2016</td><td>0.65</td><td>50</td><td>0.59</td><td>68</td><td>0.56</td><td>81</td><td>0.54</td><td>83</td></tr>
+ <tr><td>2018</td><td>0.71</td><td>54</td><td>0.72</td><td>50</td><td>0.62</td><td>96</td><td>0.81</td><td>50</td></tr>
+</tbody></table>
 
 Česko v nultých letech oscilovalo kolem 30. místa ve světě, bohužel se kvůli relativní nečinnosti v této oblasti propadlo až na předloňské 54. místo (4 místa za Slovenskem). Na letošní výsledky se stále čeká. Ještě horší výsledky jsou v digitální participaci, kde jsme se umístili naposledy na 96. místě (tedy za Ukrajinou, Ugandou, Burkinou Faso i Ghanou).
 Hodnota EGDI Česka (0.71) je navíc do velké míry tažena indexem lidského kapitálu, tedy systémem vzdělávání (HCI = 0.88). Kvalita telekomunikační infrastruktury (TII = 0.60) a poskytovaných online služeb (OSI = 0.65) jsou výrazně nižší.
