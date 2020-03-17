@@ -19,9 +19,9 @@ author:     Bára Soukupová
 
 Organizace spojených národů vydává od roku 2003 každé dva roky vlastní report zahrnující svých 193 členských států. Výkon států je měřen prostřednictvím tzv. **E-Government Development Indexu (EGDI)**, který je tvořen třemi komponentami:
 
-**1. Online Service Index (OSI)** - hodnotí e-government, portály a webové stránky veřejné správy
-**2. Telecommunication Infrastructure Index (TII)** - hodnotí dostupnost a kvalitu připojení k internetu
-**3. Human Capital Index (HCI)** - hodnotí gramotnost, vzdělanost a počet let školní docházky
+**1. Online Service Index (OSI)** - hodnotí e-government, portály a webové stránky veřejné správy  
+**2. Telecommunication Infrastructure Index (TII)** - hodnotí dostupnost a kvalitu připojení k internetu  
+**3. Human Capital Index (HCI)** - hodnotí gramotnost, vzdělanost a počet let školní docházky  
 
 EGDI je pak doplněn **E-Participation Indexem (EPI)**, který hodnotí sdílení informací veřejnou správou, interakci a participaci občanů a institucí.
 
