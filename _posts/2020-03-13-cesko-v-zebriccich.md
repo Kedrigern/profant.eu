@@ -28,9 +28,9 @@ EGDI je pak doplněn **E-Participation Indexem (EPI)**, který hodnotí sdílen�
 Hodnota všech komponent i indexů je relativní - nejhorší stát má hodnotu 0 a nejlepší 1.
 
 <table class="tableizer-table">
-<thead><tr class="tableizer-firstrow"><th></th><th>E-Government Development Index</th><th>&nbsp;</th><th>&nbsp;</th><th>&nbsp;</th><th>E-Participation Index</th><th>&nbsp;</th><th>&nbsp;</th><th>&nbsp;</th></tr></thead><tbody>
- <tr><td>&nbsp;</td><td>Česko</td><td>&nbsp;</td><td>Slovensko</td><td>&nbsp;</td><td>Česko</td><td>&nbsp;</td><td>Slovensko</td><td>&nbsp;</td></tr>
- <tr><td>&nbsp;</td><td>index</td><td>pořadí</td><td>index</td><td>pořadí</td><td>index</td><td>pořadí</td><td>index</td><td>pořadí</td></tr>
+<thead><tr class="tableizer-firstrow"><th></th><th colspan="4">E-Government Development Index</th><th colspan="4">E-Participation Index</th></tr></thead><tbody>
+ <tr><td>&nbsp;</td><td colspan="2">Česko</td><td colspan="2">Slovensko</td><td colspan="2">Česko</td><td colspan="2">Slovensko</td></tr>
+ <tr><td>rok</td><td>index</td><td>pořadí</td><td>index</td><td>pořadí</td><td>index</td><td>pořadí</td><td>index</td><td>pořadí</td></tr>
  <tr><td>2003</td><td>0.54</td><td>35</td><td>0.53</td><td>40</td><td>0.24</td><td>46</td><td>0.17</td><td>55</td></tr>
  <tr><td>2004</td><td>0.62</td><td>28</td><td>0.56</td><td>37</td><td>0.21</td><td>46</td><td>0.15</td><td>58</td></tr>
  <tr><td>2005</td><td>0.64</td><td>29</td><td>0.59</td><td>36</td><td>0.21</td><td>48</td><td>0.17</td><td>56</td></tr>
