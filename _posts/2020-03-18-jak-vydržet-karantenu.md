@@ -11,6 +11,8 @@ author:     Ondřej Profant
 
 Současná omezení jsou nezbytná, ale zároveň silně omezující. Ekonomické dopady budou znát, ale děláme to pro zdraví nás všech. Dnes bych se chtěl ale zaměřit na pozitivnější stránky věci, a třeba i inspirovat další. Pojďme se podívat, jak vydržet karanténu!
 
+<!--more-->
+
 ## Pomáhat okolí
 
 První věc, co by měl udělat každý z nás udělat, je porozhlédnout se okolo. Všichni můžeme:
