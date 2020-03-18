@@ -19,7 +19,7 @@ První věc, co by měl udělat každý z nás udělat, je porozhlédnout se oko
 
 - **Optat se sousedů**, zda něco nepotřebují: zvláště seniorům může velmi pomoci, když jim zajdete nakoupit
 - V obchodě **pustit rizikové skupiny ve frontě**: Jednoduše řečeno, čím dýl jste v okolí někoho nakaženého, tím větší je pravděpodobnost přenosu. 
-- Každý si může vytvořit **domácí roušku**, přesněji ústenku. Nosit roušku je základ ohleduplnosti vůči ostatním lidem. Nemoc můžete mít a roznášet i bez příznaků. Rouška nechrání primárně vás ale vaše okolí! [Návod jak ušít bavlněnou roušku](https://daya.cz/blogs/news/jak-usit-klasickou-a-detskou-dvouvrstvou-bavlnenou-rousku)
+- Každý si může vytvořit **domácí roušku**, přesněji ústenku. Nosit roušku je základ ohleduplnosti vůči ostatním lidem. Nemoc můžete mít a roznášet i bez příznaků. Rouška nechrání primárně vás ale vaše okolí! [Návod jak ušít bavlněnou roušku](https://daya.cz/blogs/news/jak-usit-klasickou-a-detskou-dvouvrstvou-bavlnenou-rousku).
 
 ## Služby online i předobjednání
 
@@ -29,11 +29,11 @@ I když je karanténa, tak funguje mnoho služeb online. Samozřejmostí je to u
     - [Kosik.cz](https://www.kosik.cz/)
     - [Rohlik.cz](https://rohlik.cz)
     - [iTesco.cz](https://itesco.cz)
-    - [Potravinydomu.cz]()
+    - [Potravinydomu.cz](https://www.potravinydomu.cz/)
 - Objednání hotového jídla (nezapomeňte, že tím podpoříte dané restaurace, které teď mají opravdu těžké období):
-    - [Damejidlo.cz]
+    - [Damejidlo.cz](https://www.damejidlo.cz/)
     - [Wolt](https://wolt.com/cs/)
-    - [FoodBox.cz] 
+    - [FoodBox.cz](https://foodbox.cz/)
 - Nepřeberné množství eshopů s elektronikou
 - Nakoupení ve fyzickém obchodě a následné doručení
     - [Liftago](https://www.liftago.cz)
@@ -63,9 +63,9 @@ Tady je pár zajímavých jídel, které jsem v posledních dnech dělal, třeba
 
 ### Gemista - plněné papriky na řecký způsob
 
-Papriky, rajčata, cibule, rýže a trocha balkanského sýru a trouba. Podrobnosti v [receptu](https://fresh.iprima.cz/recepty/gemista-plnena-rajcata-papriky).
+Papriky, rajčata, cibule, rýže a trocha balkanského sýru a trouba. Spolu s plněnou zeleninou jsem upekl i domácí hranolky. Podrobnosti v [receptu](https://fresh.iprima.cz/recepty/gemista-plnena-rajcata-papriky).
 
-## Quiche - slaný koláč
+### Quiche - slaný koláč
 
 Slaný koláč z listového těsta. Sypká náplň v mém případě byla pórek, cibule, česnek, klobasa a vše jsem zalil směsí smetany, vajíčka a sýra. Chvilka pečení a je to!
 
@@ -102,4 +102,4 @@ Najděte si chvilku pro sebe a svůj klid. Můžete zkusit meditovat (online med
 
 A hlavně se nenechte převálcovat všudypřítomným stresem a panikou. Nezapomeňte si dopřávat věci, které máte rádi - ať už je to horké kakao, chutné jídlo, teplá sprcha nebo oblíbená hra.
 
-Více informací v článku na [Deniku N](https://denikn.cz/317063/karantena-ukaze-jakou-mame-povahu-je-to-prilezitost-k-sebepoznani-rika-psycholog-spok/).
+Více informací v článku na [Deníku N](https://denikn.cz/317063/karantena-ukaze-jakou-mame-povahu-je-to-prilezitost-k-sebepoznani-rika-psycholog-spok/).
