@@ -26,7 +26,7 @@ I když je karanténa, tak funguje mnoho služeb online. Samozřejmostí je to u
 - Online nákup potravin a drogerie:
     - [Kosik.cz](https://www.kosik.cz/)
     - [Rohlik.cz](https://rohlik.cz)
-    - [iTesco.cz](itesco.cz)
+    - [iTesco.cz](https://itesco.cz)
     - [Potravinydomu.cz]()
 - Objednání hotového jídla (nezapomeňte, že tím podpoříte dané restaurace, které teď mají opravdu těžké období):
     - [Damejidlo.cz]
