@@ -70,7 +70,7 @@ Celkově se Česko žebříčkem pomalu, ale jistě propadá. Ze 14. místa v ro
 {% raw %}
 <iframe width="770" height="600" src="https://digital-agenda-data.eu/charts/desi-composite/embedded#chart={%22indicator%22:%22desi_sliders%22,%22breakdown%22:{%22desi_1_conn%22:5,%22desi_2_hc%22:5,%22desi_3_ui%22:3,%22desi_4_idt%22:4,%22desi_5_dps%22:3},%22unit-measure%22:%22pc_desi_sliders%22,%22time-period%22:%222019%22}"></iframe>  
 *[Skóre v DESI a jeho jednotlivé komponenty](
-<iframe width="770" height="600" src="https://digital-agenda-data.eu/charts/desi-composite/embedded#chart={%22indicator%22:%22desi_sliders%22,%22breakdown%22:{%22desi_1_conn%22:5,%22desi_2_hc%22:5,%22desi_3_ui%22:3,%22desi_4_idt%22:4,%22desi_5_dps%22:3},%22unit-measure%22:%22pc_desi_sliders%22,%22time-period%22:%222019%22})*
+https://digital-agenda-data.eu/charts/desi-composite/embedded#chart={%22indicator%22:%22desi_sliders%22,%22breakdown%22:{%22desi_1_conn%22:5,%22desi_2_hc%22:5,%22desi_3_ui%22:3,%22desi_4_idt%22:4,%22desi_5_dps%22:3},%22unit-measure%22:%22pc_desi_sliders%22,%22time-period%22:%222019%22})*
 
 
 V oblasti konektivy je Česko průměrné. Zaostává ve využití mobilního širokopásmového připojení (82 účastníků na 100 obyvatel - 22. místo) a využití rychlého širokopásmového připojení domácností (37 % domácností - 18. místo).
