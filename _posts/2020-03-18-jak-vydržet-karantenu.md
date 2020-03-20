@@ -34,6 +34,7 @@ I když je karanténa, tak funguje mnoho služeb online. Samozřejmostí je to u
     - [Damejidlo.cz](https://www.damejidlo.cz/)
     - [Wolt](https://wolt.com/cs/)
     - [FoodBox.cz](https://foodbox.cz/)
+    - [Breakfaststory.cz](https://www.breakfaststory.cz/karantena-special) - pokud si koupíte oběd přispějete na obědy pro seniory, navíc vaří kuchařky bez domova
 - Nepřeberné množství eshopů s elektronikou
 - Nakoupení ve fyzickém obchodě a následné doručení
     - [Liftago](https://www.liftago.cz)
