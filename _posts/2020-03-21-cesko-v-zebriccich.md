@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Česko v digitálních žebříčcích"
-date:       2018-03-18
+date:       2020-03-21
 categories: Digitalizace
 comments:   true
 tags:       [egovernment, digitalizace]
