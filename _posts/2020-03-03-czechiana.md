@@ -31,7 +31,9 @@ Je ale potřeba ocenit Lubomíra Zaorálka za to, jak se k projektu postavil. To
 
 Ještě dodejme, že rozpočet projektu byl 449,5 milionu korun, částečně ho měly zaplatit evropské fondy. Veřejná zakázka byla na 269 milionů korun bez DPH. Tato částka měla jít z evropských peněz, ze státního rozpočtu se počítalo s přibližně 160 miliony korun.
 
-## Jak se to celé mohlo stát? 
+Aktualizace z března 2020: Poté, co Lubomír Zaorálek oznámil zrušení zakázky, jsem na ministerstvo kultury poslal žádost o informace, kolik již bylo vynaloženo prostředků na přípravu Czechiany. Ministerstvo odpovědělo, že advokátní kanceláři Rowan Legal bylo vyplaceno 515 tisíc korun a dále byly utraceny 4 tisíce na tvorbu plakátu v rámci povinné publicity. Dalších 499 tisíc korun tvořily ostatní osobní náklady, které ministerstvo dále nerozvedlo.
+
+## Jak se to celé mohlo stát?
 
 Kromě notorického problému české státní správy, kterým je nekompetentnost a nízká motivace úředníků, vidím problém také v selhání vládního programu Digitální Česko. Jen pár minut před zrušením projektu prohlásil v Radiožurnálu vládní zmocněnec pro digitalizaci Vladimír Dzurilla, že vlastně neví, k čemu má Czechiana sloužit. Že to je věc Ministerstva kultury, že oni projekt řešili jen “z pohledu IT, z pohledu celého nastavení a toho, jak je to všechno propojováno”. To ale nestačí, obvykle je důležitější poctivá analýza procesů a jejich nové navržení tak, aby byl projekt digital born. Tedy aby nedošlo pouze k elektronizaci již existujících procesů, které ale byly navrženy pro offline prostředí a neberou v potaz nové možnosti, které s digitalizací přichází.
 
