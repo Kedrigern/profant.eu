@@ -5,7 +5,7 @@ date:       2020-04-01
 categories: Bezpečnost
 comments:   true
 tags:       [Bezpečnost, Zdraví]
-img:        covid-19.jpg
+img:        chytra-karantena.jpg
 author:     Ondřej Profant
 ---
 
@@ -56,4 +56,4 @@ Současnou verzi Chytré karantény podporujeme, protože je založena na dobrov
 - **Ostrakizace**: Nezanedbatelné riziko jsou útoky proti lidem, kteří souhlas nedají. Je třeba si uvědomit, že tito lidé nic špatného nedělají a nemoc nešíří vědomě. Špatné je, pokud někdo nedodržuje hygienická pravidla (kašle bez zakrytí obličeje, nenosí roušku) či odmítne spolupracovat s hygienikem - to však může i bez šmírování.
 - **Kontrola**: Celý systém musí být pod důslednou kontrolou. Audit PWC je nezbytné minimum. Jak už jsem zmínil, je jistě důležité, aby se k věci vyjádřil i ÚOOÚ. Piráti budou požadovat i kontrolu ze strany sněmovní komise.
 
-Stejně jako omezení pohybu jsou zásahy do soukromí velmi nebezpečný precedent. Musíme k nim přistupovat po velmi pečlivé úvaze a vždy jen na jasně omezenou dobu.
+Stejně jako omezení pohybu jsou zásahy do soukromí velmi nebezpečný precedent. Musíme k nim přistupovat po velmi pečlivé úvaze a vždy jen na jasně omezenou dobu. Naštěstí u nás je vše na dobrovolné bázi narozdíl od mnoha jiných zemí.
