@@ -20,13 +20,13 @@ Situaci nejlépe popíšeme na ukázkovém příkladu.
 1. Vezměme si fiktivního Jana Nováka. Projeví se u něj symptomy (horečka, kašel) a nechá se otestovat. 
 2. Jeho test vyjde pozitivní, je tedy nakažen onemocněním Covid-19. O tom je informován pomocí SMS.
 3. Od momentu, kdy to Novák zjistí, je v klasické **domácí karanténě**.
-4. Janu Novákovi závolají z call centra hygieniků, které připravila skupina [Covid19CZ](https://www.facebook.com/Covid19cz.cz). Ta si dala za cíl bojovat daty a informačními technologiemi proti pandemii.
+4. Janu Novákovi závolají z call centra hygieniků, které připravila skupina [Covid19CZ](https://covid19cz.cz). Ta si dala za cíl bojovat daty a informačními technologiemi proti pandemii.
 5. Vyškolený pracovník se Nováka zeptá, zda chce (dává informovaný souhlas) vytvořit **vzpomínkovou mapu pohybu**. Je třeba zkoumat cca 5 dní zpětně.
 6. Pokud pan Novák **souhlasí**, pracovník hygieny dostane data od mobilního operátora (triangulace na základě BTS) a data od bank. Díky tomu uvidí, kde se pohyboval s mobilem a kde platil. Díky těmto informací bude snazší sestavit mapu pohybu nakaženého pana Nováka a identifikovat, kde mohl koho nakazit.
 7. Pokud pan Novák **neudělí souhlas**, tak se pracovník hygieny bude ptát "kde jste byl včera", "s kým jste přišel do styku" apod. a nebude mít žádné vodítko. Vědomé lhaní o nakažlivých nemocech je postižitelné.
 8. Hygiena takto sestaví mapu pohybu a kontaktů nakaženého. Následně se pokusí kontaktovat ohrožené jedince (napříkald člověk, s kterým byl pan Novák 4h v jedné místnosti apod.). K tomuto kontaktovní hygiena nedostane žádná data od mobilních operátorů, v případě souhlasu je k dispozici jen vzpomínková mapa.
 
-Tohle je základní a nejdůležitější proces. Vidíme z něj, že Chytrá karanténa se opírá o běžnou domácí karanténu. Sama o sobě nám pouze usnadňuje hledání nakažených.
+Tohle je základní a nejdůležitější proces. Vidíme z něj, že Chytrá karanténa se opírá o běžnou domácí karanténu. Sama o sobě nám pouze usnadňuje hledání nakažených. Další informace naleznete na [oficiálním webu](https://covid19cz.cz/covid19-cz/manifest/chytra-karantena).
 
 ### Další aplikace
 
@@ -36,7 +36,7 @@ Aplikace eRouška funguje na základě technologie bluetooth. Skrze bluetooth zk
 
 ### Kdo to vše provozuje?
 
-Vzpomínkovou mapu provozuje Ministertsvo zdravotnictví, v call centru jsou hygienici a vyškolení medici a software vyvinula skupina [Covid19CZ](https://www.facebook.com/Covid19cz.cz). Vše audituje PWC. Osobně doufám, že vše ještě zkontroluje i ÚOOÚ.
+Vzpomínkovou mapu provozuje Ministertsvo zdravotnictví, v call centru jsou hygienici a vyškolení medici a software vyvinula skupina [Covid19CZ](hhttps://covid19cz.cz). Vše audituje PWC. Osobně doufám, že vše ještě zkontroluje i ÚOOÚ.
 
 Aplikace Mapy.cz je od společnosti Seznam.cz. Aplikace eRouška teprve vzniká.
 
@@ -56,4 +56,4 @@ Současnou verzi Chytré karantény podporujeme, protože je založena na dobrov
 - **Ostrakizace**: Nezanedbatelné riziko jsou útoky proti lidem, kteří souhlas nedají. Je třeba si uvědomit, že tito lidé nic špatného nedělají a nemoc nešíří vědomě. Špatné je, pokud někdo nedodržuje hygienická pravidla (kašle bez zakrytí obličeje, nenosí roušku) či odmítne spolupracovat s hygienikem - to však může i bez šmírování.
 - **Kontrola**: Celý systém musí být pod důslednou kontrolou. Audit PWC je nezbytné minimum. Jak už jsem zmínil, je jistě důležité, aby se k věci vyjádřil i ÚOOÚ. Piráti budou požadovat i kontrolu ze strany sněmovní komise.
 
-Stejně jako omezení pohybu jsou zásahy do soukromí velmi nebezpečný precedent. Musíme k nim přistupovat po velmi pečlivé úvaze a vždy jen na jasně omezenou dobu. Naštěstí u nás je vše na dobrovolné bázi narozdíl od mnoha jiných zemí.
+Stejně jako omezení pohybu jsou zásahy do soukromí velmi nebezpečný precedent. Musíme k nim přistupovat po velmi pečlivé úvaze a vždy jen na jasně omezenou dobu. Naštěstí u nás je vše na dobrovolné bázi narozdíl od mnoha jiných zemí. Podrobnější rozepsání obav naleznete v článku [Daniela Dočekala](https://www.lupa.cz/clanky/inteligentni-karantena-vzdavame-se-kvuli-koronaviru-soukromi/).
