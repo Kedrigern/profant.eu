@@ -30,9 +30,9 @@ Tohle je základní a nejdůležitější proces. Vidíme z něj, že Chytrá ka
 
 ### Další aplikace
 
-Dílčí součastí Chytré karantény jsou také mobilní aplikace Mapy.cz a eRouška. První jmenovaná je dobře známá a má v ČR mnoho uživatelů. Ta vám opět nabídne možnost dobrovolně sledovat polohu. Tu sleduje na základě GPS a Wifi. 
+Dílčí součastí Chytré karantény jsou také mobilní aplikace **Mapy.cz** a eRouška. První jmenovaná je dobře známá a má v ČR mnoho uživatelů. Ta vám opět nabídne možnost dobrovolně sledovat polohu. Tu sleduje na základě GPS a Wifi. 
 
-Aplikace eRouška funguje na základě technologie bluetooth. Skrze bluetooth zkoumá, zda jsou po okolí další přístroje s touto aplikací. V případě, že držitel zjistí, že je roznašeč, následuje proces vyhodnocení, s kým vším se potkal a zda to setkání mělo vyšší pravděpodobnost přenosu (byli spolu déle). Samozřejmě aplikace opět není povinná a funguje jen, když máte zapnutý bluetooth.
+Aplikace **eRouška** funguje na základě technologie bluetooth. Skrze bluetooth zkoumá, zda jsou po okolí další přístroje s touto aplikací. V případě, že držitel zjistí, že je roznašeč, následuje proces vyhodnocení, s kým vším se potkal a zda to setkání mělo vyšší pravděpodobnost přenosu (byli spolu déle). Samozřejmě aplikace opět není povinná a funguje jen, když máte zapnutý bluetooth. Skvělé na této aplikaci je, že se nejedná o black box. Její [**zdrojový kód je zveřejněn**](https://github.com/covid19cz/).
 
 ### Kdo to vše provozuje?
 
@@ -52,7 +52,7 @@ Současnou verzi Chytré karantény podporujeme, protože je založena na dobrov
 
 - **Efektivnost**: Je třeba si uvědomit, že nás ochrání jen důsledné dodržování hygienických pravidel. Chytrá karanténa nám pomůže rychleji odhalit kontakty, které by mohly vést k nákaze. Ale rozhodně nám nepomůže například proti nákaze od infikované kliky či tlačítka výtahu.
 - **Reakce vlády**: Pokud opravdu Chytrá karanténa nezabrání opětovnému masovému šíření, vláda bude muset reagovat. My se bojíme, aby nešla cestou likvidace soukromí občanů.
-- **Black box**: Aplikace vzpomínkové mapy ani další aplikace nejsou opensource. Jedná se o blackbox, u kterého odborná veřejnost nemůže ověřit, zda opravdu dělá jen to, co nám říkají tvůrci. Další problém může být, co se stane, až situace pomine. Toto je třeba hlídat.
+- **Black box**: Aplikace vzpomínkové mapy ani další aplikace nejsou opensource. Jedná se o blackbox, u kterého odborná veřejnost nemůže ověřit, zda opravdu dělá jen to, co nám říkají tvůrci. Další problém může být, co se stane, až situace pomine. Toto je třeba hlídat. Jedinou výjimkou je aplikace eRouška.
 - **Ostrakizace**: Nezanedbatelné riziko jsou útoky proti lidem, kteří souhlas nedají. Je třeba si uvědomit, že tito lidé nic špatného nedělají a nemoc nešíří vědomě. Špatné je, pokud někdo nedodržuje hygienická pravidla (kašle bez zakrytí obličeje, nenosí roušku) či odmítne spolupracovat s hygienikem - to však může i bez šmírování.
 - **Kontrola**: Celý systém musí být pod důslednou kontrolou. Audit PWC je nezbytné minimum. Jak už jsem zmínil, je jistě důležité, aby se k věci vyjádřil i ÚOOÚ. Piráti budou požadovat i kontrolu ze strany sněmovní komise.
 
