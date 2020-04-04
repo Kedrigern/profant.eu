@@ -9,7 +9,7 @@ img:        chytra-karantena.jpg
 author:     Ondřej Profant
 ---
 
-Chytrá karanténa je skloňována ve všech mediích a denně o ní slyšíme od náměstka ministra zdravotnictví a bývalého předsedy ústřeního krizového štábu Romana Prymuly. Pojďme si říct, co to doopravdy je, s čím nám pomůže a jaká má naopak úskalí. Zvláště se zaměříme na ochranu soukromí.
+Chytrá karanténa je skloňována ve všech médiích a denně o ní slyšíme od náměstka ministra zdravotnictví a bývalého předsedy ústředního krizového štábu Romana Prymuly. Pojďme si říct, co to doopravdy je, s čím nám pomůže a jaká má naopak úskalí. Zvláště se zaměříme na ochranu soukromí.
 
 <!--more-->
 
