@@ -150,9 +150,9 @@ Na koordinační schůzce 19. 2. jsme se dohodli na zorganizování kulatého st
 **Umělá inteligence v EU**
 
 S místopředsedou Evropského parlamentu za Piráty Marcelem Kolajou jsem probíral plány Evropské komise na rozšiřování umělé inteligence v Unii a umělou inteligenci obecně. Marcel se k tématu vyjádřil v několika článcích na svém blogu: 
-* [(https://www.kolaja.eu/cs/post/20200219-artificial_intelligence_the_future_european_approach/)
-* [(https://www.kolaja.eu/cs/post/20200219-thoughts_on_the_european_digital_strategy/)
-* [(https://www.kolaja.eu/cs/post/20200215-automated_decision_making/)
+* [Umělá inteligence: Budoucí přístup Evropy](https://www.kolaja.eu/cs/post/20200219-artificial_intelligence_the_future_european_approach/)
+* [Komentáře k evropské digitální strategii](https://www.kolaja.eu/cs/post/20200219-thoughts_on_the_european_digital_strategy/)
+* [Automatizované rozhodování](https://www.kolaja.eu/cs/post/20200215-automated_decision_making/)
 
 **Zasedání Výboru pro veřejnou správu a regionální rozvoj**
 
