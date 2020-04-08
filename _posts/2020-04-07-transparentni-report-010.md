@@ -37,7 +37,7 @@ V půlce ledna se na veřejnost dostala informace o podezřelé a předražené 
 * [Tisková zpráva](https://www.pirati.cz/tiskove-zpravy/dozorci-rada-sfdi-pochybila.html)
 * [Hlasování](https://www.psp.cz/sqw/hlasy.sqw?G=71965)
 
-<blockquote class="twitter-tweet" data-lang="cs"><p lang="cs" dir="ltr">Předseda vlády představuje v Poslanecké sněmovně státní rozpočet a hřímá, že jeho vláda nebude zvyšovat daně.<br>Paní ministryně financí bohužel nemůže být na jednání o rozpočtu přítomna - obhajuje zrovna v Senátu vládní návrh na zvýšení daní.  (převzato od Matouše Vanči)</p>&mdash; Ondřej Profant (@ondrej_profant) <a href="https://twitter.com/ondrej_profant/status/1202167028540477440?ref_src=twsrc%5Etfw">4. prosince 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+<blockquote class="twitter-tweet" data-lang="cs"><p lang="cs" dir="ltr">Předseda vlády představuje v Poslanecké sněmovně státní rozpočet a hřímá, že jeho vláda nebude zvyšovat daně.<br>Paní ministryně financí bohužel nemůže být na jednání o rozpočtu přítomna - obhajuje zrovna v Senátu vládní návrh na zvýšení daní.  (převzato od Matouše Vanči)</p>&mdash; Ondřej Profant (@ondrej_profant) <a href="https://twitter.com/ondrej_profant/status/1202167028540477440?ref_src=twsrc%5Etfw">4. prosince 2019</a></blockquote>
 
 **Další problémové IT zakázky**
 
@@ -67,7 +67,7 @@ V interpelaci nového ministra dopravy Karla Havlíčka jsem poukázal na dalš�
 * [Tisková zpráva](https://www.pirati.cz/tiskove-zpravy/komentar-profant-smirovani-na-dalnicich.html)
 * [Facebook](https://www.facebook.com/ondrej.profant/videos/10216117906367110/)
 
-<blockquote class="twitter-tweet"><p lang="cs" dir="ltr">Zeptal jsem se ministra <a href="https://twitter.com/KarelHavlicek_?ref_src=twsrc%5Etfw">@KarelHavlicek_</a>, zda hodlá plošně šmírovat občany. Tvrdí že ne. Jsem rád, budu to i nadále hlídat.<br><br>Na otázky ohledně působení Kremlíka v rezortu a odpovědnosti vedení SFDI jednoznačnou odpověď již neměl.<a href="https://t.co/OgzrMCNisU">https://t.co/OgzrMCNisU</a><a href="https://twitter.com/hashtag/soukromi?src=hash&amp;ref_src=twsrc%5Etfw">#soukromi</a> <a href="https://twitter.com/hashtag/znamkamarada?src=hash&amp;ref_src=twsrc%5Etfw">#znamkamarada</a></p>&mdash; Ondřej Profant (@ondrej_profant) <a href="https://twitter.com/ondrej_profant/status/1222941710113812480?ref_src=twsrc%5Etfw">January 30, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+<blockquote class="twitter-tweet"><p lang="cs" dir="ltr">Zeptal jsem se ministra <a href="https://twitter.com/KarelHavlicek_?ref_src=twsrc%5Etfw">@KarelHavlicek_</a>, zda hodlá plošně šmírovat občany. Tvrdí že ne. Jsem rád, budu to i nadále hlídat.<br><br>Na otázky ohledně působení Kremlíka v rezortu a odpovědnosti vedení SFDI jednoznačnou odpověď již neměl.<a href="https://t.co/OgzrMCNisU">https://t.co/OgzrMCNisU</a><a href="https://twitter.com/hashtag/soukromi?src=hash&amp;ref_src=twsrc%5Etfw">#soukromi</a> <a href="https://twitter.com/hashtag/znamkamarada?src=hash&amp;ref_src=twsrc%5Etfw">#znamkamarada</a></p>&mdash; Ondřej Profant (@ondrej_profant) <a href="https://twitter.com/ondrej_profant/status/1222941710113812480?ref_src=twsrc%5Etfw">January 30, 2020</a></blockquote>
 
 **Schůzka s Frank Bold**
 
@@ -129,7 +129,7 @@ V pražském pirátském centru jsem 10. 2. resortnímu týmu, krajskému expert
 
 Návrh na zjednodušení založení firmy, který jsme slíbili před volbami voličům a který se opírá o data z Ministerstva spravedlnosti a Světové banky, byl především kvůli hlasům poslanců ANO, ČSSD a KSČM vrácen k přepracování. Proto jsme hned pár hodin po vrácení návrhu zaslali vládě žádost o připomínky, abychom je mohli do návrhu zapracovat a předložit jej znovu. Více informací na Facebooku (https://www.facebook.com/ondrej.profant/videos/10216216082821460/).
 
-<blockquote class="twitter-tweet"><p lang="cs" dir="ltr">Dnes ve sněmovně probíráme: <br><br>- Vyměřování lodí 📏🚢 📐<br>- Srážky na moři 🚣 🐙 🐟<br>- Nosné rakety 🚀<br>- Filmová produkce 🎥<br><br>Co se tu člověk nedozví :-). <a href="https://t.co/1GimOpRRcD">pic.twitter.com/1GimOpRRcD</a></p>&mdash; Ondřej Profant (@ondrej_profant) <a href="https://twitter.com/ondrej_profant/status/1227919677487296513?ref_src=twsrc%5Etfw">February 13, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+<blockquote class="twitter-tweet"><p lang="cs" dir="ltr">Dnes ve sněmovně probíráme: <br><br>- Vyměřování lodí 📏🚢 📐<br>- Srážky na moři 🚣 🐙 🐟<br>- Nosné rakety 🚀<br>- Filmová produkce 🎥<br><br>Co se tu člověk nedozví :-). <a href="https://t.co/1GimOpRRcD">pic.twitter.com/1GimOpRRcD</a></p>&mdash; Ondřej Profant (@ondrej_profant) <a href="https://twitter.com/ondrej_profant/status/1227919677487296513?ref_src=twsrc%5Etfw">February 13, 2020</a></blockquote>
 
 **Volba ombudsmana a pokrytectví Andreje Babiše**
 
@@ -208,7 +208,7 @@ V době koronavirové krize vláda zařadila na program svého jednání kritizo
 
 Již v době epidemie proběhl Výbor pro bezpečnost, který potvrzuje ředitele NÚKIB. Po výběrovém řízení se jím stal generál Karel Řehka, který vystřídá premiérem Babišem odvolaného Dušana Navrátila. Osobně doufám, že vojenský duch se projeví v cílevědomosti chránit česko před kybernetickými hrozbami. Byl bych však velmi nerad, kdyby se NÚKIB ubíral směrem k americké NSA či tajným službám - k tomu neslouží a nemá sloužit.
  
-<blockquote class="twitter-tweet"><p lang="cs" dir="ltr">Výbor pro bezpečnost Poslanecké sněmovny dnes jednal o novém řediteli NÚKIB. <br>Panu generálovi přeji hodně zdaru. Kyberbezpečnost bude čím dál tím důležitější.<a href="https://twitter.com/hashtag/nukib?src=hash&amp;ref_src=twsrc%5Etfw">#nukib</a> <a href="https://t.co/FNEHO6Kmkv">pic.twitter.com/FNEHO6Kmkv</a></p>&mdash; Ondřej Profant (@ondrej_profant) <a href="https://twitter.com/ondrej_profant/status/1240255495585366017?ref_src=twsrc%5Etfw">March 18, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+<blockquote class="twitter-tweet"><p lang="cs" dir="ltr">Výbor pro bezpečnost Poslanecké sněmovny dnes jednal o novém řediteli NÚKIB. <br>Panu generálovi přeji hodně zdaru. Kyberbezpečnost bude čím dál tím důležitější.<a href="https://twitter.com/hashtag/nukib?src=hash&amp;ref_src=twsrc%5Etfw">#nukib</a> <a href="https://t.co/FNEHO6Kmkv">pic.twitter.com/FNEHO6Kmkv</a></p>&mdash; Ondřej Profant (@ondrej_profant) <a href="https://twitter.com/ondrej_profant/status/1240255495585366017?ref_src=twsrc%5Etfw">March 18, 2020</a></blockquote>
 
 **Newsletter resortního týmu**
 
