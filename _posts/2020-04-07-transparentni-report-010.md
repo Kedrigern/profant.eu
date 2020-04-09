@@ -74,11 +74,11 @@ V interpelaci nového ministra dopravy Karla Havlíčka jsem poukázal na dalš�
 
 #### Schůzka s Frank Bold
 
-Na [schůzce]((https://evidence.pirati.cz/report/4107/)) s Jitkou Mihulkovou z Frank Bold jsme řešili úpravy matričního zákona, které by měly usnadnit práci při oddávání.
+Na [schůzce](https://evidence.pirati.cz/report/4107/) s Jitkou Mihulkovou z Frank Bold jsme řešili úpravy matričního zákona, které by měly usnadnit práci při oddávání.
 
 #### Vyjádření ke skandálu AVAST
 
-[Vyjádřil jsem se]((https://www.facebook.com/ondrej.profant/posts/10216108979543945)) ke kauze přeprodávání osobních údajů společností AVAST. Ta se při využívání uživatelských dat dopustila velmi nevhodných praktik, které by [měly být prošetřeny Úřadem pro ochranu osobních údajů](https://www.facebook.com/ondrej.profant/posts/10216115515667344). 
+[Vyjádřil jsem se](https://www.facebook.com/ondrej.profant/posts/10216108979543945) ke kauze přeprodávání osobních údajů společností AVAST. Ta se při využívání uživatelských dat dopustila velmi nevhodných praktik, které by [měly být prošetřeny Úřadem pro ochranu osobních údajů](https://www.facebook.com/ondrej.profant/posts/10216115515667344). 
 
 #### Příručka řízení státních IT projektů
 
@@ -93,7 +93,7 @@ Na [schůzce 29. 1.](https://evidence.pirati.cz/report/4058/) jsem se setkal s a
 
 #### Sběr podnětů pro pracovní skupinu veřejné zakázky
 
-V rámci sběru námětů pro pracovní skupinu veřejné zakázky jsem se setkal (https://evidence.pirati.cz/report/4059/) s Jiřím Šimonem, odborníkem z několika úřadů. Bavili jsme se o příkladech dobré praxe veřejných zakázek v zahraničí.
+V rámci sběru námětů pro pracovní skupinu veřejné zakázky jsem se [setkal s Jiřím Šimonem](https://evidence.pirati.cz/report/4059/), odborníkem z několika úřadů. Bavili jsme se o příkladech dobré praxe veřejných zakázek v zahraničí.
 
 ### Únor 2020
 
@@ -137,7 +137,7 @@ Návrh na zjednodušení založení firmy, který jsme slíbili před volbami vo
 
 #### Volba ombudsmana a pokrytectví Andreje Babiše
 
-O volbě ombudsmana bylo napsáno už mnohé, já si proto jen dovolím připomenout možná přehlédnutou lež Andreje, který si posteskl, že je volba tajná. Byli to přitom [především poslanci hnutí ANO, kteří hlasovali pro tajnou volbu]((https://twitter.com/ondrej_profant/status/1229154926099681281)).
+O volbě ombudsmana bylo napsáno už mnohé, já si proto jen dovolím připomenout možná přehlédnutou lež Andreje, který si posteskl, že je volba tajná. Byli to přitom [především poslanci hnutí ANO, kteří hlasovali pro tajnou volbu](https://twitter.com/ondrej_profant/status/1229154926099681281).
 
 #### Návštěva Pirátů v Plzni
 
