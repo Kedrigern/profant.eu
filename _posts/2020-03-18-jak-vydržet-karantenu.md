@@ -20,6 +20,7 @@ První věc, co by měl udělat každý z nás udělat, je porozhlédnout se oko
 - **Optat se sousedů**, zda něco nepotřebují: zvláště seniorům může velmi pomoci, když jim zajdete nakoupit
 - V obchodě **pustit rizikové skupiny ve frontě**: Jednoduše řečeno, čím dýl jste v okolí někoho nakaženého, tím větší je pravděpodobnost přenosu. 
 - Každý si může vytvořit **domácí roušku**, přesněji ústenku. Nosit roušku je základ ohleduplnosti vůči ostatním lidem. Nemoc můžete mít a roznášet i bez příznaků. Rouška nechrání primárně vás ale vaše okolí! [Návod jak ušít bavlněnou roušku](https://daya.cz/blogs/news/jak-usit-klasickou-a-detskou-dvouvrstvou-bavlnenou-rousku).
+- [Pomůžeme si](https://pomuzeme.si/) propojuje dobrovolníky s místy kde jsou třeba
 
 ## Služby online i předobjednání
 
