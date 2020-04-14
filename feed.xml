@@ -1,5 +1,63 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="https://www.profant.eu/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.profant.eu/" rel="alternate" type="text/html" /><updated>2020-04-14T13:55:08+00:00</updated><id>https://www.profant.eu/feed.xml</id><title type="html">Blog Ondřeje Profanta</title><subtitle>Zápisník pirátského poslance Ondřeje Profanta, který se zaměřuje na opendata a e-government. Rád bych byl, aby Česká republika byla moderním státem s rozvinutou digitální ekonomikou, kde je kladen silný důraz na vzdělávání a svobodu. V digitalizaci se musíme inspirovat ve Velké Britanii a Estonsku, řešení musí být otevřená a uživatelsky přívětivá.
-</subtitle><author><name>Ondřej Profant</name></author><entry><title type="html">Zpráva o transparentnosti leden 2020 - březen 2020</title><link href="https://www.profant.eu/2020/transparentni-report-010.html" rel="alternate" type="text/html" title="Zpráva o transparentnosti leden 2020 - březen 2020" /><published>2020-04-08T09:00:00+00:00</published><updated>2020-04-08T09:00:00+00:00</updated><id>https://www.profant.eu/2020/transparentni-report-010</id><content type="html" xml:base="https://www.profant.eu/2020/transparentni-report-010.html">&lt;p&gt;Souhrnný report mé činnosti v období leden až březen 2020. Nejčerstvější informace o mých aktivitách naleznete na mých profilech na sociálních sítích a zde na blogu v sekci &lt;a href=&quot;https://www.profant.eu/transparentnost/&quot;&gt;Otevřenost&lt;/a&gt;.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="https://www.profant.eu/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.profant.eu/" rel="alternate" type="text/html" /><updated>2020-04-14T17:14:49+00:00</updated><id>https://www.profant.eu/feed.xml</id><title type="html">Blog Ondřeje Profanta</title><subtitle>Zápisník pirátského poslance Ondřeje Profanta, který se zaměřuje na opendata a e-government. Rád bych byl, aby Česká republika byla moderním státem s rozvinutou digitální ekonomikou, kde je kladen silný důraz na vzdělávání a svobodu. V digitalizaci se musíme inspirovat ve Velké Britanii a Estonsku, řešení musí být otevřená a uživatelsky přívětivá.
+</subtitle><author><name>Ondřej Profant</name></author><entry><title type="html">Digitalizace: zaspané roky nedoženeme za měsíc</title><link href="https://www.profant.eu/2020/formulare.html" rel="alternate" type="text/html" title="Digitalizace: zaspané roky nedoženeme za měsíc" /><published>2020-04-14T00:00:00+00:00</published><updated>2020-04-14T00:00:00+00:00</updated><id>https://www.profant.eu/2020/formulare</id><content type="html" xml:base="https://www.profant.eu/2020/formulare.html">&lt;p&gt;Současná krize s sebou přináší dosud nevídaný nápor na státní správu, ve velké míře pak speciálně na náš sociální systém. Úřady nejsou připraveny na masový příjem žádostí o podporu a pod jejich náporem lehce kolabují. Přitom na podobnou situaci mohly být připraveny daleko lépe.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;Již téměř 10 let fungují dva klíčové prvky českého e-governmentu - datové schránky a základní registry. Datové schránky mohou zabezpečit komunikaci mezi všemi občany, firmami a úřady. Základní registry pak tvoří jakousi bazální databázi nejdůležitějších entit ve státě, hlavně tedy osob. Na těchto základech tak státní správa může již dekádu stavět specializované systémy pro jednotlivé agendy a racionalizovat a zefektivinit svůj přístup k nim. Úřady však po většinu této doby pro to dělaly jen velmi málo. V běžném provozu to tak nevadilo. Léta neměnné postupy se lidé naučily, údaje se vypisovaly do ručně či tiskem do formulářů, a když něco nebylo jasné, konzultovalo se osobně. Současné situaci však tyto staré metody nevyhovují a také kapacitně nestačí. Pojďme si ukázat současné problémy na několika případech.&lt;/p&gt;
+
+&lt;h2 id=&quot;hlavní-problém---identita&quot;&gt;Hlavní problém - identita&lt;/h2&gt;
+
+&lt;p&gt;Stejně jako u papírového podání, kde je garancí podpis, je nutné i u elektronického postupu nějak ověřit identitu. K tomu měly od začátku sloužit datové schránky, později se přidala i e-občanka a v budoucnu se počítá s propojením s elektronickým bankovnictvím (2021). Přihlašování ke státnímu e-governmentu se zastřešilo pod &lt;a href=&quot;https://www.eidentita.cz/&quot;&gt;NIA&lt;/a&gt;. Řada chyb však způsobila, že dnes, téměř 11 let po spuštění datových schránek, má přístup k nějaké formě elektronické identity méně než 10 % populace. Datové schránky od začátku provázela negativní reklama, spojená hlavně s povinností vlastníků datových schránek komunikovat výhradně přes ni, a tak si ji dobrovolně zřídilo jen malé množství fyzických osob (méně než 200 tisíc). Většina datových schránek je stále firemní. Přitom zřízení datové schránky není složité - zabere průměrně 5 minut na CzechPOINTu.&lt;/p&gt;
+
+&lt;p&gt;Problémy provázejí i e-občanky. Uživatelsky nepřehledné množství kódů (až 5), které je třeba zadat při jejich aktivaci, úředníci a úřednice téměř až odrazující občany od jejich aktivace a potřeba zakoupení externí čtečky karet způsobují, že většina čipů občanek stále zůstává neaktivovaných. Vinu nese i Ministerstvo vnitra, které nadále odmítá bezkontaktní čipy. Ty by přitom umožnily fungování ve spolupráci s mobilem a odpadla by tak mimojiné nutnost kupovat čtečku karet.&lt;/p&gt;
+
+&lt;p&gt;Současná malá dostupnost elektronické identity způsobuje, že jakkoliv chytré řešení nyní úřady představí, stejně většina lidí musí výsledek vytisknout a poslat poštou, případně donést na úřad osobně.&lt;/p&gt;
+
+&lt;h2 id=&quot;úřad-práce&quot;&gt;Úřad práce&lt;/h2&gt;
+
+&lt;p&gt;Těžiště působení úřadů práce se za poslední roky přesunulo více směrem k poskytování sociálních dávek. V souvislosti s aktuální situací je jedná hlavně o mimořádnou okamžitou pomoc (MOP). Úřad práce má formuláře zveřejněné na svých stránkách a &lt;a href=&quot;https://www.mpsv.cz/web/cz/-/zadost-o-mimoradnou-okamzitou-pomoc&quot;&gt;MOP není výjimkou&lt;/a&gt;. Při tvorbě těchto “interaktivních” formulářů se však postupovalo principem “co na papíře, to na webu”. Formulář tak neumožňuje přihlášení přes NIA, načtení informací o žadateli (jména, adresy, příbuzné) ze základních registrů ani rozumné našeptávání adres. Hlavně však není uživatelsky přívětivý a srozumitelný - žadatel neví, co a v jakém rozsahu má kam vyplnit, což způsobuje velkou chybovost vyplněných formulářů a pracnost jejich pozdější oprav. Zejména vhodný by byl strukturovanější popis situace, ve které se žadatel ocitl. Veřejným tajemstvím pak je, že i digitálně vyplněné dotazníky přeťukávají pracovníci Úřadů práce do systému ručně.&lt;/p&gt;
+
+&lt;p&gt;Během víkendu jsme v systému DocAssemble udělali &lt;a href=&quot;https://bit.ly/2R3SyVZ&quot;&gt;ideový návrh nového řešení&lt;/a&gt;, který se vyznačuje hlavně pozvolným provedením žadatele celým procesem. Vedení formulářů v tomto open source systému navíc umožňuje snadnou modifikovatelnost dotazníků a možnosti větvení. Uživatel je tak tázán jen na informace, které se ho konkrétně týkají a není zatěžován stovkami políček, z nichž většinu nepotřebuje (jako například v současném daňovém přiznáním).&lt;/p&gt;
+
+&lt;h2 id=&quot;antivirus&quot;&gt;Antivirus&lt;/h2&gt;
+
+&lt;p&gt;Program &lt;a href=&quot;https://antivirus.mpsv.cz/&quot;&gt;Antivirus&lt;/a&gt; pro zaměstnavatele je naopak ukázkou, že srozumitelnou, jednoduchou a dobře popsanou žádost umí rychle udělat i MPSV, když je k tomu vůle. Web zvládá automaticky vyplňovat některé údaje, má srozumitelné UX a díky responzivnímu designu je přehledný i na mobilu. Nezvládá ale doplnění všech údajů - například právní formy nebo rodného čísla (jehož nutnost je zde diskutabilní). Formulář chce na závěr přiložit doklad o vlastníkovi bankovního účtu, tedy něco, co lze vyčíst z Centrální evidence účtů. Nutnost vyplnění těchto údajů, které již stát někde má, tak uživatelskou přívětivost snižuje.
+Pokud by bylo implementováno přihlášení skrz NIA, které by mělo být u podobných aplikací standardem, šlo by snadno pracovat i s neveřejnými údaji.&lt;/p&gt;
+&lt;h2 id=&quot;kompenzační-bonus---program-pětadvacítka&quot;&gt;Kompenzační bonus - program Pětadvacítka&lt;/h2&gt;
+
+&lt;p&gt;Program Pětadvacítka, který poskytuje kompenzační bonus až 25 000 Kč pro živnostníky, se hned po svém spuštění 10.4. stal předmětem velkého zájmu. Finanční správa k němu nejprve zveřejnila ”interaktivní” &lt;a href=&quot;https://ouc.financnisprava.cz/osvc25/Zadost_o_bonus_pro_OSVC_bez_zastupce.pdf&quot;&gt;formulář PDF&lt;/a&gt;, který je spustitelný jen a pouze v Adobe Acrobat Reader. Jediná interaktivita tohoto formuláře navíc spočívala ve vyplnění emailu na příslušné pracoviště Finančního úřadu, kam je třeba žádost poslat. Pod který úřad spadáte, si ale musíte zjistit sami jinak. Kromě toho šlo opět o formu “co na papíře, to na webu”.
+Příznačné je, jak sama finanční správa tuto formu žádosti komentuje:&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;První zveřejněný formát žádosti byl přizpůsoben formě očekávané cílovou skupinou OSVČ: „aby to vypadalo jako formulář“, neboť to byl jeden z nejčastějších podnětů přijímaný na zřízených informačních linkách Finanční správy.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Jinými slovy: děláme uživatelsky nepřívětivé formuláře, protože takové uživatelé očekávají.&lt;/p&gt;
+
+&lt;p&gt;Prostřednictvím DocAssemble jsme začali připravovat alternativu, avšak Finanční správa nás naštěstí sama předběhla. Během jednoho dne měla hotový &lt;a href=&quot;https://ouc.financnisprava.cz/kompenzace&quot;&gt;nový formulář&lt;/a&gt;, který je značně příjemnější. Avšak i ten by bylo možné vylepšit:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Formulář načítá data, ale pouze z veřejného přístupu k ARES. Nezvládne tak doplnit třeba DIČ či datum narození. DIČ by šlo implementovat při přihlášení datovkou či skrze NIA. Datum narození živnostníků zveřejňuje sám stát v jiném dotazu.&lt;/li&gt;
+  &lt;li&gt;Formulář nedokáže podle IČ a adresy určit, k jakému finančnímu úřadu žadatel náleží.&lt;/li&gt;
+  &lt;li&gt;Formulář nutí uživatele vyplnit jak kód banky, tak i její název.&lt;/li&gt;
+  &lt;li&gt;Nevaliduje - dovolí vyplnit špatné DIČ&lt;/li&gt;
+  &lt;li&gt;Naopak závěrečná shrnující stránka s možnostmi podání si zaslouží pochvalu, stejně jako přehledné UX a responzivní design.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;ponaučení&quot;&gt;Ponaučení&lt;/h2&gt;
+
+&lt;p&gt;Současné situace přinesla několik poznatků k digitalizaci veřejné správě:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Na příkladu Antiviru a Pětadvacítky se ukázalo, že veřejná správa dokáže velice promptně vytvářet moderní a uživatelsky přívětivé rozhraní pro podávání žádostí. Vyvstává otázka, proč se to děje až nyní, pět minut po dvanácté, když tuto úroveň mohla již několik let mít veškerá komunikace s veřejnou správou?&lt;/li&gt;
+  &lt;li&gt;Většina služeb této úrovně nedosahuje, jak je zřejmé na MOP nebo na daňovém přiznání.&lt;/li&gt;
+  &lt;li&gt;Stát by měl ke svým službám poskytovat veřejně dostupné API, aby umožnil připojení dalších služeb a vznik alternativních formulářů. Na tomto principu funguje například služba &lt;a href=&quot;https://podejto.cz/&quot;&gt;podejto&lt;/a&gt;. V zahraničí běžně najdeme různé formuláře veřejné správy např. v internetovém bankovnictví. Budeme navrhovat přidání této povinnosti do zákona.&lt;/li&gt;
+  &lt;li&gt;Propojení státních databází stále nefunguje správně - formuláře neumějí načítat neveřejná data (DIČ, datum narození, telefon, email), nutí vyplňovat zbytečné položky (jméno banky) a nedokáží určit příslušnost k místnímu pracovišti úřadu.&lt;/li&gt;
+  &lt;li&gt;Místní struktura úřadů neodpovídá potřebě propojeného digitálního světa. Mnoho agend veřejné správy má odlišnou místní strukturu od administrativního členění (Správa sociálního zabezpečení, Úřad práce, Finanční úřad, …). Pokud tato instituce vyžaduje podání na místně příslušnou pobočku, je často problém zjistit, která to je - ani sama Finanční správa pak na základě vašeho IČ a adresy nedokáže poradit, ke kterému jejímu pracovišti spadáte. Řešením je zřízení centrální podatelny těchto úřadů.&lt;/li&gt;
+  &lt;li&gt;Roztříštěnost úřadů a nepřehlednost jejich webových stránek často brání v orientaci, na co má žadatel nárok. To je zřejmé například v oblasti sociálních dávek, kde jsme proto připravili přehledný web &lt;a href=&quot;https://socialnisystem.pirati.cz/&quot;&gt;SocialniSystem.cz&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;Hlavním problémem všech řešení je digitální identita. Přístup k digitálním identitním prostředkům (datová schránka, e-občanka) nemá více jak 90 % občanů. Jakkoliv chytré řešení bude bez ověřené identity pouze polovičaté.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Systém formulářů je administrativní pomůcka a je to zároveň jedno z nejčastějších rozhraní komunikace mezi občany a státem. Některé formuláře svoji formou spíše odrazují. To ale rozhodně nemá být jejich funkce - naopak mají motivovat žadatele, aby se nebáli ozvali. Už samo o sobě podání žádosti o pomoc může být pro někoho psychicky těžké, snažme se místo komplikací vycházet lidem co nejvíce vstříc. Stejně jako v mezilidských vztazích je i ve vztahu občanů a státu komunikace a její forma důležitá. Chceme zdravý stát se zdravou ekonomikou, který je tu pro lidi.&lt;/p&gt;
+
+&lt;p&gt;Veškeré úspěchy Pirátů v oblasti digitalizace najdete na &lt;a href=&quot;https://www.pirati.cz/vysledky/#type=resorts&amp;amp;datefilter2=all&amp;amp;resorty-select-2=resort-informatika&quot;&gt;pirati.cz&lt;/a&gt;. Pracujeme, předkládáme, ale vládní většina blokuje.&lt;/p&gt;</content><author><name>Bára Soukupová, Ondřej Profant</name></author><category term="egovernment" /><category term="digitalizace" /><summary type="html">Současná krize s sebou přináší dosud nevídaný nápor na státní správu, ve velké míře pak speciálně na náš sociální systém. Úřady nejsou připraveny na masový příjem žádostí o podporu a pod jejich náporem lehce kolabují. Přitom na podobnou situaci mohly být připraveny daleko lépe.</summary></entry><entry><title type="html">Zpráva o transparentnosti leden 2020 - březen 2020</title><link href="https://www.profant.eu/2020/transparentni-report-010.html" rel="alternate" type="text/html" title="Zpráva o transparentnosti leden 2020 - březen 2020" /><published>2020-04-08T09:00:00+00:00</published><updated>2020-04-08T09:00:00+00:00</updated><id>https://www.profant.eu/2020/transparentni-report-010</id><content type="html" xml:base="https://www.profant.eu/2020/transparentni-report-010.html">&lt;p&gt;Souhrnný report mé činnosti v období leden až březen 2020. Nejčerstvější informace o mých aktivitách naleznete na mých profilech na sociálních sítích a zde na blogu v sekci &lt;a href=&quot;https://www.profant.eu/transparentnost/&quot;&gt;Otevřenost&lt;/a&gt;.&lt;/p&gt;
 
 &lt;!--more--&gt;
 
@@ -764,171 +822,4 @@ Elektronické potvrzení škola implementovala z vlastní iniciativy a za minim�
 
 &lt;p&gt;Ohledně ceny projektů příručka uvádí, že by IT projekt neměl stát více než 10 mil. dolarů (přibližně 200 mil. korun). Ač tato informace pochází z amerických reálií, kde je stále vyšší cena práce IT odborníků než v Česku, tak tuto podmínku nesplňuje poměrně velká část nově zadávaných státních IT projektů. Jejich cena se totiž stále častěji pohybuje ve stovkách milionů, někdy i miliardách korun. Z připravovaných projektů v rámci Národního investičního plánu to je např. Nový daňový informační systém finanční správy za 2 mld. Kč, Portál MOJE daně za 1 mld. Kč, úpravy IS ADIS za 800 mil. Kč, Systém Czechiana za 450 mil. Kč nebo Informační systém pro Společnou zemědělskou politiku a Národní dotace za 1 mld. Kč.&lt;/p&gt;
 
-&lt;p&gt;Příručku představím příštím týden poslancům v rámci podvýboru pro egovernment. Je k dispozici jak &lt;a href=&quot;https://github.com/cesko-digital/derisking-handbook/blob/master/handbook.md&quot;&gt;online&lt;/a&gt;, tak v papírové podobě. O brožuře se na včerejší debatě pozitivně vyjádřil i vládní zmocněnec pro informační technologie a digitalizaci Vladimír Dzurilla.&lt;/p&gt;</content><author><name>Ondřej Profant</name></author><category term="egovernment" /><category term="bezpečnost" /><category term="Piráti" /><summary type="html">Dobrovolnická platforma Česko.Digital, sdružující IT profesionály, vydala Příručku řízení státních IT projektů. Ta je určena hlavně exekutivcům, rozpočtovým specialistům, zákonodárcům a dalším lidem, kteří rozhodují o veřejných IT projektech.</summary></entry><entry><title type="html">Zpráva o transparentnosti říjen 2019 - prosinec 2019</title><link href="https://www.profant.eu/2020/transparentni-report-009.html" rel="alternate" type="text/html" title="Zpráva o transparentnosti říjen 2019 - prosinec 2019" /><published>2020-01-05T09:00:00+00:00</published><updated>2020-01-05T09:00:00+00:00</updated><id>https://www.profant.eu/2020/transparentni-report-009</id><content type="html" xml:base="https://www.profant.eu/2020/transparentni-report-009.html">&lt;p&gt;Souhrnný report mé činnosti v období říjen až prosinec 2019. Nejčerstvější informace o mých aktivitách naleznete na mých profilech na sociálních sítích a zde na blogu v sekci &lt;a href=&quot;https://www.profant.eu/transparentnost/&quot;&gt;Otevřenost&lt;/a&gt;.&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;h3 id=&quot;říjen-2019&quot;&gt;Říjen 2019&lt;/h3&gt;
-
-&lt;p&gt;&lt;strong&gt;Výjezdní zasedání Stálé komise pro práci Sněmovny&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Od 30. září do 1. října probíhalo v Lipnici výjezdní zasedání Stálé komise pro práci Sněmovny. Řešili jsme provoz zařízení (věděli jste, že je vytápěno tepelnými čerpadli), prodejny v poslanecké sněmovně, novou podobu profilů poslanců na webu poslanecké sněmovny a zlatým hřebem bylo schválení výroby faksimile slavnostního provedení první Československé ústavy.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Schůzka s ředitelem BIS&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Sešel jsem se s ředitelem Bezpečnostní informační služby Michalem Koudelkou (&lt;a href=&quot;https://evidence.pirati.cz/report/3681/&quot;&gt;zápis v evidenci kontaktů&lt;/a&gt;). Vzhledem k mému zaměření jsem s panem ředitelem řešil novelu zákona o vojenském zpravodajství, otázky kyberbezpečnosti a využívání bankovní identity v rámci služeb e-governmentu.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;MHMP spouští Cityvizor&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Magistrát hlavního města Prahy zahájil provoz svého Cityvizoru, což je takzvaný “rozklikávací rozpočet” postavený na otevřených technologiích. Více se můžete dočíst v mém &lt;a href=&quot;https://m.facebook.com/ondrej.profant/posts/10215186735888430&quot;&gt;facebookovém příspěvku&lt;/a&gt;, samotný &lt;a href=&quot;https://cityvizor.praha.eu/&quot;&gt;pražský Cityvizor si můžete vyzkoušet&lt;/a&gt; (o projektu Cityvizor, na kterém jsem se podílel, více na &lt;a href=&quot;https://cityvizor.cz/&quot;&gt;webu&lt;/a&gt;).&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Vyjádření k turecké agresi v Sýrii&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Odsoudil jsem říjnovou agresi Turecka, které jako stát NATO vpadl do Sýrie. Později Sněmovna schválila usnesení odsuzující tuto agresi, ale to je samozřejmě málo. Musíme v alianci nastavit takové mechanismy, aby podobné invaze pro člena představovaly nějaké sankce. Více k tématu na &lt;a href=&quot;https://twitter.com/ondrej_profant/status/1182188808210714625&quot;&gt;Twitteru&lt;/a&gt; a &lt;a href=&quot;https://www.facebook.com/ondrej.profant/posts/10215231911217785&quot;&gt;Facebooku&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Schůzka s ředitelem NK&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Na schůzce s ředitelem Národní knihovny Martinem Kocandou (&lt;a href=&quot;https://evidence.pirati.cz/report/3720/&quot;&gt;zápis v evidenci kontaktů&lt;/a&gt;) jsem řešil problematiku poskytování digitálních kopií knih ostatním knihovnám. Kolektivní správce DILIA totiž rozumné sdílení informací zcela nepřiměřeně brzdí. Více informací na &lt;a href=&quot;https://www.facebook.com/ondrej.profant/posts/10215284818780441&quot;&gt;Facebooku&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Schůzka s ministrem kultury&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Na schůzce s ministrem kultury Lubomírem Zaorálkem (&lt;a href=&quot;https://evidence.pirati.cz/report/3747/&quot;&gt;zápis v evidenci kontaktů&lt;/a&gt;) jsem zopakoval výhrady a obavy Pirátů k evropské směrnici o copyrightu a její implementaci do českého právního řádu.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Schválení výroční zprávy ČT&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Po dlouhých a zbytečných průtazích se 24. října konečně podařilo schválit výroční zprávy České televize z let 2016 a 2017. Výroční zprávu za rok 2018 však k tomuto datu stále ještě neprojednal výbor.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Pracovní skupina Linux na školách&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Na pracovní skupině k rozšíření linuxových distribucí na školách jsme zjišťovali případný zájem přítomných učitelů. Ti přislíbili zjistit, jak by se na tuto možnost dívali jejich další kolegové.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Pracovní skupina Veřejné zakázky&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Na konci října proběhlo první setkání pracovní skupiny Veřejné zakázky. Podrobnosti najdete ve &lt;a href=&quot;https://forum.pirati.cz/viewtopic.php?f=1136&amp;amp;t=49379&quot;&gt;vláknu na fóru&lt;/a&gt;. Také zde budou zápisy.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Copyrightová směrnice narazila ve Francii&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Ve Francii, kde již stihli zavést kontroverzní “daň z odkazu” na základě článku 15 copyrightové směrnice EU, došlo přesně k tomu, před čím Piráti (včetně mě osobně) varovali. Google a Facebook vydali prohlášení, že buď budou moci obsah zobrazovat bezplatně, nebo jej budou při vyhledávání nabízet jen ve velmi omezené podobě. Více si můžete přečíst v &lt;a href=&quot;https://www.pirati.cz/tiskove-zpravy/ondrej-profant-komentar-copyrightova-smernice-ve-francii-narazila.html&quot;&gt;mém komentáři&lt;/a&gt; a na &lt;a href=&quot;https://www.facebook.com/ceska.piratska.strana/photos/a.117963484038/10156967739679039/&quot;&gt;Facebooku&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Setkání datové platformy Golemio&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Zúčastnil jsem se meetupu ke zveřejnění zdrojových kódů datové platformy Golemio, na které pracoval tým Benedikta Kotmela z Operátora ICT.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Máte slovo - přechylování&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;A ještě 31. října jsem v pořadu &lt;a href=&quot;https://www.ceskatelevize.cz/porady/10175540660-mate-slovo-s-m-jilkovou/219411030520033/&quot;&gt;Máte slovo s Michaelou Jílkovou&lt;/a&gt; hájil svobodu žen ohledně tvaru jejich příjmení.&lt;/p&gt;
-
-&lt;h3 id=&quot;listopad-2019&quot;&gt;Listopad 2019&lt;/h3&gt;
-
-&lt;p&gt;&lt;strong&gt;Účast na Openaltu a republikovém výboru&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Znovu jsem se zúčastnil Openaltu, největší konference o otevřenosti, kde jsem měl tentokrát přednášku na téma národního Gitlabu. Ten by mělo provozovat Ministerstvo vnitro a měl by obsahovat užitečné a zajímavé zdrojové kódy. Z Openaltu jsem rovnou zamířil na setkání republikového výboru a pirátských poslanců.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Odvrácení rizika vypínání zahraničních e-shopů&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Už v září jsme upozorňovali na nebezpečí odpojení zahraničních e-shopů, které by si dle novely zákona o odpadech nezřídily zástupce v ČR kvůli platbě recyklačních poplatků. Ministerstvo životního prostředí naštěstí naše připomínky zohlednilo a problematický paragraf vyškrtlo (více v &lt;a href=&quot;https://www.pirati.cz/tiskove-zpravy/novela-o-odpadech-nepovede-k-vypinani-eshopu.html&quot;&gt;tiskové zprávě&lt;/a&gt;).&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Účast na teambuildingu&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Pro zlepšení komunikace a dalších dovedností v týmu jsem se 9. 11. zúčastnil teambuildingu poslaneckého klubu.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Schůzka s ředitelem NK&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Opět jsem v Národní knihovně řešil předávání digitálních kopií dalším knihovnám. Více informací na &lt;a href=&quot;https://www.facebook.com/photo.php?fbid=10215491718312800&quot;&gt;Facebooku&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Resortní tým Informatika&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Na schůzi resortního týmu jsme pokračovali v řešení témat z předchozích schůzí. Více informací v &lt;a href=&quot;https://forum.pirati.cz/viewtopic.php?f=544&amp;amp;t=45888&amp;amp;p=660450#p660450&quot;&gt;zápisu na fóru&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Denní směna - Kyberšikana&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Vystoupil jsem v pořadu &lt;a href=&quot;https://www.mall.tv/nocni-smena-s-adelou/live-video-13-11-2019-07-00&quot;&gt;Denní směna na téma Kyberšikana&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Výbor pro veřejnou správu a regionální rozvoj&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Na schůzi výboru jsme schválili využití identit &lt;a href=&quot;https://twitter.com/ondrej_profant/status/1194924023349682176&quot;&gt;SONIA&lt;/a&gt; a &lt;a href=&quot;https://www.profant.eu/2019/dtm-vybor.html&quot;&gt;digitální technickou mapu&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Rada vlády pro informační společnost&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Na jednání Rady vlády pro informační společnost 15. 11. nám bylo tam představeno Česko.digital, také jsme diskutovali o open source a jeho širším využití ve státní správě.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Demonstrace na Letné&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Stejně jako stovky tisíc dalších občanů jsem se 16. 11. zúčastnil demonstrace Milion chvilek na Letenské pláni.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Národní třída&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Po intenzivní demonstraci předchozího dne jsem 17. 11. společně s dalšími Piráty položil věnec na Národní třídě, více na &lt;a href=&quot;https://twitter.com/ondrej_profant/status/1196063886962757632&quot;&gt;Twitteru&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Pracovní skupina Veřejné zakázky&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Dne 19. 11. proběhla další schůzka pracovní skupiny (&lt;a href=&quot;https://forum.pirati.cz/viewtopic.php?f=1136&amp;amp;t=49379&amp;amp;p=662464#p662464&quot;&gt;zápis&lt;/a&gt;).&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Seminář o spolupráci s bankovním sektorem&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Společně s dánským velvyslanectvím jsem uspořádal odborný seminář o možnostech a způsobech spolupráce bankovního sektoru a služeb e-governmentu. Více na &lt;a href=&quot;https://twitter.com/ondrej_profant/status/1197158986962878471&quot;&gt;Twitteru&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Kritika rozpočtu na IT&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Výdaje státního rozpočtu na provoz IT systémů se v roce 2020 budou pohybovat okolo 8,5 miliard korun. Tyto prostředky ale budou povětšinou využity značně neefektivně, více na &lt;a href=&quot;https://www.facebook.com/ceska.piratska.strana/photos/a.117963484038/10157027370559039/&quot;&gt;Facebooku&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Směrnice o copyrightu&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;V rámci konzultační skupiny na Ministerstvu kultury se snažím o zmírnění dopadů evropské směrnice o copyrightu, aby u nás nenastala podobná situace jako ve Francii. O pokračování boje za svobodný internet se můžete více dočíst na &lt;a href=&quot;https://www.profant.eu/2019/jak-pokracuje-boj-o-internet.html&quot;&gt;blogu&lt;/a&gt;. Na konci listopadu byl také založen pirátský tým ke směrnici, který vedu (více k &lt;a href=&quot;https://forum.pirati.cz/viewtopic.php?f=971&amp;amp;t=50021&amp;amp;p=660956&quot;&gt;týmu&lt;/a&gt;).&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Kybernetická bezpečnost v České republice&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Spolu s kolegou Františkem Navrkalem připravujeme zpracování analýzy ke kybernetické bezpečnosti a přípravy manuálu na implementaci vhodných řešení v rámci samospráv i na celostátní úrovni.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Sněmovna&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Ve Sněmovně už od 30. 10. probíhal schůzovací maraton k daňovému balíčku, tedy k dalšímu zvyšování daňového zatížení občanů. Naštěstí se v listopadu podařilo prosadit i dost užitečných návrhů. O posledním listopadovém týdnu ve Sněmovně se více dočtete na &lt;a href=&quot;https://www.profant.eu/2019/nabity-tyden-ve-snemovne.html&quot;&gt;blogu&lt;/a&gt;.&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;6.11. byl pro Piráty úspěšným dnem, podařilo se například prosadit liberalizaci domácího vaření piva, navýšení rodičovského příspěvku nebo zrušení diskriminace českých hráčů pokeru (více na &lt;a href=&quot;https://www.facebook.com/ondrej.profant/posts/10215453998409826&quot;&gt;Facebooku&lt;/a&gt;).&lt;/li&gt;
-  &lt;li&gt;8.11. byl Sněmovnou schválen návrh Zákona o právu na digitální službu, který bude v prosinci projednán Senátem. Zákon výrazně pomůže rozvoji digitálních služeb státu a já jsem hrdý na to, že jsem se na jeho přípravě a schválení mohl podílet. Více o zákonu na &lt;a href=&quot;https://www.profant.eu/2019/zpds.html&quot;&gt;blogu&lt;/a&gt;.&lt;/li&gt;
-  &lt;li&gt;26.11. prošly druhým čtením další dva důležité digitalizační zákony - digitální technická mapa a využití bankovní identity ve veřejné správě.&lt;/li&gt;
-  &lt;li&gt;27.11. jsem při projednávání rozpočtu společně s Mikulášem Ferjenčíkem navrhoval doprovodné usnesení o zpřístupnění státního rozpočtu v takzvaně rozklikávací podobě.&lt;/li&gt;
-  &lt;li&gt;28.11. jsme sice vinou neúčasti vládních poslanců a odporu ODS neschválili novelizaci Římského statutu, podařilo se ale schválit vyjmutí Berounky ze soupisu splavných toků.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Celkově byl listopad z hlediska prosazování pirátských cílů úspěšný, zejména pak na poli digitalizace, což mě osobně velice těší.&lt;/p&gt;
-
-&lt;h3 id=&quot;prosinec-2019&quot;&gt;Prosinec 2019&lt;/h3&gt;
-
-&lt;p&gt;&lt;strong&gt;Fórum komunálních zastupitelů&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Na pirátské konferenci pro komunální zastupitele jsem znovu představil brožuru Public Money? Public code! od Free Software Foundation Europe. Překlad příručky, která je dobrým úvodem do světa otevřeného software, naleznete ke stažení na &lt;a href=&quot;https://www.otevrenamesta.cz/2019/public-money-public-code.html&quot;&gt;webu Otevřených měst&lt;/a&gt;. Společně s pirátským Akčním plánem pro boj s vendor lock-inem a rozšíření využití open source ve veřejné správě je brožura užitečnou pomůckou pro obce, které chtějí využívat otevřené technologie a získat své systémy více pod svou kontrolu (jako například &lt;a href=&quot;https://m.facebook.com/ondrej.profant/posts/10215772478251623&quot;&gt;Praha 3&lt;/a&gt;).&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Implementace směrnice o copyrightu ve Francii&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Při práci na úpravě českého právního řádu v souvislosti s evropskou směrnicí o copyrightu je potřeba bedlivě sledovat i další státy EU a jejich přístup k problematice. Společně s Marcelem Kolajou jsme zkritizovali postup Francie, jejíž návrh na ochranu autorských práv se ukázal být vyloženě &lt;a href=&quot;https://www.pirati.cz/tiskove-zpravy/smernice-o-copyrightu.html&quot;&gt;v rozporu se závěry Evropské komise&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Schválení Zákona o právu na digitální služby&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;V Senátu byl 11. 12. drtivou většinou přítomných zákonodárců napříč všemi stranami a kluby schválen Zákon o právu na digitální služby. Prezident pak návrh zákona podepsal 19. 12. Přijetím zákona začíná nová etapa české digitalizace, která do budoucna umožní řešit úřední záležitosti moderně a pohodlně.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Schůzka s ředitelem NK a nakladateli&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Na &lt;a href=&quot;https://m.facebook.com/ondrej.profant/posts/10215727466046346&quot;&gt;setkání&lt;/a&gt; resortního týmu Kultura s ředitelem Národní knihovny a zástupci nakladatelství jsme probírali chystané změny knihovního zákona. Ty se týkají například sběru internetových periodik, vzniku databáze elektronických knih nebo pravidel pro prohlížení těchto knih v knihovnách.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Konference NZIS open&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Zúčastnil jsem se &lt;a href=&quot;https://m.facebook.com/ondrej.profant/posts/10215733742883263&quot;&gt;konference o poskytování údajů&lt;/a&gt; z Národního zdravotnického informačního systému jako otevřených dat. Doufám, že se v České republice podaří časem data ve zdravotnictví využívat stejně efektivně jako třeba ve Velké Británii.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Benefiční koncert pro psí útulek&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Vypravil jsem se do Kutné Hory, kde místní Piráti uspořádali 20. 12. &lt;a href=&quot;https://m.facebook.com/photo.php?fbid=10215789173508994&quot;&gt;benefiční koncert pro psí útulek&lt;/a&gt;. Bylo mi potěšením se této milé akce zúčastnit a pohovořit s kutnohorskými obyvateli o jejich problémech a potřebách.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Sněmovna&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;cs&quot;&gt;&lt;p lang=&quot;cs&quot; dir=&quot;ltr&quot;&gt;Předseda vlády představuje v Poslanecké sněmovně státní rozpočet a hřímá, že jeho vláda nebude zvyšovat daně.&lt;br /&gt;Paní ministryně financí bohužel nemůže být na jednání o rozpočtu přítomna - obhajuje zrovna v Senátu vládní návrh na zvýšení daní.  (převzato od Matouše Vanči)&lt;/p&gt;&amp;mdash; Ondřej Profant (@ondrej_profant) &lt;a href=&quot;https://twitter.com/ondrej_profant/status/1202167028540477440?ref_src=twsrc%5Etfw&quot;&gt;4. prosince 2019&lt;/a&gt;&lt;/blockquote&gt;
-
-&lt;p&gt;Před koncem roku se podařilo schválit ještě dva klíčové digitalizační zákony, zároveň probíhaly premiérovy tanečky ohledně jeho střetu zájmů.&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;4.12. návrhy zákonů o celostátní digitální technické mapě a využívání bankovní identity ve veřejné správě úspěšně &lt;a href=&quot;https://m.facebook.com/photo.php?fbid=10215664486071886&quot;&gt;prošly třetím čtením&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;5.12. zatímco premiér Andrej Babiš si při &lt;a href=&quot;https://m.facebook.com/photo.php?fbid=10215673480136732&quot;&gt;interpelacích&lt;/a&gt; udělal pořádnou ostudu, ministr dopravy Vladimír Kremlík mi dokázal smysluplně odpovědět ve věci otevřených dat poskytovaných SŽDC&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;V případě zájmu o další novinky v oblasti digitalizace a e-governmentu se můžete přihlásit k odběru newsletteru &lt;a href=&quot;https://nalodeni.pirati.cz/news/list/17/&quot;&gt;resortního týmu Informatika&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.profant.eu/2019/transparentni-report-008.html&quot;&gt;«« Předchozí report (červenec 2019 - září 2019)&lt;/a&gt;&lt;/p&gt;</content><author><name>Ondřej Profant</name></author><category term="transparence" /><category term="report" /><category term="Piráti" /><summary type="html">Souhrnný report mé činnosti v období říjen až prosinec 2019. Nejčerstvější informace o mých aktivitách naleznete na mých profilech na sociálních sítích a zde na blogu v sekci Otevřenost.</summary></entry></feed>
+&lt;p&gt;Příručku představím příštím týden poslancům v rámci podvýboru pro egovernment. Je k dispozici jak &lt;a href=&quot;https://github.com/cesko-digital/derisking-handbook/blob/master/handbook.md&quot;&gt;online&lt;/a&gt;, tak v papírové podobě. O brožuře se na včerejší debatě pozitivně vyjádřil i vládní zmocněnec pro informační technologie a digitalizaci Vladimír Dzurilla.&lt;/p&gt;</content><author><name>Ondřej Profant</name></author><category term="egovernment" /><category term="bezpečnost" /><category term="Piráti" /><summary type="html">Dobrovolnická platforma Česko.Digital, sdružující IT profesionály, vydala Příručku řízení státních IT projektů. Ta je určena hlavně exekutivcům, rozpočtovým specialistům, zákonodárcům a dalším lidem, kteří rozhodují o veřejných IT projektech.</summary></entry></feed>
