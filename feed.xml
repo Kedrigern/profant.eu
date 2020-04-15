@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="https://www.profant.eu/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.profant.eu/" rel="alternate" type="text/html" /><updated>2020-04-15T18:05:50+00:00</updated><id>https://www.profant.eu/feed.xml</id><title type="html">Blog Ondřeje Profanta</title><subtitle>Zápisník pirátského poslance Ondřeje Profanta, který se zaměřuje na opendata a e-government. Rád bych byl, aby Česká republika byla moderním státem s rozvinutou digitální ekonomikou, kde je kladen silný důraz na vzdělávání a svobodu. V digitalizaci se musíme inspirovat ve Velké Britanii a Estonsku, řešení musí být otevřená a uživatelsky přívětivá.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="https://www.profant.eu/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.profant.eu/" rel="alternate" type="text/html" /><updated>2020-04-15T18:11:27+00:00</updated><id>https://www.profant.eu/feed.xml</id><title type="html">Blog Ondřeje Profanta</title><subtitle>Zápisník pirátského poslance Ondřeje Profanta, který se zaměřuje na opendata a e-government. Rád bych byl, aby Česká republika byla moderním státem s rozvinutou digitální ekonomikou, kde je kladen silný důraz na vzdělávání a svobodu. V digitalizaci se musíme inspirovat ve Velké Britanii a Estonsku, řešení musí být otevřená a uživatelsky přívětivá.
 </subtitle><author><name>Ondřej Profant</name></author><entry><title type="html">Digitalizace: zaspané roky nedoženeme za měsíc</title><link href="https://www.profant.eu/2020/formulare.html" rel="alternate" type="text/html" title="Digitalizace: zaspané roky nedoženeme za měsíc" /><published>2020-04-14T00:00:00+00:00</published><updated>2020-04-14T00:00:00+00:00</updated><id>https://www.profant.eu/2020/formulare</id><content type="html" xml:base="https://www.profant.eu/2020/formulare.html">&lt;p&gt;Současná krize s sebou přináší dosud nevídaný nápor na státní správu, ve velké míře pak speciálně na náš sociální systém. Úřady nejsou připraveny na masový příjem žádostí o podporu a pod jejich náporem lehce kolabují. Přitom na podobnou situaci mohly být připraveny daleko lépe.&lt;/p&gt;
 
 &lt;!--more--&gt;
@@ -48,7 +48,7 @@ Příznačné je, jak sama finanční správa tuto formu žádosti komentuje:&lt
 &lt;table&gt;
   &lt;thead&gt;
     &lt;tr&gt;
-      &lt;th&gt; &lt;/th&gt;
+      &lt;th&gt;Žádost&lt;/th&gt;
       &lt;th&gt;MOP&lt;/th&gt;
       &lt;th&gt;Antivirus&lt;/th&gt;
       &lt;th&gt;Pětadvacítka&lt;/th&gt;
@@ -75,9 +75,9 @@ Příznačné je, jak sama finanční správa tuto formu žádosti komentuje:&lt
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;možnosti poslání&lt;/td&gt;
-      &lt;td&gt;poštou, email s el. podpisem, datovou schránkou&lt;/td&gt;
+      &lt;td&gt;pošta, email s el. podpisem, datová schránka&lt;/td&gt;
       &lt;td&gt;datová schránka, email s el. podpisem&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;datová schránka, pošta, emailem s naskenovaným podpisem&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;předvyplnění dat&lt;/td&gt;
