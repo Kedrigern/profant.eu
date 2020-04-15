@@ -54,12 +54,12 @@ Prostřednictvím DocAssemble jsme začali připravovat alternativu, avšak Fina
 | Žádost | MOP | Antivirus | Pětadvacítka |
 |---|---|---|---|
 | Instituce | Úřad práce | MPSV | Finanční správa |
-| URL | https://www.mpsv.cz/web/cz/-/zadost-o-mimoradnou-okamzitou-pomoc | https://antivirus.mpsv.cz/ | https://ouc.financnisprava.cz/kompenzace |
+| Odkaz | [zde](https://www.mpsv.cz/web/cz/-/zadost-o-mimoradnou-okamzitou-pomoc) | [zde](https://antivirus.mpsv.cz/) | [zde](https://ouc.financnisprava.cz/kompenzace) |
 | přihlášení NIA | ne | ne | ne |
 | možnosti poslání  | pošta, email s el. podpisem, datová schránka | datová schránka, email s el. podpisem | datová schránka, pošta, emailem s naskenovaným podpisem |
 | předvyplnění dat | ne | pouze některých z veřejných rejstříků | pouze některých z veřejných rejstříků |
-| validace dat | některá | nedostatečná |  ano |
-| zbytečně vyžadované data | mnoho (zejména k identitě a adrese žadatele) | rodné číslo, právní forma, doklad o vlastníkovi účtu | DIČ, rodné číslo, název banky, územní pracoviště Finančního úřadu |
+| validace dat | některých | nedostatečná | ano |
+| zbytečně požadované údaje | mnoho (zejména k identitě a adrese žadatele) | rodné číslo, právní forma, doklad o vlastníkovi účtu | DIČ, rodné číslo, název banky, územní pracoviště Finančního úřadu |
 | přehledné UX | ne | ano | ano |
 | responzivní design | ne | ano | ano |
 | dodavatel | Software602, OKsystem | ? | ? |
