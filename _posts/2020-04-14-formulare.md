@@ -51,12 +51,12 @@ Prostřednictvím DocAssemble jsme začali připravovat alternativu, avšak Fina
 
 ## Srovnání formulářů
 
-|   | MOP | Antivirus | Pětadvacítka |
+| Žádost | MOP | Antivirus | Pětadvacítka |
 |---|---|---|---|
 | Instituce | Úřad práce | MPSV | Finanční správa |
 | URL | https://www.mpsv.cz/web/cz/-/zadost-o-mimoradnou-okamzitou-pomoc | https://antivirus.mpsv.cz/ | https://ouc.financnisprava.cz/kompenzace |
 | přihlášení NIA | ne | ne | ne |
-| možnosti poslání  | poštou, email s el. podpisem, datovou schránkou | datová schránka, email s el. podpisem |
+| možnosti poslání  | pošta, email s el. podpisem, datová schránka | datová schránka, email s el. podpisem | datová schránka, pošta, emailem s naskenovaným podpisem |
 | předvyplnění dat | ne | pouze některých z veřejných rejstříků | pouze některých z veřejných rejstříků |
 | validace dat | některá | nedostatečná |  ano |
 | zbytečně vyžadované data | mnoho (zejména k identitě a adrese žadatele) | rodné číslo, právní forma, doklad o vlastníkovi účtu | DIČ, rodné číslo, název banky, územní pracoviště Finančního úřadu |
