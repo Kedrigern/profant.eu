@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="https://www.profant.eu/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.profant.eu/" rel="alternate" type="text/html" /><updated>2020-04-14T17:14:49+00:00</updated><id>https://www.profant.eu/feed.xml</id><title type="html">Blog Ondřeje Profanta</title><subtitle>Zápisník pirátského poslance Ondřeje Profanta, který se zaměřuje na opendata a e-government. Rád bych byl, aby Česká republika byla moderním státem s rozvinutou digitální ekonomikou, kde je kladen silný důraz na vzdělávání a svobodu. V digitalizaci se musíme inspirovat ve Velké Britanii a Estonsku, řešení musí být otevřená a uživatelsky přívětivá.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="https://www.profant.eu/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.profant.eu/" rel="alternate" type="text/html" /><updated>2020-04-15T18:05:50+00:00</updated><id>https://www.profant.eu/feed.xml</id><title type="html">Blog Ondřeje Profanta</title><subtitle>Zápisník pirátského poslance Ondřeje Profanta, který se zaměřuje na opendata a e-government. Rád bych byl, aby Česká republika byla moderním státem s rozvinutou digitální ekonomikou, kde je kladen silný důraz na vzdělávání a svobodu. V digitalizaci se musíme inspirovat ve Velké Britanii a Estonsku, řešení musí být otevřená a uživatelsky přívětivá.
 </subtitle><author><name>Ondřej Profant</name></author><entry><title type="html">Digitalizace: zaspané roky nedoženeme za měsíc</title><link href="https://www.profant.eu/2020/formulare.html" rel="alternate" type="text/html" title="Digitalizace: zaspané roky nedoženeme za měsíc" /><published>2020-04-14T00:00:00+00:00</published><updated>2020-04-14T00:00:00+00:00</updated><id>https://www.profant.eu/2020/formulare</id><content type="html" xml:base="https://www.profant.eu/2020/formulare.html">&lt;p&gt;Současná krize s sebou přináší dosud nevídaný nápor na státní správu, ve velké míře pak speciálně na náš sociální systém. Úřady nejsou připraveny na masový příjem žádostí o podporu a pod jejich náporem lehce kolabují. Přitom na podobnou situaci mohly být připraveny daleko lépe.&lt;/p&gt;
 
 &lt;!--more--&gt;
@@ -23,6 +23,7 @@
 
 &lt;p&gt;Program &lt;a href=&quot;https://antivirus.mpsv.cz/&quot;&gt;Antivirus&lt;/a&gt; pro zaměstnavatele je naopak ukázkou, že srozumitelnou, jednoduchou a dobře popsanou žádost umí rychle udělat i MPSV, když je k tomu vůle. Web zvládá automaticky vyplňovat některé údaje, má srozumitelné UX a díky responzivnímu designu je přehledný i na mobilu. Nezvládá ale doplnění všech údajů - například právní formy nebo rodného čísla (jehož nutnost je zde diskutabilní). Formulář chce na závěr přiložit doklad o vlastníkovi bankovního účtu, tedy něco, co lze vyčíst z Centrální evidence účtů. Nutnost vyplnění těchto údajů, které již stát někde má, tak uživatelskou přívětivost snižuje.
 Pokud by bylo implementováno přihlášení skrz NIA, které by mělo být u podobných aplikací standardem, šlo by snadno pracovat i s neveřejnými údaji.&lt;/p&gt;
+
 &lt;h2 id=&quot;kompenzační-bonus---program-pětadvacítka&quot;&gt;Kompenzační bonus - program Pětadvacítka&lt;/h2&gt;
 
 &lt;p&gt;Program Pětadvacítka, který poskytuje kompenzační bonus až 25 000 Kč pro živnostníky, se hned po svém spuštění 10.4. stal předmětem velkého zájmu. Finanční správa k němu nejprve zveřejnila ”interaktivní” &lt;a href=&quot;https://ouc.financnisprava.cz/osvc25/Zadost_o_bonus_pro_OSVC_bez_zastupce.pdf&quot;&gt;formulář PDF&lt;/a&gt;, který je spustitelný jen a pouze v Adobe Acrobat Reader. Jediná interaktivita tohoto formuláře navíc spočívala ve vyplnění emailu na příslušné pracoviště Finančního úřadu, kam je třeba žádost poslat. Pod který úřad spadáte, si ale musíte zjistit sami jinak. Kromě toho šlo opět o formu “co na papíře, to na webu”.
@@ -41,6 +42,81 @@ Příznačné je, jak sama finanční správa tuto formu žádosti komentuje:&lt
   &lt;li&gt;Nevaliduje - dovolí vyplnit špatné DIČ&lt;/li&gt;
   &lt;li&gt;Naopak závěrečná shrnující stránka s možnostmi podání si zaslouží pochvalu, stejně jako přehledné UX a responzivní design.&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;h2 id=&quot;srovnání-formulářů&quot;&gt;Srovnání formulářů&lt;/h2&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt; &lt;/th&gt;
+      &lt;th&gt;MOP&lt;/th&gt;
+      &lt;th&gt;Antivirus&lt;/th&gt;
+      &lt;th&gt;Pětadvacítka&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Instituce&lt;/td&gt;
+      &lt;td&gt;Úřad práce&lt;/td&gt;
+      &lt;td&gt;MPSV&lt;/td&gt;
+      &lt;td&gt;Finanční správa&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;URL&lt;/td&gt;
+      &lt;td&gt;https://www.mpsv.cz/web/cz/-/zadost-o-mimoradnou-okamzitou-pomoc&lt;/td&gt;
+      &lt;td&gt;https://antivirus.mpsv.cz/&lt;/td&gt;
+      &lt;td&gt;https://ouc.financnisprava.cz/kompenzace&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;přihlášení NIA&lt;/td&gt;
+      &lt;td&gt;ne&lt;/td&gt;
+      &lt;td&gt;ne&lt;/td&gt;
+      &lt;td&gt;ne&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;možnosti poslání&lt;/td&gt;
+      &lt;td&gt;poštou, email s el. podpisem, datovou schránkou&lt;/td&gt;
+      &lt;td&gt;datová schránka, email s el. podpisem&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;předvyplnění dat&lt;/td&gt;
+      &lt;td&gt;ne&lt;/td&gt;
+      &lt;td&gt;pouze některých z veřejných rejstříků&lt;/td&gt;
+      &lt;td&gt;pouze některých z veřejných rejstříků&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;validace dat&lt;/td&gt;
+      &lt;td&gt;některá&lt;/td&gt;
+      &lt;td&gt;nedostatečná&lt;/td&gt;
+      &lt;td&gt;ano&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;zbytečně vyžadované data&lt;/td&gt;
+      &lt;td&gt;mnoho (zejména k identitě a adrese žadatele)&lt;/td&gt;
+      &lt;td&gt;rodné číslo, právní forma, doklad o vlastníkovi účtu&lt;/td&gt;
+      &lt;td&gt;DIČ, rodné číslo, název banky, územní pracoviště Finančního úřadu&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;přehledné UX&lt;/td&gt;
+      &lt;td&gt;ne&lt;/td&gt;
+      &lt;td&gt;ano&lt;/td&gt;
+      &lt;td&gt;ano&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;responzivní design&lt;/td&gt;
+      &lt;td&gt;ne&lt;/td&gt;
+      &lt;td&gt;ano&lt;/td&gt;
+      &lt;td&gt;ano&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;dodavatel&lt;/td&gt;
+      &lt;td&gt;Software602, OKsystem&lt;/td&gt;
+      &lt;td&gt;?&lt;/td&gt;
+      &lt;td&gt;?&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
 
 &lt;h2 id=&quot;ponaučení&quot;&gt;Ponaučení&lt;/h2&gt;
 

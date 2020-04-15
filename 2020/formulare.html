@@ -131,6 +131,7 @@
 
 <p>Program <a href="https://antivirus.mpsv.cz/">Antivirus</a> pro zaměstnavatele je naopak ukázkou, že srozumitelnou, jednoduchou a dobře popsanou žádost umí rychle udělat i MPSV, když je k tomu vůle. Web zvládá automaticky vyplňovat některé údaje, má srozumitelné UX a díky responzivnímu designu je přehledný i na mobilu. Nezvládá ale doplnění všech údajů - například právní formy nebo rodného čísla (jehož nutnost je zde diskutabilní). Formulář chce na závěr přiložit doklad o vlastníkovi bankovního účtu, tedy něco, co lze vyčíst z Centrální evidence účtů. Nutnost vyplnění těchto údajů, které již stát někde má, tak uživatelskou přívětivost snižuje.
 Pokud by bylo implementováno přihlášení skrz NIA, které by mělo být u podobných aplikací standardem, šlo by snadno pracovat i s neveřejnými údaji.</p>
+
 <h2 id="kompenzační-bonus---program-pětadvacítka">Kompenzační bonus - program Pětadvacítka</h2>
 
 <p>Program Pětadvacítka, který poskytuje kompenzační bonus až 25 000 Kč pro živnostníky, se hned po svém spuštění 10.4. stal předmětem velkého zájmu. Finanční správa k němu nejprve zveřejnila ”interaktivní” <a href="https://ouc.financnisprava.cz/osvc25/Zadost_o_bonus_pro_OSVC_bez_zastupce.pdf">formulář PDF</a>, který je spustitelný jen a pouze v Adobe Acrobat Reader. Jediná interaktivita tohoto formuláře navíc spočívala ve vyplnění emailu na příslušné pracoviště Finančního úřadu, kam je třeba žádost poslat. Pod který úřad spadáte, si ale musíte zjistit sami jinak. Kromě toho šlo opět o formu “co na papíře, to na webu”.
@@ -149,6 +150,81 @@ Příznačné je, jak sama finanční správa tuto formu žádosti komentuje:</p
   <li>Nevaliduje - dovolí vyplnit špatné DIČ</li>
   <li>Naopak závěrečná shrnující stránka s možnostmi podání si zaslouží pochvalu, stejně jako přehledné UX a responzivní design.</li>
 </ul>
+
+<h2 id="srovnání-formulářů">Srovnání formulářů</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th> </th>
+      <th>MOP</th>
+      <th>Antivirus</th>
+      <th>Pětadvacítka</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Instituce</td>
+      <td>Úřad práce</td>
+      <td>MPSV</td>
+      <td>Finanční správa</td>
+    </tr>
+    <tr>
+      <td>URL</td>
+      <td>https://www.mpsv.cz/web/cz/-/zadost-o-mimoradnou-okamzitou-pomoc</td>
+      <td>https://antivirus.mpsv.cz/</td>
+      <td>https://ouc.financnisprava.cz/kompenzace</td>
+    </tr>
+    <tr>
+      <td>přihlášení NIA</td>
+      <td>ne</td>
+      <td>ne</td>
+      <td>ne</td>
+    </tr>
+    <tr>
+      <td>možnosti poslání</td>
+      <td>poštou, email s el. podpisem, datovou schránkou</td>
+      <td>datová schránka, email s el. podpisem</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>předvyplnění dat</td>
+      <td>ne</td>
+      <td>pouze některých z veřejných rejstříků</td>
+      <td>pouze některých z veřejných rejstříků</td>
+    </tr>
+    <tr>
+      <td>validace dat</td>
+      <td>některá</td>
+      <td>nedostatečná</td>
+      <td>ano</td>
+    </tr>
+    <tr>
+      <td>zbytečně vyžadované data</td>
+      <td>mnoho (zejména k identitě a adrese žadatele)</td>
+      <td>rodné číslo, právní forma, doklad o vlastníkovi účtu</td>
+      <td>DIČ, rodné číslo, název banky, územní pracoviště Finančního úřadu</td>
+    </tr>
+    <tr>
+      <td>přehledné UX</td>
+      <td>ne</td>
+      <td>ano</td>
+      <td>ano</td>
+    </tr>
+    <tr>
+      <td>responzivní design</td>
+      <td>ne</td>
+      <td>ano</td>
+      <td>ano</td>
+    </tr>
+    <tr>
+      <td>dodavatel</td>
+      <td>Software602, OKsystem</td>
+      <td>?</td>
+      <td>?</td>
+    </tr>
+  </tbody>
+</table>
 
 <h2 id="ponaučení">Ponaučení</h2>
 
