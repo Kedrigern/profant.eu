@@ -33,6 +33,7 @@ Během víkendu jsme v systému DocAssemble udělali [ideový návrh nového ře
 
 Program [Antivirus](https://antivirus.mpsv.cz/) pro zaměstnavatele je naopak ukázkou, že srozumitelnou, jednoduchou a dobře popsanou žádost umí rychle udělat i MPSV, když je k tomu vůle. Web zvládá automaticky vyplňovat některé údaje, má srozumitelné UX a díky responzivnímu designu je přehledný i na mobilu. Nezvládá ale doplnění všech údajů - například právní formy nebo rodného čísla (jehož nutnost je zde diskutabilní). Formulář chce na závěr přiložit doklad o vlastníkovi bankovního účtu, tedy něco, co lze vyčíst z Centrální evidence účtů. Nutnost vyplnění těchto údajů, které již stát někde má, tak uživatelskou přívětivost snižuje.
 Pokud by bylo implementováno přihlášení skrz NIA, které by mělo být u podobných aplikací standardem, šlo by snadno pracovat i s neveřejnými údaji.
+
 ## Kompenzační bonus - program Pětadvacítka
 
 Program Pětadvacítka, který poskytuje kompenzační bonus až 25 000 Kč pro živnostníky, se hned po svém spuštění 10.4. stal předmětem velkého zájmu. Finanční správa k němu nejprve zveřejnila ”interaktivní” [formulář PDF](https://ouc.financnisprava.cz/osvc25/Zadost_o_bonus_pro_OSVC_bez_zastupce.pdf), který je spustitelný jen a pouze v Adobe Acrobat Reader. Jediná interaktivita tohoto formuláře navíc spočívala ve vyplnění emailu na příslušné pracoviště Finančního úřadu, kam je třeba žádost poslat. Pod který úřad spadáte, si ale musíte zjistit sami jinak. Kromě toho šlo opět o formu “co na papíře, to na webu”.
@@ -47,6 +48,22 @@ Prostřednictvím DocAssemble jsme začali připravovat alternativu, avšak Fina
 - Formulář nutí uživatele vyplnit jak kód banky, tak i její název.
 - Nevaliduje - dovolí vyplnit špatné DIČ
 - Naopak závěrečná shrnující stránka s možnostmi podání si zaslouží pochvalu, stejně jako přehledné UX a responzivní design.
+
+## Srovnání formulářů
+
+|   | MOP | Antivirus | Pětadvacítka |
+|---|---|---|---|
+| Instituce | Úřad práce | MPSV | Finanční správa |
+| URL | https://www.mpsv.cz/web/cz/-/zadost-o-mimoradnou-okamzitou-pomoc | https://antivirus.mpsv.cz/ | https://ouc.financnisprava.cz/kompenzace |
+| přihlášení NIA | ne | ne | ne |
+| možnosti poslání  | poštou, email s el. podpisem, datovou schránkou | datová schránka, email s el. podpisem |
+| předvyplnění dat | ne | pouze některých z veřejných rejstříků | pouze některých z veřejných rejstříků |
+| validace dat | některá | nedostatečná |  ano |
+| zbytečně vyžadované data | mnoho (zejména k identitě a adrese žadatele) | rodné číslo, právní forma, doklad o vlastníkovi účtu | DIČ, rodné číslo, název banky, územní pracoviště Finančního úřadu |
+| přehledné UX | ne | ano | ano |
+| responzivní design | ne | ano | ano |
+| dodavatel | Software602, OKsystem | ? | ? |
+
 
 ## Ponaučení
 
