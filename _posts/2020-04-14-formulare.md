@@ -51,23 +51,24 @@ Prostřednictvím DocAssemble jsme začali připravovat alternativu, avšak Fina
 
 ## Srovnání formulářů
 
-| Žádost | MOP | Antivirus | Pětadvacítka |
-|---|---|---|---|
-| Instituce | Úřad práce | MPSV | Finanční správa |
-| Odkaz | [zde](https://www.mpsv.cz/web/cz/-/zadost-o-mimoradnou-okamzitou-pomoc) | [zde](https://antivirus.mpsv.cz/) | [zde](https://ouc.financnisprava.cz/kompenzace) |
+| Žádost     | MOP        | Antivirus | Pětadvacítka  |
+|------------|------------|-----------|---------------|
+| Instituce  | Úřad práce | MPSV | Finanční správa |
+| Odkaz      | [zde](https://www.mpsv.cz/web/cz/-/zadost-o-mimoradnou-okamzitou-pomoc) | [zde](https://antivirus.mpsv.cz/) | [zde](https://ouc.financnisprava.cz/kompenzace) |
 | přihlášení NIA | ne | ne | ne |
-| možnosti poslání  | pošta, email s el. podpisem, datová schránka | datová schránka, email s el. podpisem | datová schránka, pošta, emailem s naskenovaným podpisem |
-| předvyplnění dat | ne | pouze některých z veřejných rejstříků | pouze některých z veřejných rejstříků |
+| možnosti poslání  | datovka, email s el. podpisem,  pošta | datovka, email s el. podpisem | datovka, emailem s naskenovaným podpisem, pošta |
+| předvyplnění dat | ne | jen veřejné rejstříky | jen veřejné rejstříky |
 | validace dat | některých | nedostatečná | ano |
 | zbytečně požadované údaje | mnoho (zejména k identitě a adrese žadatele) | rodné číslo, právní forma, doklad o vlastníkovi účtu | DIČ, rodné číslo, název banky, územní pracoviště Finančního úřadu |
 | přehledné UX | ne | ano | ano |
 | responzivní design | ne | ano | ano |
-| dodavatel | Software602, OKsystem | ? | ? |
+| dodavatel | Software602, OKsystem | [OKsystem](https://www.oksystem.com/cz/aktuality/oksystem-pomaha-v-dobe-krize-pro-mpsv-zajisti-upravy-systemu-pro-vyplatu-socialnich-davek-bez-naroku-na-odmenu) | ? |
 
 
 ## Ponaučení
 
 Současné situace přinesla několik poznatků k digitalizaci veřejné správě:
+
 - Na příkladu Antiviru a Pětadvacítky se ukázalo, že veřejná správa dokáže velice promptně vytvářet moderní a uživatelsky přívětivé rozhraní pro podávání žádostí. Vyvstává otázka, proč se to děje až nyní, pět minut po dvanácté, když tuto úroveň mohla již několik let mít veškerá komunikace s veřejnou správou?
 - Většina služeb této úrovně nedosahuje, jak je zřejmé na MOP nebo na daňovém přiznání.
 - Stát by měl ke svým službám poskytovat veřejně dostupné API, aby umožnil připojení dalších služeb a vznik alternativních formulářů. Na tomto principu funguje například služba [podejto](https://podejto.cz/). V zahraničí běžně najdeme různé formuláře veřejné správy např. v internetovém bankovnictví. Budeme navrhovat přidání této povinnosti do zákona.
