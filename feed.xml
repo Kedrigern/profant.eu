@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="https://www.profant.eu/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.profant.eu/" rel="alternate" type="text/html" /><updated>2020-04-15T18:17:15+00:00</updated><id>https://www.profant.eu/feed.xml</id><title type="html">Blog Ondřeje Profanta</title><subtitle>Zápisník pirátského poslance Ondřeje Profanta, který se zaměřuje na opendata a e-government. Rád bych byl, aby Česká republika byla moderním státem s rozvinutou digitální ekonomikou, kde je kladen silný důraz na vzdělávání a svobodu. V digitalizaci se musíme inspirovat ve Velké Britanii a Estonsku, řešení musí být otevřená a uživatelsky přívětivá.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="https://www.profant.eu/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.profant.eu/" rel="alternate" type="text/html" /><updated>2020-04-16T08:04:29+00:00</updated><id>https://www.profant.eu/feed.xml</id><title type="html">Blog Ondřeje Profanta</title><subtitle>Zápisník pirátského poslance Ondřeje Profanta, který se zaměřuje na opendata a e-government. Rád bych byl, aby Česká republika byla moderním státem s rozvinutou digitální ekonomikou, kde je kladen silný důraz na vzdělávání a svobodu. V digitalizaci se musíme inspirovat ve Velké Britanii a Estonsku, řešení musí být otevřená a uživatelsky přívětivá.
 </subtitle><author><name>Ondřej Profant</name></author><entry><title type="html">Digitalizace: zaspané roky nedoženeme za měsíc</title><link href="https://www.profant.eu/2020/formulare.html" rel="alternate" type="text/html" title="Digitalizace: zaspané roky nedoženeme za měsíc" /><published>2020-04-14T00:00:00+00:00</published><updated>2020-04-14T00:00:00+00:00</updated><id>https://www.profant.eu/2020/formulare</id><content type="html" xml:base="https://www.profant.eu/2020/formulare.html">&lt;p&gt;Současná krize s sebou přináší dosud nevídaný nápor na státní správu, ve velké míře pak speciálně na náš sociální systém. Úřady nejsou připraveny na masový příjem žádostí o podporu a pod jejich náporem lehce kolabují. Přitom na podobnou situaci mohly být připraveny daleko lépe.&lt;/p&gt;
 
 &lt;!--more--&gt;
@@ -75,15 +75,15 @@ Příznačné je, jak sama finanční správa tuto formu žádosti komentuje:&lt
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;možnosti poslání&lt;/td&gt;
-      &lt;td&gt;pošta, email s el. podpisem, datová schránka&lt;/td&gt;
-      &lt;td&gt;datová schránka, email s el. podpisem&lt;/td&gt;
-      &lt;td&gt;datová schránka, pošta, emailem s naskenovaným podpisem&lt;/td&gt;
+      &lt;td&gt;datovka, email s el. podpisem,  pošta&lt;/td&gt;
+      &lt;td&gt;datovka, email s el. podpisem&lt;/td&gt;
+      &lt;td&gt;datovka, emailem s naskenovaným podpisem, pošta&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;předvyplnění dat&lt;/td&gt;
       &lt;td&gt;ne&lt;/td&gt;
-      &lt;td&gt;pouze některých z veřejných rejstříků&lt;/td&gt;
-      &lt;td&gt;pouze některých z veřejných rejstříků&lt;/td&gt;
+      &lt;td&gt;jen veřejné rejstříky&lt;/td&gt;
+      &lt;td&gt;jen veřejné rejstříky&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;validace dat&lt;/td&gt;
@@ -112,7 +112,7 @@ Příznačné je, jak sama finanční správa tuto formu žádosti komentuje:&lt
     &lt;tr&gt;
       &lt;td&gt;dodavatel&lt;/td&gt;
       &lt;td&gt;Software602, OKsystem&lt;/td&gt;
-      &lt;td&gt;?&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://www.oksystem.com/cz/aktuality/oksystem-pomaha-v-dobe-krize-pro-mpsv-zajisti-upravy-systemu-pro-vyplatu-socialnich-davek-bez-naroku-na-odmenu&quot;&gt;OKsystem&lt;/a&gt;&lt;/td&gt;
       &lt;td&gt;?&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
@@ -121,6 +121,7 @@ Příznačné je, jak sama finanční správa tuto formu žádosti komentuje:&lt
 &lt;h2 id=&quot;ponaučení&quot;&gt;Ponaučení&lt;/h2&gt;
 
 &lt;p&gt;Současné situace přinesla několik poznatků k digitalizaci veřejné správě:&lt;/p&gt;
+
 &lt;ul&gt;
   &lt;li&gt;Na příkladu Antiviru a Pětadvacítky se ukázalo, že veřejná správa dokáže velice promptně vytvářet moderní a uživatelsky přívětivé rozhraní pro podávání žádostí. Vyvstává otázka, proč se to děje až nyní, pět minut po dvanácté, když tuto úroveň mohla již několik let mít veškerá komunikace s veřejnou správou?&lt;/li&gt;
   &lt;li&gt;Většina služeb této úrovně nedosahuje, jak je zřejmé na MOP nebo na daňovém přiznání.&lt;/li&gt;
