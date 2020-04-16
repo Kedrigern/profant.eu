@@ -51,18 +51,18 @@ Prostřednictvím DocAssemble jsme začali připravovat alternativu, avšak Fina
 
 ## Srovnání formulářů
 
-| Žádost     | MOP        | Antivirus | Pětadvacítka  |
+| **žádost** | MOP        | Antivirus | Pětadvacítka  |
 |------------|------------|-----------|---------------|
-| Instituce  | Úřad práce | MPSV | Finanční správa |
-| Odkaz      | [zde](https://www.mpsv.cz/web/cz/-/zadost-o-mimoradnou-okamzitou-pomoc) | [zde](https://antivirus.mpsv.cz/) | [zde](https://ouc.financnisprava.cz/kompenzace) |
-| přihlášení NIA | ne | ne | ne |
-| možnosti poslání  | datovka, email s el. podpisem,  pošta | datovka, email s el. podpisem | datovka, emailem s naskenovaným podpisem, pošta |
-| předvyplnění dat | ne | jen veřejné rejstříky | jen veřejné rejstříky |
-| validace dat | některých | nedostatečná | ano |
-| zbytečně požadované údaje | mnoho (zejména k identitě a adrese žadatele) | rodné číslo, právní forma, doklad o vlastníkovi účtu | DIČ, rodné číslo, název banky, územní pracoviště Finančního úřadu |
-| přehledné UX | ne | ano | ano |
-| responzivní design | ne | ano | ano |
-| dodavatel | Software602, OKsystem | [OKsystem](https://www.oksystem.com/cz/aktuality/oksystem-pomaha-v-dobe-krize-pro-mpsv-zajisti-upravy-systemu-pro-vyplatu-socialnich-davek-bez-naroku-na-odmenu) | ? |
+| **instituce**  | Úřad práce | MPSV | Finanční správa |
+| **odkaz**      | [zde](https://www.mpsv.cz/web/cz/-/zadost-o-mimoradnou-okamzitou-pomoc) | [zde](https://antivirus.mpsv.cz/) | [zde](https://ouc.financnisprava.cz/kompenzace) |
+| **přihlášení NIA** | ne | ne | ne |
+| **možnosti poslání**  | datovka, email s el. podpisem,  pošta | datovka, email s el. podpisem | datovka, emailem s naskenovaným podpisem, pošta |
+| **předvyplnění dat** | ne | jen veřejné rejstříky | jen veřejné rejstříky |
+| **validace dat** | některých | nedostatečná | ano |
+| **zbytečně požadované údaje** | mnoho (zejména k identitě a adrese žadatele) | rodné číslo, právní forma, doklad o vlastníkovi účtu | DIČ, rodné číslo, název banky, územní pracoviště Finančního úřadu |
+| **přehledné UX** | ne | ano | ano |
+| **responzivní design** | ne | ano | ano |
+| **dodavatel** | Software602, OKsystem | [OKsystem](https://www.oksystem.com/cz/aktuality/oksystem-pomaha-v-dobe-krize-pro-mpsv-zajisti-upravy-systemu-pro-vyplatu-socialnich-davek-bez-naroku-na-odmenu) | ? |
 
 
 ## Ponaučení
