@@ -13,16 +13,18 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Blog Ondřeje Profanta
+title: Profant
 author: Ondřej Profant
 email: profanto@psp.cz
 description: > # this means to ignore newlines until "baseurl:"
-  Zápisník pirátského poslance Ondřeje Profanta, který se zaměřuje na opendata a e-government.
+  Zápisník pirátského poslance Ondřeje Profanta, který se zaměřuje na opendata, e-government, digitalizaci společnosti a kybernetickou bezpečnost.
+
   Rád bych byl, aby Česká republika byla moderním státem s rozvinutou digitální ekonomikou, kde je kladen silný důraz na vzdělávání a svobodu.
-  V digitalizaci se musíme inspirovat ve Velké Britanii a Estonsku, řešení musí být otevřená a uživatelsky přívětivá.
+  
+  V digitalizaci se musíme inspirovat ve Velké Britanii, Dánsku a Estonsku, řešení musí být otevřená, uživatelsky přívětivá a ohleduplná k soukromí.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.profant.eu" # the base hostname & protocol for your site, e.g. http://example.com
-keywords: Ondřej Profant, opendata, opensource, oss, open access, big data, piráti, pirátská strana, svoboda, kyberbezpečnost, kyberobrana, cyklo, eu, praha, doprava, poslanecká sněmovna, poslanec, egov, egovernment, digitální česko, gdpr
+keywords: Ondřej Profant, opendata, opensource, oss, open access, big data, piráti, pirátská strana, svoboda, kyberbezpečnost, kybernetická bezpečnost, kyberobrana, cyklo, eu, praha, doprava, poslanecká sněmovna, poslanec, egov, egovernment, digitální česko, gdpr, soukromí
 twitter_username: ondrej_profant
 github_username:  kedrigern
 facebook_username: ondrej.profant
