@@ -13,7 +13,7 @@ Ministerstvo Vnitra 27. 4. informovalo Vládu o prodloužení rámcové dohody s
 
 <!--more-->
 
-Ministerstvo vnitra má 5 obdobných rámcových dohod. Se společnostmi VMware, Microsoft, IBM, Oracle a Cisco. V praxi to znamená, že zájemce o produkty těchto firem neabsolvuje administrativně náročné a zdlouhavé výběrové řízení, ale jen pošle objednávku na MVČR. Je skvělé, že se MVČR snaží ubrat úmornou administrativu z veřejných zakázek, ale v tomto případě ji ubírá jen u 5 dodavatelů a všichni zbylí jsou tím silně znevýhodněni.
+Ministerstvo vnitra má 5 obdobných rámcových dohod. Se společnostmi VMware, Microsoft, IBM, Oracle a Cisco. V praxi to znamená, že zájemce o produkty těchto firem neabsolvuje administrativně náročné a zdlouhavé výběrové řízení, ale jen pošle objednávku na MVČR. Je skvělé, že se MVČR snaží ubrat úmornou administrativu z veřejných zakázek, ale v tomto případě ji ubírá jen u 5 společností a všichni zbylí jsou tím silně znevýhodněni.
 
 Touto formou centrálního nákupu tak dochází k nežádoucí fixaci tržního prostředí. Noví hráči se nemají šanci zapojit do dodávek pro veřejnou správu. A netýká se to jen malých inovátorů. O zapojení do rámcových dohod požádali i velmi renomovaní dodavatelé, kteří mají silné zastoupení v soukromém sektoru a i ti byli odmítnuti. Veřejná správa tím ztrácí možnost získávat potřebný software za tržní cenu a dlouhodobě potlačuje inovaci, ze které by mohla jinak těžit.
 
@@ -34,12 +34,12 @@ Pokud má ministerstvo vnitra zájem na zjednodušení nákupů IT, tak může m
 |[Cisco](https://www.mvcr.cz/clanek/centralni-nakup-produktu-cisco-systems.aspx)	|leden 2018	|leden 2022|	5|	1 452 000 000,00	| [79 000 000,00](https://www.hlidacstatu.cz/Hledat?q=%22k+R%C3%A1mcov%C3%A9+dohod%C4%9B+na+po%C5%99izov%C3%A1n%C3%AD+produkt%C5%AF+Oracle%22+podepsano%3A%5B2020-01-01+TO+*%5D) |
 |[ICT komodity](https://www.mvcr.cz/clanek/centralni-nakup-ict-komodit.aspx) (DNS)** |	březen 2019|	březen 2023|	16|	3 025 000 000,00|	[16 000 000,00](https://www.hlidacstatu.cz/Hledat?q=%22k+R%C3%A1mcov%C3%A9+dohod%C4%9B+na+po%C5%99izov%C3%A1n%C3%AD+produkt%C5%AF+Oracle%22+podepsano%3A%5B2020-01-01+TO+*%5D) |
 
-\* vzniklo totiž "„Sdružení pro zakázku pořizování licencí a podpory k produktům IBM“, kde jsou tři společníci - tři firmy
+\* vzniklo totiž „Sdružení pro zakázku pořizování licencí a podpory k produktům IBM“, kde jsou tři společníci - tři firmy
 
-\** Dynamický nákupní systém prostřednictvím kterého je možno nakupovat stolní počítače, ploché monitory, přenosné počítače, klávesnice a myši. Rozdíl je, že DNS má jasná pravidla jak se mohou zapojit další dodavatelé a není omezen okruh výrobců.
+\** Dynamický nákupní systém prostřednictvím kterého je možno nakupovat stolní počítače, ploché monitory, přenosné počítače, klávesnice a myši. Rozdíl je, že [DNS](https://www.epravo.cz/top/clanky/dynamicky-nakupni-system-dle-nove-pravni-upravy-nejasnosti-a-rizika-dil-prvni-109566.html) má jasná pravidla jak se mohou zapojit další dodavatelé a není omezen okruh výrobců.
 
 ---
 
-O hrozbě, které tyto rámcové dohody, představyjí pro trh jsem zde [psal již v roce 2018](https://www.profant.eu/2018/egov-cloud.html#jak%C3%A1-jsou-rizika). V rámci debat o egovernment cloudu jsem odstrašující příklad rámcových dohod používal velmi často.
+O hrozbě, které tyto rámcové dohody, představyjí pro trh jsem zde [psal již v roce 2018](https://www.profant.eu/2018/egov-cloud.html#jak%C3%A1-jsou-rizika). V rámci debat s ministersvech o egovernment cloudu jsem odstrašující příklad rámcových dohod používal velmi často. Viditelně však bez výsledku.
 
 Situace okolo veřejných zakázek rozhodně není jednoduchá. Pravidla, která zajišťují nediskriminaci, jsou samozřejmě složitá, každé odvětví má svá specifika a tak dále. Na možnosti řešení se podíváme v dalších článcích.
