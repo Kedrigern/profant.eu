@@ -47,3 +47,5 @@ Je třeba si uvědomit rozdíl mezi výrobcem a dodavatelem. Výrobcem MS Window
 O hrozbě, které tyto rámcové dohody, představyjí pro trh jsem zde [psal již v roce 2018](https://www.profant.eu/2018/egov-cloud.html#jak%C3%A1-jsou-rizika). V rámci debat s ministersvech o egovernment cloudu jsem odstrašující příklad rámcových dohod používal velmi často. Viditelně však bez výsledku.
 
 Situace okolo veřejných zakázek rozhodně není jednoduchá. Pravidla, která zajišťují nediskriminaci, jsou samozřejmě složitá, každé odvětví má svá specifika a tak dále. Na možnosti řešení se podíváme v dalších článcích.
+
+O tématu také psali 28. 4. [Hospodářské noviny](https://archiv.ihned.cz/c1-66756280-urady-maji-kvuli-vnitru-omezeny-pristup-k-it-sluzbam).
