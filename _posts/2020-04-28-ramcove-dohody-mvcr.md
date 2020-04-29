@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "MVČR pokřivuje tržní prostředí"
-date:       2020-04-14
+date:       2020-04-28
 categories: Digitalizace
 comments:   true
 tags:       [egovernment, digitalizace]
