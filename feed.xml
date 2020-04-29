@@ -1,7 +1,107 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="https://www.profant.eu/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.profant.eu/" rel="alternate" type="text/html" /><updated>2020-04-29T09:07:21+00:00</updated><id>https://www.profant.eu/feed.xml</id><title type="html">Profant</title><subtitle>Zápisník pirátského poslance Ondřeje Profanta, který se zaměřuje na opendata, e-government, digitalizaci společnosti a kybernetickou bezpečnost.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="https://www.profant.eu/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.profant.eu/" rel="alternate" type="text/html" /><updated>2020-04-29T10:02:10+00:00</updated><id>https://www.profant.eu/feed.xml</id><title type="html">Profant</title><subtitle>Zápisník pirátského poslance Ondřeje Profanta, který se zaměřuje na opendata, e-government, digitalizaci společnosti a kybernetickou bezpečnost.
 Rád bych byl, aby Česká republika byla moderním státem s rozvinutou digitální ekonomikou, kde je kladen silný důraz na vzdělávání a svobodu.
 V digitalizaci se musíme inspirovat ve Velké Britanii, Dánsku a Estonsku, řešení musí být otevřená, uživatelsky přívětivá a ohleduplná k soukromí.
-</subtitle><author><name>Ondřej Profant</name></author><entry><title type="html">Digitalizace: zaspané roky nedoženeme za měsíc</title><link href="https://www.profant.eu/2020/formulare.html" rel="alternate" type="text/html" title="Digitalizace: zaspané roky nedoženeme za měsíc" /><published>2020-04-14T00:00:00+00:00</published><updated>2020-04-14T00:00:00+00:00</updated><id>https://www.profant.eu/2020/formulare</id><content type="html" xml:base="https://www.profant.eu/2020/formulare.html">&lt;p&gt;Současná krize s sebou přináší dosud nevídaný nápor na státní správu, ve velké míře pak speciálně na náš sociální systém. Úřady nejsou připraveny na masový příjem žádostí o podporu a pod jejich náporem lehce kolabují. Přitom na podobnou situaci mohly být připraveny daleko lépe.&lt;/p&gt;
+</subtitle><author><name>Ondřej Profant</name></author><entry><title type="html">MVČR pokřivuje tržní prostředí</title><link href="https://www.profant.eu/2020/ramcove-dohody-mvcr.html" rel="alternate" type="text/html" title="MVČR pokřivuje tržní prostředí" /><published>2020-04-28T00:00:00+00:00</published><updated>2020-04-28T00:00:00+00:00</updated><id>https://www.profant.eu/2020/ramcove-dohody-mvcr</id><content type="html" xml:base="https://www.profant.eu/2020/ramcove-dohody-mvcr.html">&lt;p&gt;Ministerstvo Vnitra 27. 4. informovalo Vládu o prodloužení rámcové dohody se společností VMware. Tím se chystá i nadále zvýhodněním tohoto dodavatele  težce deformovat tržní prostředí.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;Ministerstvo vnitra má 5 obdobných rámcových dohod. Se společnostmi VMware, Microsoft, IBM, Oracle a Cisco. V praxi to znamená, že zájemce o produkty těchto firem neabsolvuje administrativně náročné a zdlouhavé výběrové řízení, ale jen pošle objednávku na MVČR. Je skvělé, že se MVČR snaží ubrat úmornou administrativu z veřejných zakázek, ale v tomto případě ji ubírá jen u 5 společností a všichni zbylí jsou tím silně znevýhodněni.&lt;/p&gt;
+
+&lt;p&gt;Touto formou centrálního nákupu tak dochází k nežádoucí fixaci tržního prostředí. Noví hráči se nemají šanci zapojit do dodávek pro veřejnou správu. A netýká se to jen malých inovátorů. O zapojení do rámcových dohod požádali i velmi renomovaní dodavatelé, kteří mají silné zastoupení v soukromém sektoru a i ti byli odmítnuti. Veřejná správa tím ztrácí možnost získávat potřebný software za tržní cenu a dlouhodobě potlačuje inovaci, ze které by mohla jinak těžit.&lt;/p&gt;
+
+&lt;p&gt;Tento přístup škodí dokonce i konkurenci mezi zmíněnými třemi dodavateli, jelikož nejsou motivováni nabízet a propagovat ve veřejné správě vzájemně konkurenční produkty. Kdyby neudržovali status quo, tak by totiž mohli přijít o tato zlatá vejce, které rámcové dohody představují. Příkladem může být virtualizační software, který nabízí VMware i Microsoft, ale ve veřejné správě se setkáme téměř výhradně s VMware.&lt;/p&gt;
+
+&lt;p&gt;Tržní mechanismy neslouží jen ke snížení ceny a lepší uživatelské přívětivosti, pochopitelně ovlivňují i bezpečnost. Pokud je software zatížen příliš mnoha bezpečnostními přešlapy, tak zájem trhu poleví. To se však v tomto případě nemůže stát. Příkladem může být bezpečnostní chyba zveřejněná minulý týden, v rámci které lze získat administrátorská práva právě u VMware (&lt;a href=&quot;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-3952&quot;&gt;CVE-2020-3952&lt;/a&gt;). Hlavním problémem z pohledu bezpečnosti je však monokultura, která je snadno napadnutelná jako celek. Pokud je monokultura ještě navíc uzavřená, tak je nemožné pomoci opravit kritické chyby (například v případě krachu tvůrce se může stát, že není žádná legální možnost opravit chybu v programu).&lt;/p&gt;
+
+&lt;p&gt;Pokud má ministerstvo vnitra zájem na zjednodušení nákupů IT, tak může metodicky podporovat open source řešení u kterých není potřeba nakupovat licence a zároveň začít aktivně pečovat o to, aby v každé kategorii poptávaných řešení existovala reálná konkurence.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Produkty firmy&lt;/th&gt;
+      &lt;th style=&quot;text-align: right&quot;&gt;Od&lt;/th&gt;
+      &lt;th style=&quot;text-align: right&quot;&gt;Do&lt;/th&gt;
+      &lt;th style=&quot;text-align: right&quot;&gt;Počet distributorů&lt;/th&gt;
+      &lt;th style=&quot;text-align: right&quot;&gt;Max plnění (s DPH)&lt;/th&gt;
+      &lt;th style=&quot;text-align: right&quot;&gt;Plnění, vč. DPH (zdroj: hlídač státu)&lt;/th&gt;
+      &lt;th&gt; &lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;a href=&quot;https://www.mvcr.cz/clanek/centralni-nakup-produktu-vmware.aspx&quot;&gt;VMWare&lt;/a&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;září 2016&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;září 2020&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;5&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;3 225 860 000,00&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;&lt;a href=&quot;https://www.hlidacstatu.cz/Hledat?q=%22k+R%C3%A1mcov%C3%A9+smlouv%C4%9B+na+po%C5%99izov%C3%A1n%C3%AD+licenc%C3%AD+k+produkt%C5%AFm+VMware%22&quot;&gt;377 000 000,00&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;a href=&quot;https://www.mvcr.cz/clanek/centralni-nakup-produktu-microsoft.aspx&quot;&gt;Microsoft&lt;/a&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;prosinec 2018&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;prosinec 2022&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;4&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;5 566 000 000,00&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;&lt;a href=&quot;https://www.hlidacstatu.cz/Hledat?q=7.+12.+2018+%22k+R%C3%A1mcov%C3%A9+dohod%C4%9B+na+po%C5%99izov%C3%A1ni+produkt%C5%AF+Microsoft+%22+zverejneno%3A%5B2018-12-12+TO+*%5D&quot;&gt;1 985 000 000,00&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;a href=&quot;https://www.mvcr.cz/clanek/centralni-nakup-produktu-ibm.aspx&quot;&gt;IBM&lt;/a&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;květen 2017&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;květen 2021&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;1, resp. 3*&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;1 936 000 000,00&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;&lt;a href=&quot;https://www.hlidacstatu.cz/Hledat?Q=%22k%20R%C3%A1mcov%C3%A9%20dohod%C4%9B%20na%20poskytnut%C3%AD%20licenc%C3%AD%20a%20podpory%20k%20produkt%C5%AFm%20IBM%22%20zverejneno%3A%5B2017-06-09%20TO%20%2A%5D&amp;amp;order=4&quot;&gt;1 059 000 000,00&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;a href=&quot;https://www.mvcr.cz/clanek/ramcova-dohoda-oracle.aspx&quot;&gt;Oracle&lt;/a&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;leden 2020&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;leden 2024&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;5&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;1 089 000 000,00&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;&lt;a href=&quot;https://www.hlidacstatu.cz/Hledat?q=%22k+R%C3%A1mcov%C3%A9+dohod%C4%9B+na+po%C5%99izov%C3%A1n%C3%AD+produkt%C5%AF+Oracle%22+podepsano%3A%5B2020-01-01+TO+*%5D&quot;&gt;0,00&lt;/a&gt;**&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;a href=&quot;https://www.mvcr.cz/clanek/centralni-nakup-produktu-cisco-systems.aspx&quot;&gt;Cisco&lt;/a&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;leden 2018&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;leden 2022&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;5&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;1 452 000 000,00&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;&lt;a href=&quot;https://www.hlidacstatu.cz/Hledat?q=%22k+R%C3%A1mcov%C3%A9+dohod%C4%9B+na+po%C5%99izov%C3%A1n%C3%AD+produkt%C5%AF+Oracle%22+podepsano%3A%5B2020-01-01+TO+*%5D&quot;&gt;79 000 000,00&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;a href=&quot;https://www.mvcr.cz/clanek/centralni-nakup-ict-komodit.aspx&quot;&gt;ICT komodity&lt;/a&gt; (DNS)***&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;březen 2019&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;březen 2023&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;16&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;3 025 000 000,00&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;&lt;a href=&quot;https://www.hlidacstatu.cz/Hledat?q=%22k+R%C3%A1mcov%C3%A9+dohod%C4%9B+na+po%C5%99izov%C3%A1n%C3%AD+produkt%C5%AF+Oracle%22+podepsano%3A%5B2020-01-01+TO+*%5D&quot;&gt;16 000 000,00&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;* vzniklo totiž „Sdružení pro zakázku pořizování licencí a podpory k produktům IBM“, kde jsou tři společníci - tři firmy&lt;/p&gt;
+
+&lt;p&gt;** Zde viditelně nejde o nečerpání, ale špatné evidování.&lt;/p&gt;
+
+&lt;p&gt;*** Dynamický nákupní systém prostřednictvím kterého je možno nakupovat stolní počítače, ploché monitory, přenosné počítače, klávesnice a myši. Rozdíl je, že &lt;a href=&quot;https://www.epravo.cz/top/clanky/dynamicky-nakupni-system-dle-nove-pravni-upravy-nejasnosti-a-rizika-dil-prvni-109566.html&quot;&gt;DNS&lt;/a&gt; má jasná pravidla jak se mohou zapojit další dodavatelé a není omezen okruh výrobců.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Je třeba si uvědomit rozdíl mezi výrobcem (konkrétní značka) a dodavatelem (konkrétní dealer, obchod apod.). Výrobcem MS Windows je Microsoft. Ten velkoobchodně prodává licence svým partnerům / distributorům. Licence je zcela virtuální produkt a nejsou téměř žádné náklady na její uskladnění a distribuování. Drtivá většina koncové ceny jde tedy Microsoftu bez možnosti distributora toto nějak ovlivnit (optimalizovat). Pokud bychom chtěli centrálně nakoupit kancelářský papír, tak udáme jeho parametry (např. gramáž) a je nám jedno od jakého výrobce ho distributoři seženou. Navíc logisitcká obratnost distributora může hrát značnou roli v koncové ceně. Situace u IT licencí je však zcela jiná. Zde MVČR řeklo, který konkrétní produkt (značku) chce a distributoři/dodavatelé hrají zcela zanedbatelnou roli.&lt;/p&gt;
+
+&lt;p&gt;O hrozbě, které tyto rámcové dohody, představyjí pro trh jsem zde &lt;a href=&quot;https://www.profant.eu/2018/egov-cloud.html#jak%C3%A1-jsou-rizika&quot;&gt;psal již v roce 2018&lt;/a&gt;. V rámci debat s ministersvech o egovernment cloudu jsem odstrašující příklad rámcových dohod používal velmi často. Viditelně však bez výsledku.&lt;/p&gt;
+
+&lt;p&gt;Situace okolo veřejných zakázek rozhodně není jednoduchá. Pravidla, která zajišťují nediskriminaci, jsou samozřejmě složitá, každé odvětví má svá specifika a tak dále. Na možnosti řešení se podíváme v dalších článcích.&lt;/p&gt;
+
+&lt;p&gt;O tématu také psali 28. 4. &lt;a href=&quot;https://archiv.ihned.cz/c1-66756280-urady-maji-kvuli-vnitru-omezeny-pristup-k-it-sluzbam&quot;&gt;Hospodářské noviny&lt;/a&gt;.&lt;/p&gt;</content><author><name>Ondřej Profant</name></author><category term="egovernment" /><category term="digitalizace" /><summary type="html">Ministerstvo Vnitra 27. 4. informovalo Vládu o prodloužení rámcové dohody se společností VMware. Tím se chystá i nadále zvýhodněním tohoto dodavatele težce deformovat tržní prostředí.</summary></entry><entry><title type="html">Digitalizace: zaspané roky nedoženeme za měsíc</title><link href="https://www.profant.eu/2020/formulare.html" rel="alternate" type="text/html" title="Digitalizace: zaspané roky nedoženeme za měsíc" /><published>2020-04-14T00:00:00+00:00</published><updated>2020-04-14T00:00:00+00:00</updated><id>https://www.profant.eu/2020/formulare</id><content type="html" xml:base="https://www.profant.eu/2020/formulare.html">&lt;p&gt;Současná krize s sebou přináší dosud nevídaný nápor na státní správu, ve velké míře pak speciálně na náš sociální systém. Úřady nejsou připraveny na masový příjem žádostí o podporu a pod jejich náporem lehce kolabují. Přitom na podobnou situaci mohly být připraveny daleko lépe.&lt;/p&gt;
 
 &lt;!--more--&gt;
 
@@ -136,107 +236,7 @@ Příznačné je, jak sama finanční správa tuto formu žádosti komentuje:&lt
 
 &lt;p&gt;Systém formulářů je administrativní pomůcka a je to zároveň jedno z nejčastějších rozhraní komunikace mezi občany a státem. Některé formuláře svoji formou spíše odrazují. To ale rozhodně nemá být jejich funkce - naopak mají motivovat žadatele, aby se nebáli ozvali. Už samo o sobě podání žádosti o pomoc může být pro někoho psychicky těžké, snažme se místo komplikací vycházet lidem co nejvíce vstříc. Stejně jako v mezilidských vztazích je i ve vztahu občanů a státu komunikace a její forma důležitá. Chceme zdravý stát se zdravou ekonomikou, který je tu pro lidi.&lt;/p&gt;
 
-&lt;p&gt;Veškeré úspěchy Pirátů v oblasti digitalizace najdete na &lt;a href=&quot;https://www.pirati.cz/vysledky/#type=resorts&amp;amp;datefilter2=all&amp;amp;resorty-select-2=resort-informatika&quot;&gt;pirati.cz&lt;/a&gt;. Pracujeme, předkládáme, ale vládní většina blokuje.&lt;/p&gt;</content><author><name>Bára Soukupová, Ondřej Profant</name></author><category term="egovernment" /><category term="digitalizace" /><summary type="html">Současná krize s sebou přináší dosud nevídaný nápor na státní správu, ve velké míře pak speciálně na náš sociální systém. Úřady nejsou připraveny na masový příjem žádostí o podporu a pod jejich náporem lehce kolabují. Přitom na podobnou situaci mohly být připraveny daleko lépe.</summary></entry><entry><title type="html">MVČR pokřivuje tržní prostředí</title><link href="https://www.profant.eu/2020/ramcove-dohody-mvcr.html" rel="alternate" type="text/html" title="MVČR pokřivuje tržní prostředí" /><published>2020-04-14T00:00:00+00:00</published><updated>2020-04-14T00:00:00+00:00</updated><id>https://www.profant.eu/2020/ramcove-dohody-mvcr</id><content type="html" xml:base="https://www.profant.eu/2020/ramcove-dohody-mvcr.html">&lt;p&gt;Ministerstvo Vnitra 27. 4. informovalo Vládu o prodloužení rámcové dohody se společností VMware. Tím se chystá i nadále zvýhodněním tohoto dodavatele  težce deformovat tržní prostředí.&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;p&gt;Ministerstvo vnitra má 5 obdobných rámcových dohod. Se společnostmi VMware, Microsoft, IBM, Oracle a Cisco. V praxi to znamená, že zájemce o produkty těchto firem neabsolvuje administrativně náročné a zdlouhavé výběrové řízení, ale jen pošle objednávku na MVČR. Je skvělé, že se MVČR snaží ubrat úmornou administrativu z veřejných zakázek, ale v tomto případě ji ubírá jen u 5 společností a všichni zbylí jsou tím silně znevýhodněni.&lt;/p&gt;
-
-&lt;p&gt;Touto formou centrálního nákupu tak dochází k nežádoucí fixaci tržního prostředí. Noví hráči se nemají šanci zapojit do dodávek pro veřejnou správu. A netýká se to jen malých inovátorů. O zapojení do rámcových dohod požádali i velmi renomovaní dodavatelé, kteří mají silné zastoupení v soukromém sektoru a i ti byli odmítnuti. Veřejná správa tím ztrácí možnost získávat potřebný software za tržní cenu a dlouhodobě potlačuje inovaci, ze které by mohla jinak těžit.&lt;/p&gt;
-
-&lt;p&gt;Tento přístup škodí dokonce i konkurenci mezi zmíněnými třemi dodavateli, jelikož nejsou motivováni nabízet a propagovat ve veřejné správě vzájemně konkurenční produkty. Kdyby neudržovali status quo, tak by totiž mohli přijít o tato zlatá vejce, které rámcové dohody představují. Příkladem může být virtualizační software, který nabízí VMware i Microsoft, ale ve veřejné správě se setkáme téměř výhradně s VMware.&lt;/p&gt;
-
-&lt;p&gt;Tržní mechanismy neslouží jen ke snížení ceny a lepší uživatelské přívětivosti, pochopitelně ovlivňují i bezpečnost. Pokud je software zatížen příliš mnoha bezpečnostními přešlapy, tak zájem trhu poleví. To se však v tomto případě nemůže stát. Příkladem může být bezpečnostní chyba zveřejněná minulý týden, v rámci které lze získat administrátorská práva právě u VMware (&lt;a href=&quot;https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-3952&quot;&gt;CVE-2020-3952&lt;/a&gt;). Hlavním problémem z pohledu bezpečnosti je však monokultura, která je snadno napadnutelná jako celek. Pokud je monokultura ještě navíc uzavřená, tak je nemožné pomoci opravit kritické chyby (například v případě krachu tvůrce se může stát, že není žádná legální možnost opravit chybu v programu).&lt;/p&gt;
-
-&lt;p&gt;Pokud má ministerstvo vnitra zájem na zjednodušení nákupů IT, tak může metodicky podporovat open source řešení u kterých není potřeba nakupovat licence a zároveň začít aktivně pečovat o to, aby v každé kategorii poptávaných řešení existovala reálná konkurence.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;Produkty firmy&lt;/th&gt;
-      &lt;th style=&quot;text-align: right&quot;&gt;Od&lt;/th&gt;
-      &lt;th style=&quot;text-align: right&quot;&gt;Do&lt;/th&gt;
-      &lt;th style=&quot;text-align: right&quot;&gt;Počet distributorů&lt;/th&gt;
-      &lt;th style=&quot;text-align: right&quot;&gt;Max plnění (s DPH)&lt;/th&gt;
-      &lt;th style=&quot;text-align: right&quot;&gt;Plnění, vč. DPH (zdroj: hlídač státu)&lt;/th&gt;
-      &lt;th&gt; &lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;a href=&quot;https://www.mvcr.cz/clanek/centralni-nakup-produktu-vmware.aspx&quot;&gt;VMWare&lt;/a&gt;&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;září 2016&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;září 2020&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;5&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;3 225 860 000,00&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;&lt;a href=&quot;https://www.hlidacstatu.cz/Hledat?q=%22k+R%C3%A1mcov%C3%A9+smlouv%C4%9B+na+po%C5%99izov%C3%A1n%C3%AD+licenc%C3%AD+k+produkt%C5%AFm+VMware%22&quot;&gt;377 000 000,00&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;a href=&quot;https://www.mvcr.cz/clanek/centralni-nakup-produktu-microsoft.aspx&quot;&gt;Microsoft&lt;/a&gt;&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;prosinec 2018&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;prosinec 2022&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;4&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;5 566 000 000,00&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;&lt;a href=&quot;https://www.hlidacstatu.cz/Hledat?q=7.+12.+2018+%22k+R%C3%A1mcov%C3%A9+dohod%C4%9B+na+po%C5%99izov%C3%A1ni+produkt%C5%AF+Microsoft+%22+zverejneno%3A%5B2018-12-12+TO+*%5D&quot;&gt;1 985 000 000,00&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;a href=&quot;https://www.mvcr.cz/clanek/centralni-nakup-produktu-ibm.aspx&quot;&gt;IBM&lt;/a&gt;&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;květen 2017&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;květen 2021&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;1, resp. 3*&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;1 936 000 000,00&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;&lt;a href=&quot;https://www.hlidacstatu.cz/Hledat?Q=%22k%20R%C3%A1mcov%C3%A9%20dohod%C4%9B%20na%20poskytnut%C3%AD%20licenc%C3%AD%20a%20podpory%20k%20produkt%C5%AFm%20IBM%22%20zverejneno%3A%5B2017-06-09%20TO%20%2A%5D&amp;amp;order=4&quot;&gt;1 059 000 000,00&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;a href=&quot;https://www.mvcr.cz/clanek/ramcova-dohoda-oracle.aspx&quot;&gt;Oracle&lt;/a&gt;&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;leden 2020&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;leden 2024&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;5&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;1 089 000 000,00&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;&lt;a href=&quot;https://www.hlidacstatu.cz/Hledat?q=%22k+R%C3%A1mcov%C3%A9+dohod%C4%9B+na+po%C5%99izov%C3%A1n%C3%AD+produkt%C5%AF+Oracle%22+podepsano%3A%5B2020-01-01+TO+*%5D&quot;&gt;0,00&lt;/a&gt;**&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;a href=&quot;https://www.mvcr.cz/clanek/centralni-nakup-produktu-cisco-systems.aspx&quot;&gt;Cisco&lt;/a&gt;&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;leden 2018&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;leden 2022&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;5&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;1 452 000 000,00&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;&lt;a href=&quot;https://www.hlidacstatu.cz/Hledat?q=%22k+R%C3%A1mcov%C3%A9+dohod%C4%9B+na+po%C5%99izov%C3%A1n%C3%AD+produkt%C5%AF+Oracle%22+podepsano%3A%5B2020-01-01+TO+*%5D&quot;&gt;79 000 000,00&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;a href=&quot;https://www.mvcr.cz/clanek/centralni-nakup-ict-komodit.aspx&quot;&gt;ICT komodity&lt;/a&gt; (DNS)***&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;březen 2019&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;březen 2023&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;16&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;3 025 000 000,00&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;&lt;a href=&quot;https://www.hlidacstatu.cz/Hledat?q=%22k+R%C3%A1mcov%C3%A9+dohod%C4%9B+na+po%C5%99izov%C3%A1n%C3%AD+produkt%C5%AF+Oracle%22+podepsano%3A%5B2020-01-01+TO+*%5D&quot;&gt;16 000 000,00&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;p&gt;* vzniklo totiž „Sdružení pro zakázku pořizování licencí a podpory k produktům IBM“, kde jsou tři společníci - tři firmy&lt;/p&gt;
-
-&lt;p&gt;** Zde viditelně nejde o nečerpání, ale špatné evidování.&lt;/p&gt;
-
-&lt;p&gt;*** Dynamický nákupní systém prostřednictvím kterého je možno nakupovat stolní počítače, ploché monitory, přenosné počítače, klávesnice a myši. Rozdíl je, že &lt;a href=&quot;https://www.epravo.cz/top/clanky/dynamicky-nakupni-system-dle-nove-pravni-upravy-nejasnosti-a-rizika-dil-prvni-109566.html&quot;&gt;DNS&lt;/a&gt; má jasná pravidla jak se mohou zapojit další dodavatelé a není omezen okruh výrobců.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;Je třeba si uvědomit rozdíl mezi výrobcem (konkrétní značka) a dodavatelem (konkrétní dealer, obchod apod.). Výrobcem MS Windows je Microsoft. Ten velkoobchodně prodává licence svým partnerům / distributorům. Licence je zcela virtuální produkt a nejsou téměř žádné náklady na její uskladnění a distribuování. Drtivá většina koncové ceny jde tedy Microsoftu bez možnosti distributora toto nějak ovlivnit (optimalizovat). Pokud bychom chtěli centrálně nakoupit kancelářský papír, tak udáme jeho parametry (např. gramáž) a je nám jedno od jakého výrobce ho distributoři seženou. Navíc logisitcká obratnost distributora může hrát značnou roli v koncové ceně. Situace u IT licencí je však zcela jiná. Zde MVČR řeklo, který konkrétní produkt (značku) chce a distributoři/dodavatelé hrají zcela zanedbatelnou roli.&lt;/p&gt;
-
-&lt;p&gt;O hrozbě, které tyto rámcové dohody, představyjí pro trh jsem zde &lt;a href=&quot;https://www.profant.eu/2018/egov-cloud.html#jak%C3%A1-jsou-rizika&quot;&gt;psal již v roce 2018&lt;/a&gt;. V rámci debat s ministersvech o egovernment cloudu jsem odstrašující příklad rámcových dohod používal velmi často. Viditelně však bez výsledku.&lt;/p&gt;
-
-&lt;p&gt;Situace okolo veřejných zakázek rozhodně není jednoduchá. Pravidla, která zajišťují nediskriminaci, jsou samozřejmě složitá, každé odvětví má svá specifika a tak dále. Na možnosti řešení se podíváme v dalších článcích.&lt;/p&gt;
-
-&lt;p&gt;O tématu také psali 28. 4. &lt;a href=&quot;https://archiv.ihned.cz/c1-66756280-urady-maji-kvuli-vnitru-omezeny-pristup-k-it-sluzbam&quot;&gt;Hospodářské noviny&lt;/a&gt;.&lt;/p&gt;</content><author><name>Ondřej Profant</name></author><category term="egovernment" /><category term="digitalizace" /><summary type="html">Ministerstvo Vnitra 27. 4. informovalo Vládu o prodloužení rámcové dohody se společností VMware. Tím se chystá i nadále zvýhodněním tohoto dodavatele težce deformovat tržní prostředí.</summary></entry><entry><title type="html">Zpráva o transparentnosti leden 2020 - březen 2020</title><link href="https://www.profant.eu/2020/transparentni-report-010.html" rel="alternate" type="text/html" title="Zpráva o transparentnosti leden 2020 - březen 2020" /><published>2020-04-08T09:00:00+00:00</published><updated>2020-04-08T09:00:00+00:00</updated><id>https://www.profant.eu/2020/transparentni-report-010</id><content type="html" xml:base="https://www.profant.eu/2020/transparentni-report-010.html">&lt;p&gt;Souhrnný report mé činnosti v období leden až březen 2020. Nejčerstvější informace o mých aktivitách naleznete na mých profilech na sociálních sítích a zde na blogu v sekci &lt;a href=&quot;https://www.profant.eu/transparentnost/&quot;&gt;Otevřenost&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Veškeré úspěchy Pirátů v oblasti digitalizace najdete na &lt;a href=&quot;https://www.pirati.cz/vysledky/#type=resorts&amp;amp;datefilter2=all&amp;amp;resorty-select-2=resort-informatika&quot;&gt;pirati.cz&lt;/a&gt;. Pracujeme, předkládáme, ale vládní většina blokuje.&lt;/p&gt;</content><author><name>Bára Soukupová, Ondřej Profant</name></author><category term="egovernment" /><category term="digitalizace" /><summary type="html">Současná krize s sebou přináší dosud nevídaný nápor na státní správu, ve velké míře pak speciálně na náš sociální systém. Úřady nejsou připraveny na masový příjem žádostí o podporu a pod jejich náporem lehce kolabují. Přitom na podobnou situaci mohly být připraveny daleko lépe.</summary></entry><entry><title type="html">Zpráva o transparentnosti leden 2020 - březen 2020</title><link href="https://www.profant.eu/2020/transparentni-report-010.html" rel="alternate" type="text/html" title="Zpráva o transparentnosti leden 2020 - březen 2020" /><published>2020-04-08T09:00:00+00:00</published><updated>2020-04-08T09:00:00+00:00</updated><id>https://www.profant.eu/2020/transparentni-report-010</id><content type="html" xml:base="https://www.profant.eu/2020/transparentni-report-010.html">&lt;p&gt;Souhrnný report mé činnosti v období leden až březen 2020. Nejčerstvější informace o mých aktivitách naleznete na mých profilech na sociálních sítích a zde na blogu v sekci &lt;a href=&quot;https://www.profant.eu/transparentnost/&quot;&gt;Otevřenost&lt;/a&gt;.&lt;/p&gt;
 
 &lt;!--more--&gt;
 
