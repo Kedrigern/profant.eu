@@ -9,11 +9,11 @@ img:        vendor-lock-in-case-study.png
 author:     Ondřej Profant
 ---
 
-Ministerstvo Vnitra 27. 4. informovalo Vládu o prodloužení rámcové dohody se společností VMware. Tím se chystá i nadále zvýhodněním tohoto dodavatele  težce deformovat tržní prostředí. 
+Ministerstvo Vnitra 27. 4. informovalo Vládu o prodloužení rámcové dohody se společností VMware. Tím se chystá i nadále zvýhodněním tohoto dodavatele težce deformovat tržní prostředí. 
 
 <!--more-->
 
-Ministerstvo vnitra má 5 obdobných rámcových dohod. Se společnostmi VMware, Microsoft, IBM, Oracle a Cisco. V praxi to znamená, že zájemce o produkty těchto firem neabsolvuje administrativně náročné a zdlouhavé výběrové řízení, ale jen pošle objednávku na MVČR. Je skvělé, že se MVČR snaží ubrat úmornou administrativu z veřejných zakázek, ale v tomto případě ji ubírá jen u 5 společností a všichni zbylí jsou tím silně znevýhodněni.
+Ministerstvo vnitra má 5 obdobných rámcových dohod, které jsou potencionálně platné pro celou veřejnou správu (od kritické infrastury, přes ministerstva, kraje až po nejmenší obce). Se společnostmi VMware, Microsoft, IBM, Oracle a Cisco. V praxi to znamená, že zájemce o produkty těchto firem neabsolvuje administrativně náročné a zdlouhavé výběrové řízení, ale jen pošle objednávku na MVČR. Je skvělé, že se MVČR snaží ubrat úmornou administrativu z veřejných zakázek, ale v tomto případě ji ubírá jen u 5 společností a všichni zbylí jsou tím silně znevýhodněni. 
 
 Touto formou centrálního nákupu tak dochází k nežádoucí fixaci tržního prostředí. Noví hráči se nemají šanci zapojit do dodávek pro veřejnou správu. A netýká se to jen malých inovátorů. O zapojení do rámcových dohod požádali i velmi renomovaní dodavatelé, kteří mají silné zastoupení v soukromém sektoru a i ti byli odmítnuti. Veřejná správa tím ztrácí možnost získávat potřebný software za tržní cenu a dlouhodobě potlačuje inovaci, ze které by mohla jinak těžit.
 
