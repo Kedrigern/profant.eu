@@ -236,3 +236,5 @@ Společně s členy technického odboru a spolkem Otevřená města jsme pomáha
 #### Formulář mimořádné pomoci
 
 Společně s Bárou Soukupovou jsme prostřednictvím videokonference představili proof of concept pro digitální formuláře pro Úřad práce. Takové formuláře by v současné krizi mohly zmírnit problémy s velkým počtem žadatelů na pobočkách úřadů, zároveň by mohly do budoucna sloužit jako příklad dobré praxe. Více v [evidenci kontaktů a schůzek](https://evidence.pirati.cz/report/4251/).
+
+[<<<< Předchozí report (říjen 2019 - prosinec 2019)](https://www.profant.eu/2019/transparentni-report-009.html)
