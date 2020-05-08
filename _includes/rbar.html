@@ -4,7 +4,7 @@
   {% endif %}
 
   {% if page.layout == "post" %}
-  <div>
+  <div class="aside-lists">
   <h4>Vybrané články</h4>
   {% assign featured_posts = site.posts | where: "featured", "true" %}
   <ul class="no-bullet">
