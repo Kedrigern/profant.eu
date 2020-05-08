@@ -3,13 +3,17 @@
     <a class="twitter-timeline" data-lang="cs" data-height="1080" data-dnt="true" data-theme="light" href="https://twitter.com/{{site.twitter_username}}">Krátce od @{{ site.twitter_username }}</a> 
   {% endif %}
 
+  {% if page.layout == "post" %}
+  <div>
   <h4>Vybrané články</h4>
   {% assign featured_posts = site.posts | where: "featured", "true" %}
-  <ul>
+  <ul class="no-bullet">
     {% for post in featured_posts %}
-    <li><a href="{{post.url | base_url}}">{{post.title}}</a></li>
+    <li><a href="{{post.url | base_url}}"><h6>{{post.title}}</h6></a></li>
     {% endfor %}
   </ul>
+  </div>
+  {% endif %}
 
   {% comment %}
     <h4>Kategorie</h4>
