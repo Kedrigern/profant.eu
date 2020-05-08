@@ -7,7 +7,7 @@ comments:   true
 tags:       [Piráti, sněmovna, digitalizace, egovernment]
 img:        piratske-digitalni-cesko.jpg
 author:     Ondřej Profant
-featured:   True
+featured:   true
 video:      https://www.youtube.com/embed/v4Gwx4apIdo
 ---
 

@@ -6,7 +6,7 @@ categories: Bezpečnost
 comments:   true
 tags:       [Bezpečnost, Zdraví]
 img:        chytra-karantena.jpg
-featured:   True
+featured:   true
 author:     Ondřej Profant
 ---
 

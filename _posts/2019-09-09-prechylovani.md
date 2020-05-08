@@ -6,6 +6,7 @@ categories: Piráti
 comments:   true
 tags:       [Piráti, příjmení, matriky, jména, ová]
 img:        prechylovani.jpg
+featured:   true
 author:     Ondřej Profant
 ---
 
