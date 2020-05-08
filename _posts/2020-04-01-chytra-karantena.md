@@ -6,6 +6,7 @@ categories: Bezpečnost
 comments:   true
 tags:       [Bezpečnost, Zdraví]
 img:        chytra-karantena.jpg
+featured:   True
 author:     Ondřej Profant
 ---
 
@@ -30,7 +31,7 @@ Tohle je základní a nejdůležitější proces. Vidíme z něj, že Chytrá ka
 
 ### Další aplikace
 
-Dílčí součastí Chytré karantény jsou také mobilní aplikace **Mapy.cz** a eRouška. První jmenovaná je dobře známá a má v ČR mnoho uživatelů. Ta vám opět nabídne možnost dobrovolně sledovat polohu. Tu sleduje na základě GPS a Wifi. 
+Dílčí součastí Chytré karantény jsou také mobilní aplikace **Mapy.cz** a eRouška. První jmenovaná je dobře známá a má v ČR mnoho uživatelů. Ta vám opět nabídne možnost dobrovolně sledovat polohu. Tu sleduje na základě GPS a Wifi.
 
 Aplikace **eRouška** funguje na základě technologie bluetooth. Skrze bluetooth zkoumá, zda jsou po okolí další přístroje s touto aplikací. V případě, že držitel zjistí, že je roznašeč, následuje proces vyhodnocení, s kým vším se potkal a zda to setkání mělo vyšší pravděpodobnost přenosu (byli spolu déle). Samozřejmě aplikace opět není povinná a funguje jen, když máte zapnutý bluetooth. Skvělé na této aplikaci je, že se nejedná o black box. Její [**zdrojový kód je zveřejněn**](https://github.com/covid19cz/).
 
