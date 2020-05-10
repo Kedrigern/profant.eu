@@ -102,4 +102,4 @@ Další významné akce, kterých jsem se v listopadu zúčastnil mimo Sněmovnu
 
 ---
 
-[<<<< Předchozí report (ZHMP 2015-2017)](https://www.profant.eu/2019/transparentni-report-000-zhmp.html) | [Další report (leden 2018 - březen 2018) >>>>](https://www.profant.eu/2018/transparentni-report-002.html)
+[<<<< Předchozí report (ZHMP 2015-2017)](https://www.profant.eu/2017/transparentni-report-000-zhmp.html) | [Další report (leden 2018 - březen 2018) >>>>](https://www.profant.eu/2018/transparentni-report-002.html)
