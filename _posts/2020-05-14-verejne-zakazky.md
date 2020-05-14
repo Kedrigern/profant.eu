@@ -9,9 +9,11 @@ img:        profant-bartos2.jpg
 author:     Ondřej Profant
 ---
 
-Vláda chtěla v režimu legislativní nouze projednat [novelu Zákona o zadávání veřejných zakázek](https://www.psp.cz/sqw/historie.sqw?o=8&T=862). Ta výrazným způsobem rozvolňuje pravidla pro nákup zboží a služeb i mimo nouzový stav. Přitom již dnes je možné v odůvodněných případech nakupovat bez soutěže a téměř bez formalit. Díky tlaku opozice a veřejnosti nakonec zákon ve zrychleném režimu projednáván nebude, to ale neznamená, že byl stáhnut. Zřejmě bude řádně projednán na některé z příštích schůzí.  Pojďme se tedy podívat na to, co přesně vláda navrhuje, a jak se to budeme pozměňovacími návrhy snažit změnit.
+Vláda chtěla v režimu legislativní nouze projednat novelu Zákona o zadávání veřejných zakázek. Ta výrazným způsobem rozvolňuje pravidla pro nákup zboží a služeb i mimo nouzový stav. Přitom již dnes je možné v odůvodněných případech nakupovat bez soutěže a téměř bez formalit. Díky tlaku opozice a veřejnosti nakonec zákon ve zrychleném režimu projednáván nebude, to ale neznamená, že byl stáhnut. Zřejmě bude řádně projednán na některé z příštích schůzí.  Pojďme se tedy podívat na to, co přesně vláda navrhuje, a jak se to budeme pozměňovacími návrhy snažit změnit.
 
 <!--more-->
+
+[Předložená novela Zákona o zadávání veřejných zakázek](https://www.psp.cz/sqw/historie.sqw?o=8&T=862)
 
 Je jasné, že v mimořádných situacích je potřeba, aby vláda mohla rychle a bez formalit nakoupit například ochranné pomůcky. Jenže přesně pro tyto situace tu je nouzový stav. A když nouzový stav není, měla by se vláda řídit zákonem a dodržovat alespoň základní pravidla - ověřit si, že ví, od koho nakupuje, a že firma má alespoň nějakou odbornost.
 
