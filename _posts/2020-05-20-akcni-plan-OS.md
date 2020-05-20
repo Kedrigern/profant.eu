@@ -18,7 +18,9 @@ Akční plán pro boj s vendor lock-inem a rozšíření využití open source v
 
 První polovina plánu se točí okolo pojmu **open source**. Vysvětluje postupy a fáze zadávání veřejných zakázek pro projekty s otevřeným kódem - od projektového záměru, přes soutěž,  implementaci až po provoz projektu. Dále nabízí způsoby, jak lze kódy mezi sebou sdílet.
 Následně jsou detailně rozebírány vlastnosti otevřeného softwaru, včetně jeho pozitiv, negativ, finančních aspektů a překážek a mýtů o jeho používání. Součástí jsou i právní analýzy smluv, metodika řešení veřejných zakázek a další doporučení. Zvláštní pozornost je pak věnována využití open source jako prostředku pro předejití proprietárního uzavření k jednomu dodavateli (tzv. vendor lock-in).
+
 V druhé polovině plánu je pak detailně rozebírán právě **vendor lock-in**. Je to jev, kdy je zadavatel zásadně ovlivněn („svázán“, „uzamčen“) při rozvoji stávajícího řešení nebo pořízení nového řešení, a to na základě svého dřívějšího rozhodnutí. Jde o rozšířený jev - podle průzkumu z roku 2015 se v této situaci ocitá 42 % zadavatelů napříč EU. Jsou zde rozebrány jeho formy i způsoby, jak mu předcházet za pomoci open source software. V dokumentu popisujeme, jak lze pomocí open source systémů zlepšit svou infrastrukturu a ještě ušetřit nemalé finanční prostředky na základě mnoha případů v ČR i zahraničí.
+
 V přílohách plánu jsou obsaženy příklady **dobré praxe ve využití open source** v české státní správě (např. na Ministerstvu vnitra, v Českém telekomunikačním úřadě, v Kraji Vysočina i v Národní technické knihovně) i jinde (v T-mobilu, francouzském četnictvu či v norské samosprávě).
 
 
