@@ -37,14 +37,22 @@ Na začátku mého působení v zastupitelstvu byla Praha rukojmím provozovatel
 
 **Otevřená data**
 
-V návaznosti na [Teze digitální stategie](https://praha.pirati.cz/rada-digitalni-strategie.html) jsem prosadil spuštění pražského [portálu otevřených dat](http://opendata.praha.eu/). Tento portál se následně stal vzorem pro další kraje a obdržel i ocenění Otevřeno.
+V návaznosti na [Teze digitální stategie](https://praha.pirati.cz/rada-digitalni-strategie.html) jsem prosadil spuštění pražského [portálu otevřených dat](http://opendata.praha.eu/). Otevřená data jsou v dnešní době už téměř nezbytnou pomůckou pro efektivní řízení moderní metropole. Díky otevřeným datům se dá lépe pracovat na zlepšování veřejných služeb a transparence veřejné správy, otevřená data zároveň poskytují nové pracovní příležitosti a s nimi i nové produkty a služby. Pražský portál se následně stal vzorem pro další kraje a obdržel i ocenění Otevřeno.
 
 **Založení Otevřených měst**
 
 Podílel jsem se na vzniku spolku [Otevřená města](https://otevrenamesta.cz/), který slouží ke sdílení zkušeností mezi obcemi a k rozvoji společných projektů. Smyslem těchto společných projektů je zrychlení a zefektivnění fungování úřadu, zlepšení transparentního rozhodování, zvýšení participace a zavádění otevřených dat a svobodného software.
 
+**Kritika pojetí Smart Cities**
+
+Ačkoliv je představa moderního a chytře spravovaného města tématem, na kterém se politici zpravidla shodnou, v podání vládnoucí koalice bylo ale naplňování konceptu Smart Cities dost nešťastné. Byl jsem [hlavním kritikem](https://praha.pirati.cz/smart-cities-podle-piratu.html) nefunkčních a předražených řešení (předražené chytré koše a lavičky, podivná zakázka na wifi na Petříně a další) a poukazoval jsem na zneužívání projektů Smart Cities jako nástroje k přerozdělování veřejných zakázek v oblasti IT.
+
 **Upozornění na bezpečnostní riziko rádiového systému**
 
 [Odhalil jsem](https://praha.pirati.cz/odposlouchavani.html), že Praha používá zcela nezabezpečený systém komunikace mezi složkami záchranného systému a policie. Za pomoci rádia za 300 korun ho mohl odposlouchávat v podstatě kdokoliv. Město svoji chybu přiznalo a slíbilo nápravu.
+
+**Hájení zájmů pražských obyvatel**
+
+Jako opoziční zastupitel jsem se ze všech sil a všemi dostupnými prostředky snažil hájit zájmy Pražanů. Například [jsem usiloval o zachování Libeňského mostu](https://praha.pirati.cz/libensky-most.html) nebo o [záchranu sídliště Písnice](https://praha.pirati.cz/pisnicti-pres-palubu.html).
 
 [Další report (říjen 2017 - prosinec 2017) >>>>](https://www.profant.eu/2018/transparentni-report-001.html)
