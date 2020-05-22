@@ -2,7 +2,7 @@
 layout:     post
 title:      "Nový zákon o veřejných zakázkách chce umožnit malé domů do daňových rájů"
 date:       2020-05-14
-categories: Sněmovna  
+categories: Zakázky  
 comments:   true
 tags:       [veřejné zakázky]
 img:        profant-bartos2.jpg
