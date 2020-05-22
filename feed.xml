@@ -1,7 +1,77 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="https://www.profant.eu/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.profant.eu/" rel="alternate" type="text/html" /><updated>2020-05-20T10:39:46+00:00</updated><id>https://www.profant.eu/feed.xml</id><title type="html">Profant</title><subtitle>Zápisník pirátského poslance Ondřeje Profanta, který se zaměřuje na opendata, e-government, digitalizaci společnosti a kybernetickou bezpečnost.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="https://www.profant.eu/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.profant.eu/" rel="alternate" type="text/html" /><updated>2020-05-22T11:46:15+00:00</updated><id>https://www.profant.eu/feed.xml</id><title type="html">Profant</title><subtitle>Zápisník pirátského poslance Ondřeje Profanta, který se zaměřuje na opendata, e-government, digitalizaci společnosti a kybernetickou bezpečnost.
 Rád bych byl, aby Česká republika byla moderním státem s rozvinutou digitální ekonomikou, kde je kladen silný důraz na vzdělávání a svobodu.
 V digitalizaci se musíme inspirovat ve Velké Britanii, Dánsku a Estonsku, řešení musí být otevřená, uživatelsky přívětivá a ohleduplná k soukromí.
-</subtitle><author><name>Ondřej Profant</name></author><entry><title type="html">Akční plán pro boj s vendor lock-inem a rozšíření využití open source ve veřejné správě</title><link href="https://www.profant.eu/2020/akcni-plan-OS.html" rel="alternate" type="text/html" title="Akční plán pro boj s vendor lock-inem a rozšíření využití open source ve veřejné správě" /><published>2020-05-20T00:00:00+00:00</published><updated>2020-05-20T00:00:00+00:00</updated><id>https://www.profant.eu/2020/akcni-plan-OS</id><content type="html" xml:base="https://www.profant.eu/2020/akcni-plan-OS.html">&lt;p&gt;Dokumentu, vydanému Piráty ve spolupráci s odborníky z Ústavu práva a technologií Právnické fakulty Masarykovy univerzity v Brně v minulém roce, se dostalo kladného přijetí. Kromě pozitivních ohlasů ve státní správě a open source komunitě ho jako součást svého programu digitální;Česko vzala na vědomí i Rada vlády pro informační společnost (RVIS). Nyní chystáme jeho aktualizaci.&lt;/p&gt;
+</subtitle><author><name>Ondřej Profant</name></author><entry><title type="html">Fakta a mýty o veřejných zakázkách (nejen) v době krize</title><link href="https://www.profant.eu/2020/ct24-90.html" rel="alternate" type="text/html" title="Fakta a mýty o veřejných zakázkách (nejen) v době krize" /><published>2020-05-22T00:00:00+00:00</published><updated>2020-05-22T00:00:00+00:00</updated><id>https://www.profant.eu/2020/ct24-90</id><content type="html" xml:base="https://www.profant.eu/2020/ct24-90.html">&lt;p&gt;Veřejné zakázky se po čase opět dostaly do středu pozornosti, když se vláda se pokusila během 2 dnů protlačit novelu zákona o zadávání veřejných zakázek (ZZVZ). Tato snaha narazila na tvrdý odpor opozice i odborné veřejnosti. Díky tomu také vláda návrh pozastavila, i když jen dočasně.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;Je dobře, že se o zakázkách začíná více mluvit, jde o velmi důležité téma - každý rok jimi proteče neuvěřitelných 10% HDP, tedy přes 600 miliard. Skrze zakázky se také realizuje drtivá většina korupčních praktik - posledním takovým případem je kauza &lt;a href=&quot;https://www.irozhlas.cz/zpravy-domov/bylo-vseobecne-zadouci-aby-byla-mafra-ceske-drahy-utratily-za-reklamu-v-mediich_2005200555_ace?fbclid=IwAR3lMgCHqLik7O_KUWx2rBKhkkrepmQwBOhOKZ5i6wFp71XRYHGOComXRmo&quot;&gt;MAFRA a Česká dráhy&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Téma se dostalo médií včetně pořadu 90’ ČT24, kde jsem byl jedním z hostů. Jelikož jsem díky formátu pořadu neměl příležitost reagovat na všechny řečníky, doplňuji několik dalších postřehů, které v pořadu nezazněly, ač by podle mého názoru zaznít měly:&lt;/p&gt;
+
+&lt;p&gt;##Karel Havlíček o centrálním nákupu zdravotnických pomůcek:&lt;/p&gt;
+
+&lt;p&gt;Správa státních hmotných rezerv centrálně nakoupí zásoby pro ministerstva a kraje pro případ druhé vlny nebo další pandemie – na dva měsíce. Dále bude SSHR sloužit jako centrální nákupní orgán pro tyto organizace pro jejich operativní potřeby.&lt;/p&gt;
+
+&lt;p&gt;Nákup zásob na dva měsíce má podle ministra vypadat takto:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Zásoby na 1. měsíc budou soutěženy přímo jako hotové výrobky,&lt;/li&gt;
+  &lt;li&gt;Zásoby na 2. měsíc budou fungovat tak, že stát koupí pouze materiál a dále bude platit dodavatelům za udržování volných kapacit, aby v případě potřeby mohli tento materiál vzít a udělat z něj požadovaný produkt.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;em&gt;Pavel Švagr v 90‘ce&lt;/em&gt;: Realizovatelnost metody pro 2. měsíc ukáže až analýza MPO, která bude do 30. 6. 2020. Jde o to, zda čeští výrobci jsou schopni takto ty výrobní kapacity udržovat u všech 13 poptávaných položek.&lt;/p&gt;
+
+&lt;p&gt;###Reakce O. P. – tento konkrétní centrální nákup:
+Vítáme snahu konečně zapojit české výrobce. Pan ministr Havlíček ale na tiskové konferenci zmiňoval snahu zapojit české výrobce pouze do té druhé fáze, tedy toho udržování výrobních kapacit.&lt;/p&gt;
+
+&lt;p&gt;Čeští výrobci musí mít šanci soutěžit i o dodávky již hotových produktů. &lt;strong&gt;Proto je klíčové, aby Státní správa hmotných rezerv (SSHR) stanovila podmínky zakázky nediskriminačně.&lt;/strong&gt; Aby se do zakázky mohlo přihlásit co nejvíce výrobců a došlo ke skutečné hospodářské soutěži.&lt;/p&gt;
+
+&lt;p&gt;I Jiří Kůs v 90‘ ČT24 (v 50. minutě) kritizoval tendr ministerstva vnitra, kde byl požadavek na nesmyslně vysoká minimální množství, což většinu českých výrobců odřízlo. Při tom šlo soutěžit třeba menší množství znovu sterilizovatelných roušek, v kombinaci s většími objednávkami ze zahraničí.&lt;/p&gt;
+
+&lt;p&gt;Případů, kdy tendr vypadá na první pohled transparentně, ale ve skutečnosti je šitý na míru jednomu dodavateli, najdeme v historii mnoho. Asi nejlépe to ilustrují zakázky na auta, kdy jsou některé parametry jako objem kufru zvoleny tak, aby se do tendru mohl přihlásit jen jediný výrobce – Škoda (např. &lt;a href=&quot;https://domaci.ihned.cz/c1-66590150-tendr-na-policejni-auta-byl-sity-na-miru-skode-auto-naznacuje-antimonopolni-urad-vyberove-rizeni-za-miliardy-zrusil&quot;&gt;zde&lt;/a&gt;, &lt;a href=&quot;https://www.lidovky.cz/domov/hledame-auta-znacka-jen-skodovky-urad-pro-jadernou-bezpecnost-diskriminoval-dodavatele.A170731_145019_ln_domov_ele&quot;&gt;zde&lt;/a&gt;).&lt;/p&gt;
+
+&lt;p&gt;###Reakce O. P. – centrální nákup obecně:
+Podporujeme myšlenku centrálního nákupu, který ušetří administrativu na úřadech a může vést i ke zvýšení kvality a snížení ceny (v závislosti na schopnostech centrálního nákupního orgánu).&lt;/p&gt;
+
+&lt;p&gt;Stát by se měl inspirovat Rakouskem, kde pro úřady, města či obce funguje „e-shop“ s běžně poptávanými produkty (od papíru přes PC až po energie a auta). Centrální zadavatel vysoutěží rámcovou smlouvu na určitý produkt a úřady si jej mohou za několik kliků objednat, čímž ušetří ohromné množství administrativy. A přitom je vše transparentní a v souladu se zákonem, protože produkt byl řádně vysoutěžen.&lt;/p&gt;
+
+&lt;p&gt;Na výboru pro veřejnou správu jsem proto navrhoval změnu zákona o veřejných zakázkách, která by takovéto centrální nakupování umožnila i u nás (jde o vyškrtnutí části § 9, více info např. &lt;a href=&quot;http://blog.aktualne.cz/blogy/jiri-skuhrovec.php?itemid=36812&quot;&gt;na blogu Jiřího Skuhrovce&lt;/a&gt;). Bohužel, návrh na Výboru pro veřejnou správu přes poslance vládního hnutí ANO neprošel.&lt;/p&gt;
+
+&lt;p&gt;Současné snahy o centrální nákup jsou i díky nekompatibilnímu zákonu limitované, a často chybí dostatečná konkurence, což křiví tržní prostředí - viz třeba &lt;a href=&quot;https://www.profant.eu/2020/ramcove-dohody-mvcr.html&quot;&gt;centrální nákup některých IT služeb na MV&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;##Předseda Státní správy hmotných rezerv k ZZVZ:
+Současný zákon nám neumožňuje potřebné věci rychle a napřímo nakoupit, uvítali bychom výjimku.
+###Reakce O. P.:
+Nesouhlasím. Zákon už dnes pamatuje na situace, kdy je třeba jednat rychle. Existují dokonce dvě výjimky, při jejichž použití není třeba vypisovat otevřenou soutěž, dodržovat lhůty apod. Použití obou těchto výjimek v době koronavirové krize &lt;a href=&quot;https://ekonomickydenik.cz/nouzovem-stavu-lze-nakupovat-i-jrbu-i-ma-sva-pravidla/&quot;&gt;připouští&lt;/a&gt; i ÚOHS ve svém stanovisku.&lt;/p&gt;
+
+&lt;p&gt;V první řadě, v tuto chvíli nic nebrání SSHR vypsat řádné výběrové řízení i se všemi lhůtami a nakupovat podle běžných pravidel. V případě náznaku, že se pandemie vrací v tzv. druhé vlně, toto výběrové řízení přerušit a začít s nákupy „na přímo“, například od uchazečů přihlášených do původního výběrového řízení. Takový postup by byl v souladu se zákonem.&lt;/p&gt;
+
+&lt;p&gt;Alternativně může část zásob nakoupit rovnou na přímo, podle platných výjimek, a zbytek soutěžit.&lt;/p&gt;
+
+&lt;p&gt;V současné situaci jsou použitelné nejméně dvě výjimky:&lt;/p&gt;
+
+&lt;p&gt;####Výjimka podle § 29 písm. a) ZZVZ (ochrana bezpečnostních zájmů ČR)&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Tato výjimka umožňuje zadat zakázku zcela mimo zadávací řízení. Musejí být splněny dva předpoklady, tedy ohrožení bezpečnostních zájmů a nemožnost řešit situaci jinak. Pokud jde o bezpečnostní zájem, tak podle článku 1 ústavního zákona o bezpečnosti je bezpečnostním zájmem mimo jiné i ochrana životů a zdraví obyvatel - tato podmínka je tedy splněna, ostatně i odborná literatura z doby před pandemií zmiňuje jako příklad právě situaci šíření nakažlivé nemoci. Pokud jde o bod 2, záleží na možnostech zadavatele - tvrdí-li předseda SSHR, že situace je podle současného zákona neřešitelná, potvrzuje tím oprávněnost použití této výjimky.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Z této výjimky také vyplývá zbytečnost novely ZZVZ, která byla vládou navržena minulý týden.&lt;/strong&gt; Pokud skutečně dojde k ohrožení zdraví obyvatel, úřady skutečně nemusí ověřovat kvalifikaci či dohledávat konečné vlastníky, jak si přeje vláda. Novela však takovou možnost zaváděla nejen pro mimořádné situace, ale plošně.
+####Výjimka podle § 63 odst. 5 ZZVZ (JŘBU v důsledku krajně naléhavé okolnosti, kterou zadavatel nemohl předvídat)&lt;/li&gt;
+  &lt;li&gt;Zatímco první výjimka míří na situace, kdy skutečně “hoří“ a celý zákon prakticky vypíná, tato druhá výjimka je mírnější, ale lze ji použít v širším okruhu situací. V jednacím řízení bez uveřejnění (JŘBU) některé podmínky splněny být musejí (např. ověření kvalifikace, ověření konečného vlastníka), ale stále je zde možnost napřímo oslovit konkrétního dodavatele.&lt;/li&gt;
+  &lt;li&gt;Na druhou stranu jsou zde širší možnosti použití - aby se dalo použít JŘBU, musí být splněny 3 předpoklady:
+1) použití JŘBU je nezbytné v důsledku krajně naléhavé okolnosti
+2) zadavatel tuto okolnost nemohl předvídat a ani ji nezpůsobil a
+3) nelze dodržet lhůty pro otevřené řízení, užší řízení nebo jednací řízení s uveřejněním.&lt;/li&gt;
+  &lt;li&gt;Jinak řečeno, pro použití této výjimky nemusí “hořet,” stačí pouze prokázat, že situace je krajně naléhavá. Pokud reálně hrozí druhá vlna pandemie, myslím, že o krajní naléhavosti nemůže být sporu.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Ještě je na závěr potřeba dodat, že ani jedna ze dvou citovaných výjimek není jakkoliv napojená na nouzový stav, to znamená, že je lze samozřejmě používat i nadále po 17. květnu.
+##JUDr. Vlastimil Fidler, ředitel odboru práva veřejných zakázek MMR, k novele ZZVZ
+Je potřeba si vybrat, zda v kritických chvílích nepotlačíme transparentnost.
+###Reakce O. P.
+Jak už bylo výše řečeno, zákon  toto umí, když v kritických chvílích lze potlačit nejen transparentnost, ale v podstatě všechny záruky a požadavky zákona (viz výše uvedená výjimka č. 1).&lt;/p&gt;
+
+&lt;p&gt;Zákon, který předložila vláda v nouzovém režimu, se ale netýkal “kritických chvílí“. Zákon měnil pravidla nejen pro JŘBÚ trvale, a to nejen pro ty, která se konají z důvodu krajní naléhavosti, ale třeba i pro ty, kde existuje pouze jediný možný dodavatel. Potlačili bychom tak transparentnost nejen nákupů akutně potřebného zdravotnického vybavení, ale třeba i nákupy IT softwaru v případě tzv. &lt;a href=&quot;https://www.pirati.cz/assets/pdf/Ak%C4%8Dn%C3%AD%20pl%C3%A1n%20open%20source%201.0.pdf&quot;&gt;vendor lock-inu&lt;/a&gt;, kdy z povahy věci (vlivem předchozího postupu úřadu) existuje jen jeden dodavatel. A vůbec už nehovořím o tom, že situace “jediného možného dodavatele“ je možné vytvořit uměle, viz výše citovaný příklad s požadavkem na objem kufru automobilů.&lt;/p&gt;
+
+&lt;p&gt;Ministerstvo pro místní rozvoj, a zejména pan magistr Fidler jakožto ředitel odboru práva veřejných zakázek, jsou odpovědní za současný zákon - jsou jeho autory, vydávají metodiky k jeho výkladu a připravují pravidelné novely. Pokud oni sami tvrdí, že se podle něj nedají nakupovat léky, pak kritizují především sami sebe.&lt;/p&gt;</content><author><name>Ondřej Profant, Bára Soukupová</name></author><category term="veřejné zakázky" /><summary type="html">Veřejné zakázky se po čase opět dostaly do středu pozornosti, když se vláda se pokusila během 2 dnů protlačit novelu zákona o zadávání veřejných zakázek (ZZVZ). Tato snaha narazila na tvrdý odpor opozice i odborné veřejnosti. Díky tomu také vláda návrh pozastavila, i když jen dočasně.</summary></entry><entry><title type="html">Akční plán pro boj s vendor lock-inem a rozšíření využití open source ve veřejné správě</title><link href="https://www.profant.eu/2020/akcni-plan-OS.html" rel="alternate" type="text/html" title="Akční plán pro boj s vendor lock-inem a rozšíření využití open source ve veřejné správě" /><published>2020-05-20T00:00:00+00:00</published><updated>2020-05-20T00:00:00+00:00</updated><id>https://www.profant.eu/2020/akcni-plan-OS</id><content type="html" xml:base="https://www.profant.eu/2020/akcni-plan-OS.html">&lt;p&gt;Dokumentu, vydanému Piráty ve spolupráci s odborníky z Ústavu práva a technologií Právnické fakulty Masarykovy univerzity v Brně v minulém roce, se dostalo kladného přijetí. Kromě pozitivních ohlasů ve státní správě a open source komunitě ho jako součást svého programu digitální;Česko vzala na vědomí i Rada vlády pro informační společnost (RVIS). Nyní chystáme jeho aktualizaci.&lt;/p&gt;
 
 &lt;!--more--&gt;
 &lt;p&gt;Akční plán pro boj s vendor lock-inem a rozšíření využití open source ve veřejné správě lze stáhnout &lt;a href=&quot;https://www.profant.eu/assets/pdf/akcni-plan-opensource-v3.pdf&quot;&gt;zde&lt;/a&gt;.&lt;/p&gt;
@@ -936,36 +1006,4 @@ Velmi chutné dochucení je směs jarní cibulky, olivového oleje, zázvoru a s
 
 &lt;p&gt;A hlavně se nenechte převálcovat všudypřítomným stresem a panikou. Nezapomeňte si dopřávat věci, které máte rádi - ať už je to horké kakao, chutné jídlo, teplá sprcha nebo oblíbená hra.&lt;/p&gt;
 
-&lt;p&gt;Více informací v článku na &lt;a href=&quot;https://denikn.cz/317063/karantena-ukaze-jakou-mame-povahu-je-to-prilezitost-k-sebepoznani-rika-psycholog-spok/&quot;&gt;Deníku N&lt;/a&gt;.&lt;/p&gt;</content><author><name>Ondřej Profant</name></author><category term="Zdraví" /><summary type="html">Současná omezení jsou nezbytná, ale zároveň silně omezující. Ekonomické dopady budou znát, ale děláme to pro zdraví nás všech. Dnes bych se chtěl ale zaměřit na pozitivnější stránky věci, a třeba i inspirovat další. Pojďme se podívat, jak vydržet karanténu!</summary></entry><entry><title type="html">Czechiana: Další selhání Digitálního Česka</title><link href="https://www.profant.eu/2020/czechiana.html" rel="alternate" type="text/html" title="Czechiana: Další selhání Digitálního Česka" /><published>2020-03-03T00:00:00+00:00</published><updated>2020-03-03T00:00:00+00:00</updated><id>https://www.profant.eu/2020/czechiana</id><content type="html" xml:base="https://www.profant.eu/2020/czechiana.html">&lt;p&gt;Po e-shopu na dálniční známky se na veřejnost dostal další podezřelý IT projekt - Kulturní portál Czechiana. Spojuje je cena lehce pod půl miliardy, nedostatečná informovanost veřejnosti a mlžení či mlčení ministerstev. V článku mapuji vývoj Czechiany od okamžiku, kdy jsme na ni narazili, až po její zrušení. Nedávné kauzy také ukazují na hlubší a systémový problém státní správy - chybí kontrolní mechanismy pro velké IT projekty. To by přitom měl být jeden ze základních úkolů projektu Digitální Česko.&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;p&gt;Na Czechianu jsme přišli v rámci zkoumání projektů Digitálního Česka a přípravě článku pro web Svět chytře, kde shrnuji problematické IT systémy, kterými je česká státní správa zatížena (článek by měl vyjít v řádu dnů).&lt;/p&gt;
-
-&lt;p&gt;Czechiana měla být portálem s digitalizovanými kulturními památkami české historie. Problémem se zdála být duplicita a zbytečnost projektu, protože již nyní kulturní instituce data vytváří, archivují a posílají do Europeany. &lt;a href=&quot;https://www.europeana.eu/portal/cs&quot;&gt;Europeana&lt;/a&gt; je evropský portál kulturního dědictví, kde najdete spoustu fotografií a uměleckých děl ze sbírek evropských kulturních institucí.&lt;/p&gt;
-
-&lt;p&gt;Pokud by Czechiana byla jen vložená vrstva s jednotným vyhledáváním, šlo by o zcela nadbytečný mezičlánek. Dané prostředky by se spíše měly rozdat kulturním institucím, které své sbírky digitalizují, na posílení jejich infrastruktury.&lt;/p&gt;
-
-&lt;p&gt;Chtěl jsem, aby Ministerstvo kultury tato podezření buď potvrdilo, nebo vyvrátilo. Na konci ledna jsem jim proto poslal dopis s žádostí o vysvětlení a popis funkcionalit, které Czechiana bude mít nad rámec Europeany. Ptal jsem se například na následující skutečnosti:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Jaké funkcionality Czechiana oproti Europeaně navíc nabízí? A znamená její zřízení nějakou dodatečnou administrativní zátěž pro jednotlivé sektorové agregátory (pozn. kulturní instituce)? A jaké jsou celkové náklady na zřízení Czechiany (oproti stavu, kdy by data byla posílána pouze do Europeany)?&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Na tyto své velmi konkrétní otázky jsem odpověď zatím neobdržel. Přitom jde o klíčové otázky, které by vyjasnily, do jaké míry byla Czechiana skutečně předražená. Každopádně předpokládám, že odpovědi už ani neobdržím. Lubomír Zaorálek (ČSSD) totiž jen tři dny po &lt;a href=&quot;https://archiv.ihned.cz/c1-66725020-ministerstvo-pripravuje-za-pul-miliardy-portal-kulturnich-pamatek-podobny-pritom-uz-vytvorila-evropska-unie&quot;&gt;publikaci článku HN&lt;/a&gt; oznámil, že projekt ruší.&lt;/p&gt;
-
-&lt;p&gt;Na jeho tiskové konferenci také vyplynulo, jak špatně byl celý projekt od samého začátku veden. Projekt připravovaný od roku 2015 měl na starosti jen jeden zaměstnanec a jinak jej kompletně outsourcovala advokátní kancelář Rowan Legal. Ano, ta samá Rowan Legal, jejíž právník údajně nabídl před Vánoci &lt;a href=&quot;https://archiv.ihned.cz/c1-66725080-nekomu-jsem-vadil-odmital-jsem-se-podridit-vlivu-zajmovych-skupin-rika-exministr-dopravy-kremlik&quot;&gt;ministru Kremlíkovi úplatek 1,5 milionu korun&lt;/a&gt;. Navic prý ministrovi kultury nebyl nikdo schopný pořádně vysvětlit, proč se takový nákladný projekt vůbec připravuje. K Czechianě se nehlásí ani bývalý ministr kultury Antonín Staněk, ani jeho předchůdce Daniel Herman. To snad ani nepotřebuje komentář.&lt;/p&gt;
-
-&lt;p&gt;Je ale potřeba ocenit Lubomíra Zaorálka za to, jak se k projektu postavil. To je v přímém kontrastu s reakcí Vladimíra Kremlíka (ANO), který se v kauze e-shopu za 401 milionů ze začátku držel spíše jen pravidla zatloukat.&lt;/p&gt;
-
-&lt;p&gt;Ještě dodejme, že rozpočet projektu byl 449,5 milionu korun, částečně ho měly zaplatit evropské fondy. Veřejná zakázka byla na 269 milionů korun bez DPH. Tato částka měla jít z evropských peněz, ze státního rozpočtu se počítalo s přibližně 160 miliony korun.&lt;/p&gt;
-
-&lt;p&gt;Aktualizace z března 2020: Poté, co Lubomír Zaorálek oznámil zrušení zakázky, jsem na ministerstvo kultury poslal žádost o informace, kolik již bylo vynaloženo prostředků na přípravu Czechiany. Ministerstvo odpovědělo, že advokátní kanceláři Rowan Legal bylo vyplaceno 515 tisíc korun a dále byly utraceny 4 tisíce na tvorbu plakátu v rámci povinné publicity. Dalších 499 tisíc korun tvořily ostatní osobní náklady, které ministerstvo dále nerozvedlo.&lt;/p&gt;
-
-&lt;h2 id=&quot;jak-se-to-celé-mohlo-stát&quot;&gt;Jak se to celé mohlo stát?&lt;/h2&gt;
-
-&lt;p&gt;Kromě notorického problému české státní správy, kterým je nekompetentnost a nízká motivace úředníků, vidím problém také v selhání vládního programu Digitální Česko. Jen pár minut před zrušením projektu prohlásil v Radiožurnálu vládní zmocněnec pro digitalizaci Vladimír Dzurilla, že vlastně neví, k čemu má Czechiana sloužit. Že to je věc Ministerstva kultury, že oni projekt řešili jen “z pohledu IT, z pohledu celého nastavení a toho, jak je to všechno propojováno”. To ale nestačí, obvykle je důležitější poctivá analýza procesů a jejich nové navržení tak, aby byl projekt digital born. Tedy aby nedošlo pouze k elektronizaci již existujících procesů, které ale byly navrženy pro offline prostředí a neberou v potaz nové možnosti, které s digitalizací přichází.&lt;/p&gt;
-
-&lt;p&gt;Od Digitálního Česka bych ale přinejmenším očekával, že bude zjevně předražené a zbytečné projekty podchycovat a bránit jejich vzniku. Případy z posledních týdnů (Czechiana, e-shop na známky) ukazují, že v tomto Digitální Česko totálně selhává. A opět musí roli státu nahrazovat média, odborná veřejnost a opoziční politici.&lt;/p&gt;
-
-&lt;p&gt;Digitální Česko se chlubí vytvářením kvanta metodik a koncepcí k digitalizaci české státní správy. Kauzy s e-shopem na dálniční známky a Czechiana ale naplno ukázaly, že vytvářet metodiky, které úředníci buďto nechápou nebo se jimi neřídí, prostě nestačí.&lt;/p&gt;</content><author><name>Ondřej Profant</name></author><category term="egovernment" /><category term="digitalizace" /><summary type="html">Po e-shopu na dálniční známky se na veřejnost dostal další podezřelý IT projekt - Kulturní portál Czechiana. Spojuje je cena lehce pod půl miliardy, nedostatečná informovanost veřejnosti a mlžení či mlčení ministerstev. V článku mapuji vývoj Czechiany od okamžiku, kdy jsme na ni narazili, až po její zrušení. Nedávné kauzy také ukazují na hlubší a systémový problém státní správy - chybí kontrolní mechanismy pro velké IT projekty. To by přitom měl být jeden ze základních úkolů projektu Digitální Česko.</summary></entry></feed>
+&lt;p&gt;Více informací v článku na &lt;a href=&quot;https://denikn.cz/317063/karantena-ukaze-jakou-mame-povahu-je-to-prilezitost-k-sebepoznani-rika-psycholog-spok/&quot;&gt;Deníku N&lt;/a&gt;.&lt;/p&gt;</content><author><name>Ondřej Profant</name></author><category term="Zdraví" /><summary type="html">Současná omezení jsou nezbytná, ale zároveň silně omezující. Ekonomické dopady budou znát, ale děláme to pro zdraví nás všech. Dnes bych se chtěl ale zaměřit na pozitivnější stránky věci, a třeba i inspirovat další. Pojďme se podívat, jak vydržet karanténu!</summary></entry></feed>
