@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="https://www.profant.eu/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.profant.eu/" rel="alternate" type="text/html" /><updated>2020-05-22T11:46:15+00:00</updated><id>https://www.profant.eu/feed.xml</id><title type="html">Profant</title><subtitle>Zápisník pirátského poslance Ondřeje Profanta, který se zaměřuje na opendata, e-government, digitalizaci společnosti a kybernetickou bezpečnost.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="https://www.profant.eu/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.profant.eu/" rel="alternate" type="text/html" /><updated>2020-05-22T11:58:37+00:00</updated><id>https://www.profant.eu/feed.xml</id><title type="html">Profant</title><subtitle>Zápisník pirátského poslance Ondřeje Profanta, který se zaměřuje na opendata, e-government, digitalizaci společnosti a kybernetickou bezpečnost.
 Rád bych byl, aby Česká republika byla moderním státem s rozvinutou digitální ekonomikou, kde je kladen silný důraz na vzdělávání a svobodu.
 V digitalizaci se musíme inspirovat ve Velké Britanii, Dánsku a Estonsku, řešení musí být otevřená, uživatelsky přívětivá a ohleduplná k soukromí.
 </subtitle><author><name>Ondřej Profant</name></author><entry><title type="html">Fakta a mýty o veřejných zakázkách (nejen) v době krize</title><link href="https://www.profant.eu/2020/ct24-90.html" rel="alternate" type="text/html" title="Fakta a mýty o veřejných zakázkách (nejen) v době krize" /><published>2020-05-22T00:00:00+00:00</published><updated>2020-05-22T00:00:00+00:00</updated><id>https://www.profant.eu/2020/ct24-90</id><content type="html" xml:base="https://www.profant.eu/2020/ct24-90.html">&lt;p&gt;Veřejné zakázky se po čase opět dostaly do středu pozornosti, když se vláda se pokusila během 2 dnů protlačit novelu zákona o zadávání veřejných zakázek (ZZVZ). Tato snaha narazila na tvrdý odpor opozice i odborné veřejnosti. Díky tomu také vláda návrh pozastavila, i když jen dočasně.&lt;/p&gt;
@@ -9,7 +9,7 @@ V digitalizaci se musíme inspirovat ve Velké Britanii, Dánsku a Estonsku, ře
 
 &lt;p&gt;Téma se dostalo médií včetně pořadu 90’ ČT24, kde jsem byl jedním z hostů. Jelikož jsem díky formátu pořadu neměl příležitost reagovat na všechny řečníky, doplňuji několik dalších postřehů, které v pořadu nezazněly, ač by podle mého názoru zaznít měly:&lt;/p&gt;
 
-&lt;p&gt;##Karel Havlíček o centrálním nákupu zdravotnických pomůcek:&lt;/p&gt;
+&lt;h2 id=&quot;karel-havlíček-o-centrálním-nákupu-zdravotnických-pomůcek&quot;&gt;Karel Havlíček o centrálním nákupu zdravotnických pomůcek:&lt;/h2&gt;
 
 &lt;p&gt;Správa státních hmotných rezerv centrálně nakoupí zásoby pro ministerstva a kraje pro případ druhé vlny nebo další pandemie – na dva měsíce. Dále bude SSHR sloužit jako centrální nákupní orgán pro tyto organizace pro jejich operativní potřeby.&lt;/p&gt;
 
@@ -21,8 +21,8 @@ V digitalizaci se musíme inspirovat ve Velké Britanii, Dánsku a Estonsku, ře
 
 &lt;p&gt;&lt;em&gt;Pavel Švagr v 90‘ce&lt;/em&gt;: Realizovatelnost metody pro 2. měsíc ukáže až analýza MPO, která bude do 30. 6. 2020. Jde o to, zda čeští výrobci jsou schopni takto ty výrobní kapacity udržovat u všech 13 poptávaných položek.&lt;/p&gt;
 
-&lt;p&gt;###Reakce O. P. – tento konkrétní centrální nákup:
-Vítáme snahu konečně zapojit české výrobce. Pan ministr Havlíček ale na tiskové konferenci zmiňoval snahu zapojit české výrobce pouze do té druhé fáze, tedy toho udržování výrobních kapacit.&lt;/p&gt;
+&lt;h3 id=&quot;reakce-o-p--tento-konkrétní-centrální-nákup&quot;&gt;Reakce O. P. – tento konkrétní centrální nákup:&lt;/h3&gt;
+&lt;p&gt;Vítáme snahu konečně zapojit české výrobce. Pan ministr Havlíček ale na tiskové konferenci zmiňoval snahu zapojit české výrobce pouze do té druhé fáze, tedy toho udržování výrobních kapacit.&lt;/p&gt;
 
 &lt;p&gt;Čeští výrobci musí mít šanci soutěžit i o dodávky již hotových produktů. &lt;strong&gt;Proto je klíčové, aby Státní správa hmotných rezerv (SSHR) stanovila podmínky zakázky nediskriminačně.&lt;/strong&gt; Aby se do zakázky mohlo přihlásit co nejvíce výrobců a došlo ke skutečné hospodářské soutěži.&lt;/p&gt;
 
@@ -30,8 +30,8 @@ Vítáme snahu konečně zapojit české výrobce. Pan ministr Havlíček ale na
 
 &lt;p&gt;Případů, kdy tendr vypadá na první pohled transparentně, ale ve skutečnosti je šitý na míru jednomu dodavateli, najdeme v historii mnoho. Asi nejlépe to ilustrují zakázky na auta, kdy jsou některé parametry jako objem kufru zvoleny tak, aby se do tendru mohl přihlásit jen jediný výrobce – Škoda (např. &lt;a href=&quot;https://domaci.ihned.cz/c1-66590150-tendr-na-policejni-auta-byl-sity-na-miru-skode-auto-naznacuje-antimonopolni-urad-vyberove-rizeni-za-miliardy-zrusil&quot;&gt;zde&lt;/a&gt;, &lt;a href=&quot;https://www.lidovky.cz/domov/hledame-auta-znacka-jen-skodovky-urad-pro-jadernou-bezpecnost-diskriminoval-dodavatele.A170731_145019_ln_domov_ele&quot;&gt;zde&lt;/a&gt;).&lt;/p&gt;
 
-&lt;p&gt;###Reakce O. P. – centrální nákup obecně:
-Podporujeme myšlenku centrálního nákupu, který ušetří administrativu na úřadech a může vést i ke zvýšení kvality a snížení ceny (v závislosti na schopnostech centrálního nákupního orgánu).&lt;/p&gt;
+&lt;h3 id=&quot;reakce-o-p--centrální-nákup-obecně&quot;&gt;Reakce O. P. – centrální nákup obecně:&lt;/h3&gt;
+&lt;p&gt;Podporujeme myšlenku centrálního nákupu, který ušetří administrativu na úřadech a může vést i ke zvýšení kvality a snížení ceny (v závislosti na schopnostech centrálního nákupního orgánu).&lt;/p&gt;
 
 &lt;p&gt;Stát by se měl inspirovat Rakouskem, kde pro úřady, města či obce funguje „e-shop“ s běžně poptávanými produkty (od papíru přes PC až po energie a auta). Centrální zadavatel vysoutěží rámcovou smlouvu na určitý produkt a úřady si jej mohou za několik kliků objednat, čímž ušetří ohromné množství administrativy. A přitom je vše transparentní a v souladu se zákonem, protože produkt byl řádně vysoutěžen.&lt;/p&gt;
 
@@ -39,10 +39,10 @@ Podporujeme myšlenku centrálního nákupu, který ušetří administrativu na 
 
 &lt;p&gt;Současné snahy o centrální nákup jsou i díky nekompatibilnímu zákonu limitované, a často chybí dostatečná konkurence, což křiví tržní prostředí - viz třeba &lt;a href=&quot;https://www.profant.eu/2020/ramcove-dohody-mvcr.html&quot;&gt;centrální nákup některých IT služeb na MV&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;##Předseda Státní správy hmotných rezerv k ZZVZ:
-Současný zákon nám neumožňuje potřebné věci rychle a napřímo nakoupit, uvítali bychom výjimku.
-###Reakce O. P.:
-Nesouhlasím. Zákon už dnes pamatuje na situace, kdy je třeba jednat rychle. Existují dokonce dvě výjimky, při jejichž použití není třeba vypisovat otevřenou soutěž, dodržovat lhůty apod. Použití obou těchto výjimek v době koronavirové krize &lt;a href=&quot;https://ekonomickydenik.cz/nouzovem-stavu-lze-nakupovat-i-jrbu-i-ma-sva-pravidla/&quot;&gt;připouští&lt;/a&gt; i ÚOHS ve svém stanovisku.&lt;/p&gt;
+&lt;h2 id=&quot;předseda-státní-správy-hmotných-rezerv-k-zzvz&quot;&gt;Předseda Státní správy hmotných rezerv k ZZVZ:&lt;/h2&gt;
+&lt;p&gt;Současný zákon nám neumožňuje potřebné věci rychle a napřímo nakoupit, uvítali bychom výjimku.&lt;/p&gt;
+&lt;h3 id=&quot;reakce-o-p&quot;&gt;Reakce O. P.:&lt;/h3&gt;
+&lt;p&gt;Nesouhlasím. Zákon už dnes pamatuje na situace, kdy je třeba jednat rychle. Existují dokonce dvě výjimky, při jejichž použití není třeba vypisovat otevřenou soutěž, dodržovat lhůty apod. Použití obou těchto výjimek v době koronavirové krize &lt;a href=&quot;https://ekonomickydenik.cz/nouzovem-stavu-lze-nakupovat-i-jrbu-i-ma-sva-pravidla/&quot;&gt;připouští&lt;/a&gt; i ÚOHS ve svém stanovisku.&lt;/p&gt;
 
 &lt;p&gt;V první řadě, v tuto chvíli nic nebrání SSHR vypsat řádné výběrové řízení i se všemi lhůtami a nakupovat podle běžných pravidel. V případě náznaku, že se pandemie vrací v tzv. druhé vlně, toto výběrové řízení přerušit a začít s nákupy „na přímo“, například od uchazečů přihlášených do původního výběrového řízení. Takový postup by byl v souladu se zákonem.&lt;/p&gt;
 
@@ -50,11 +50,12 @@ Nesouhlasím. Zákon už dnes pamatuje na situace, kdy je třeba jednat rychle. 
 
 &lt;p&gt;V současné situaci jsou použitelné nejméně dvě výjimky:&lt;/p&gt;
 
-&lt;p&gt;####Výjimka podle § 29 písm. a) ZZVZ (ochrana bezpečnostních zájmů ČR)&lt;/p&gt;
+&lt;h4 id=&quot;výjimka-podle--29-písm-a-zzvz-ochrana-bezpečnostních-zájmů-čr&quot;&gt;Výjimka podle § 29 písm. a) ZZVZ (ochrana bezpečnostních zájmů ČR)&lt;/h4&gt;
 &lt;ul&gt;
   &lt;li&gt;Tato výjimka umožňuje zadat zakázku zcela mimo zadávací řízení. Musejí být splněny dva předpoklady, tedy ohrožení bezpečnostních zájmů a nemožnost řešit situaci jinak. Pokud jde o bezpečnostní zájem, tak podle článku 1 ústavního zákona o bezpečnosti je bezpečnostním zájmem mimo jiné i ochrana životů a zdraví obyvatel - tato podmínka je tedy splněna, ostatně i odborná literatura z doby před pandemií zmiňuje jako příklad právě situaci šíření nakažlivé nemoci. Pokud jde o bod 2, záleží na možnostech zadavatele - tvrdí-li předseda SSHR, že situace je podle současného zákona neřešitelná, potvrzuje tím oprávněnost použití této výjimky.&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;Z této výjimky také vyplývá zbytečnost novely ZZVZ, která byla vládou navržena minulý týden.&lt;/strong&gt; Pokud skutečně dojde k ohrožení zdraví obyvatel, úřady skutečně nemusí ověřovat kvalifikaci či dohledávat konečné vlastníky, jak si přeje vláda. Novela však takovou možnost zaváděla nejen pro mimořádné situace, ale plošně.
-####Výjimka podle § 63 odst. 5 ZZVZ (JŘBU v důsledku krajně naléhavé okolnosti, kterou zadavatel nemohl předvídat)&lt;/li&gt;
+    &lt;h4 id=&quot;výjimka-podle--63-odst-5-zzvz-jřbu-v-důsledku-krajně-naléhavé-okolnosti-kterou-zadavatel-nemohl-předvídat&quot;&gt;Výjimka podle § 63 odst. 5 ZZVZ (JŘBU v důsledku krajně naléhavé okolnosti, kterou zadavatel nemohl předvídat)&lt;/h4&gt;
+  &lt;/li&gt;
   &lt;li&gt;Zatímco první výjimka míří na situace, kdy skutečně “hoří“ a celý zákon prakticky vypíná, tato druhá výjimka je mírnější, ale lze ji použít v širším okruhu situací. V jednacím řízení bez uveřejnění (JŘBU) některé podmínky splněny být musejí (např. ověření kvalifikace, ověření konečného vlastníka), ale stále je zde možnost napřímo oslovit konkrétního dodavatele.&lt;/li&gt;
   &lt;li&gt;Na druhou stranu jsou zde širší možnosti použití - aby se dalo použít JŘBU, musí být splněny 3 předpoklady:
 1) použití JŘBU je nezbytné v důsledku krajně naléhavé okolnosti
@@ -63,15 +64,15 @@ Nesouhlasím. Zákon už dnes pamatuje na situace, kdy je třeba jednat rychle. 
   &lt;li&gt;Jinak řečeno, pro použití této výjimky nemusí “hořet,” stačí pouze prokázat, že situace je krajně naléhavá. Pokud reálně hrozí druhá vlna pandemie, myslím, že o krajní naléhavosti nemůže být sporu.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Ještě je na závěr potřeba dodat, že ani jedna ze dvou citovaných výjimek není jakkoliv napojená na nouzový stav, to znamená, že je lze samozřejmě používat i nadále po 17. květnu.
-##JUDr. Vlastimil Fidler, ředitel odboru práva veřejných zakázek MMR, k novele ZZVZ
-Je potřeba si vybrat, zda v kritických chvílích nepotlačíme transparentnost.
-###Reakce O. P.
-Jak už bylo výše řečeno, zákon  toto umí, když v kritických chvílích lze potlačit nejen transparentnost, ale v podstatě všechny záruky a požadavky zákona (viz výše uvedená výjimka č. 1).&lt;/p&gt;
+&lt;p&gt;Ještě je na závěr potřeba dodat, že ani jedna ze dvou citovaných výjimek není jakkoliv napojená na nouzový stav, to znamená, že je lze samozřejmě používat i nadále po 17. květnu.&lt;/p&gt;
+&lt;h2 id=&quot;judr-vlastimil-fidler-ředitel-odboru-práva-veřejných-zakázek-mmr-k-novele-zzvz&quot;&gt;JUDr. Vlastimil Fidler, ředitel odboru práva veřejných zakázek MMR, k novele ZZVZ&lt;/h2&gt;
+&lt;p&gt;Je potřeba si vybrat, zda v kritických chvílích nepotlačíme transparentnost.&lt;/p&gt;
+&lt;h3 id=&quot;reakce-o-p-1&quot;&gt;Reakce O. P.&lt;/h3&gt;
+&lt;p&gt;Jak už bylo výše řečeno, zákon  toto umí, když v kritických chvílích lze potlačit nejen transparentnost, ale v podstatě všechny záruky a požadavky zákona (viz výše uvedená výjimka č. 1).&lt;/p&gt;
 
 &lt;p&gt;Zákon, který předložila vláda v nouzovém režimu, se ale netýkal “kritických chvílí“. Zákon měnil pravidla nejen pro JŘBÚ trvale, a to nejen pro ty, která se konají z důvodu krajní naléhavosti, ale třeba i pro ty, kde existuje pouze jediný možný dodavatel. Potlačili bychom tak transparentnost nejen nákupů akutně potřebného zdravotnického vybavení, ale třeba i nákupy IT softwaru v případě tzv. &lt;a href=&quot;https://www.pirati.cz/assets/pdf/Ak%C4%8Dn%C3%AD%20pl%C3%A1n%20open%20source%201.0.pdf&quot;&gt;vendor lock-inu&lt;/a&gt;, kdy z povahy věci (vlivem předchozího postupu úřadu) existuje jen jeden dodavatel. A vůbec už nehovořím o tom, že situace “jediného možného dodavatele“ je možné vytvořit uměle, viz výše citovaný příklad s požadavkem na objem kufru automobilů.&lt;/p&gt;
 
-&lt;p&gt;Ministerstvo pro místní rozvoj, a zejména pan magistr Fidler jakožto ředitel odboru práva veřejných zakázek, jsou odpovědní za současný zákon - jsou jeho autory, vydávají metodiky k jeho výkladu a připravují pravidelné novely. Pokud oni sami tvrdí, že se podle něj nedají nakupovat léky, pak kritizují především sami sebe.&lt;/p&gt;</content><author><name>Ondřej Profant, Bára Soukupová</name></author><category term="veřejné zakázky" /><summary type="html">Veřejné zakázky se po čase opět dostaly do středu pozornosti, když se vláda se pokusila během 2 dnů protlačit novelu zákona o zadávání veřejných zakázek (ZZVZ). Tato snaha narazila na tvrdý odpor opozice i odborné veřejnosti. Díky tomu také vláda návrh pozastavila, i když jen dočasně.</summary></entry><entry><title type="html">Akční plán pro boj s vendor lock-inem a rozšíření využití open source ve veřejné správě</title><link href="https://www.profant.eu/2020/akcni-plan-OS.html" rel="alternate" type="text/html" title="Akční plán pro boj s vendor lock-inem a rozšíření využití open source ve veřejné správě" /><published>2020-05-20T00:00:00+00:00</published><updated>2020-05-20T00:00:00+00:00</updated><id>https://www.profant.eu/2020/akcni-plan-OS</id><content type="html" xml:base="https://www.profant.eu/2020/akcni-plan-OS.html">&lt;p&gt;Dokumentu, vydanému Piráty ve spolupráci s odborníky z Ústavu práva a technologií Právnické fakulty Masarykovy univerzity v Brně v minulém roce, se dostalo kladného přijetí. Kromě pozitivních ohlasů ve státní správě a open source komunitě ho jako součást svého programu digitální;Česko vzala na vědomí i Rada vlády pro informační společnost (RVIS). Nyní chystáme jeho aktualizaci.&lt;/p&gt;
+&lt;p&gt;Ministerstvo pro místní rozvoj, a zejména pan magistr Fidler jakožto ředitel odboru práva veřejných zakázek, jsou odpovědní za současný zákon - jsou jeho autory, vydávají metodiky k jeho výkladu a připravují pravidelné novely. Pokud oni sami tvrdí, že se podle něj nedají nakupovat léky, pak kritizují především sami sebe.&lt;/p&gt;</content><author><name>Ondřej Profant</name></author><category term="veřejné zakázky" /><summary type="html">Veřejné zakázky se po čase opět dostaly do středu pozornosti, když se vláda se pokusila během 2 dnů protlačit novelu zákona o zadávání veřejných zakázek (ZZVZ). Tato snaha narazila na tvrdý odpor opozice i odborné veřejnosti. Díky tomu také vláda návrh pozastavila, i když jen dočasně.</summary></entry><entry><title type="html">Akční plán pro boj s vendor lock-inem a rozšíření využití open source ve veřejné správě</title><link href="https://www.profant.eu/2020/akcni-plan-OS.html" rel="alternate" type="text/html" title="Akční plán pro boj s vendor lock-inem a rozšíření využití open source ve veřejné správě" /><published>2020-05-20T00:00:00+00:00</published><updated>2020-05-20T00:00:00+00:00</updated><id>https://www.profant.eu/2020/akcni-plan-OS</id><content type="html" xml:base="https://www.profant.eu/2020/akcni-plan-OS.html">&lt;p&gt;Dokumentu, vydanému Piráty ve spolupráci s odborníky z Ústavu práva a technologií Právnické fakulty Masarykovy univerzity v Brně v minulém roce, se dostalo kladného přijetí. Kromě pozitivních ohlasů ve státní správě a open source komunitě ho jako součást svého programu digitální;Česko vzala na vědomí i Rada vlády pro informační společnost (RVIS). Nyní chystáme jeho aktualizaci.&lt;/p&gt;
 
 &lt;!--more--&gt;
 &lt;p&gt;Akční plán pro boj s vendor lock-inem a rozšíření využití open source ve veřejné správě lze stáhnout &lt;a href=&quot;https://www.profant.eu/assets/pdf/akcni-plan-opensource-v3.pdf&quot;&gt;zde&lt;/a&gt;.&lt;/p&gt;
