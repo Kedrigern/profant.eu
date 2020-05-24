@@ -28,7 +28,7 @@ V přílohách plánu jsou obsaženy příklady **dobré praxe ve využití open
 
 Problematice open source softwaru a IT zakázek ve veřejné správě se věnují i další dokumenty a organizace. K seznámení s konceptem a výhodami svobodného softwaru slouží příručka [Public Money? Public Code!](https://www.otevrenamesta.cz/media/docs/Public-money-public-code-cs.pdf), jejíž český překlad vydal spolek [Otevřená města](https://www.otevrenamesta.cz/). Veřejné IT zakázky zase rozebírá [Příručka řízení státních IT projektů](https://blog.cesko.digital/2020/01/prirucka) vydaná komunitou [Česko.Digital](https://cesko.digital/), o které jsme [již psali](https://www.profant.eu/2020/prirucka-rizeni-statnich-it-projektu.html).
 
-Na evropské úrovni se tématu otevřených řešení  věnuje [Open Source Observatoty (OSOR)](https://joinup.ec.europa.eu/collection/open-source-observatory-osor) při Evropské komisi a [Free Software Foundation Europe (FSFE)](https://fsfe.org/).
+Na evropské úrovni se tématu otevřených řešení  věnuje [Open Source Observatory (OSOR)](https://joinup.ec.europa.eu/collection/open-source-observatory-osor) při Evropské komisi a [Free Software Foundation Europe (FSFE)](https://fsfe.org/).
 
 ## Budoucnost plánu
 
