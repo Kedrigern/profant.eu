@@ -113,4 +113,4 @@ Pokud totiž byla povolena ve správním řízení změna příjmení před 1. l
 
 *Návrh nebyl předložen na výbor, bude podáván až na plénu.*
 
-[Podáváné pozměňovací návrhy na webu sněmovny](https://www.psp.cz/sqw/historie.sqw?o=8&T=593)
+[Podávané pozměňovací návrhy na webu sněmovny](https://www.psp.cz/sqw/historie.sqw?o=8&T=593)
