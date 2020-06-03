@@ -7,7 +7,6 @@ comments:   true
 tags:       [sněmovna, matriky]
 img:        prechylovani.jpg
 author:     Ondřej Profant
-published:  false
 ---
 
 V souvislosti s projednáváním novely Zákona o matrikách, jménu a příjmení předkládám několik pozměňovacích návrhů. Problematika jmen a příjmení je široká, mediální pozornost je však soustřeďována hlavně na přechylování. Zákon bude v nejbližších dnech projednáván na plénu sněmovny ve 2. čtením. Pojďme si nyní představit všechny návrhy, které předkládám.
@@ -15,6 +14,8 @@ V souvislosti s projednáváním novely Zákona o matrikách, jménu a příjmen
 <!--more-->
 
 ### Přechylování
+
+[Pozměňovací návrh](http://www.psp.cz/sqw/text/orig2.sqw?idd=175703)
 
 *předkládáno s Helenou Válkovou*
 
@@ -26,6 +27,8 @@ ANO 11    NE 0    zdržel 5    přítomno 16     přijato
 *Návrh má podporu Ministerstva vnitra.*
 
 ### Křestní jména
+
+[Pozměňovací návrh](http://www.psp.cz/sqw/text/orig2.sqw?idd=177579)
 
 Cílem tohoto pozměňovacího návrhu je jasnější nastavení praxe zápisu křestních jmen do matričních knih.
 Správní orgány v řadě případů přenášejí vlastní rozhodovací činnost na znalce v oblasti jazykovědy, neboť zápis jména podmiňují jím zpracovaným znaleckým posudkem. Volba konkrétního znalce je z důvodu jejich nedostatku nadto v současné době významně limitována.
@@ -40,6 +43,8 @@ Hlasování:  ANO 6  NE 2  zdržel 8  přítomno 16   nepřijato
 *Ministerstvo vnitra návrh nepodporuje, tuto funkcionalitu totiž připravují do tří let jako součást e-matrik i bez zákonné povinnosti.*
 
 ### Možnost kombinovaného příjmení manželů
+
+[Pozměňovací návrh](http://www.psp.cz/sqw/text/orig2.sqw?idd=177583)
 
 Cílem tohoto pozměňovacího návrhu je umožnit snoubencům zvolit si jako své společné příjmení kombinaci obou svých původních příjmení, což dosavadní zákon neumožňuje. Umožněno je pouze ponechání původního příjmení u manžela, jehož příjmení nebylo zvoleno jako společné. Oba snoubenci by tak podle tohoto návrhu mohli mít stejné dvojité příjmení. Z důvodu zabránění řetězení je možné takto kombinovat maximálně dvě příjmení - tedy pokud některý ze snoubenců již dvojité příjmení má, bude si muset vybrat pro nové společné kombinované příjmení pouze jedno ze svých dosavadních.
 
@@ -58,6 +63,8 @@ Hlasování:  ANO 5   NE 8    zdržel 3    přítomno 16   nepřijato
 *Ministerstvo vnitra návrh nepodporuje, svobodná volba příjmení novomanželů mimo proces samostatné žádosti by podle názoru MV ohrozila zájmy nezletilých dětí. Vzhledem k mnoha hlasem proti návrhu jsem se rozhodl ho do 2. čtení nepředkládat.*
 
 ### Možnost kombinovaného příjmení dětí
+
+[Pozměňovací návrh](http://www.psp.cz/sqw/text/orig2.sqw?idd=177585)
 
 Návrh dává rodičům možnost dohodou určit jako příjmení dítěte také „kombinované“ příjmení složené z příjmení obou rodičů. Mají-li rodiče rozdílná příjmení (ať již z důvodu, že nejsou sezdáni nebo si po svatbě každý ponechal své příjmení), může situace, kdy dítě nese příjmení jen jednoho z nich, přinášet komplikace a  praktické problémy (při jednání s úřady, lékaři, školou, při cestování apod.). Problémům také čelí děti českých rodičů narozené v zahraničí (např. ve Španělsku), kde je kombinované příjmení připisováno automaticky. Po návratu do Česka však není českými úřady uznáno a rodiče jsou vyzváni, aby si jedno z příjmení vybrali.
 Má-li některý z rodičů více příjmení, lze při volbě určit pouze dvě z nich, aby nedocházelo k řetězení příjmení.
@@ -98,6 +105,8 @@ Hlasování:    ANO 8   NE 4    zdržel 4    přítomno 16     nepřijato
 
 ### Uznání jména z jiného státu v případě dvojího občanství
 
+[Pozměňovací návrh](http://www.psp.cz/sqw/text/orig2.sqw?idd=177581)
+
 Navrhovaná změna umožní občanům, kteří jsou zároveň občany jiného státu, aby v českých matričních dokladech užívali jméno v souladu s podobou, kterou mu umožňuje používat tento jiný stát. Rozšiřuje tak tuto možnost z členských států EU na všechny státy. Vzhledem k různosti jazyka, tradic i písma členských států EU není důvod, aby tato možnost nebyla přístupná i občanům dalších států.
 
 Návrh tak napravuje stávají právní stav, který umožňuje např. uznání jmen občanům Řecka a Bulharska, které ani nepíší latinkou, a naopak neuznává jména švýcarských, amerických či kanadských občanů.
@@ -105,6 +114,8 @@ Návrh tak napravuje stávají právní stav, který umožňuje např. uznání 
 *Návrh nebyl předložen na výbor, bude podáván až na plénu.*
 
 ### Možnost změny rodného přijmení pro osoby, kterým bylo změněno jako nezletilým
+
+[Pozměňovací návrh](http://www.psp.cz/sqw/text/orig2.sqw?idd=177587)
 
 Návrh napravuje stav, který vznikl přijetím přechodného ustanovení zákonem č. 312/2013 Sb. Čl. II:
 „Rodné příjmení, které fyzická osoba užívá ke dni nabytí účinnosti tohoto zákona, se považuje za rodné příjmení podle zákona č. 301/2000 Sb., ve znění účinném ode dne nabytí účinnosti tohoto zákona.“
