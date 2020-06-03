@@ -35,7 +35,7 @@ Správní orgány v řadě případů přenášejí vlastní rozhodovací činno
 
 Současná matriční praxe vychází při posuzování jmen ze seznamu jmen z knihy Knappová, Miloslava. Jak se bude vaše dítě jmenovat? Praha: Academia, 2017. Pokud jméno v publikaci není obsaženo, matriční úřad požaduje znalecký posudek. Nikde však není zveřejněn seznam již posouzených jmen, proto mohou být posudky vyžadovány zbytečně vícekrát. Předložený pozměňovací návrh ukládá Ministerstvu vnitra vést seznam již zapsaných jmen, která je možno zapsat v souladu se zákonem, průběžně ho doplňovat a zveřejňovat ve formě otevřených dat.  Předpokládá se, že Ministerstvo do tohoto seznamu zahrne všechna jména z publikace Jak se bude vaše dítě jmenovat? a všechna jména, která na základě vydaných znaleckých posudků vyhovují požadavkům zákona. Navrhovaná formulace zároveň umožňuje Ministerstvu zahrnout i jména obsažená v jiných zdrojích - Registru obyvatel s vynecháním jmen již nevyhovujících požadavkům zákona, jiné odborné publikaci v oboru onomastiky nebo obdobných seznamech, jimiž disponují jiné státy.
 
-Podle Slovenské právní úpravy již například postačuje uvést, že (neobvyklé nebo cizojazyčné) jméno lze nalézt na webu [www.babynameworld.com](www.babynameworld.com).
+Podle Slovenské právní úpravy již například postačuje uvést, že (neobvyklé nebo cizojazyčné) jméno lze nalézt na webu [www.babynameworld.com](http://www.babynameworld.com).
 
 **Hlasování Výboru pro veřejnou správu a regionální rozvoj:**  
 Hlasování:  ANO 6  NE 2  zdržel 8  přítomno 16   nepřijato
