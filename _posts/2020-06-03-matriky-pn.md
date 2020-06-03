@@ -104,14 +104,6 @@ Návrh tak napravuje stávají právní stav, který umožňuje např. uznání 
 
 *Návrh nebyl předložen na výbor, bude podáván až na plénu.*
 
-### Uznání jména z jiného státu v případě dvojího občanství
-
-Navrhovaná změna umožní občanům, kteří jsou zároveň občany jiného státu, aby v českých matričních dokladech užívali jméno v souladu s podobou, kterou mu umožňuje používat tento jiný stát. Rozšiřuje tak tuto možnost z členských států EU na všechny státy. Vzhledem k různosti jazyka, tradic i písma členských států EU není důvod, aby tato možnost nebyla přístupná i občanům dalších států.
-
-Návrh tak napravuje stávají právní stav, který umožňuje např. uznání jmen občanům Řecka a Bulharska, které ani nepíší latinkou, a naopak neuznává jména švýcarských, amerických či kanadských občanů.
-
-*Návrh nebyl předložen na výbor, bude podáván až na plénu.*
-
 ### Možnost změny rodného přijmení pro osoby, kterým bylo změněno jako nezletilým
 
 Návrh napravuje stav, který vznikl přijetím přechodného ustanovení zákonem č. 312/2013 Sb. Čl. II:
