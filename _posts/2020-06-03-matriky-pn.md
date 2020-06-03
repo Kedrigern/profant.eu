@@ -38,7 +38,7 @@ Současná matriční praxe vychází při posuzování jmen ze seznamu jmen z k
 Podle Slovenské právní úpravy již například postačuje uvést, že (neobvyklé nebo cizojazyčné) jméno lze nalézt na webu [www.babynameworld.com](http://www.babynameworld.com).
 
 **Hlasování Výboru pro veřejnou správu a regionální rozvoj:**  
-Hlasování:  ANO 6  NE 2  zdržel 8  přítomno 16   nepřijato
+ANO 6  NE 2  zdržel 8  přítomno 16   nepřijato
 
 *Ministerstvo vnitra návrh nepodporuje, tuto funkcionalitu totiž připravují do tří let jako součást e-matrik i bez zákonné povinnosti.*
 
@@ -49,7 +49,7 @@ Hlasování:  ANO 6  NE 2  zdržel 8  přítomno 16   nepřijato
 Cílem tohoto pozměňovacího návrhu je umožnit snoubencům zvolit si jako své společné příjmení kombinaci obou svých původních příjmení, což dosavadní zákon neumožňuje. Umožněno je pouze ponechání původního příjmení u manžela, jehož příjmení nebylo zvoleno jako společné. Oba snoubenci by tak podle tohoto návrhu mohli mít stejné dvojité příjmení. Z důvodu zabránění řetězení je možné takto kombinovat maximálně dvě příjmení - tedy pokud některý ze snoubenců již dvojité příjmení má, bude si muset vybrat pro nové společné kombinované příjmení pouze jedno ze svých dosavadních.
 
 **Hlasování Výboru pro veřejnou správu a regionální rozvoj:**  
-Hlasování:  ANO 3   NE 4  zdržel 9  přítomno 16   nepřijato
+ANO 3   NE 4  zdržel 9  přítomno 16   nepřijato
 
 *Ministerstvo vnitra návrh nepodporuje, trvají na pevně daném pořadí příjmení.*
 
@@ -58,7 +58,7 @@ Hlasování:  ANO 3   NE 4  zdržel 9  přítomno 16   nepřijato
 Cílem tohoto pozměňovacího návrhu je umožnit snoubencům zvolit si jako své společné příjmení libovolné příjmení, nezávisle na tom, zda již ho některý ze snoubenců používá. Tato volba je u některých párů preferována z různých důvodu. Důvodem mohou být špatné vztahy se svými původními rodinami nebo potřeba novou rodinu definovat novým příjmením, nezatíženým rodinou minulostí. Motivací může být také snaha o oživení příjmení, které se v rodině dříve vyskytovalo, ale zaniklo. V současné praxi musí nejprve před svatbou jeden ze snoubenců své příjmení změnit na matričním úřadě a druhým snoubencem je posléze toto příjmení přijato jako společné při svatbě. Pozměňovací návrh tento postup zjednodušuje na prosté přijetí nového příjmení při svatbě oběma snoubenci.
 
 **Hlasování Výboru pro veřejnou správu a regionální rozvoj:**  
-Hlasování:  ANO 5   NE 8    zdržel 3    přítomno 16   nepřijato
+ANO 5   NE 8    zdržel 3    přítomno 16   nepřijato
 
 *Ministerstvo vnitra návrh nepodporuje, svobodná volba příjmení novomanželů mimo proces samostatné žádosti by podle názoru MV ohrozila zájmy nezletilých dětí. Vzhledem k mnoha hlasem proti návrhu jsem se rozhodl ho do 2. čtení nepředkládat.*
 
@@ -70,7 +70,7 @@ Návrh dává rodičům možnost dohodou určit jako příjmení dítěte také 
 Má-li některý z rodičů více příjmení, lze při volbě určit pouze dvě z nich, aby nedocházelo k řetězení příjmení.
 
 **Hlasování Výboru pro veřejnou správu a regionální rozvoj:**  
-Hlasování:  ANO 4   NE 7    zdržel 5    přítomno 16   nepřijato
+ANO 4   NE 7    zdržel 5    přítomno 16   nepřijato
 
 *Ministerstvo vnitra návrh nepodporuje.*
 
@@ -86,7 +86,7 @@ Všechny tyto skutečnosti nedůvodně komplikují uzavírání sňatků před o
 Předkládaný návrh umožňuje u malých obcí a městských částí oddávání i zastupitelům. Dále pak ruší podmínku trvalého bydliště alespoň jednoho snoubence v dané obci. Tím zrovnoprávňují v tomto ohledu obce bez matričního úřadu s těmi, které matriční úřad mají. Návrh také umožní pořádat svatby bez matrikáře, pokud má oddávající odborné matrikářské zkoušky.
 
 **Hlasování Výboru pro veřejnou správu a regionální rozvoj:**  
-Hlasování:  ANO 16    NE 0    zdržel 0    přítomno 16    přijato
+ANO 16    NE 0    zdržel 0    přítomno 16    přijato
 
 *Ministerstvo vnitra s návrhem souhlasí, nicméně trvá na plných odborných matrikářských zkouškách, což limituje reálný dopad předkládaného návrhu.*
 
@@ -99,9 +99,9 @@ Návrh naplňuje závazky České republiky pro ni vyplývajících z Úmluvy o 
 Návrh ruší povinnost sterilizace při úřední změně pohlaví a zjednodušuje tak výměnu dokladů pro trans lidi.
 
 **Hlasování Výboru pro veřejnou správu a regionální rozvoj:**  
-Hlasování:    ANO 8   NE 4    zdržel 4    přítomno 16     nepřijato
+ANO 8   NE 4    zdržel 4    přítomno 16     nepřijato
 
-*Návrh bude po konzultaci s Ministerstvem zdravotnictví podán v pozměňené podobě.*
+*Návrh bude po konzultaci s Ministerstvem zdravotnictví podán v pozměněné podobě.*
 
 ### Uznání jména z jiného státu v případě dvojího občanství
 
