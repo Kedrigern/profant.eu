@@ -112,3 +112,5 @@ Návrh napravuje stav, který vznikl přijetím přechodného ustanovení zákon
 Pokud totiž byla povolena ve správním řízení změna příjmení před 1. lednem 2014, kdy nebylo rodné příjmení v právním řádu definováno, má se podle výkladu Ministerstva vnitra za to, že tím bylo změněno rodné příjmení. Jsou případy, kdy se matka dítěte rozešla s jeho otcem a uzavřela manželství s jiným mužem. V době manželství požádala se souhlasem otce dítěte o povolení změny příjmení na své příjmení nabyté sňatkem. Jestliže matriční úřad takové žádosti do 31. prosince 2013 vyhověl, má se za to, že příjmení, které dítě takto získalo, je jeho rodným příjmením. Nezřídka se však stává, že matka se s mužem, po kterém její dítě nese stále „rodné příjmení“, rozešla a dítě po nabytí zletilosti našlo blízký vztah ke svému otci.
 
 *Návrh nebyl předložen na výbor, bude podáván až na plénu.*
+
+[Podáváné pozměňovací návrhy na webu sněmovny](https://www.psp.cz/sqw/historie.sqw?o=8&T=593)
