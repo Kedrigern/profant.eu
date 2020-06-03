@@ -2,7 +2,7 @@
 layout:     post
 title:      "Přechylování ženských příjmení"
 date:       2019-09-09 10:00:00 +0100
-categories: Piráti
+categories: Sněmovna
 comments:   true
 tags:       [Piráti, příjmení, matriky, jména, ová]
 img:        prechylovani.jpg
