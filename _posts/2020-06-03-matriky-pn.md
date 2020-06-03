@@ -20,10 +20,10 @@ V souvislosti s projednáváním novely Zákona o matrikách, jménu a příjmen
 
 Navrhuje se zrušit stávající omezení a umožnit požádat o zápis příjmení v základním tvaru všem ženám, které o to mají zájem a všem dětem ženského pohlaví, jejichž rodiče o to požádají. A to nejen v souvislosti s uzavřením manželství, vznikem registrovaného partnerství či narozením dítěte, ale kdykoli, kdy to žena (či rodiče dítěte ženského pohlaví) uzná za vhodné.
 
-**Hlasování Výboru pro veřejnou správu a regionální rozvoj:**
+**Hlasování Výboru pro veřejnou správu a regionální rozvoj:**  
 ANO 11    NE 0    zdržel 5    přítomno 16     přijato
 
-Návrh má podporu Ministerstva vnitra.
+*Návrh má podporu Ministerstva vnitra.*
 
 ### Křestní jména
 
@@ -34,36 +34,38 @@ Současná matriční praxe vychází při posuzování jmen ze seznamu jmen z k
 
 Podle Slovenské právní úpravy již například postačuje uvést, že (neobvyklé nebo cizojazyčné) jméno lze nalézt na webu [www.babynameworld.com](www.babynameworld.com).
 
-**Hlasování Výboru pro veřejnou správu a regionální rozvoj:**
+**Hlasování Výboru pro veřejnou správu a regionální rozvoj:**  
 Hlasování:  ANO 6  NE 2  zdržel 8  přítomno 16   nepřijato
 
-Ministerstvo vnitra návrh nepodporuje, tuto funkcionalitu totiž připravují do tří let jako součást e-matrik i bez zákonné povinnosti.
+*Ministerstvo vnitra návrh nepodporuje, tuto funkcionalitu totiž připravují do tří let jako součást e-matrik i bez zákonné povinnosti.*
 
 ### Možnost kombinovaného příjmení manželů
 
 Cílem tohoto pozměňovacího návrhu je umožnit snoubencům zvolit si jako své společné příjmení kombinaci obou svých původních příjmení, což dosavadní zákon neumožňuje. Umožněno je pouze ponechání původního příjmení u manžela, jehož příjmení nebylo zvoleno jako společné. Oba snoubenci by tak podle tohoto návrhu mohli mít stejné dvojité příjmení. Z důvodu zabránění řetězení je možné takto kombinovat maximálně dvě příjmení - tedy pokud některý ze snoubenců již dvojité příjmení má, bude si muset vybrat pro nové společné kombinované příjmení pouze jedno ze svých dosavadních.
 
-**Hlasování Výboru pro veřejnou správu a regionální rozvoj:**
+**Hlasování Výboru pro veřejnou správu a regionální rozvoj:**  
 Hlasování:  ANO 3   NE 4  zdržel 9  přítomno 16   nepřijato
 
-Ministerstvo vnitra návrh nepodporuje, trvají na pevně daném pořadí příjmení.
+*Ministerstvo vnitra návrh nepodporuje, trvají na pevně daném pořadí příjmení.*
 
 ### Možnosti jiného příjmení manželů
 
 Cílem tohoto pozměňovacího návrhu je umožnit snoubencům zvolit si jako své společné příjmení libovolné příjmení, nezávisle na tom, zda již ho některý ze snoubenců používá. Tato volba je u některých párů preferována z různých důvodu. Důvodem mohou být špatné vztahy se svými původními rodinami nebo potřeba novou rodinu definovat novým příjmením, nezatíženým rodinou minulostí. Motivací může být také snaha o oživení příjmení, které se v rodině dříve vyskytovalo, ale zaniklo. V současné praxi musí nejprve před svatbou jeden ze snoubenců své příjmení změnit na matričním úřadě a druhým snoubencem je posléze toto příjmení přijato jako společné při svatbě. Pozměňovací návrh tento postup zjednodušuje na prosté přijetí nového příjmení při svatbě oběma snoubenci.
 
-**Hlasování Výboru pro veřejnou správu a regionální rozvoj:**
+**Hlasování Výboru pro veřejnou správu a regionální rozvoj:**  
 Hlasování:  ANO 5   NE 8    zdržel 3    přítomno 16   nepřijato
 
-Ministerstvo vnitra návrh nepodporuje, svobodná volba příjmení novomanželů mimo proces samostatné žádosti by podle názoru MV ohrozila zájmy nezletilých dětí. Vzhledem k mnoha hlasem proti návrhu jsem se rozhodl ho do 2. čtení nepředkládat.
+*Ministerstvo vnitra návrh nepodporuje, svobodná volba příjmení novomanželů mimo proces samostatné žádosti by podle názoru MV ohrozila zájmy nezletilých dětí. Vzhledem k mnoha hlasem proti návrhu jsem se rozhodl ho do 2. čtení nepředkládat.*
 
 ### Možnost kombinovaného příjmení dětí
 
 Návrh dává rodičům možnost dohodou určit jako příjmení dítěte také „kombinované“ příjmení složené z příjmení obou rodičů. Mají-li rodiče rozdílná příjmení (ať již z důvodu, že nejsou sezdáni nebo si po svatbě každý ponechal své příjmení), může situace, kdy dítě nese příjmení jen jednoho z nich, přinášet komplikace a  praktické problémy (při jednání s úřady, lékaři, školou, při cestování apod.). Problémům také čelí děti českých rodičů narozené v zahraničí (např. ve Španělsku), kde je kombinované příjmení připisováno automaticky. Po návratu do Česka však není českými úřady uznáno a rodiče jsou vyzváni, aby si jedno z příjmení vybrali.
 Má-li některý z rodičů více příjmení, lze při volbě určit pouze dvě z nich, aby nedocházelo k řetězení příjmení.
 
-**Hlasování Výboru pro veřejnou správu a regionální rozvoj:**
+**Hlasování Výboru pro veřejnou správu a regionální rozvoj:**  
 Hlasování:  ANO 4   NE 7    zdržel 5    přítomno 16   nepřijato
+
+*Ministerstvo vnitra návrh nepodporuje.*
 
 ### Zjednodušení organizace svateb
 
@@ -76,21 +78,23 @@ Všechny tyto skutečnosti nedůvodně komplikují uzavírání sňatků před o
 
 Předkládaný návrh umožňuje u malých obcí a městských částí oddávání i zastupitelům. Dále pak ruší podmínku trvalého bydliště alespoň jednoho snoubence v dané obci. Tím zrovnoprávňují v tomto ohledu obce bez matričního úřadu s těmi, které matriční úřad mají. Návrh také umožní pořádat svatby bez matrikáře, pokud má oddávající odborné matrikářské zkoušky.
 
-**Hlasování Výboru pro veřejnou správu a regionální rozvoj:**
+**Hlasování Výboru pro veřejnou správu a regionální rozvoj:**  
 Hlasování:  ANO 16    NE 0    zdržel 0    přítomno 16    přijato
 
-Ministerstvo vnitra s návrhem souhlasí, nicméně trvá na plných odborných matrikářských zkouškách, což limituje reálný dopad předkládaného návrhu.
+*Ministerstvo vnitra s návrhem souhlasí, nicméně trvá na plných odborných matrikářských zkouškách, což limituje reálný dopad předkládaného návrhu.*
 
 ### Zrušení povinných sterilizací při úřední změně pohlaví
+
+*předkládáno s Barborou Kořanovou*
 
 Návrh naplňuje závazky České republiky pro ni vyplývajících z Úmluvy o ochraně lidských práv a základních svobod a Evropské sociální charty dle judikatury Evropského soudu pro lidská práva ve věcech č. 79885/12, 54271/13 a 52596/13 a Evropského výboru pro sociální práva ve věci č. 117/2015 ve věci obligatorních sterilizací.
 
 Návrh ruší povinnost sterilizace při úřední změně pohlaví a zjednodušuje tak výměnu dokladů pro trans lidi.
 
-**Hlasování Výboru pro veřejnou správu a regionální rozvoj:**
+**Hlasování Výboru pro veřejnou správu a regionální rozvoj:**  
 Hlasování:    ANO 8   NE 4    zdržel 4    přítomno 16     nepřijato
 
-Návrh bude po konzultaci s Ministerstvem zdravotnictví podán v pozměňené podobě.
+*Návrh bude po konzultaci s Ministerstvem zdravotnictví podán v pozměňené podobě.*
 
 ### Uznání jména z jiného státu v případě dvojího občanství
 
@@ -98,7 +102,7 @@ Navrhovaná změna umožní občanům, kteří jsou zároveň občany jiného st
 
 Návrh tak napravuje stávají právní stav, který umožňuje např. uznání jmen občanům Řecka a Bulharska, které ani nepíší latinkou, a naopak neuznává jména švýcarských, amerických či kanadských občanů.
 
-Návrh nebyl předložen na výbor, bude podáván až na plénu.
+*Návrh nebyl předložen na výbor, bude podáván až na plénu.*
 
 ### Uznání jména z jiného státu v případě dvojího občanství
 
@@ -106,7 +110,7 @@ Navrhovaná změna umožní občanům, kteří jsou zároveň občany jiného st
 
 Návrh tak napravuje stávají právní stav, který umožňuje např. uznání jmen občanům Řecka a Bulharska, které ani nepíší latinkou, a naopak neuznává jména švýcarských, amerických či kanadských občanů.
 
-Návrh nebyl předložen na výbor, bude podáván až na plénu.
+*Návrh nebyl předložen na výbor, bude podáván až na plénu.*
 
 ### Možnost změny rodného přijmení pro osoby, kterým bylo změněno jako nezletilým
 
@@ -114,3 +118,5 @@ Návrh napravuje stav, který vznikl přijetím přechodného ustanovení zákon
 „Rodné příjmení, které fyzická osoba užívá ke dni nabytí účinnosti tohoto zákona, se považuje za rodné příjmení podle zákona č. 301/2000 Sb., ve znění účinném ode dne nabytí účinnosti tohoto zákona.“
 
 Pokud totiž byla povolena ve správním řízení změna příjmení před 1. lednem 2014, kdy nebylo rodné příjmení v právním řádu definováno, má se podle výkladu Ministerstva vnitra za to, že tím bylo změněno rodné příjmení. Jsou případy, kdy se matka dítěte rozešla s jeho otcem a uzavřela manželství s jiným mužem. V době manželství požádala se souhlasem otce dítěte o povolení změny příjmení na své příjmení nabyté sňatkem. Jestliže matriční úřad takové žádosti do 31. prosince 2013 vyhověl, má se za to, že příjmení, které dítě takto získalo, je jeho rodným příjmením. Nezřídka se však stává, že matka se s mužem, po kterém její dítě nese stále „rodné příjmení“, rozešla a dítě po nabytí zletilosti našlo blízký vztah ke svému otci.
+
+*Návrh nebyl předložen na výbor, bude podáván až na plénu.*
