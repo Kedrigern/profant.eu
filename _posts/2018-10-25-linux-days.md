@@ -18,4 +18,4 @@ Jaké jsou pilíře egovernmentu v České republice? Máme dobře našlápnuto,
 
 [Prezentace]({{ '/assets/pdf/Ondrej_Profant-E_government_v_Cesku.pdf' | base_url }}).
 
-![Egov schéma]({{ '/assets/img/egov-schema.jpg' | base_url }})
+![Egov schéma]({{ '/assets/img/posts/egov-schema.jpg' | base_url }})
