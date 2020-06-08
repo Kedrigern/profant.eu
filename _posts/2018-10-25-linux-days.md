@@ -10,5 +10,10 @@ author:     Ondřej Profant
 video:      https://www.youtube.com/embed/5BNt1PyFoXI
 ---
 
-
 LinuxDays - Od základních registrů až k portálu občana. Aneb český egoverment.
+
+<!-- more -->
+
+Jaké jsou pilíře egovernmentu v České republice? Máme dobře našlápnuto, tak proč to jde tak ztuha? K čemu slouží Datové schránku, NIA či základní registry? Jak je budoucnost egovernmentu v ČR.
+
+[Prezentace]({{ '/assets/pdf/Ondrej_Profant-E_government_v_Cesku.pdf' | base_url }}).
