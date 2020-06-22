@@ -33,7 +33,7 @@ Místo toho, aby Česko bylo vstřícné svým občanům a vylučovalo jen nevho
 
 ## Kombinované (dvojité) příjmení
 
-Poměrně často se obejvuje požadavek na možnost použití nějaké formy kombinovaného dvojitého příjmení. Zákon definuje možnosti používat více příjmení takto:
+Poměrně často se objevuje požadavek na možnost použití nějaké formy kombinovaného dvojitého příjmení. Zákon definuje možnosti používat více příjmení takto:
 
 > § 70  
 (1) Občan může užívat více příjmení pouze za těchto podmínek:  
