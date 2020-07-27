@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Zpráva o transparentnosti duben 2020 - červen 2020"
-date:       2020-27-07 18:00:00 +0100
+date:       2020-07-27 18:00:00 +0100
 categories: report
 comments:   true
 tags:       [transparence, report, Piráti]
