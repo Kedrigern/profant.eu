@@ -35,7 +35,7 @@ Podařilo se nám prosadit:
 Stejně jako většina poslaneckého klubu jsem se zapojil do příprav plánu na zvládnutí krize [Budoucnost řešíme teď](https://budoucnostresimeted.cz/).
 
 **Formulář 25**  
-Stejně jako minulý měsíc s formulářem mimořádné okamžité pomoci jsme řešili nový formulář pro pomoc živnostníkům pětadvacítka. V momentě, kdy jsme připravili funkční prototyp ministerstvo zveřejnilo [vlastní digitální verzi](https://ouc.financnisprava.cz/kompenzace), ke které máme též výhrady, ale je mnohonásobně lepší než PDF.
+Stejně jako minulý měsíc s formulářem mimořádné okamžité pomoci jsme řešili nový formulář pro pomoc živnostníkům pětadvacítka. V momentě, kdy jsme připravili funkční prototyp, ministerstvo zveřejnilo [vlastní digitální verzi](https://ouc.financnisprava.cz/kompenzace), ke které máme též výhrady, ale je mnohonásobně lepší než PDF.
 
 **Novela zákona o vojenském zpravodajství**  
 Jelikož vláda schválila v době krize šmírovací [novelu zákona o vojenském zpravodajství](https://www.pirati.cz/tiskove-zpravy/internet-pod-dohledem-zpravodajcu.html), tak jsme zintenzivnili přípravy. Kromě rozhovorů a článků připravujeme nový web k problematice. Také jsme uspořádali serii setkání se stakeholdery. Pod záštitou Výboru pro bezpečnost též připravujeme kulatý stůl.
