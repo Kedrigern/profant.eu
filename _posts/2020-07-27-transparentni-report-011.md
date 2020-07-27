@@ -89,7 +89,7 @@ Společně s Bárou Soukupovou jsme začali natáčet videa ke sněmovním téma
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2V3H6JUAlZ8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
-**Schůzka s ředitelem NÚKIB**
+**Schůzka s ředitelem NÚKIB**  
 Na [schůzce](https://evidence.pirati.cz/report/4292/) s Karlem Řehkou, ředitelem Národního úřadu pro kybernetickou a informační bezpečnost, jsme probírali naše odlišné pohledy na novelu Zákona o vojenském zpravodajství. Také jsme mu sdělili své obavy k vyhlášce o eGovernment cloudu a informovali jsme ho o přípravě našeho akčního plánu ke kyberbezpečnosti.
 
 ### Červen 2020
