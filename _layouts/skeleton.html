@@ -6,7 +6,6 @@
 	{% capture keywords %}{% if page.keywords %}{{ page.keywords }}, {% endif %}{% if layout.keywords %}{{ layout.keywords }}, {% endif %}{{ site.keywords }}{% if page.tags %}, {{ page.tags | join: ', ' }}{% endif %}{% endcapture %}
 	{% capture image %}{% if page.img %}{{ page.img | prepend: 'assets/img/posts/' | absolute_url }}{% else%}{{ site.cover_image | baseurl }}{% endif %}{% endcapture %}
 	<meta charset="utf-8" />
-	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" />
 	<meta name="HandheldFriendly" content="true"/>
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<title>{% if page.title %}{{ page.title }} | {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
