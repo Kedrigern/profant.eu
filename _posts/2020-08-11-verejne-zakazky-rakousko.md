@@ -5,7 +5,7 @@ date:       2020-08-11 14:00:00 +0100
 categories: veřejné zakázky
 comments:   true
 tags:       [vz, verejne-zakazky]
-img:        bbg2.jpg
+img:        bbg2.png
 author:     Ondřej Profant
 ---
 
@@ -17,7 +17,7 @@ Veřejné zakázky nejsou zrovna dvakrát populární téma. Už jen zorientovat
 
 Do této částky nejsou započítané stovky hodin, které úředníci tráví přepisováním formulářů a další zbytečnou administrativou kvůli nefunkčním IT systémům. Stejný problém mají na druhé straně i firmy a živnostníci, kteří se o zakázku chtějí ucházet. Naštěstí si s veřejným nakupováním musí poradit každý stát, není tedy třeba vymýšlet kolo, stačí se inspirovat osvědčenými postupy v zahraničí.
 
-![Eshop v Rakousku](/assets/img/posts/bbg2.jpg)
+![Eshop v Rakousku](/assets/img/posts/bbg2.png)
 
 V Rakousku už téměř 20 let funguje tzv. centrální zadavatel ([BBG](https://www.bbg.gv.at/en/)), který nabízí pro úřady státu několik služeb:
 
