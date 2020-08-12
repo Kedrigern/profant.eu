@@ -17,7 +17,7 @@ Veřejné zakázky nejsou zrovna dvakrát populární téma. Už jen zorientovat
 
 Do této částky nejsou započítané stovky hodin, které úředníci tráví přepisováním formulářů a další zbytečnou administrativou kvůli nefunkčním IT systémům. Stejný problém mají na druhé straně i firmy a živnostníci, kteří se o zakázku chtějí ucházet. Naštěstí si s veřejným nakupováním musí poradit každý stát, není tedy třeba vymýšlet kolo, stačí se inspirovat osvědčenými postupy v zahraničí.
 
-![Eshop v Rakousku](/assets/img/posts/bbg2.png)
+![Eshop v Rakousku](/assets/img/posts/bbg1.png)
 
 V Rakousku už téměř 20 let funguje tzv. centrální zadavatel ([BBG](https://www.bbg.gv.at/en/)), který nabízí pro úřady státu několik služeb:
 
@@ -25,7 +25,7 @@ V Rakousku už téměř 20 let funguje tzv. centrální zadavatel ([BBG](https:/
 - **Platforma pro zadávání veřejných zakázek**: Rakušanům se povedlo vytvořit srozumitelný a uživatelsky přívětivý portál, který mohou úřady využít, pokud chtějí zakázku soutěžit sami. V ostrém kontrastu s tímto je náš český Národní elektronický nástroj (NEN), který je pro běžného smrtelníka záhadný jako sfinga. V Rakousku tento nástroj vedl k otevření trhu veřejných zakázek **malým a středním firmám, které tvoří přes [70% dodavatelů](https://www.bbg.gv.at/en/new-here/become-a-supplier)**. To má pozitivní vliv nejen na cenu a kvalitu státních nákupů, ale na celou ekonomiku.
 - Poslední službou, kterou v Rakousku centrální zadavatel nabízí, je **odborné poradenství** pro individuální komplikovanější zakázky.
 
-<video controls="" poster="https://www.bbg.gv.at/fileadmin/Bibliothek/e-Shop/e-Shop_Video.jpg">
+<video controls="" poster="https://www.bbg.gv.at/fileadmin/Bibliothek/e-Shop/e-Shop_Video.jpg" style="width: 100% !important;">
 <source src="https://www.bbg.gv.at/fileadmin/Bibliothek/e-Shop/eshop-kundevideo.mp4" type="video/mp4">
 </video>
 
