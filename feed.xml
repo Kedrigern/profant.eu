@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://www.profant.eu/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.profant.eu/" rel="alternate" type="text/html" /><updated>2020-08-11T14:39:57+00:00</updated><id>https://www.profant.eu/feed.xml</id><title type="html">Profant</title><subtitle>Zápisník pirátského poslance Ondřeje Profanta, který se zaměřuje na opendata, e-government, digitalizaci společnosti a kybernetickou bezpečnost.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://www.profant.eu/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.profant.eu/" rel="alternate" type="text/html" /><updated>2020-08-12T08:10:40+00:00</updated><id>https://www.profant.eu/feed.xml</id><title type="html">Profant</title><subtitle>Zápisník pirátského poslance Ondřeje Profanta, který se zaměřuje na opendata, e-government, digitalizaci společnosti a kybernetickou bezpečnost.
 Rád bych byl, aby Česká republika byla moderním státem s rozvinutou digitální ekonomikou, kde je kladen silný důraz na vzdělávání a svobodu.
 V digitalizaci se musíme inspirovat ve Velké Britanii, Dánsku a Estonsku, řešení musí být otevřená, uživatelsky přívětivá a ohleduplná k soukromí.
 </subtitle><author><name>Ondřej Profant</name></author><entry><title type="html">Centrální nákup v Rakousku</title><link href="https://www.profant.eu/2020/verejne-zakazky-rakousko.html" rel="alternate" type="text/html" title="Centrální nákup v Rakousku" /><published>2020-08-11T13:00:00+00:00</published><updated>2020-08-11T13:00:00+00:00</updated><id>https://www.profant.eu/2020/verejne-zakazky-rakousko</id><content type="html" xml:base="https://www.profant.eu/2020/verejne-zakazky-rakousko.html">&lt;p&gt;Veřejné zakázky v Česku trápí přebujelá administrativa a nízká transparentnost. Přitom rozumná řešení státních nákupů existují a nemusíme ani chodit daleko – v Rakousku třeba funguje tzv. centrální zadavatel.&lt;/p&gt;
@@ -9,7 +9,7 @@ V digitalizaci se musíme inspirovat ve Velké Britanii, Dánsku a Estonsku, ře
 
 &lt;p&gt;Do této částky nejsou započítané stovky hodin, které úředníci tráví přepisováním formulářů a další zbytečnou administrativou kvůli nefunkčním IT systémům. Stejný problém mají na druhé straně i firmy a živnostníci, kteří se o zakázku chtějí ucházet. Naštěstí si s veřejným nakupováním musí poradit každý stát, není tedy třeba vymýšlet kolo, stačí se inspirovat osvědčenými postupy v zahraničí.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/img/posts/bbg2.png&quot; alt=&quot;Eshop v Rakousku&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/img/posts/bbg1.png&quot; alt=&quot;Eshop v Rakousku&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;V Rakousku už téměř 20 let funguje tzv. centrální zadavatel (&lt;a href=&quot;https://www.bbg.gv.at/en/&quot;&gt;BBG&lt;/a&gt;), který nabízí pro úřady státu několik služeb:&lt;/p&gt;
 
@@ -19,7 +19,7 @@ V digitalizaci se musíme inspirovat ve Velké Britanii, Dánsku a Estonsku, ře
   &lt;li&gt;Poslední službou, kterou v Rakousku centrální zadavatel nabízí, je &lt;strong&gt;odborné poradenství&lt;/strong&gt; pro individuální komplikovanější zakázky.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;video controls=&quot;&quot; poster=&quot;https://www.bbg.gv.at/fileadmin/Bibliothek/e-Shop/e-Shop_Video.jpg&quot;&gt;
+&lt;video controls=&quot;&quot; poster=&quot;https://www.bbg.gv.at/fileadmin/Bibliothek/e-Shop/e-Shop_Video.jpg&quot; style=&quot;width: 100% !important;&quot;&gt;
 &lt;source src=&quot;https://www.bbg.gv.at/fileadmin/Bibliothek/e-Shop/eshop-kundevideo.mp4&quot; type=&quot;video/mp4&quot; /&gt;
 &lt;/video&gt;
 
