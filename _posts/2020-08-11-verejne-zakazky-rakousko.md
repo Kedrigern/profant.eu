@@ -2,7 +2,7 @@
 layout:     post
 title:      "Centrální nákup v Rakousku"
 date:       2020-08-11 14:00:00 +0100
-categories: veřejné zakázky
+categories: "veřejné zakázky"
 comments:   true
 tags:       [vz, verejne-zakazky]
 img:        bbg2.png
@@ -35,7 +35,4 @@ Nedělám si iluze – vytvořit něco podobného v České republice by byl bě
 
 Další dílčí snahou státu o centralizované zadávání jsou rámcové smlouvy ministerstva vnitra na IT projekty. Ty ale bohužel končí [křivením trhu a zvýhodněním několika proprietárních produktů](https://www.profant.eu/2020/ramcove-dohody-mvcr.html). Kdyby celý systém fungoval lépe, bylo by možné vysoutěžit rámcové smlouvy na více IT služeb, třeba i na ty, které si konkurují. A nakupující úřad by si pak v onom e-shopu sám vybral, o který má zájem.
 
-Ani v Rakousku se spuštění systému neobešlo bez porodních bolestí. Důležité však je, že se s nimi flexibilně vypořádali. Rád bych se tam zajel podívat a zjistil si detaily, jak systém funguje. Pokud by se totiž něco podobného povedlo v ČR, šlo by o investici, která se státu mnohonásobně vrátí. 
-
-
-
+Ani v Rakousku se spuštění systému neobešlo bez porodních bolestí. Důležité však je, že se s nimi flexibilně vypořádali. Rád bych se tam zajel podívat a zjistil si detaily, jak systém funguje. Pokud by se totiž něco podobného povedlo v ČR, šlo by o investici, která se státu mnohonásobně vrátí.
