@@ -2,7 +2,7 @@
 layout:     post
 title:      "Centrální nákup v Rakousku"
 date:       2020-08-11 14:00:00 +0100
-categories: "veřejné zakázky"
+categories: "Zakázky"
 comments:   true
 tags:       [vz, verejne-zakazky]
 img:        bbg2.png
