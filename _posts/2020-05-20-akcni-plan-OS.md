@@ -2,7 +2,7 @@
 layout:     post
 title:      "Akční plán pro boj s vendor lock-inem a rozšíření využití open source ve veřejné správě"
 date:       2020-05-20
-categories: egovernment  
+categories: Egovernment  
 comments:   true
 tags:       [digitalizace, opensource, veřejná správa]
 img:        prirucky.jpg
