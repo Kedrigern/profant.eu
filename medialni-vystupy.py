@@ -72,7 +72,11 @@ def result_output():
         spamwriter = csv.writer(csvfile, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
         spamwriter.writerow(["date", "title", 'author', 'tags', 'url'])
         for a in Result.articles:
-            spamwriter.writerow([a['date'], a['title'], a['author'], a['tags'], a['url']])
+            try:
+                spamwriter.writerow([a['date'], a['title'], a['author'], a['tags'], a['url']])
+            except KeyError as e:
+                print("KeyError: ", a, e)
+                sys.exit()
 
 def process_article(filepath, prefix):
     """Process one file with article.
