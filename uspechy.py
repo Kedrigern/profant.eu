@@ -4,6 +4,11 @@ import io
 import pandas
 import requests
 
+"""
+Download "výsledky" from source data of pirati.cz/vysledky
+Source data are in Redmine
+"""
+
 class Config:
     urls = {
       "issue": "https://redmine.pirati.cz/issues/",
