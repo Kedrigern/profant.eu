@@ -51,6 +51,7 @@ exclude:
   - package.json
   - package-lock.json
   - medialni-vystupy.py
+  - uspechy.py
 
 
 sass:
