@@ -8,6 +8,11 @@ import glob
 import markdown
 from sh import git
 
+"""
+Download pirates press releases with given keywords. Default is "profant".
+Use git repos of jekylls websites from Config.
+"""
+
 class Config:
     repos = {
         "pirati.cz": {
@@ -20,19 +25,18 @@ class Config:
         }
     }
     verbose = True
+    keyword = "profant"
     resultPath = "./_data/media.csv"
 
 class Result:
     articles = []
     totalCount = 0
 
-
 def article_condition(article):
-    if "profant" in article['text']:
+    keyword = Config.keyword
+    if keyword in article['text'].lower():
         return True
-    if "Profant" in article['text']:
-        return True
-    if "profant" in article['author'][0]:
+    if keyword in article['author'][0]:
         return True
     return False
 
