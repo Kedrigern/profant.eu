@@ -5,6 +5,11 @@ import pandas
 import requests
 from redminelib import Redmine, exceptions
 
+"""
+Download "výsledky" from source data of pirati.cz/vysledky
+Source data are in Redmine
+"""
+
 class Config:
     verbose = True
     resultPath = "./_data/media.csv"
