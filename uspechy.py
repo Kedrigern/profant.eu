@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 
 import io
+import yaml
 import pandas
 import requests
 from redminelib import Redmine, exceptions
@@ -75,9 +76,17 @@ def get_relevant_issues():
 
   return issues
 
+def get_uspechy_yaml():
+  file = "_data/uspechy.yaml"
+  data = []
+  with open(file) as fp:
+    data = yaml.load(fp, Loader=yaml.FullLoader)
+  print(data)
+
 def test():
-  issues = get_relevant_issues()
-  print(issues[0].description)
+  #issues = get_relevant_issues()
+  #print(issues[0].description)
+  get_uspechy_yaml()
 
 
 test()
