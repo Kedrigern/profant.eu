@@ -199,7 +199,7 @@ Ještě před propuknutím epidemie jsem se zúčastnil krajské schůze pražsk
 
 #### Účast na schůzi krajského expertního týmu
 
-Na pražském KET pro IT jsme řešili Cityvizor a jeho rozšiřování jeho použití v Praze a nedostatečnou akceschopnost Operátora ICT. Přestože si uvědomuji, že není možné dosáhnout okamžitě na některé vytyčené cíle, myslím si, že můžeme dělat víc.
+Na pražském KET pro IT jsme řešili [Cityvizor](https://cityvizor.cz/) a jeho rozšiřování jeho použití v Praze a nedostatečnou akceschopnost Operátora ICT. Přestože si uvědomuji, že není možné dosáhnout okamžitě na některé vytyčené cíle, myslím si, že můžeme dělat víc.
 
 #### Schůze Poslanecké sněmovny
 
@@ -231,10 +231,12 @@ V souvislosti s koronavirovou krizí, která postihla i ČR, jsem na svém blogu
 
 #### Vývoj aplikace pro distribuci lékařského materiálu
 
-Společně s členy technického odboru a spolkem Otevřená města jsme pomáhali Praze operativně vytvořit aplikaci, která má napomoci vnitřní logistice v době pandemie. OCR modul poskytl český startup Rossum.
+Společně s členy technického odboru a spolkem [Otevřená města](https://www.otevrenamesta.cz/) jsme pomáhali Praze operativně vytvořit aplikaci, která má napomoci vnitřní logistice v době pandemie. OCR modul poskytl český startup Rossum.
 
 #### Formulář mimořádné pomoci
 
-Společně s Bárou Soukupovou jsme prostřednictvím videokonference představili proof of concept pro digitální formuláře pro Úřad práce. Takové formuláře by v současné krizi mohly zmírnit problémy s velkým počtem žadatelů na pobočkách úřadů, zároveň by mohly do budoucna sloužit jako příklad dobré praxe. Více v [evidenci kontaktů a schůzek](https://evidence.pirati.cz/report/4251/).
+Společně s Bárou Soukupovou jsme prostřednictvím videokonference představili proof of concept výtvořený v systém [DocAssemble](https://docassemble.org/) pro digitální formuláře pro Úřad práce (zvláště pak Mimořádná okamžitá pomoc - MOP). Takové formuláře by v současné krizi mohly zmírnit problémy s velkým počtem žadatelů na pobočkách úřadů, zároveň by mohly do budoucna sloužit jako příklad dobré praxe. Více v [evidenci kontaktů a schůzek](https://evidence.pirati.cz/report/4251/).
 
-[<<<< Předchozí report (říjen 2019 - prosinec 2019)](https://www.profant.eu/2020/transparentni-report-009.html)
+---
+
+[<<<< Předchozí report (říjen 2019 - prosinec 2019)](https://www.profant.eu/2020/transparentni-report-009.html) | [Další report (duben 2020 - červen 2020) >>>>](https://www.profant.eu/2020/transparentni-report-011.html)

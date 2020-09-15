@@ -172,4 +172,6 @@ Před koncem roku se podařilo schválit ještě dva klíčové digitalizační 
 
 V případě zájmu o další novinky v oblasti digitalizace a e-governmentu se můžete přihlásit k odběru newsletteru [resortního týmu Informatika](https://nalodeni.pirati.cz/news/list/17/).
 
-[<<<< Předchozí report (červenec 2019 - září 2019)](https://www.profant.eu/2019/transparentni-report-008.html) | [Další report (leden 2019 - březen 2019) >>>>](https://www.profant.eu/2020/transparentni-report-010.html)
+---
+
+[<<<< Předchozí report (červenec 2019 - září 2019)](https://www.profant.eu/2019/transparentni-report-008.html) | [Další report (leden 2020 - březen 2020) >>>>](https://www.profant.eu/2020/transparentni-report-010.html)
