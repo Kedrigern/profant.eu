@@ -35,7 +35,7 @@ Podařilo se nám prosadit:
 **Budoucnost řešíme teď**  
 Stejně jako většina poslaneckého klubu jsem se zapojil do příprav plánu na zvládnutí krize [Budoucnost řešíme teď](https://budoucnostresimeted.cz/).
 
-**Otevřený epidemiologický model**
+**Otevřený epidemiologický model**  
 4\. 4. jsem napsal řediteli Ústavu zdravotnických informací a statistiky ČR (ÚZIS) [dopis](/assets/pdf/UZIS-epidemiologicky-model.pdf), kde jsem ho požádal o zveřejnění pandemického modelu po vzoru Slovenska. Slovensko [zveřejnilo Jupyter notebook](https://izp.sk/covid-19/), kde počítalo predikci epidemie a její důsledky. Neobdržel jsem však odpověď.
 
 **Formulář 25**  
@@ -133,4 +133,4 @@ Zúčastnil jsem se několika akcí pirátských místních sdružení. V Olomou
 
 ---
 
-[<<<< Předchozí report (leden 2020 - březen 2020)](https://www.profant.eu/2019/transparentni-report-010.html) | [Další report (červenec 2020 - září 2020) >>>>](https://www.profant.eu/2020/transparentni-report-012.html)
+[<<<< Předchozí report (leden 2020 - březen 2020)](https://www.profant.eu/2020/transparentni-report-010.html) | [Další report (červenec 2020 - září 2020) >>>>](https://www.profant.eu/2020/transparentni-report-012.html)
