@@ -28,11 +28,15 @@ I Sněmovna upadla do koronavirového chaosu. Sice jsme příliš neměli klasic
 * ST 808: Kompenzace ve výši 500 Kč za každý den v období, od 12. března do 30. dubna 2020.
 
 Podařilo se nám prosadit:
+
 * Doplacení kompenzačního bonusu pro OSVČ za dobu přerušení živnosti
 * Umožnění čerpat ošetřovné pro dohodáře (DPP/DPČ)
 
 **Budoucnost řešíme teď**  
 Stejně jako většina poslaneckého klubu jsem se zapojil do příprav plánu na zvládnutí krize [Budoucnost řešíme teď](https://budoucnostresimeted.cz/).
+
+**Otevřený epidemiologický model**
+4\. 4. jsem napsal řediteli Ústavu zdravotnických informací a statistiky ČR (ÚZIS) [dopis](/assets/pdf/UZIS-epidemiologicky-model.pdf), kde jsem ho požádal o zveřejnění pandemického modelu po vzoru Slovenska. Slovensko [zveřejnilo Jupyter notebook](https://izp.sk/covid-19/), kde počítalo predikci epidemie a její důsledky. Neobdržel jsem však odpověď.
 
 **Formulář 25**  
 Stejně jako minulý měsíc s formulářem mimořádné okamžité pomoci jsme řešili nový formulář pro pomoc živnostníkům pětadvacítka. V momentě, kdy jsme připravili funkční prototyp, ministerstvo zveřejnilo [vlastní digitální verzi](https://ouc.financnisprava.cz/kompenzace), ke které máme též výhrady, ale je mnohonásobně lepší než PDF.
@@ -64,17 +68,20 @@ Proto jsem již zpočátku pandemie 4. 4. poslal řediteli Ústavu zdravotnický
 
 **Pozměňovací návrhy k Zákonu o matrikách**  
 Společně s Bárou Soukupovou jsem připravil [několik pozměňovacích návrhů k novele Zákona o matrikách](https://www.profant.eu/2020/matriky-pn.html). Výbor pro veřejnou správu a regionální rozvoj [podpořil návrh ke svobodné volbě o formě příjmení](https://www.pirati.cz/tiskove-zpravy/garancni-vybor-schvalil-neprechylena-prijmeni.html) (možnost nepřechylovat). Podařilo se také prosadit usnadnění organizace svateb. Mé další pozměňovací návrhy, které by poskytovaly větší volnost při výběru změně křestních jmén, už ale dostatečnou podporu nezískaly.
+
 * [FB post](https://www.facebook.com/ondrej.profant/posts/10216996676455813)
 * [FB anketa](https://www.facebook.com/ceska.piratska.strana/posts/10157558402664039)
 * [DVTV](https://video.aktualne.cz/dvtv/profant-povinne-prechylovani-prijmeni-je-sikana-nikdo-se-zen/r~f62dae5496e711ea842f0cc47ab5f122/)
 
 **Pracovní skupina Veřejné zakázky**  
 V průběhu koronaviorové krize a nouzového stavu se ukázalo, jaký marasmus v oblasti veřejných zakázek panuje. Vláda bez výběrových řízení nakupovala zcela necertifikované výrobky z Číny. A následně se v legislativní nouzi během tří dnů snažila protlačit totální [vykostění Zákona o zadávání veřejných zakázek](https://www.profant.eu/2020/verejne-zakazky.html). K tématu jsem byl dokonce v 90” ČT24, ale formát pořadu mi neumožňoval dostatečnou reakci, takže jsem k tématu vrátil ještě na [svém blogu](https://www.profant.eu/2020/ct24-90.html).
+
 * [FB post](https://www.facebook.com/ondrej.profant/posts/10217005604118999)
 * [FB post](https://www.facebook.com/ondrej.profant/posts/10217055871575654)
 
 **Vylepšení datových schránek**  
 Díky návrhu kolegy Tomáše Martínka se nám ve Sněmovně podařilo prosadit prodloužení lhůty pro elektronické podání daňového přiznání o jeden měsíc. To by mělo přispět k rozšíření používání datových schránek. 
+
 * [Tisková zpráva](https://www.pirati.cz/tiskove-zpravy/lhuta-pro-danove-priznani.html)
 * [FB post](https://www.facebook.com/ondrej.profant/posts/10217133633199646)
 
@@ -111,6 +118,7 @@ Vládní snaha o významné okleštění zákona o zadávání veřejných zaká
  
 **Implementační plány programu Digitální Česko**  
 K neschopnosti či neochotě realizovat do důsledků informační koncepci Digitálního Česka se už Piráti vyjadřovali opakovaně. Je proto zvláštní, že přes veškerá upozornění stále pokračuje praxe, kdy se ze státního rozpočtu utrácí ohromné prostředky na zjevně předražené projekty. Skutečně užitečnou práci na digitalizaci tak nakonec odvádějí vlastně jen dobrovolníci. Ti tak činí v podstatě vládě navzdory, jak je dobře vidět na příkladu Chytré karantény.
+
 * [Tisková zpráva](https://www.pirati.cz/tiskove-zpravy/digitalni-cesko2020-vlada-lakuje-stare-projekty-za-stamiliony.html)
  
 **Legislativní rámec českých jmen a příjmení**  
@@ -122,3 +130,7 @@ Podle reportáže Seznam Zprávy existují závažná podezření na zmanipulov�
  
 **Návštěva pirátských místních sdružení**  
 Zúčastnil jsem se několika akcí pirátských místních sdružení. V Olomouci jsem na [workshopu 8. června](https://www.facebook.com/ondrej.profant/posts/10217237607078928) se zastupiteli a kandidáty do krajských voleb probíral témata e-govermentu. S Piráty na Praze 11 jsem se potkal 26. června na neformálním grilování.
+
+---
+
+[<<<< Předchozí report (leden 2020 - březen 2020)](https://www.profant.eu/2019/transparentni-report-010.html) | [Další report (červenec 2020 - září 2020) >>>>](https://www.profant.eu/2020/transparentni-report-012.html)
