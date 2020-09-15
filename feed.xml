@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://www.profant.eu/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.profant.eu/" rel="alternate" type="text/html" /><updated>2020-09-04T13:55:01+00:00</updated><id>https://www.profant.eu/feed.xml</id><title type="html">Profant</title><subtitle>Zápisník pirátského poslance Ondřeje Profanta, který se zaměřuje na opendata, e-government, digitalizaci společnosti a kybernetickou bezpečnost.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://www.profant.eu/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.profant.eu/" rel="alternate" type="text/html" /><updated>2020-09-15T08:30:21+00:00</updated><id>https://www.profant.eu/feed.xml</id><title type="html">Profant</title><subtitle>Zápisník pirátského poslance Ondřeje Profanta, který se zaměřuje na opendata, e-government, digitalizaci společnosti a kybernetickou bezpečnost.
 Rád bych byl, aby Česká republika byla moderním státem s rozvinutou digitální ekonomikou, kde je kladen silný důraz na vzdělávání a svobodu.
 V digitalizaci se musíme inspirovat ve Velké Britanii, Dánsku a Estonsku, řešení musí být otevřená, uživatelsky přívětivá a ohleduplná k soukromí.
 </subtitle><author><name>Ondřej Profant</name></author><entry><title type="html">Zvládla státní správa home office při koronakrizi?</title><link href="https://www.profant.eu/2020/covid-home-office.html" rel="alternate" type="text/html" title="Zvládla státní správa home office při koronakrizi?" /><published>2020-08-21T08:00:00+00:00</published><updated>2020-08-21T08:00:00+00:00</updated><id>https://www.profant.eu/2020/covid-home-office</id><content type="html" xml:base="https://www.profant.eu/2020/covid-home-office.html">&lt;p&gt;Koronavirová krize přinesla i několik nečekaných důsledků. Jedním z nich bylo, že si spousta lidí i firem „nedobrovolně“ vyzkoušela práci z domova. Zajímalo mě, jak si v porovnání s firmami vedla naše státní správa. Napsal jsem proto dopis několika úřadům a pro porovnání i pár malým a středním firmám. Některé úřady se nové situaci efektivně přizpůsobily, u jiných nedošlo k téměř žádné změně.&lt;/p&gt;
@@ -181,6 +181,7 @@ I Sněmovna upadla do koronavirového chaosu. Sice jsme příliš neměli klasic
 &lt;/ul&gt;
 
 &lt;p&gt;Podařilo se nám prosadit:&lt;/p&gt;
+
 &lt;ul&gt;
   &lt;li&gt;Doplacení kompenzačního bonusu pro OSVČ za dobu přerušení živnosti&lt;/li&gt;
   &lt;li&gt;Umožnění čerpat ošetřovné pro dohodáře (DPP/DPČ)&lt;/li&gt;
@@ -188,6 +189,9 @@ I Sněmovna upadla do koronavirového chaosu. Sice jsme příliš neměli klasic
 
 &lt;p&gt;&lt;strong&gt;Budoucnost řešíme teď&lt;/strong&gt;&lt;br /&gt;
 Stejně jako většina poslaneckého klubu jsem se zapojil do příprav plánu na zvládnutí krize &lt;a href=&quot;https://budoucnostresimeted.cz/&quot;&gt;Budoucnost řešíme teď&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Otevřený epidemiologický model&lt;/strong&gt;
+4. 4. jsem napsal řediteli Ústavu zdravotnických informací a statistiky ČR (ÚZIS) &lt;a href=&quot;/assets/pdf/UZIS-epidemiologicky-model.pdf&quot;&gt;dopis&lt;/a&gt;, kde jsem ho požádal o zveřejnění pandemického modelu po vzoru Slovenska. Slovensko &lt;a href=&quot;https://izp.sk/covid-19/&quot;&gt;zveřejnilo Jupyter notebook&lt;/a&gt;, kde počítalo predikci epidemie a její důsledky. Neobdržel jsem však odpověď.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Formulář 25&lt;/strong&gt;&lt;br /&gt;
 Stejně jako minulý měsíc s formulářem mimořádné okamžité pomoci jsme řešili nový formulář pro pomoc živnostníkům pětadvacítka. V momentě, kdy jsme připravili funkční prototyp, ministerstvo zveřejnilo &lt;a href=&quot;https://ouc.financnisprava.cz/kompenzace&quot;&gt;vlastní digitální verzi&lt;/a&gt;, ke které máme též výhrady, ale je mnohonásobně lepší než PDF.&lt;/p&gt;
@@ -219,6 +223,7 @@ Pandemie připomněla &lt;a href=&quot;https://www.facebook.com/ondrej.profant/p
 
 &lt;p&gt;&lt;strong&gt;Pozměňovací návrhy k Zákonu o matrikách&lt;/strong&gt;&lt;br /&gt;
 Společně s Bárou Soukupovou jsem připravil &lt;a href=&quot;https://www.profant.eu/2020/matriky-pn.html&quot;&gt;několik pozměňovacích návrhů k novele Zákona o matrikách&lt;/a&gt;. Výbor pro veřejnou správu a regionální rozvoj &lt;a href=&quot;https://www.pirati.cz/tiskove-zpravy/garancni-vybor-schvalil-neprechylena-prijmeni.html&quot;&gt;podpořil návrh ke svobodné volbě o formě příjmení&lt;/a&gt; (možnost nepřechylovat). Podařilo se také prosadit usnadnění organizace svateb. Mé další pozměňovací návrhy, které by poskytovaly větší volnost při výběru změně křestních jmén, už ale dostatečnou podporu nezískaly.&lt;/p&gt;
+
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.facebook.com/ondrej.profant/posts/10216996676455813&quot;&gt;FB post&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.facebook.com/ceska.piratska.strana/posts/10157558402664039&quot;&gt;FB anketa&lt;/a&gt;&lt;/li&gt;
@@ -227,6 +232,7 @@ Společně s Bárou Soukupovou jsem připravil &lt;a href=&quot;https://www.prof
 
 &lt;p&gt;&lt;strong&gt;Pracovní skupina Veřejné zakázky&lt;/strong&gt;&lt;br /&gt;
 V průběhu koronaviorové krize a nouzového stavu se ukázalo, jaký marasmus v oblasti veřejných zakázek panuje. Vláda bez výběrových řízení nakupovala zcela necertifikované výrobky z Číny. A následně se v legislativní nouzi během tří dnů snažila protlačit totální &lt;a href=&quot;https://www.profant.eu/2020/verejne-zakazky.html&quot;&gt;vykostění Zákona o zadávání veřejných zakázek&lt;/a&gt;. K tématu jsem byl dokonce v 90” ČT24, ale formát pořadu mi neumožňoval dostatečnou reakci, takže jsem k tématu vrátil ještě na &lt;a href=&quot;https://www.profant.eu/2020/ct24-90.html&quot;&gt;svém blogu&lt;/a&gt;.&lt;/p&gt;
+
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.facebook.com/ondrej.profant/posts/10217005604118999&quot;&gt;FB post&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.facebook.com/ondrej.profant/posts/10217055871575654&quot;&gt;FB post&lt;/a&gt;&lt;/li&gt;
@@ -234,6 +240,7 @@ V průběhu koronaviorové krize a nouzového stavu se ukázalo, jaký marasmus 
 
 &lt;p&gt;&lt;strong&gt;Vylepšení datových schránek&lt;/strong&gt;&lt;br /&gt;
 Díky návrhu kolegy Tomáše Martínka se nám ve Sněmovně podařilo prosadit prodloužení lhůty pro elektronické podání daňového přiznání o jeden měsíc. To by mělo přispět k rozšíření používání datových schránek.&lt;/p&gt;
+
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.pirati.cz/tiskove-zpravy/lhuta-pro-danove-priznani.html&quot;&gt;Tisková zpráva&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.facebook.com/ondrej.profant/posts/10217133633199646&quot;&gt;FB post&lt;/a&gt;&lt;/li&gt;
@@ -272,6 +279,7 @@ Vládní snaha o významné okleštění zákona o zadávání veřejných zaká
 
 &lt;p&gt;&lt;strong&gt;Implementační plány programu Digitální Česko&lt;/strong&gt;&lt;br /&gt;
 K neschopnosti či neochotě realizovat do důsledků informační koncepci Digitálního Česka se už Piráti vyjadřovali opakovaně. Je proto zvláštní, že přes veškerá upozornění stále pokračuje praxe, kdy se ze státního rozpočtu utrácí ohromné prostředky na zjevně předražené projekty. Skutečně užitečnou práci na digitalizaci tak nakonec odvádějí vlastně jen dobrovolníci. Ti tak činí v podstatě vládě navzdory, jak je dobře vidět na příkladu Chytré karantény.&lt;/p&gt;
+
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.pirati.cz/tiskove-zpravy/digitalni-cesko2020-vlada-lakuje-stare-projekty-za-stamiliony.html&quot;&gt;Tisková zpráva&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
@@ -286,7 +294,18 @@ Podle reportáže Seznam Zprávy existují závažná podezření na zmanipulov�
 &lt;/ul&gt;
 
 &lt;p&gt;&lt;strong&gt;Návštěva pirátských místních sdružení&lt;/strong&gt;&lt;br /&gt;
-Zúčastnil jsem se několika akcí pirátských místních sdružení. V Olomouci jsem na &lt;a href=&quot;https://www.facebook.com/ondrej.profant/posts/10217237607078928&quot;&gt;workshopu 8. června&lt;/a&gt; se zastupiteli a kandidáty do krajských voleb probíral témata e-govermentu. S Piráty na Praze 11 jsem se potkal 26. června na neformálním grilování.&lt;/p&gt;</content><author><name>Ondřej Profant</name></author><category term="transparence" /><category term="report" /><category term="Piráti" /><summary type="html">Souhrnný report mé činnosti v období duben až červen 2020. Nejčerstvější informace o mých aktivitách naleznete na mých profilech na sociálních sítích a zde na blogu v sekci Otevřenost.</summary></entry><entry><title type="html">GDPR vs. CLOUD Act</title><link href="https://www.profant.eu/2020/cloud-act.html" rel="alternate" type="text/html" title="GDPR vs. CLOUD Act" /><published>2020-07-15T19:00:00+00:00</published><updated>2020-07-15T19:00:00+00:00</updated><id>https://www.profant.eu/2020/cloud-act</id><content type="html" xml:base="https://www.profant.eu/2020/cloud-act.html">&lt;p&gt;V souvislosti s vyhláškou k používání cloudu ve státní správě, kterou nyní připravuje NÚKIB, se opět otevírá otázka bezpečnosti dat na úložištích amerických firem. A to i v případě, že se tato úložiště fyzicky nacházejí v EU. Podle americké legislativy (tzv. CLOUD Act) totiž v odůvodněných případech musí americké firmy tato data vládě vydat. Taková praxe se ale dostává do ostrého rozporu s nařízením GDPR, které chrání soukromí evropských občanů.&lt;/p&gt;
+Zúčastnil jsem se několika akcí pirátských místních sdružení. V Olomouci jsem na &lt;a href=&quot;https://www.facebook.com/ondrej.profant/posts/10217237607078928&quot;&gt;workshopu 8. června&lt;/a&gt; se zastupiteli a kandidáty do krajských voleb probíral témata e-govermentu. S Piráty na Praze 11 jsem se potkal 26. června na neformálním grilování.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;a href=&quot;https://www.profant.eu/2019/transparentni-report-010.html&quot;&gt;«« Předchozí report (leden 2020 - březen 2020)&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://www.profant.eu/2020/transparentni-report-012.html&quot;&gt;Další report (červenec 2020 - září 2020) »»&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</content><author><name>Ondřej Profant</name></author><category term="transparence" /><category term="report" /><category term="Piráti" /><summary type="html">Souhrnný report mé činnosti v období duben až červen 2020. Nejčerstvější informace o mých aktivitách naleznete na mých profilech na sociálních sítích a zde na blogu v sekci Otevřenost.</summary></entry><entry><title type="html">GDPR vs. CLOUD Act</title><link href="https://www.profant.eu/2020/cloud-act.html" rel="alternate" type="text/html" title="GDPR vs. CLOUD Act" /><published>2020-07-15T19:00:00+00:00</published><updated>2020-07-15T19:00:00+00:00</updated><id>https://www.profant.eu/2020/cloud-act</id><content type="html" xml:base="https://www.profant.eu/2020/cloud-act.html">&lt;p&gt;V souvislosti s vyhláškou k používání cloudu ve státní správě, kterou nyní připravuje NÚKIB, se opět otevírá otázka bezpečnosti dat na úložištích amerických firem. A to i v případě, že se tato úložiště fyzicky nacházejí v EU. Podle americké legislativy (tzv. CLOUD Act) totiž v odůvodněných případech musí americké firmy tato data vládě vydat. Taková praxe se ale dostává do ostrého rozporu s nařízením GDPR, které chrání soukromí evropských občanů.&lt;/p&gt;
 
 &lt;!--more--&gt;
 
