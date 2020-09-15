@@ -4,6 +4,7 @@ import io
 import yaml
 import pandas
 import requests
+from pprint import pprint   # DEBUG
 from redminelib import Redmine, exceptions
 
 """
@@ -28,6 +29,8 @@ def get_relevant_issues_id(tag=None, literal_eval=False):
   """
   Get data from Redmine into pandas dataframe
   Data are csv (redmine json api cannot provide tags from plugin)
+
+  Return pandas.DataFrame
   """
   mysplit = lambda x: x.split(",")
   url = Config.urls['issues_tags']
@@ -59,6 +62,8 @@ def get_relevant_issues_id(tag=None, literal_eval=False):
 def get_relevant_issues():
   """
   https://python-redmine.com/resources/issue.html
+
+  Return array of redminelib.resources.Issue.
   """
   df = get_relevant_issues_id(Config.tag)
   redmine = Redmine(Config.urls['rm'])
@@ -76,17 +81,37 @@ def get_relevant_issues():
 
   return issues
 
-def get_uspechy_yaml():
-  file = "_data/uspechy.yaml"
+def get_uspechy_yaml(file=None):
+  """Get uspechy from yaml file
+
+  Keywords arguments:
+  file -- yaml file with uspechy, default None (get from config)
+
+  Return
+  [{'date': datetime.date(2009, 6, 17),
+  'description': 'Stál jsem u zrodu Pirátské strany a jsem v ní od samého '
+                 'počátku. Nejprve se nám různí politici (např. Miroslav '
+                 'Kalousek) smáli, dnes jsme respektovaným politickým '
+                 'subjektem. Pomohl jsem, aby Piráti získali oceňovaný rozhled '
+                 'v oblasti IT, který současným samosprávám ale i státní '
+                 'správě zoufale chybí.',
+  'icon': 'flag',
+  'img': '/assets/img/uspechy/zalozeni.jpg',
+  'link': 'https://legacy.blisty.cz/art/47090.html',
+  'priority': 2,
+  'title': 'Spoluzaložení Pirátů'}, ... ]
+  """
+  if not file:
+    file = "_data/uspechy-add.yaml"
   data = []
-  with open(file) as fp:
+  with open(file, encoding="utf-8") as fp:
     data = yaml.load(fp, Loader=yaml.FullLoader)
-  print(data)
+  pprint(data)
 
 def test():
-  #issues = get_relevant_issues()
-  #print(issues[0].description)
-  get_uspechy_yaml()
+  issues = get_relevant_issues()
+  pprint(issues[0].description)
+  #get_uspechy_yaml()
 
 
 test()
