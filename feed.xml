@@ -1,7 +1,67 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://www.profant.eu/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.profant.eu/" rel="alternate" type="text/html" /><updated>2020-09-16T14:07:57+00:00</updated><id>https://www.profant.eu/feed.xml</id><title type="html">Profant</title><subtitle>Zápisník pirátského poslance Ondřeje Profanta, který se zaměřuje na opendata, e-government, digitalizaci společnosti a kybernetickou bezpečnost.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://www.profant.eu/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.profant.eu/" rel="alternate" type="text/html" /><updated>2020-09-16T14:50:10+00:00</updated><id>https://www.profant.eu/feed.xml</id><title type="html">Profant</title><subtitle>Zápisník pirátského poslance Ondřeje Profanta, který se zaměřuje na opendata, e-government, digitalizaci společnosti a kybernetickou bezpečnost.
 Rád bych byl, aby Česká republika byla moderním státem s rozvinutou digitální ekonomikou, kde je kladen silný důraz na vzdělávání a svobodu.
 V digitalizaci se musíme inspirovat ve Velké Britanii, Dánsku a Estonsku, řešení musí být otevřená, uživatelsky přívětivá a ohleduplná k soukromí.
-</subtitle><author><name>Ondřej Profant</name></author><entry><title type="html">Zvládla státní správa home office při koronakrizi?</title><link href="https://www.profant.eu/2020/covid-home-office.html" rel="alternate" type="text/html" title="Zvládla státní správa home office při koronakrizi?" /><published>2020-08-21T08:00:00+00:00</published><updated>2020-08-21T08:00:00+00:00</updated><id>https://www.profant.eu/2020/covid-home-office</id><content type="html" xml:base="https://www.profant.eu/2020/covid-home-office.html">&lt;p&gt;Koronavirová krize přinesla i několik nečekaných důsledků. Jedním z nich bylo, že si spousta lidí i firem „nedobrovolně“ vyzkoušela práci z domova. Zajímalo mě, jak si v porovnání s firmami vedla naše státní správa. Napsal jsem proto dopis několika úřadům a pro porovnání i pár malým a středním firmám. Některé úřady se nové situaci efektivně přizpůsobily, u jiných nedošlo k téměř žádné změně.&lt;/p&gt;
+</subtitle><author><name>Ondřej Profant</name></author><entry><title type="html">Cyklistika ve městech</title><link href="https://www.profant.eu/2020/cyklistika-ve-meste.html" rel="alternate" type="text/html" title="Cyklistika ve městech" /><published>2020-09-16T08:00:00+00:00</published><updated>2020-09-16T08:00:00+00:00</updated><id>https://www.profant.eu/2020/cyklistika-ve-meste</id><content type="html" xml:base="https://www.profant.eu/2020/cyklistika-ve-meste.html">&lt;p&gt;Kolo ve městech vzbuzuje silné emoce. U některých pozitivní, u některých negativní. Pojďme si rozebrat, proč nás tak dražďí a čím narušuje status quo.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;Cyklistiky je mnoho druhů. Typickým příkladem rekreační cyklistiky je silniční či naopak vysloveně horská včetně mých oblíbených &lt;a href=&quot;https://cs.wikipedia.org/wiki/Singletrail&quot;&gt;singletrailů&lt;/a&gt;. Rekreace však moc emocí nevzbudí. Pojďme se podívat na cyklistiku, jejiž účelem je jednoduše přeprava. Typickým zástupcem je městská cyklistika.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Disclaimer:&lt;/em&gt; Tento článek je psán hodně z pohledu Pražana. Osobně jsem cyklistou a v teplejších měsících jezdím do práce na kole.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://www.profant.eu/assets/img/posts/cyklo-ivan-ondra.jpg&quot; alt=&quot;Ondřej Profant s Ivanem Bartošem v rikše&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;města-a-auta&quot;&gt;Města a auta&lt;/h2&gt;
+
+&lt;p&gt;V 90. letech se u nás vybudoval kult automobilismu. Vlastní vozidlo je považováno za znak dospělého člověka. Právo parkovat na veřejném prostranství bereme jako samozřejmost. Veřejná hromadná doprava je nazývána “sockou”. Je to pochopitelné v kontextu minulého režimu, ale dlouhodobě neudržitelné. Tyto problémy jsou podrobně popsány v knize &lt;em&gt;Smrt a život amerických velkoměst&lt;/em&gt; od Jane Jacobs. První vydání je z roku 1961!&lt;/p&gt;
+
+&lt;p&gt;Pojdme se na hlavní problémy podívat:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;parkovací socialismus&lt;/strong&gt;: lidé si koupí relativně drahé auto a očekávají, že zbytek společnosti jim zaplatí náklady na parkování. Ale v moderním městě to tak není. V moderním městě je třeba za zábor veřejného prostranství zaplatit.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;prostorová neefektivita aut&lt;/strong&gt;: průměrná obsazenost aut je 1,3 člověka na automobil. U tohoto čísla si musíme uvědomit, že například Škoda Rapid má rozměry: 4,5m x 1,7m = 7,65 m&lt;sup&gt;2&lt;/sup&gt;, čili 4 automobilisté v průměru využijí prostor 23m&lt;sup&gt;2&lt;/sup&gt;. Na tento princip se můžete podívat ve &lt;a href=&quot;https://www.fastcompany.com/3063344/these-animated-videos-show-just-how-much-space-cars-waste-in-our-cities&quot;&gt;videu&lt;/a&gt; či na následujícím obrázku.
+&lt;img src=&quot;https://streets.mn/wp-content/uploads/2014/04/Travel_Footprint.png&quot; alt=&quot;jaký prostor zabere stejný počet lidí na kolech, v autech a v autobuse&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;emise&lt;/strong&gt;: Emise samotného automobilu nejsou příjemné, ale šlo by s nimi pracovat. Se snižující se emisní stoupou výfuku se však do popředí dostává problém oděru pneumatik a silnice. Prach vířený pohybem vozidel bez ohledu na jejich pohon tvoří asi 80% emisí prachových částic. Dalším problémem jsou emise aut stojících v nekonečných zácpách. Emise jsou vypuštěny naprázdno s téměř nulovým přepravním užitkem.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;cena infrastruktury&lt;/strong&gt;: Infrastruktura pro auta je velmi nakládná. A náklady, obdobně jako u parkování, nejsou rozpočítány spravedlivě. Silnice nejvíce poškozují těžké nákladní automobily. Ale ty ve městech, na rozdíl od dálnic, neplatí žádné speciální poplatky. Nákladnost této infrastruktury je dlouhodobě těžko financovatelná, pokud nezlevníme její výstavbu či nezvýšíme životnost. Za pozornost také stojí prostorová rozměrnost dálniční infrastruktury.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Auto je pro mnoho lidí nezbytné. Je nesmyslné lidem brát možnost zvolit auto jako dopravní prostředek, ale je třeba počítat se všemi externalitami. Například si musíme uvědomit, že každý motorista zabírá další prostor zbylým motoristům. Zde je pár snadných způsobů, jak zlepšit dopravní situaci ve městech:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;budovat infrastrukturu s ohledem na MHD&lt;/strong&gt;: Například tunel Blanka velmi pomohl pražským řidičům, ale nepodpořil rozvoj veřejné hromadné dopravy. Přitom autobus jezdí po stejných silnicích jako auta. Jen by na klíčových místech potřeboval buspruhy a zastávky. Když si uvědomíme, že podíl cestujících v Praze je: 29 % auto; 42 % MHD, tak je jasné, že většina přepravujících se Blanku nevyužije a dotuje ji pro 29 %. Drobná investice v rámci stavby Blanky by se pražanům velmi dobře vrátila. Piráti na to silně upozorňovali při &lt;a href=&quot;https://github.com/Kedrigern/prezentace-cs/blob/master/mestsky-okruh/mo-zhmp.pdf&quot;&gt;přípravě Blanky 2&lt;/a&gt; v roce 2017.
+&lt;img src=&quot;https://www.profant.eu/assets/img/posts/cyklo-modal-share-2016.png&quot; alt=&quot;Podíl druhů přepravy k roku 2016&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;nedotovat parkování&lt;/strong&gt;: V novostabách si připlacíme za parkovací místa, proč tedy dotujeme místa na ulicích? Častečně, leč neohrabaně, to řeší parkovací zóny. Je třeba systém více převádět na tržní. Parkování v ulicích totiž často blokuje místo, které by jinak bylo možno použít třeba pro aktivní život v ulicích, či cyklistickou dopravu. I místo ve veřejném prostoru je rozděleno neproporcionálně, silně ve prospěch těch 29 % automobilistů. Ale zároveň je nutné samozřejmě napomoci lidem, kteří nemají jinou alternativu.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;napomoci dalším druhům dopravy&lt;/strong&gt;: V Praze máme jednu z nejkvalitnějších MHD. Ale například v odstraňování bariér pro cyklisty pokulháváme. O tom budeme mluvit dále.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;budovat město krátkých vzdáleností&lt;/strong&gt;: Město musí být kompaktní. Ideální doprava je taková, která vůbec nevznikne, protože můžeme dojít pěšky. Například zástavba nesmí bránit průchodu. V centru Prahy je nejlepší způsob dopravy chůze. Protože auta musí vše objíždet a cyklista je blokován davy chodců. Jenže chodec potřebuje rozumnou vzdálenost. Pokud ho nutíme neustále obcházet překážky (neprůchozí komplex staveb), tak to vzdá a půjde to objet autem. Stejně tak je důležité, aby lidé v místě bydliště měli klíčové služby - například obchody s potravinami.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Omlouvám se za trochu delší úvod do problematiky, ale pro pochopení následujících tezí je třeba si uvědomit výše popsané principy.&lt;/p&gt;
+
+&lt;h2 id=&quot;města-a-cyklisté&quot;&gt;Města a cyklisté&lt;/h2&gt;
+
+&lt;p&gt;Cyklistika ve městě může být osvěžující. Jelikož nám dává velkou volnost pohybu a zároveň tolik potřebný pohyb těla. I pokud strávíte v sedavé práci mnoho hodit, tak se před ní a po ní alespoň trochu protáhnete. Díky kolu můžete snadno navštívit pěší zóny a zastavit se téměř kdekoliv. Zatímco při přepravě autem se váš svět velmi brzy začne limitovat na místa, kde snadno zaparkujete.&lt;/p&gt;
+
+&lt;p&gt;Samozřejmě velkou otázkou je doba jízdy. Například mně osobně vychází cyklistika jako nejrychlejší způsob přepravy. Jezdím trasu Kobylisy - Malá Strana a na kole jí ujedu za 20 minut, autem za 15-40 minut a MHD za 40 minut. Kolo má tu výhodu, že je ve vybraných úsecích kombinovatelné s MHD. Například nemusíte šlapat velké kopce, ale můžete je vyjet metrem. Samozřejmě pokud vaše cesta do práce je delší než 15 km, tak už hodně půjde o terén. Ale obvykle se dá najít rozumné řešení (například přiblížit se vlakem).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://www.profant.eu/assets/img/posts/cyklo-krizovatka-norsko.jpg&quot; alt=&quot;Křižovatka s mimoúrovňovým křížením pro cyklisty v Norsku&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Stavět město pro cyklisty je přirozenější i co se týče prostoru. Cyklista je větší chodec (ale již je o dost menší než auto). Čili infrastruktura pro chodce a cyklisty má přiměřenou velikost v porovnání s městskými dálnicemi, které nutně vznikají ve městě závislém na autech.&lt;/p&gt;
+
+&lt;p&gt;Cyklistika je samozřejmě nízkoemisní, tichá, zdravá, relativně levná na provoz. V dnešní pandemické situaci také zdravotně bezpečná. Ale bez podpory se neobejde. Potřebuje:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;parkování kol&lt;/strong&gt;: jak u zaměstnavatele, tak ve veřejných prostorech. Cyklostojan není nákladná záležitost a prostorově také nezabere moc místa (v porovnání s auty)&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;zázemí pro cyklisty&lt;/strong&gt;: kromě parkování (nezbytné) je pro kvalitní dojíždění do práce třeba mít možnost osprchovat se a ideálem je šatna&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;kvalitní řešení křižovatek&lt;/strong&gt;: křižovatky jsou vícenásobný problém. Cyklista mnohdy musí zastavit a tím ztratí spoustu energie a času. Navíc je zde nejvíc ohrožen ze strany dalších účastníků provozu. Křižovatky musí od počátku pamatovat na chodce a cyklisty. Nesmíme se bát stavebních úprav, které naše křižovatky posunou do 21. století. Kvalitní řešení najdeme ve &lt;a href=&quot;https://www.thisismoney.co.uk/money/cars/article-8580069/UKs-Dutch-style-roundabout-opens-today-Cambridge.html&quot;&gt;Velké Británii&lt;/a&gt;, Norsku (obrázek výše), &lt;a href=&quot;https://prahounakole.cz/2020/07/kodanske-krizovatky-setri-misto/&quot;&gt;Dánsku&lt;/a&gt; či Nizozemí: &amp;lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/FR5l48_h5Eo?controls=0&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen&amp;gt;&amp;lt;/iframe&amp;gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;cyklostezky&lt;/strong&gt;: samostatné komunikace pro cyklisty jsou samozřejmě ideál, ale jsou prostorově a finančně nákladné. Je to skvělé řešení mimo město (například na Kolínsku běžné), je to skvělé řešení v parcích, ale již méně výhodné v hustě zastavěné oblasti. I v těch mají smysl. Například v Londýně dochází k bouřlivému rozvoji &lt;a href=&quot;https://prahounakole.cz/2012/07/cyklodalnice/&quot;&gt;cyklodálnic&lt;/a&gt; centrem města. Ale v našich poměrech by více věci prospělo zafincovat cykloprůjezdnost dvou křížovatek než krásnou oddělenou cyklostezku, která skončí právě v těch křižovatkách v jejich dnešní podobě.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;liniová řešení&lt;/strong&gt;: Mnohdy se vytvoří cyklopruh odnikud nikam, ale ten samozřejmě nikomu neslouží. Pro lidi, co se nebojí jezdit mezi auty situaci nezlepší a těm, co se bojí nepomůže. Řešení je třeba dotáhnout do smysluplných konců. Například do rezidenční oblasti, parku či uzlu VHD. V případě Prahy je ostudné zakončení cyklotras A1 (Radotín - Barandovský most) a A2 (Zbraslav - Vyšehrad).&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;VHD přívětivá kolům&lt;/strong&gt;: Veřejná hromadná doprava musí být přívětivá cyklistům. Primárně jde o metro a železniční vlaky. V Praze je cyklistika ve VHD již docela dobře podporovaná. Dokonce jsou tu tramvaje, autobusy, lanovky a přívozy, &lt;a href=&quot;https://www.dpp.cz/skolem/&quot;&gt;kam se smí s kolem&lt;/a&gt;. Ale ještě před pár lety tomu tak nebylo.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;opravené silnice&lt;/strong&gt;: mimo město (například ve Středočeském kraji) jsou problémem rozbité krajnice. Cyklista může rozumně jet až relativně daleko od okraje silnice. Tím samozřejmě i více omezuje auta.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Městská cyklistika tedy není bojem proti autům. Ale hledáním alternativy k neudržitelnému způsobu dopravy. Jedná se o rozšíření možností dopravy, které si obyvatel může zvolit. Vyvážený dopravní mix prospívá všem druhům dopravy i celému městu. Koneckonců asi všichni víme, že nejlépe se autem jezdí, pokud je město prázdné (typicky v noci).&lt;/p&gt;
+
+&lt;p&gt;Příštím článku se podíváme na konkrétní legislativní návrhy jak napomoci cyklistice.&lt;/p&gt;</content><author><name>Ondřej Profant</name></author><category term="cyklo" /><category term="praha" /><summary type="html">Kolo ve městech vzbuzuje silné emoce. U některých pozitivní, u některých negativní. Pojďme si rozebrat, proč nás tak dražďí a čím narušuje status quo.</summary></entry><entry><title type="html">Zvládla státní správa home office při koronakrizi?</title><link href="https://www.profant.eu/2020/covid-home-office.html" rel="alternate" type="text/html" title="Zvládla státní správa home office při koronakrizi?" /><published>2020-08-21T08:00:00+00:00</published><updated>2020-08-21T08:00:00+00:00</updated><id>https://www.profant.eu/2020/covid-home-office</id><content type="html" xml:base="https://www.profant.eu/2020/covid-home-office.html">&lt;p&gt;Koronavirová krize přinesla i několik nečekaných důsledků. Jedním z nich bylo, že si spousta lidí i firem „nedobrovolně“ vyzkoušela práci z domova. Zajímalo mě, jak si v porovnání s firmami vedla naše státní správa. Napsal jsem proto dopis několika úřadům a pro porovnání i pár malým a středním firmám. Některé úřady se nové situaci efektivně přizpůsobily, u jiných nedošlo k téměř žádné změně.&lt;/p&gt;
 
 &lt;!--more--&gt;
 
@@ -507,93 +567,4 @@ ANO 8   NE 4    zdržel 4    přítomno 16     nepřijato&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;Návrh nebyl předložen na výbor, bude podáván až na plénu.&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://www.psp.cz/sqw/historie.sqw?o=8&amp;amp;T=593&quot;&gt;Podávané pozměňovací návrhy na webu sněmovny&lt;/a&gt;&lt;/p&gt;</content><author><name>Ondřej Profant</name></author><category term="sněmovna" /><category term="matriky" /><summary type="html">V souvislosti s projednáváním novely Zákona o matrikách, jménu a příjmení předkládám několik pozměňovacích návrhů. Problematika jmen a příjmení je široká, mediální pozornost je však soustřeďována hlavně na přechylování. Zákon bude v nejbližších dnech projednáván na plénu sněmovny ve 2. čtením. Pojďme si nyní představit všechny návrhy, které předkládám.</summary></entry><entry><title type="html">Fakta a mýty o veřejných zakázkách (nejen) v době krize</title><link href="https://www.profant.eu/2020/ct24-90.html" rel="alternate" type="text/html" title="Fakta a mýty o veřejných zakázkách (nejen) v době krize" /><published>2020-05-22T00:00:00+00:00</published><updated>2020-05-22T00:00:00+00:00</updated><id>https://www.profant.eu/2020/ct24-90</id><content type="html" xml:base="https://www.profant.eu/2020/ct24-90.html">&lt;p&gt;Veřejné zakázky se po čase opět dostaly do středu pozornosti, když se vláda se pokusila během 2 dnů protlačit novelu zákona o zadávání veřejných zakázek (ZZVZ). Tato snaha narazila na tvrdý odpor opozice i odborné veřejnosti. Díky tomu také vláda návrh pozastavila, i když jen dočasně.&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.ceskatelevize.cz/porady/11412378947-90-ct24/220411058130518&quot;&gt;Pořad 90’ ČT24 18.5.: Nákup zdravotnického materiálu a veřejné zakázky&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Je dobře, že se o zakázkách začíná více mluvit, jde o velmi důležité téma - každý rok jimi proteče neuvěřitelných 10% HDP, tedy přes 600 miliard. Skrze zakázky se také realizuje drtivá většina korupčních praktik - posledním takovým případem je kauza &lt;a href=&quot;https://www.irozhlas.cz/zpravy-domov/bylo-vseobecne-zadouci-aby-byla-mafra-ceske-drahy-utratily-za-reklamu-v-mediich_2005200555_ace?fbclid=IwAR3lMgCHqLik7O_KUWx2rBKhkkrepmQwBOhOKZ5i6wFp71XRYHGOComXRmo&quot;&gt;MAFRA a Česká dráhy&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Téma se dostalo médií včetně pořadu 90’ ČT24, kde jsem byl jedním z hostů. Jelikož jsem díky formátu pořadu neměl příležitost reagovat na všechny řečníky, doplňuji několik dalších postřehů, které v pořadu nezazněly, ač by podle mého názoru zaznít měly:&lt;/p&gt;
-
-&lt;h2 id=&quot;karel-havlíček-o-centrálním-nákupu-zdravotnických-pomůcek&quot;&gt;Karel Havlíček o centrálním nákupu zdravotnických pomůcek:&lt;/h2&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Správa státních hmotných rezerv centrálně nakoupí zásoby pro ministerstva a kraje pro případ druhé vlny nebo další pandemie – na dva měsíce. Dále bude SSHR sloužit jako centrální nákupní orgán pro tyto organizace pro jejich operativní potřeby.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Nákup zásob na dva měsíce má podle ministra vypadat takto:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Zásoby na 1. měsíc budou soutěženy přímo jako hotové výrobky,&lt;/li&gt;
-  &lt;li&gt;Zásoby na 2. měsíc budou fungovat tak, že stát koupí pouze materiál a dále bude platit dodavatelům za udržování volných kapacit, aby v případě potřeby mohli tento materiál vzít a udělat z něj požadovaný produkt.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Pavel Švagr v 90‘ce&lt;/strong&gt;:&lt;/p&gt;
-&lt;blockquote&gt;
-  &lt;p&gt;Realizovatelnost metody pro 2. měsíc ukáže až analýza MPO, která bude do 30. 6. 2020. Jde o to, zda čeští výrobci jsou schopni takto ty výrobní kapacity udržovat u všech 13 poptávaných položek.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&quot;reakce-o-p--tento-konkrétní-centrální-nákup&quot;&gt;Reakce O. P. – tento konkrétní centrální nákup:&lt;/h3&gt;
-&lt;p&gt;Vítáme snahu konečně zapojit české výrobce. Pan ministr Havlíček ale na tiskové konferenci zmiňoval snahu zapojit české výrobce pouze do té druhé fáze, tedy toho udržování výrobních kapacit.&lt;/p&gt;
-
-&lt;p&gt;Čeští výrobci musí mít šanci soutěžit i o dodávky již hotových produktů. &lt;strong&gt;Proto je klíčové, aby Státní správa hmotných rezerv (SSHR) stanovila podmínky zakázky nediskriminačně.&lt;/strong&gt; Aby se do zakázky mohlo přihlásit co nejvíce výrobců a došlo ke skutečné hospodářské soutěži.&lt;/p&gt;
-
-&lt;p&gt;I Jiří Kůs v 90‘ ČT24 (v 50. minutě) kritizoval tendr ministerstva vnitra, kde byl požadavek na nesmyslně vysoká minimální množství, což většinu českých výrobců odřízlo. Při tom šlo soutěžit třeba menší množství znovu sterilizovatelných roušek, v kombinaci s většími objednávkami ze zahraničí.&lt;/p&gt;
-
-&lt;p&gt;Případů, kdy tendr vypadá na první pohled transparentně, ale ve skutečnosti je šitý na míru jednomu dodavateli, najdeme v historii mnoho. Asi nejlépe to ilustrují zakázky na auta, kdy jsou některé parametry jako objem kufru zvoleny tak, aby se do tendru mohl přihlásit jen jediný výrobce – Škoda (např. &lt;a href=&quot;https://domaci.ihned.cz/c1-66590150-tendr-na-policejni-auta-byl-sity-na-miru-skode-auto-naznacuje-antimonopolni-urad-vyberove-rizeni-za-miliardy-zrusil&quot;&gt;zde&lt;/a&gt;, &lt;a href=&quot;https://www.lidovky.cz/domov/hledame-auta-znacka-jen-skodovky-urad-pro-jadernou-bezpecnost-diskriminoval-dodavatele.A170731_145019_ln_domov_ele&quot;&gt;zde&lt;/a&gt;).&lt;/p&gt;
-
-&lt;h3 id=&quot;reakce-o-p--centrální-nákup-obecně&quot;&gt;Reakce O. P. – centrální nákup obecně:&lt;/h3&gt;
-&lt;p&gt;Podporujeme myšlenku centrálního nákupu, který ušetří administrativu na úřadech a může vést i ke zvýšení kvality a snížení ceny (v závislosti na schopnostech centrálního nákupního orgánu).&lt;/p&gt;
-
-&lt;p&gt;Stát by se měl inspirovat Rakouskem, kde pro úřady, města či obce funguje „e-shop“ s běžně poptávanými produkty (od papíru přes PC až po energie a auta). Centrální zadavatel vysoutěží rámcovou smlouvu na určitý produkt a úřady si jej mohou za několik kliků objednat, čímž ušetří ohromné množství administrativy. A přitom je vše transparentní a v souladu se zákonem, protože produkt byl řádně vysoutěžen.&lt;/p&gt;
-
-&lt;p&gt;Na výboru pro veřejnou správu jsem proto navrhoval změnu zákona o veřejných zakázkách, která by takovéto centrální nakupování umožnila i u nás (jde o vyškrtnutí části § 9, více info např. &lt;a href=&quot;http://blog.aktualne.cz/blogy/jiri-skuhrovec.php?itemid=36812&quot;&gt;na blogu Jiřího Skuhrovce&lt;/a&gt;). Bohužel, návrh na Výboru pro veřejnou správu přes poslance vládního hnutí ANO neprošel.&lt;/p&gt;
-
-&lt;p&gt;Současné snahy o centrální nákup jsou i díky nekompatibilnímu zákonu limitované, a často chybí dostatečná konkurence, což křiví tržní prostředí - viz třeba &lt;a href=&quot;https://www.profant.eu/2020/ramcove-dohody-mvcr.html&quot;&gt;centrální nákup některých IT služeb na MV&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&quot;předseda-státní-správy-hmotných-rezerv-k-zzvz&quot;&gt;Předseda Státní správy hmotných rezerv k ZZVZ:&lt;/h2&gt;
-&lt;blockquote&gt;
-  &lt;p&gt;Současný zákon nám neumožňuje potřebné věci rychle a napřímo nakoupit, uvítali bychom výjimku.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&quot;reakce-o-p&quot;&gt;Reakce O. P.:&lt;/h3&gt;
-&lt;p&gt;Nesouhlasím. Zákon už dnes pamatuje na situace, kdy je třeba jednat rychle. Existují dokonce dvě výjimky, při jejichž použití není třeba vypisovat otevřenou soutěž, dodržovat lhůty apod. Použití obou těchto výjimek v době koronavirové krize &lt;a href=&quot;https://ekonomickydenik.cz/nouzovem-stavu-lze-nakupovat-i-jrbu-i-ma-sva-pravidla/&quot;&gt;připouští&lt;/a&gt; i ÚOHS ve svém stanovisku.&lt;/p&gt;
-
-&lt;p&gt;V první řadě, v tuto chvíli nic nebrání SSHR vypsat řádné výběrové řízení i se všemi lhůtami a nakupovat podle běžných pravidel. V případě náznaku, že se pandemie vrací v tzv. druhé vlně, toto výběrové řízení přerušit a začít s nákupy „na přímo“, například od uchazečů přihlášených do původního výběrového řízení. Takový postup by byl v souladu se zákonem.&lt;/p&gt;
-
-&lt;p&gt;Alternativně může část zásob nakoupit rovnou na přímo, podle platných výjimek, a zbytek soutěžit.&lt;/p&gt;
-
-&lt;p&gt;V současné situaci jsou použitelné nejméně dvě výjimky:&lt;/p&gt;
-
-&lt;h4 id=&quot;výjimka-podle--29-písm-a-zzvz-ochrana-bezpečnostních-zájmů-čr&quot;&gt;Výjimka podle § 29 písm. a) ZZVZ (ochrana bezpečnostních zájmů ČR)&lt;/h4&gt;
-&lt;ul&gt;
-  &lt;li&gt;Tato výjimka umožňuje zadat zakázku zcela mimo zadávací řízení. Musejí být splněny dva předpoklady, tedy ohrožení bezpečnostních zájmů a nemožnost řešit situaci jinak. Pokud jde o bezpečnostní zájem, tak podle článku 1 ústavního zákona o bezpečnosti je bezpečnostním zájmem mimo jiné i ochrana životů a zdraví obyvatel - tato podmínka je tedy splněna, ostatně i odborná literatura z doby před pandemií zmiňuje jako příklad právě situaci šíření nakažlivé nemoci. Pokud jde o bod 2, záleží na možnostech zadavatele - tvrdí-li předseda SSHR, že situace je podle současného zákona neřešitelná, potvrzuje tím oprávněnost použití této výjimky.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Z této výjimky také vyplývá zbytečnost novely ZZVZ, která byla vládou navržena minulý týden.&lt;/strong&gt; Pokud skutečně dojde k ohrožení zdraví obyvatel, úřady skutečně nemusí ověřovat kvalifikaci či dohledávat konečné vlastníky, jak si přeje vláda. Novela však takovou možnost zaváděla nejen pro mimořádné situace, ale plošně.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;výjimka-podle--63-odst-5-zzvz-jřbu-v-důsledku-krajně-naléhavé-okolnosti-kterou-zadavatel-nemohl-předvídat&quot;&gt;Výjimka podle § 63 odst. 5 ZZVZ (JŘBU v důsledku krajně naléhavé okolnosti, kterou zadavatel nemohl předvídat)&lt;/h4&gt;
-&lt;ul&gt;
-  &lt;li&gt;Zatímco první výjimka míří na situace, kdy skutečně “hoří“ a celý zákon prakticky vypíná, tato druhá výjimka je mírnější, ale lze ji použít v širším okruhu situací. V jednacím řízení bez uveřejnění (JŘBU) některé podmínky splněny být musejí (např. ověření kvalifikace, ověření konečného vlastníka), ale stále je zde možnost napřímo oslovit konkrétního dodavatele.&lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Na druhou stranu jsou zde širší možnosti použití - aby se dalo použít JŘBU, musí být splněny 3 předpoklady:&lt;/p&gt;
-
-    &lt;p&gt;1) použití JŘBU je nezbytné v důsledku krajně naléhavé okolnosti
-2) zadavatel tuto okolnost nemohl předvídat a ani ji nezpůsobil a
-3) nelze dodržet lhůty pro otevřené řízení, užší řízení nebo jednací řízení s uveřejněním.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Jinak řečeno, pro použití této výjimky nemusí “hořet,” stačí pouze prokázat, že situace je krajně naléhavá. Pokud reálně hrozí druhá vlna pandemie, myslím, že o krajní naléhavosti nemůže být sporu.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Ještě je na závěr potřeba dodat, že ani jedna ze dvou citovaných výjimek není jakkoliv napojená na nouzový stav, to znamená, že je lze samozřejmě používat i nadále po 17. květnu.&lt;/p&gt;
-&lt;h2 id=&quot;judr-vlastimil-fidler-ředitel-odboru-práva-veřejných-zakázek-mmr-k-novele-zzvz&quot;&gt;JUDr. Vlastimil Fidler, ředitel odboru práva veřejných zakázek MMR, k novele ZZVZ&lt;/h2&gt;
-&lt;blockquote&gt;
-  &lt;p&gt;Je potřeba si vybrat, zda v kritických chvílích nepotlačíme transparentnost.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&quot;reakce-o-p-1&quot;&gt;Reakce O. P.&lt;/h3&gt;
-&lt;p&gt;Jak už bylo výše řečeno, zákon  toto umí, když v kritických chvílích lze potlačit nejen transparentnost, ale v podstatě všechny záruky a požadavky zákona (viz výše uvedená výjimka č. 1).&lt;/p&gt;
-
-&lt;p&gt;Zákon, který předložila vláda v nouzovém režimu, se ale netýkal “kritických chvílí“. Zákon měnil pravidla nejen pro JŘBÚ trvale, a to nejen pro ty, která se konají z důvodu krajní naléhavosti, ale třeba i pro ty, kde existuje pouze jediný možný dodavatel. Potlačili bychom tak transparentnost nejen nákupů akutně potřebného zdravotnického vybavení, ale třeba i nákupy IT softwaru v případě tzv. &lt;a href=&quot;https://www.pirati.cz/assets/pdf/Ak%C4%8Dn%C3%AD%20pl%C3%A1n%20open%20source%201.0.pdf&quot;&gt;vendor lock-inu&lt;/a&gt;, kdy z povahy věci (vlivem předchozího postupu úřadu) existuje jen jeden dodavatel. A vůbec už nehovořím o tom, že situace “jediného možného dodavatele“ je možné vytvořit uměle, viz výše citovaný příklad s požadavkem na objem kufru automobilů.&lt;/p&gt;
-
-&lt;p&gt;Ministerstvo pro místní rozvoj, a zejména pan magistr Fidler jakožto ředitel odboru práva veřejných zakázek, jsou odpovědní za současný zákon - jsou jeho autory, vydávají metodiky k jeho výkladu a připravují pravidelné novely. Pokud oni sami tvrdí, že se podle něj nedají nakupovat léky, pak kritizují především sami sebe.&lt;/p&gt;</content><author><name>Ondřej Profant</name></author><category term="veřejné zakázky" /><summary type="html">Veřejné zakázky se po čase opět dostaly do středu pozornosti, když se vláda se pokusila během 2 dnů protlačit novelu zákona o zadávání veřejných zakázek (ZZVZ). Tato snaha narazila na tvrdý odpor opozice i odborné veřejnosti. Díky tomu také vláda návrh pozastavila, i když jen dočasně.</summary></entry></feed>
+&lt;p&gt;&lt;a href=&quot;https://www.psp.cz/sqw/historie.sqw?o=8&amp;amp;T=593&quot;&gt;Podávané pozměňovací návrhy na webu sněmovny&lt;/a&gt;&lt;/p&gt;</content><author><name>Ondřej Profant</name></author><category term="sněmovna" /><category term="matriky" /><summary type="html">V souvislosti s projednáváním novely Zákona o matrikách, jménu a příjmení předkládám několik pozměňovacích návrhů. Problematika jmen a příjmení je široká, mediální pozornost je však soustřeďována hlavně na přechylování. Zákon bude v nejbližších dnech projednáván na plénu sněmovny ve 2. čtením. Pojďme si nyní představit všechny návrhy, které předkládám.</summary></entry></feed>
