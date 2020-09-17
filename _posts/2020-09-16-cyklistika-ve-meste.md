@@ -34,7 +34,7 @@ Pojdme se na hlavní problémy podívat:
 Auto je pro mnoho lidí nezbytné. Je nesmyslné lidem brát možnost zvolit auto jako dopravní prostředek, ale je třeba počítat se všemi externalitami. Například si musíme uvědomit, že každý motorista zabírá další prostor zbylým motoristům. Zde je pár snadných způsobů, jak zlepšit dopravní situaci ve městech:
 
 - **budovat infrastrukturu s ohledem na MHD**: Například tunel Blanka velmi pomohl pražským řidičům, ale nepodpořil rozvoj veřejné hromadné dopravy. Přitom autobus jezdí po stejných silnicích jako auta. Jen by na klíčových místech potřeboval buspruhy a zastávky. Když si uvědomíme, že podíl cestujících v Praze je: 29 % auto; 42 % MHD, tak je jasné, že většina přepravujících se Blanku nevyužije a dotuje ji pro 29 %. Drobná investice v rámci stavby Blanky by se pražanům velmi dobře vrátila. Piráti na to silně upozorňovali při [přípravě Blanky 2][mestsky-okruh] v roce 2017.
-![Podíl druhů přepravy k roku 2016](https://www.profant.eu/assets/img/posts/cyklo-modal-share-2016.png)
+![Podíl druhů přepravy k roku 2016, zdroj: Dopravní plán HMP na roky 2018 až 2020](https://www.profant.eu/assets/img/posts/cyklo-modal-share-2016.png)
 - **nedotovat parkování**: V novostabách si připlacíme za parkovací místa, proč tedy dotujeme místa na ulicích? Častečně, leč neohrabaně, to řeší parkovací zóny. Je třeba systém více převádět na tržní. Parkování v ulicích totiž často blokuje místo, které by jinak bylo možno použít třeba pro aktivní život v ulicích, či cyklistickou dopravu. I místo ve veřejném prostoru je rozděleno neproporcionálně, silně ve prospěch těch 29 % automobilistů. Ale zároveň je nutné samozřejmě napomoci lidem, kteří nemají jinou alternativu. 
 - **napomoci dalším druhům dopravy**: V Praze máme jednu z nejkvalitnějších MHD. Ale například v odstraňování bariér pro cyklisty pokulháváme. O tom budeme mluvit dále. 
 - **budovat město krátkých vzdáleností**: Město musí být kompaktní. Ideální doprava je taková, která vůbec nevznikne, protože můžeme dojít pěšky. Například zástavba nesmí bránit průchodu. V centru Prahy je nejlepší způsob dopravy chůze. Protože auta musí vše objíždet a cyklista je blokován davy chodců. Jenže chodec potřebuje rozumnou vzdálenost. Pokud ho nutíme neustále obcházet překážky (neprůchozí komplex staveb), tak to vzdá a půjde to objet autem. Stejně tak je důležité, aby lidé v místě bydliště měli klíčové služby - například obchody s potravinami.
@@ -47,13 +47,13 @@ Cyklistika ve městě může být osvěžující. Jelikož nám dává velkou vo
 
 Samozřejmě velkou otázkou je doba jízdy. Například mně osobně vychází cyklistika jako nejrychlejší způsob přepravy. Jezdím trasu Kobylisy - Malá Strana a na kole jí ujedu za 20 minut, autem za 15-40 minut a MHD za 40 minut. Kolo má tu výhodu, že je ve vybraných úsecích kombinovatelné s MHD. Například nemusíte šlapat velké kopce, ale můžete je vyjet metrem. Samozřejmě pokud vaše cesta do práce je delší než 15 km, tak už hodně půjde o terén. Ale obvykle se dá najít rozumné řešení (například přiblížit se vlakem).
 
-![Křižovatka s mimoúrovňovým křížením pro cyklisty v Norsku](https://www.profant.eu/assets/img/posts/cyklo-krizovatka-norsko.jpg)
+![Křižovatka s mimoúrovňovým křížením pro cyklisty v Stavengeru v Norsku, zdroj: https://twitter.com/wlcmagazine/status/1215564413182365697](https://www.profant.eu/assets/img/posts/cyklo-krizovatka-norsko.jpg)
 
 Stavět město pro cyklisty je přirozenější i co se týče prostoru. Cyklista je větší chodec (ale již je o dost menší než auto). Čili infrastruktura pro chodce a cyklisty má přiměřenou velikost v porovnání s městskými dálnicemi, které nutně vznikají ve městě závislém na autech.
 
 Cyklistika je samozřejmě nízkoemisní, tichá, zdravá, relativně levná na provoz. V dnešní pandemické situaci také zdravotně bezpečná. Ale bez podpory se neobejde. Potřebuje:
 
-- **parkování kol**: jak u zaměstnavatele, tak ve veřejných prostorech. Cyklostojan není nákladná záležitost a prostorově také nezabere moc místa (v porovnání s auty)
+- **parkování kol**: jak u zaměstnavatele, tak ve veřejných prostorech. Cyklostojan není nákladná záležitost a prostorově také nezabere moc místa (v porovnání s auty). Výhodou je stojan zabezpečený například ve dvoře či samostatné místnosti a nejen před budovou, kde hrozí zcizení kola.
 - **zázemí pro cyklisty**: kromě parkování (nezbytné) je pro kvalitní dojíždění do práce třeba mít možnost osprchovat se a ideálem je šatna
 - **kvalitní řešení křižovatek**: křižovatky jsou vícenásobný problém. Cyklista mnohdy musí zastavit a tím ztratí spoustu energie a času. Navíc je zde nejvíc ohrožen ze strany dalších účastníků provozu. Křižovatky musí od počátku pamatovat na chodce a cyklisty. Nesmíme se bát stavebních úprav, které naše křižovatky posunou do 21. století. Kvalitní řešení najdeme ve [Velké Británii][cambridge], Norsku (obrázek výše), [Dánsku](https://prahounakole.cz/2020/07/kodanske-krizovatky-setri-misto/) či Nizozemí: 
 
