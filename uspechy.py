@@ -22,30 +22,23 @@ class Config:
       "issues_tags": "https://redmine.pirati.cz/issues.csv?utf8=✓&set_filter=1&sort=id%3Adesc&f%5B%5D=status_id&op%5Bstatus_id%5D=%3D&v%5Bstatus_id%5D%5B%5D=5&f%5B%5D=tracker_id&op%5Btracker_id%5D=%3D&v%5Btracker_id%5D%5B%5D=28&f%5B%5D=project_id&op%5Bproject_id%5D=%3D&v%5Bproject_id%5D%5B%5D=185&v%5Bproject_id%5D%5B%5D=186&v%5Bproject_id%5D%5B%5D=187&v%5Bproject_id%5D%5B%5D=188&v%5Bproject_id%5D%5B%5D=189&v%5Bproject_id%5D%5B%5D=190&v%5Bproject_id%5D%5B%5D=191&v%5Bproject_id%5D%5B%5D=192&v%5Bproject_id%5D%5B%5D=193&v%5Bproject_id%5D%5B%5D=125&v%5Bproject_id%5D%5B%5D=194&v%5Bproject_id%5D%5B%5D=195&v%5Bproject_id%5D%5B%5D=196&v%5Bproject_id%5D%5B%5D=197&f%5B%5D=&c%5B%5D=tags_relations&group_by=project&t%5B%5D="
     }
     file = "issues.csv"
-    tag = "profant"    
-    test_ids = [16472, 16226, 25212]
+    tag = "profant"
+    default_icon = "thumbs-up"
+    default_img = ""
 
-def get_relevant_issues_id(tag=None, literal_eval=False):
+def get_relevant_issues_id(tag=None):
   """
   Get data from Redmine into pandas dataframe
   Data are csv (redmine json api cannot provide tags from plugin)
 
   Return pandas.DataFrame
   """
-  mysplit = lambda x: x.split(",")
   url = Config.urls['issues_tags']
 
   content = requests.get(url).content
   raw_string = io.StringIO(content.decode('utf-8'))
 
-  if literal_eval:
-    df = pandas.read_csv(
-      raw_string,
-      header=0,
-      names=['id','tag'],
-      converters={'tag': mysplit} )
-  else:
-    df = pandas.read_csv(
+  df = pandas.read_csv(
       raw_string,
       header=0,
       names=['id','tag'] )
@@ -64,6 +57,17 @@ def get_relevant_issues():
   https://python-redmine.com/resources/issue.html
 
   Return array of redminelib.resources.Issue.
+  
+  Interesting fields:
+   - issue.id
+   - issue.subject
+   - issue.created_on
+   - issue.start_date -- used
+   - issue.due_date
+   - issue.tags -- specialy added
+   - issue.custom_fields.get(48).value -- img
+   - issue.custom_fields.get(50).value -- video
+   - issue.description
   """
   df = get_relevant_issues_id(Config.tag)
   redmine = Redmine(Config.urls['rm'])
@@ -71,6 +75,12 @@ def get_relevant_issues():
   for i in df.id:
     try:
       issue = redmine.issue.get(int(i))
+      # Add tags:
+      issue.tags = df[df.id==i].tag.values[0].split(', ')
+      # Shortcuts:
+      issue.img = issue.custom_fields.get(48).value
+      issue.video = issue.custom_fields.get(50).value
+      issue.date = issue.start_date
       issues.append(issue)
     except exceptions.ResourceNotFoundError:
       if Config.verbose:
@@ -80,6 +90,20 @@ def get_relevant_issues():
     print("DEBUG: get_relevant_issues found %s issues" % len(issues))
 
   return issues
+
+def reduce_issues(issues):
+    new_issues = []
+    for i in issues:
+      item = {
+        'id': i.id,
+        'date': i.date,
+        'subject': i.subject,
+        'img': i.img,
+        'tags': i.tags,
+        'description': i.description
+      }
+      new_issues.append(item)
+    return new_issues
 
 def get_uspechy_yaml(file=None):
   """Get uspechy from yaml file
@@ -108,9 +132,20 @@ def get_uspechy_yaml(file=None):
     data = yaml.load(fp, Loader=yaml.FullLoader)
   pprint(data)
 
-def test():
+def create_uspechuy_yaml():
   issues = get_relevant_issues()
-  pprint(issues[0].description)
+  for issue in issues:
+    print(issue.subject)
+    print(issue.description)
+    break
+
+def test():
+  issues = reduce_issues(get_relevant_issues())
+  print(issues[0]['tags'])
+  print(issues[0]['tags'][0])
+  with open('test.yaml', 'w+', encoding='utf-8') as fp:
+      yaml.dump(issues, fp, allow_unicode=True)
+  #pprint(yaml.dump(issues))
   #get_uspechy_yaml()
 
 
