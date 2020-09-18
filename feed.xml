@@ -1,7 +1,41 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://www.profant.eu/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.profant.eu/" rel="alternate" type="text/html" /><updated>2020-09-18T11:36:35+00:00</updated><id>https://www.profant.eu/feed.xml</id><title type="html">Profant</title><subtitle>Zápisník pirátského poslance Ondřeje Profanta, který se zaměřuje na opendata, e-government, digitalizaci společnosti a kybernetickou bezpečnost.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://www.profant.eu/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.profant.eu/" rel="alternate" type="text/html" /><updated>2020-09-18T11:55:58+00:00</updated><id>https://www.profant.eu/feed.xml</id><title type="html">Profant</title><subtitle>Zápisník pirátského poslance Ondřeje Profanta, který se zaměřuje na opendata, e-government, digitalizaci společnosti a kybernetickou bezpečnost.
 Rád bych byl, aby Česká republika byla moderním státem s rozvinutou digitální ekonomikou, kde je kladen silný důraz na vzdělávání a svobodu.
 V digitalizaci se musíme inspirovat ve Velké Britanii, Dánsku a Estonsku, řešení musí být otevřená, uživatelsky přívětivá a ohleduplná k soukromí.
-</subtitle><author><name>Ondřej Profant</name></author><entry><title type="html">Cyklistika ve městech</title><link href="https://www.profant.eu/2020/cyklistika-ve-meste.html" rel="alternate" type="text/html" title="Cyklistika ve městech" /><published>2020-09-16T08:00:00+00:00</published><updated>2020-09-16T08:00:00+00:00</updated><id>https://www.profant.eu/2020/cyklistika-ve-meste</id><content type="html" xml:base="https://www.profant.eu/2020/cyklistika-ve-meste.html">&lt;p&gt;Kolo ve městech vzbuzuje silné emoce. U některých pozitivní, u některých negativní. Pojďme si rozebrat, proč nás tak dražďí a čím narušuje status quo.&lt;/p&gt;
+</subtitle><author><name>Ondřej Profant</name></author><entry><title type="html">eRouška 2,0</title><link href="https://www.profant.eu/2020/erouska-2.html" rel="alternate" type="text/html" title="eRouška 2,0" /><published>2020-09-18T11:00:00+00:00</published><updated>2020-09-18T11:00:00+00:00</updated><id>https://www.profant.eu/2020/erouska-2</id><content type="html" xml:base="https://www.profant.eu/2020/erouska-2.html">&lt;p&gt;Dnes vyšla nová verze aplikace eRouška. Jedná se o prostředek, který nám všem může pomoci normálně žít i v době probíhající pandemie. Poslouží k včasnému varování při zachování vysoké míry soukromí. Navíc je opensource.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;Stahovat můžete verzi pro &lt;a href=&quot;https://play.google.com/store/apps/details?id=cz.covid19cz.erouska&quot;&gt;android&lt;/a&gt; i &lt;a href=&quot;https://apps.apple.com/cz/app/erou%C5%A1ka/id1509210215&quot;&gt;iOS&lt;/a&gt;. O tom jak by měla fungovat &lt;a href=&quot;https://www.profant.eu/2020/chytra-karantena.html&quot;&gt;chytrá karanténa&lt;/a&gt; jsem informoval již na počátku dubna. eRouška 2.0 je její součástí. Pokud bude mít tato aplikace dostatek uživatelů, tak se nám všem zlepší život. Pomůže včasnému varování při kontaktu s nemocným a díky tomu může zabránit mnohým dalším kontaktům.&lt;/p&gt;
+
+&lt;h2 id=&quot;jak-to-funguje&quot;&gt;Jak to funguje?&lt;/h2&gt;
+
+&lt;p&gt;eRouška 1.0 byl komunitní projekt iniciativy &lt;a href=&quot;https://www.covid19cz.cz/&quot;&gt;covid19cz&lt;/a&gt;. Státem vlastněná akciová společnost NAKIT v srpnu převzala vývoj (při zachování většiny původního tvůrčího týmu) a nyní vydává verzi 2.0. Ta využívá celosvětový protokol, na kterém se domluvili dva největší výrobci operačních systému pro smartphony.&lt;/p&gt;
+
+&lt;p&gt;Obrovskou výhodou je využítí technologie bluetooth. Ta funguje dobře i v budovách či podzemí (metro) a silně napomáhá ochraně soukromí (nejsou získávány údaje o poloze).&lt;/p&gt;
+
+&lt;p&gt;Původní aplikace využívala standardní bluetooth API z operačních systémů, které však nebylo nejvhodnější pro tento druh použití. Aplikace nebyla vždy stabilní a značně vybíjela baterku. Proto je dobře, že do procesu vstoupili majoritní výrobci a navrhli jak to udělat od základu správně. Vytvořili tedy v samotných operačních systémech možnost tohoto druhu trasování, které dbá ochrany soukromí i baterie zařízení. Tato funkcionalita operačního systému je dostupná jen &lt;em&gt;orgánům ochrany veřejného zdraví&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Když aplikaci zapnete, bude pro vaše zařízení generovat náhodná ID. Ta se každých 10–20 minut mění, aby vás pomocí nich nebylo možné identifikovat ani lokalizovat. Tato náhodná ID se vyměňují přes bluetooth s ostatními zařízeními s aplikací eRouška. Telefon pravidelně kontroluje všechna ID přidružená k pozitivním případům COVID-19 a porovnává je se svým seznamem.&lt;/p&gt;
+
+&lt;p&gt;Pokud zjistíte, že jste nakažen, tak se pracovníci Hygieny se vás dotáží zda používáte eRoušku. Pokud ano, tak vám zašle speciální SMS. Tu rozpozná aplikace a nabídne vám možnost odeslat vaše náhodná ID na server. Centrální server ve správě NAKIT pak distribuuje seznam nakažených ID. Telefony dalších uživatelů již samy vyhodnotí zda potkaly nakažené ID, či nikoliv. Pokud ano, tak to oznámí uživateli, nikoliv hygieně.&lt;/p&gt;
+
+&lt;p&gt;Více se můžete dočíst přímo v materiálu od &lt;a href=&quot;https://www.google.com/covid19/exposurenotifications/&quot;&gt;Google&lt;/a&gt; tvůrce operačního systému Android. V tomto článku cituji celé pasáže z jejich popisu.&lt;/p&gt;
+
+&lt;h2 id=&quot;ochrana-soukromí&quot;&gt;Ochrana soukromí&lt;/h2&gt;
+
+&lt;p&gt;Hlavní prvky ochrany soukromí:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Aplikaci (i příslušné API operačního systému) &lt;strong&gt;můžete kdykoliv vypnout&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;Aplikace &lt;strong&gt;nesleduje vaší polohu&lt;/strong&gt;. Na Androidu však vyžaduje opravneni k lokalizacnim sluzbam.&lt;/li&gt;
+  &lt;li&gt;Vyhledávání možného kontaktu probíhá &lt;strong&gt;přímo v zařízení&lt;/strong&gt;. Vaše identita není sdílena s ostatními uživateli.&lt;/li&gt;
+  &lt;li&gt;Aplikace je &lt;strong&gt;&lt;a href=&quot;https://github.com/covid19cz&quot;&gt;open source&lt;/a&gt;&lt;/strong&gt;. Nezávislí odborníci mohou posoudit kvalitu kódu i to zda dělá jen to, co má.&lt;/li&gt;
+  &lt;li&gt;Váš telefon vysílá pouze &lt;strong&gt;náhodná ID&lt;/strong&gt; a ty se navíc mění v čase.&lt;/li&gt;
+  &lt;li&gt;Příslušné funkce operačního systému jsou dostupné jen &lt;em&gt;orgánům ochrany veřejného zdraví&lt;/em&gt;.&lt;/li&gt;
+  &lt;li&gt;Komunikaci skrze bluetooth napsali výrobci operačního systému. Pokud jim běžně důvěřujete, tak ani zde nemáte důvod ke zvýšeným obavám.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Chápu, že i přes to všechno se najdou lidé, kteří aplikaci použít nemohou. Ať už jsou to lidé, kteří nemají chytrý telefon nebo lidé, kteří prostě nechtějí. Nic to nemění na tom, že pokud tuto aplikaci nainstaluje třeba 70% lidí aktivně se pohybujících ve veřejném prostoru, tak to značně napomůže k včasnému varování před nákazou. Systém nikdy nebude 100% spolehlivý, ale rozhodně je lepší se snažit kvalitně a rychle trasovat, než další plošné zastavení celé ekonomiky.&lt;/p&gt;</content><author><name>Ondřej Profant</name></author><category term="bezpečnost" /><category term="zdravi" /><summary type="html">Dnes vyšla nová verze aplikace eRouška. Jedná se o prostředek, který nám všem může pomoci normálně žít i v době probíhající pandemie. Poslouží k včasnému varování při zachování vysoké míry soukromí. Navíc je opensource.</summary></entry><entry><title type="html">Cyklistika ve městech</title><link href="https://www.profant.eu/2020/cyklistika-ve-meste.html" rel="alternate" type="text/html" title="Cyklistika ve městech" /><published>2020-09-16T08:00:00+00:00</published><updated>2020-09-16T08:00:00+00:00</updated><id>https://www.profant.eu/2020/cyklistika-ve-meste</id><content type="html" xml:base="https://www.profant.eu/2020/cyklistika-ve-meste.html">&lt;p&gt;Kolo ve městech vzbuzuje silné emoce. U některých pozitivní, u některých negativní. Pojďme si rozebrat, proč nás tak dražďí a čím narušuje status quo.&lt;/p&gt;
 
 &lt;!--more--&gt;
 
@@ -457,119 +491,4 @@ e) nabyl-li je v souvislosti s osvojením&lt;/p&gt;
 
 &lt;p&gt;Všechny tyto příklady ukazují na byrokracii, upjatost a zbytečnou neochotu vycházet vstříc občanům. Podobné jevy lze pozorovat na více úrovních veřejné správy, zde jsou však jasně identifikovatelné. Česká legislativa v oblasti jmen je podobná slovenské úpravě, která je však vstřícnější k neobvyklým křestním jménům a ke jménům státních příslušníků ostatních států, a německé, která je ale liberálnější v oblasti křestních jmen. Český zákon je tak ze všech zkoumaných zemí nejpřísnější.&lt;/p&gt;
 
-&lt;p&gt;Tento stav není vysvětlitelný ani rakousko-uherskou byrokracií (Rakousko je znatelně vstřícnější), ani jazykem (Polsko a Ukrajina mají výrazně méně omezení). &lt;strong&gt;Nezbývá tak jiné vysvětlení, že je to způsobeno neochotou státního aparátu měnit zaběhnuté věci a vycházet vstříc přáním svých občanů.&lt;/strong&gt;&lt;/p&gt;</content><author><name>Bára Soukupová</name></author><category term="sněmovna" /><category term="matriky" /><summary type="html">Od loňského září probíhá v českém mediálním prostoru diskuze související s vládní novelou Zákona o matrikách, jménu a příjmení, který prochází legislativním procesem. Pozornost na sebe strhává zejména otázka přechylování ženských příjmení. Tento zákon však řeší i spoustu dalších náležitostí ohledně jmen a přijmení. Na způsobu, jak je tato problematika řešena, lze ukázat mnoho problémů, které platí v české veřejné správě obecně, včetně přehnané byrokracie, orientace na úřad místo orientace na občana a přehnaných restrikcí, které procesy komplikují a ničemu nepomáhají.</summary></entry><entry><title type="html">Zákon o matrikách, jménu a příjmení - pozměňovací návrhy</title><link href="https://www.profant.eu/2020/matriky-pn.html" rel="alternate" type="text/html" title="Zákon o matrikách, jménu a příjmení - pozměňovací návrhy" /><published>2020-06-03T00:00:00+00:00</published><updated>2020-06-03T00:00:00+00:00</updated><id>https://www.profant.eu/2020/matriky-pn</id><content type="html" xml:base="https://www.profant.eu/2020/matriky-pn.html">&lt;p&gt;V souvislosti s projednáváním novely Zákona o matrikách, jménu a příjmení předkládám několik pozměňovacích návrhů. Problematika jmen a příjmení je široká, mediální pozornost je však soustřeďována hlavně na přechylování. Zákon bude v nejbližších dnech projednáván na plénu sněmovny ve 2. čtením. Pojďme si nyní představit všechny návrhy, které předkládám.&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;h3 id=&quot;přechylování&quot;&gt;Přechylování&lt;/h3&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://www.psp.cz/sqw/text/orig2.sqw?idd=175703&quot;&gt;Pozměňovací návrh&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;předkládáno s Helenou Válkovou&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Navrhuje se zrušit stávající omezení a umožnit požádat o zápis příjmení v základním tvaru všem ženám, které o to mají zájem a všem dětem ženského pohlaví, jejichž rodiče o to požádají. A to nejen v souvislosti s uzavřením manželství, vznikem registrovaného partnerství či narozením dítěte, ale kdykoli, kdy to žena (či rodiče dítěte ženského pohlaví) uzná za vhodné.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Hlasování Výboru pro veřejnou správu a regionální rozvoj:&lt;/strong&gt;&lt;br /&gt;
-ANO 11    NE 0    zdržel 5    přítomno 16     přijato&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Návrh má podporu Ministerstva vnitra.&lt;/em&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;křestní-jména&quot;&gt;Křestní jména&lt;/h3&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://www.psp.cz/sqw/text/orig2.sqw?idd=177579&quot;&gt;Pozměňovací návrh&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Cílem tohoto pozměňovacího návrhu je jasnější nastavení praxe zápisu křestních jmen do matričních knih.
-Správní orgány v řadě případů přenášejí vlastní rozhodovací činnost na znalce v oblasti jazykovědy, neboť zápis jména podmiňují jím zpracovaným znaleckým posudkem. Volba konkrétního znalce je z důvodu jejich nedostatku nadto v současné době významně limitována.&lt;/p&gt;
-
-&lt;p&gt;Současná matriční praxe vychází při posuzování jmen ze seznamu jmen z knihy Knappová, Miloslava. Jak se bude vaše dítě jmenovat? Praha: Academia, 2017. Pokud jméno v publikaci není obsaženo, matriční úřad požaduje znalecký posudek. Nikde však není zveřejněn seznam již posouzených jmen, proto mohou být posudky vyžadovány zbytečně vícekrát. Předložený pozměňovací návrh ukládá Ministerstvu vnitra vést seznam již zapsaných jmen, která je možno zapsat v souladu se zákonem, průběžně ho doplňovat a zveřejňovat ve formě otevřených dat.  Předpokládá se, že Ministerstvo do tohoto seznamu zahrne všechna jména z publikace Jak se bude vaše dítě jmenovat? a všechna jména, která na základě vydaných znaleckých posudků vyhovují požadavkům zákona. Navrhovaná formulace zároveň umožňuje Ministerstvu zahrnout i jména obsažená v jiných zdrojích - Registru obyvatel s vynecháním jmen již nevyhovujících požadavkům zákona, jiné odborné publikaci v oboru onomastiky nebo obdobných seznamech, jimiž disponují jiné státy.&lt;/p&gt;
-
-&lt;p&gt;Podle Slovenské právní úpravy již například postačuje uvést, že (neobvyklé nebo cizojazyčné) jméno lze nalézt na webu &lt;a href=&quot;http://www.babynameworld.com&quot;&gt;www.babynameworld.com&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Hlasování Výboru pro veřejnou správu a regionální rozvoj:&lt;/strong&gt;&lt;br /&gt;
-ANO 6  NE 2  zdržel 8  přítomno 16   nepřijato&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Ministerstvo vnitra návrh nepodporuje, tuto funkcionalitu totiž připravují do tří let jako součást e-matrik i bez zákonné povinnosti.&lt;/em&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;možnost-kombinovaného-příjmení-manželů&quot;&gt;Možnost kombinovaného příjmení manželů&lt;/h3&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://www.psp.cz/sqw/text/orig2.sqw?idd=177583&quot;&gt;Pozměňovací návrh&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Cílem tohoto pozměňovacího návrhu je umožnit snoubencům zvolit si jako své společné příjmení kombinaci obou svých původních příjmení, což dosavadní zákon neumožňuje. Umožněno je pouze ponechání původního příjmení u manžela, jehož příjmení nebylo zvoleno jako společné. Oba snoubenci by tak podle tohoto návrhu mohli mít stejné dvojité příjmení. Z důvodu zabránění řetězení je možné takto kombinovat maximálně dvě příjmení - tedy pokud některý ze snoubenců již dvojité příjmení má, bude si muset vybrat pro nové společné kombinované příjmení pouze jedno ze svých dosavadních.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Hlasování Výboru pro veřejnou správu a regionální rozvoj:&lt;/strong&gt;&lt;br /&gt;
-ANO 3   NE 4  zdržel 9  přítomno 16   nepřijato&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Ministerstvo vnitra návrh nepodporuje, trvají na pevně daném pořadí příjmení.&lt;/em&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;možnosti-jiného-příjmení-manželů&quot;&gt;Možnosti jiného příjmení manželů&lt;/h3&gt;
-
-&lt;p&gt;Cílem tohoto pozměňovacího návrhu je umožnit snoubencům zvolit si jako své společné příjmení libovolné příjmení, nezávisle na tom, zda již ho některý ze snoubenců používá. Tato volba je u některých párů preferována z různých důvodu. Důvodem mohou být špatné vztahy se svými původními rodinami nebo potřeba novou rodinu definovat novým příjmením, nezatíženým rodinou minulostí. Motivací může být také snaha o oživení příjmení, které se v rodině dříve vyskytovalo, ale zaniklo. V současné praxi musí nejprve před svatbou jeden ze snoubenců své příjmení změnit na matričním úřadě a druhým snoubencem je posléze toto příjmení přijato jako společné při svatbě. Pozměňovací návrh tento postup zjednodušuje na prosté přijetí nového příjmení při svatbě oběma snoubenci.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Hlasování Výboru pro veřejnou správu a regionální rozvoj:&lt;/strong&gt;&lt;br /&gt;
-ANO 5   NE 8    zdržel 3    přítomno 16   nepřijato&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Ministerstvo vnitra návrh nepodporuje, svobodná volba příjmení novomanželů mimo proces samostatné žádosti by podle názoru MV ohrozila zájmy nezletilých dětí. Vzhledem k mnoha hlasem proti návrhu jsem se rozhodl ho do 2. čtení nepředkládat.&lt;/em&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;možnost-kombinovaného-příjmení-dětí&quot;&gt;Možnost kombinovaného příjmení dětí&lt;/h3&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://www.psp.cz/sqw/text/orig2.sqw?idd=177585&quot;&gt;Pozměňovací návrh&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Návrh dává rodičům možnost dohodou určit jako příjmení dítěte také „kombinované“ příjmení složené z příjmení obou rodičů. Mají-li rodiče rozdílná příjmení (ať již z důvodu, že nejsou sezdáni nebo si po svatbě každý ponechal své příjmení), může situace, kdy dítě nese příjmení jen jednoho z nich, přinášet komplikace a  praktické problémy (při jednání s úřady, lékaři, školou, při cestování apod.). Problémům také čelí děti českých rodičů narozené v zahraničí (např. ve Španělsku), kde je kombinované příjmení připisováno automaticky. Po návratu do Česka však není českými úřady uznáno a rodiče jsou vyzváni, aby si jedno z příjmení vybrali.
-Má-li některý z rodičů více příjmení, lze při volbě určit pouze dvě z nich, aby nedocházelo k řetězení příjmení.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Hlasování Výboru pro veřejnou správu a regionální rozvoj:&lt;/strong&gt;&lt;br /&gt;
-ANO 4   NE 7    zdržel 5    přítomno 16   nepřijato&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Ministerstvo vnitra návrh nepodporuje.&lt;/em&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;zjednodušení-organizace-svateb&quot;&gt;Zjednodušení organizace svateb&lt;/h3&gt;
-
-&lt;p&gt;&lt;em&gt;předkládáno s Věrou Kovářovou&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Pravomoc orgánů obcí a malých městských částí, které nejsou matričními úřady, vykonávat sňatečné obřady je omezena hned v několika směrech. Předně nemůže tento obřad vést pověřený člen zastupitelstva, ale pouze starosta a místostarosta. Dále může oddávat pouze snoubence, z nichž jeden přihlášen k trvalému pobytu. Nakonec je
-konání obřadu limitováno tím, že podle občanského zákoníku může být občanský sňatek uzavřen pouze za přítomnosti matrikáře.&lt;/p&gt;
-
-&lt;p&gt;Všechny tyto skutečnosti nedůvodně komplikují uzavírání sňatků před orgány nematričních obcí a městských částí, neboť zákonné pověření starosty či místostarosty nemusí být vždy dostačující. Navíc povinná přítomnost matrikáře limituje vůli snoubenců uzavřít sňatek, například v určitý termín, kdy se matrikář nemůže nebo nechce k obřadu dostavit. Proto předložený návrh v praxi umožní v nematričních obcích nebo městských částech častější konání občanských sňatečných obřadů jako v jiných částech a obcích, když jejich možnosti jsou nedůvodně omezeny současnou právní úpravou.&lt;/p&gt;
-
-&lt;p&gt;Předkládaný návrh umožňuje u malých obcí a městských částí oddávání i zastupitelům. Dále pak ruší podmínku trvalého bydliště alespoň jednoho snoubence v dané obci. Tím zrovnoprávňují v tomto ohledu obce bez matričního úřadu s těmi, které matriční úřad mají. Návrh také umožní pořádat svatby bez matrikáře, pokud má oddávající odborné matrikářské zkoušky.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Hlasování Výboru pro veřejnou správu a regionální rozvoj:&lt;/strong&gt;&lt;br /&gt;
-ANO 16    NE 0    zdržel 0    přítomno 16    přijato&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Ministerstvo vnitra s návrhem souhlasí, nicméně trvá na plných odborných matrikářských zkouškách, což limituje reálný dopad předkládaného návrhu.&lt;/em&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;zrušení-povinných-sterilizací-při-úřední-změně-pohlaví&quot;&gt;Zrušení povinných sterilizací při úřední změně pohlaví&lt;/h3&gt;
-
-&lt;p&gt;&lt;em&gt;předkládáno s Barborou Kořanovou&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Návrh naplňuje závazky České republiky pro ni vyplývajících z Úmluvy o ochraně lidských práv a základních svobod a Evropské sociální charty dle judikatury Evropského soudu pro lidská práva ve věcech č. 79885/12, 54271/13 a 52596/13 a Evropského výboru pro sociální práva ve věci č. 117/2015 ve věci obligatorních sterilizací.&lt;/p&gt;
-
-&lt;p&gt;Návrh ruší povinnost sterilizace při úřední změně pohlaví a zjednodušuje tak výměnu dokladů pro trans lidi.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Hlasování Výboru pro veřejnou správu a regionální rozvoj:&lt;/strong&gt;&lt;br /&gt;
-ANO 8   NE 4    zdržel 4    přítomno 16     nepřijato&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Návrh bude po konzultaci s Ministerstvem zdravotnictví podán v pozměněné podobě.&lt;/em&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;uznání-jména-z-jiného-státu-v-případě-dvojího-občanství&quot;&gt;Uznání jména z jiného státu v případě dvojího občanství&lt;/h3&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://www.psp.cz/sqw/text/orig2.sqw?idd=177581&quot;&gt;Pozměňovací návrh&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Navrhovaná změna umožní občanům, kteří jsou zároveň občany jiného státu, aby v českých matričních dokladech užívali jméno v souladu s podobou, kterou mu umožňuje používat tento jiný stát. Rozšiřuje tak tuto možnost z členských států EU na všechny státy. Vzhledem k různosti jazyka, tradic i písma členských států EU není důvod, aby tato možnost nebyla přístupná i občanům dalších států.&lt;/p&gt;
-
-&lt;p&gt;Návrh tak napravuje stávají právní stav, který umožňuje např. uznání jmen občanům Řecka a Bulharska, které ani nepíší latinkou, a naopak neuznává jména švýcarských, amerických či kanadských občanů.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Návrh nebyl předložen na výbor, bude podáván až na plénu.&lt;/em&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;možnost-změny-rodného-přijmení-pro-osoby-kterým-bylo-změněno-jako-nezletilým&quot;&gt;Možnost změny rodného přijmení pro osoby, kterým bylo změněno jako nezletilým&lt;/h3&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://www.psp.cz/sqw/text/orig2.sqw?idd=177587&quot;&gt;Pozměňovací návrh&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Návrh napravuje stav, který vznikl přijetím přechodného ustanovení zákonem č. 312/2013 Sb. Čl. II:
-„Rodné příjmení, které fyzická osoba užívá ke dni nabytí účinnosti tohoto zákona, se považuje za rodné příjmení podle zákona č. 301/2000 Sb., ve znění účinném ode dne nabytí účinnosti tohoto zákona.“&lt;/p&gt;
-
-&lt;p&gt;Pokud totiž byla povolena ve správním řízení změna příjmení před 1. lednem 2014, kdy nebylo rodné příjmení v právním řádu definováno, má se podle výkladu Ministerstva vnitra za to, že tím bylo změněno rodné příjmení. Jsou případy, kdy se matka dítěte rozešla s jeho otcem a uzavřela manželství s jiným mužem. V době manželství požádala se souhlasem otce dítěte o povolení změny příjmení na své příjmení nabyté sňatkem. Jestliže matriční úřad takové žádosti do 31. prosince 2013 vyhověl, má se za to, že příjmení, které dítě takto získalo, je jeho rodným příjmením. Nezřídka se však stává, že matka se s mužem, po kterém její dítě nese stále „rodné příjmení“, rozešla a dítě po nabytí zletilosti našlo blízký vztah ke svému otci.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Návrh nebyl předložen na výbor, bude podáván až na plénu.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.psp.cz/sqw/historie.sqw?o=8&amp;amp;T=593&quot;&gt;Podávané pozměňovací návrhy na webu sněmovny&lt;/a&gt;&lt;/p&gt;</content><author><name>Ondřej Profant</name></author><category term="sněmovna" /><category term="matriky" /><summary type="html">V souvislosti s projednáváním novely Zákona o matrikách, jménu a příjmení předkládám několik pozměňovacích návrhů. Problematika jmen a příjmení je široká, mediální pozornost je však soustřeďována hlavně na přechylování. Zákon bude v nejbližších dnech projednáván na plénu sněmovny ve 2. čtením. Pojďme si nyní představit všechny návrhy, které předkládám.</summary></entry></feed>
+&lt;p&gt;Tento stav není vysvětlitelný ani rakousko-uherskou byrokracií (Rakousko je znatelně vstřícnější), ani jazykem (Polsko a Ukrajina mají výrazně méně omezení). &lt;strong&gt;Nezbývá tak jiné vysvětlení, že je to způsobeno neochotou státního aparátu měnit zaběhnuté věci a vycházet vstříc přáním svých občanů.&lt;/strong&gt;&lt;/p&gt;</content><author><name>Bára Soukupová</name></author><category term="sněmovna" /><category term="matriky" /><summary type="html">Od loňského září probíhá v českém mediálním prostoru diskuze související s vládní novelou Zákona o matrikách, jménu a příjmení, který prochází legislativním procesem. Pozornost na sebe strhává zejména otázka přechylování ženských příjmení. Tento zákon však řeší i spoustu dalších náležitostí ohledně jmen a přijmení. Na způsobu, jak je tato problematika řešena, lze ukázat mnoho problémů, které platí v české veřejné správě obecně, včetně přehnané byrokracie, orientace na úřad místo orientace na občana a přehnaných restrikcí, které procesy komplikují a ničemu nepomáhají.</summary></entry></feed>
