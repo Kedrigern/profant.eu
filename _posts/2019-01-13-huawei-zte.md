@@ -6,6 +6,7 @@ categories: Bezpečnost
 comments:   true
 tags:       [bezpečnost, egovernment]
 img:        huawei-logo.png
+featured:   true
 author:     Ondřej Profant
 ---
 

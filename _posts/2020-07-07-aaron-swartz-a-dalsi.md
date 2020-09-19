@@ -6,6 +6,7 @@ categories: Výzkum
 comments:   true
 tags:       [výzkum, digitalizace, svoboda informací]
 img:        aaron.png
+featured:   true
 author:     Ondřej Profant
 ---
 
