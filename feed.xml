@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://www.profant.eu/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.profant.eu/" rel="alternate" type="text/html" /><updated>2020-09-19T07:44:06+00:00</updated><id>https://www.profant.eu/feed.xml</id><title type="html">Profant</title><subtitle>Zápisník pirátského poslance Ondřeje Profanta, který se zaměřuje na opendata, e-government, digitalizaci společnosti a kybernetickou bezpečnost.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://www.profant.eu/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.profant.eu/" rel="alternate" type="text/html" /><updated>2020-09-19T08:01:53+00:00</updated><id>https://www.profant.eu/feed.xml</id><title type="html">Profant</title><subtitle>Zápisník pirátského poslance Ondřeje Profanta, který se zaměřuje na opendata, e-government, digitalizaci společnosti a kybernetickou bezpečnost.
 Rád bych byl, aby Česká republika byla moderním státem s rozvinutou digitální ekonomikou, kde je kladen silný důraz na vzdělávání a svobodu.
 V digitalizaci se musíme inspirovat ve Velké Britanii, Dánsku a Estonsku, řešení musí být otevřená, uživatelsky přívětivá a ohleduplná k soukromí.
 </subtitle><author><name>Ondřej Profant</name></author><entry><title type="html">eRouška 2,0</title><link href="https://www.profant.eu/2020/erouska-2.html" rel="alternate" type="text/html" title="eRouška 2,0" /><published>2020-09-18T11:00:00+00:00</published><updated>2020-09-18T11:00:00+00:00</updated><id>https://www.profant.eu/2020/erouska-2</id><content type="html" xml:base="https://www.profant.eu/2020/erouska-2.html">&lt;p&gt;Dnes vyšla nová verze aplikace eRouška. Jedná se o prostředek, který nám všem může pomoci normálně žít i v době probíhající pandemie. Poslouží k včasnému varování při zachování vysoké míry soukromí. Navíc je opensource.&lt;/p&gt;
@@ -31,7 +31,7 @@ V digitalizaci se musíme inspirovat ve Velké Britanii, Dánsku a Estonsku, ře
   &lt;li&gt;Aplikaci (i příslušné API operačního systému) &lt;strong&gt;můžete kdykoliv vypnout&lt;/strong&gt;.&lt;/li&gt;
   &lt;li&gt;Aplikace &lt;strong&gt;nesleduje vaší polohu&lt;/strong&gt;. Na Androidu však vyžaduje opravneni k lokalizacnim sluzbam.&lt;/li&gt;
   &lt;li&gt;Vyhledávání možného kontaktu probíhá &lt;strong&gt;přímo v zařízení&lt;/strong&gt;. Vaše identita není sdílena s ostatními uživateli.&lt;/li&gt;
-  &lt;li&gt;Aplikace je &lt;strong&gt;&lt;a href=&quot;https://github.com/covid19cz&quot;&gt;open source&lt;/a&gt;&lt;/strong&gt;. Nezávislí odborníci posuzují kvalitu kódu i to zda dělá jen to, co má. Více o &lt;a href=&quot;https://erouska.cz/audit-kod&quot;&gt;auditu zdrojových kódů eRoušky&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;Aplikace je &lt;strong&gt;&lt;a href=&quot;https://github.com/covid19cz&quot;&gt;open source&lt;/a&gt;&lt;/strong&gt;. Nezávislí odborníci posuzují kvalitu kódu i to zda dělá jen to, co má. Více o &lt;a href=&quot;https://erouska.cz/audit-kod&quot;&gt;&lt;strong&gt;auditu&lt;/strong&gt; zdrojových kódů eRoušky&lt;/a&gt;.&lt;/li&gt;
   &lt;li&gt;Váš telefon vysílá pouze &lt;strong&gt;náhodná ID&lt;/strong&gt; a ty se navíc mění v čase.&lt;/li&gt;
   &lt;li&gt;Příslušné funkce operačního systému jsou dostupné jen &lt;em&gt;orgánům ochrany veřejného zdraví&lt;/em&gt;.&lt;/li&gt;
   &lt;li&gt;Komunikaci skrze bluetooth napsali výrobci operačního systému. Pokud jim běžně důvěřujete, tak ani zde nemáte důvod ke zvýšeným obavám.&lt;/li&gt;
@@ -44,11 +44,11 @@ V digitalizaci se musíme inspirovat ve Velké Britanii, Dánsku a Estonsku, ře
 &lt;p&gt;Aplikace doposud měla čtyři slabá místa, respektive důvody proč jí uživatelé odmítají:&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;vybíjení baterie&lt;/strong&gt; mobilu: to by snad měla zlepšit právě nová verze mimojiné díky využití [&lt;em&gt;Bluetooth Low Energy&lt;/em&gt;][]&lt;/li&gt;
-  &lt;li&gt;ochrana soukromí: doufám, že to jsem pochopitelně vysvětlil a rozptýlil vaše obavy&lt;/li&gt;
-  &lt;li&gt;aplikace &lt;a href=&quot;https://arstechnica.com/tech-policy/2020/04/2-billion-phones-cannot-use-google-and-apple-contract-tracing-tech/&quot;&gt;nepodporuje&lt;/a&gt; starší verze operačních systémů a přístroje bez podpory &lt;a href=&quot;https://en.wikipedia.org/wiki/Bluetooth_Low_Energy&quot;&gt;Bluetooth LE&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;neochotu hygieny data využívat: v nové podobě stačí zaslat sms&lt;/li&gt;
-  &lt;li&gt;nízký počet uživatelů&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Vybíjení baterie&lt;/strong&gt; mobilu: to zlepšila právě nová verze, mimojiné díky využití [&lt;em&gt;Bluetooth Low Energy&lt;/em&gt;][].&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Ochrana soukromí&lt;/strong&gt;: doufám, že to jsem pochopitelně vysvětlil a rozptýlil vaše obavy. Je správné se ptát, ale zároveň je potřeba zjišťovat fakta a poměřovat reálné riziko a přínosy.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Aplikace &lt;a href=&quot;https://arstechnica.com/tech-policy/2020/04/2-billion-phones-cannot-use-google-and-apple-contract-tracing-tech/&quot;&gt;nepodporuje&lt;/a&gt; starší verze&lt;/strong&gt; operačních systémů a přístroje bez podpory [&lt;em&gt;Bluetooth Low Energy&lt;/em&gt;][].&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Hygiena nedostačně využívá data&lt;/strong&gt;: v nové podobě stačí, aby zaslala sms, to se lehce kontroluje a můžete si to vyžádat.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Nízký počet uživatelů&lt;/strong&gt;: tento problém musíme řešit společně.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;Poslední 2 důvody přetrvávají. Oboje vláda může snadno změnit. Původní aplikaci vláda téměř nepropagovala. Přitom vládní přítomnost v mediích je značná. Hygiena prozměnu spala ve 20. století a byla probuzena opravdovou krizí. Je pochopitelné, že v březnu a dubnu to neměla lehké. Ale od té doby měla 4 měsíce na přípravu. Doufám, že vláda nebude i nadále pokračovat ve stylu chaos managmentu, ale podnikne nezbytné kroky.&lt;/p&gt;
