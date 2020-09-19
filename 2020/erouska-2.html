@@ -117,7 +117,7 @@
 
 <p>Obrovskou výhodou je využítí technologie bluetooth. Ta funguje dobře i v budovách či podzemí (metro) a silně napomáhá ochraně soukromí (nejsou získávány údaje o poloze).</p>
 
-<p>Původní aplikace využívala standardní bluetooth API z operačních systémů, které však nebylo nejvhodnější pro tento druh použití. Aplikace nebyla vždy stabilní a značně vybíjela baterku. Proto je dobře, že do procesu vstoupili majoritní výrobci a navrhli jak to udělat od základu správně. Vytvořili tedy v samotných operačních systémech možnost tohoto druhu trasování, které dbá ochrany soukromí i baterie zařízení. Tato funkcionalita operačního systému je dostupná jen <em>orgánům ochrany veřejného zdraví</em>.</p>
+<p>Původní aplikace využívala standardní bluetooth API z operačních systémů, které však nebylo nejvhodnější pro tento druh použití. Aplikace nebyla vždy stabilní a značně vybíjela baterku. Proto je dobře, že do procesu vstoupili majoritní výrobci a navrhli jak to udělat od základu správně. Vytvořili tedy v samotných operačních systémech možnost tohoto druhu trasování, které dbá ochrany soukromí i baterie zařízení. Tato funkcionalita operačního systému se jmenuje <em>Exposure Notifications API</em><sup id="fnref:1" role="doc-noteref"><a href="#fn:1" class="footnote">1</a></sup> a je dostupná jen <em>orgánům ochrany veřejného zdraví</em>.</p>
 
 <p>Když aplikaci zapnete, bude pro vaše zařízení generovat náhodná ID. Ta se každých 10–20 minut mění, aby vás pomocí nich nebylo možné identifikovat ani lokalizovat. Tato náhodná ID se vyměňují přes bluetooth s ostatními zařízeními s aplikací eRouška. Telefon pravidelně kontroluje všechna ID přidružená k pozitivním případům COVID-19 a porovnává je se svým seznamem.</p>
 
@@ -135,7 +135,7 @@
   <li>Aplikaci (i příslušné API operačního systému) <strong>můžete kdykoliv vypnout</strong>.</li>
   <li>Aplikace <strong>nesleduje vaší polohu</strong>. Na Androidu však vyžaduje opravneni k lokalizacnim sluzbam.</li>
   <li>Vyhledávání možného kontaktu probíhá <strong>přímo v zařízení</strong>. Vaše identita není sdílena s ostatními uživateli.</li>
-  <li>Aplikace je <strong><a href="https://github.com/covid19cz">open source</a></strong>. Nezávislí odborníci posuzují kvalitu kódu i to zda dělá jen to, co má. Více o <a href="https://erouska.cz/audit-kod">auditu zdrojových kódů eRoušky</a></li>
+  <li>Aplikace je <strong><a href="https://github.com/covid19cz">open source</a></strong>. Nezávislí odborníci posuzují kvalitu kódu i to zda dělá jen to, co má. Více o <a href="https://erouska.cz/audit-kod">auditu zdrojových kódů eRoušky</a>.</li>
   <li>Váš telefon vysílá pouze <strong>náhodná ID</strong> a ty se navíc mění v čase.</li>
   <li>Příslušné funkce operačního systému jsou dostupné jen <em>orgánům ochrany veřejného zdraví</em>.</li>
   <li>Komunikaci skrze bluetooth napsali výrobci operačního systému. Pokud jim běžně důvěřujete, tak ani zde nemáte důvod ke zvýšeným obavám.</li>
@@ -148,17 +148,28 @@
 <p>Aplikace doposud měla čtyři slabá místa, respektive důvody proč jí uživatelé odmítají:</p>
 
 <ul>
-  <li>vybíjení baterie mobilu: to by snad měla zlepšit právě nová verze</li>
+  <li><strong>vybíjení baterie</strong> mobilu: to by snad měla zlepšit právě nová verze mimojiné díky využití [<em>Bluetooth Low Energy</em>][]</li>
   <li>ochrana soukromí: doufám, že to jsem pochopitelně vysvětlil a rozptýlil vaše obavy</li>
-  <li>aplikace <a href="https://arstechnica.com/tech-policy/2020/04/2-billion-phones-cannot-use-google-and-apple-contract-tracing-tech/">nepodporuje</a> starší verze operačních systémů a přístroje bez podpory Bluetooth low energy</li>
+  <li>aplikace <a href="https://arstechnica.com/tech-policy/2020/04/2-billion-phones-cannot-use-google-and-apple-contract-tracing-tech/">nepodporuje</a> starší verze operačních systémů a přístroje bez podpory <a href="https://en.wikipedia.org/wiki/Bluetooth_Low_Energy">Bluetooth LE</a></li>
   <li>neochotu hygieny data využívat: v nové podobě stačí zaslat sms</li>
   <li>nízký počet uživatelů</li>
 </ul>
 
 <p>Poslední 2 důvody přetrvávají. Oboje vláda může snadno změnit. Původní aplikaci vláda téměř nepropagovala. Přitom vládní přítomnost v mediích je značná. Hygiena prozměnu spala ve 20. století a byla probuzena opravdovou krizí. Je pochopitelné, že v březnu a dubnu to neměla lehké. Ale od té doby měla 4 měsíce na přípravu. Doufám, že vláda nebude i nadále pokračovat ve stylu chaos managmentu, ale podnikne nezbytné kroky.</p>
 
+<hr />
+
 <p>Chápu, že i přes to všechno se najdou lidé, kteří aplikaci použít nemohou. Ať už jsou to lidé, kteří nemají chytrý telefon nebo lidé, kteří prostě nechtějí. Nic to nemění na tom, že pokud tuto aplikaci nainstaluje třeba 70% lidí aktivně se pohybujících ve veřejném prostoru, tak to značně napomůže k včasnému varování před nákazou. Systém nikdy nebude 100% spolehlivý, ale rozhodně je lepší se snažit kvalitně a rychle trasovat, než další plošné zastavení celé ekonomiky.</p>
 
+<hr />
+
+<div class="footnotes" role="doc-endnotes">
+  <ol>
+    <li id="fn:1" role="doc-endnote">
+      <p>Popis API: pro <a href="https://developers.google.com/android/exposure-notifications/exposure-notifications-api">Androidu</a>, pro <a href="https://developer.apple.com/documentation/exposurenotification">iOS</a>. <a href="#fnref:1" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
 
       </div>
 
