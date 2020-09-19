@@ -4,6 +4,7 @@ title:      "Masové sledování: Počátky digitální totality"
 date:       2020-08-19 14:00:00 +0100
 categories: Soukromí
 comments:   true
+featured:   true
 tags:       [soukromí, bezpečnost]
 img:        masove-sledovani.jpg
 author:     Ondřej Profant
