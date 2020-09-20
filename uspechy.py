@@ -10,6 +10,13 @@ from redminelib import Redmine, exceptions
 """
 Download "výsledky" from source data of pirati.cz/vysledky
 Source data are in Redmine
+
+Redmine priority:
+7: Okamžitá
+6: Urgentní
+5: Vysoká
+4: Normální
+3: Nízká
 """
 
 class Config:
@@ -97,56 +104,32 @@ def reduce_issues(issues):
       item = {
         'id': i.id,
         'date': i.date,
+        'icon': Config.default_icon,
         'subject': i.subject,
         'img': i.img,
+        'video': i.video,
+        'priority': i.priority.id,
         'tags': i.tags,
         'description': i.description
       }
       new_issues.append(item)
     return new_issues
 
-def get_uspechy_yaml(file=None):
-  """Get uspechy from yaml file
-
-  Keywords arguments:
-  file -- yaml file with uspechy, default None (get from config)
-
-  Return
-  [{'date': datetime.date(2009, 6, 17),
-  'description': 'Stál jsem u zrodu Pirátské strany a jsem v ní od samého '
-                 'počátku. Nejprve se nám různí politici (např. Miroslav '
-                 'Kalousek) smáli, dnes jsme respektovaným politickým '
-                 'subjektem. Pomohl jsem, aby Piráti získali oceňovaný rozhled '
-                 'v oblasti IT, který současným samosprávám ale i státní '
-                 'správě zoufale chybí.',
-  'icon': 'flag',
-  'img': '/assets/img/uspechy/zalozeni.jpg',
-  'link': 'https://legacy.blisty.cz/art/47090.html',
-  'priority': 2,
-  'title': 'Spoluzaložení Pirátů'}, ... ]
-  """
-  if not file:
-    file = "_data/uspechy-add.yaml"
+def add_local_uspechy(issues):
+  file = "_data/uspechy-add.yaml"
   data = []
   with open(file, encoding="utf-8") as fp:
     data = yaml.load(fp, Loader=yaml.FullLoader)
-  pprint(data)
-
-def create_uspechuy_yaml():
-  issues = get_relevant_issues()
-  for issue in issues:
-    print(issue.subject)
-    print(issue.description)
-    break
+  prepend = data['prepend']
+  append = data['append']
+  for item in data['modify']:
+    pass
+  return prepend + issues
+  
 
 def test():
-  issues = reduce_issues(get_relevant_issues())
-  print(issues[0]['tags'])
-  print(issues[0]['tags'][0])
-  with open('test.yaml', 'w+', encoding='utf-8') as fp:
+  issues = add_local_uspechy(reduce_issues(get_relevant_issues()))
+  with open('_data/uspechy.yaml', 'w+', encoding='utf-8') as fp:
       yaml.dump(issues, fp, allow_unicode=True)
-  #pprint(yaml.dump(issues))
-  #get_uspechy_yaml()
-
 
 test()

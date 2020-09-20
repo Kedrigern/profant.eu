@@ -1,193 +1,657 @@
-# icon jsou 
-# priority:
-# 1 - velké úspěchy ovlivňující celou společnost na kterých jsem přímo pracoval (prosazené projekty, přijaté zákony a pozměňováky)
-# 2 - úspěchy s reálným dopadem
-# 3 - dílčí úspěchy
-# 4 - informace
-- img: /assets/img/uspechy/zalozeni.jpg
+- date: 2009-06-17
+  description: Stál jsem u zrodu Pirátské strany a jsem v ní od samého počátku. Nejprve
+    se nám různí politici (např. Miroslav Kalousek) smáli, dnes jsme  respektovaným
+    politickým subjektem. Pomohl jsem, aby Piráti získali oceňovaný rozhled v oblasti
+    IT, který současným samosprávám ale i státní správě zoufale chybí.
   icon: flag
-  date: 2009-06-17
-  title: Spoluzaložení Pirátů
-  description: "Stál jsem u zrodu Pirátské strany a jsem v ní od samého počátku. Nejprve se nám různí politici (např. Miroslav Kalousek) smáli, dnes jsme respektovaným politickým subjektem. Pomohl jsem, aby Piráti získali oceňovaný rozhled v oblasti IT, který současným samosprávám ale i státní správě zoufale chybí."
-  link: https://legacy.blisty.cz/art/47090.html
+  img: /assets/img/uspechy/zalozeni.jpg
   priority: 2
-- img: /assets/img/uspechy/acta.jpg
+  subject: Spoluzaložení Pirátů
+- date: 2012-01-18
+  description: Pomáhal jsem s organizací [demonstrace proti ACTA](https://www.lidovky.cz/lide-demonstrovali-proti-acta-v-praze-se-jich-sesly-dva-tisice-p6o-/zpravy-domov.aspx?c=A120211_151827_ln_domov_rka)
+    v Praze. Pochod na hrad, kterého se účastilo 2-3 tisíce lidí, byl první vskutku
+    větší akci Pirátů. I díky němu si   naší strany všimla média a začala nás brát
+    jako skutečnou politickou stranu, a ne jen jako recesisty.
+  icon: child
+  img: /assets/img/uspechy/acta.jpg
   img-attribution: Jiří Straka [CC BY-SA 2.0]
-  icon: child
-  date: 2012-01-18
-  title: Spoluorganizace demonstrací proti ACTA
-  description: "Pomáhal jsem s organizací demonstrace proti ACTA v Praze. Pochod na hrad, kterého se účastilo 2-3 tisíce lidí, byl první vskutku větší akci Pirátů. I díky němu si naší strany všimla média a začala nás brát jako skutečnou politickou stranu, a ne jen jako recesisty."
-  link: https://www.lidovky.cz/lide-demonstrovali-proti-acta-v-praze-se-jich-sesly-dva-tisice-p6o-/zpravy-domov.aspx?c=A120211_151827_ln_domov_rka
   priority: 2
-- img: /assets/img/uspechy/praha.png
-  date: 2014-10-14
+  subject: Spoluorganizace demonstrací proti ACTA
+- date: 2014-10-14
+  description: V komunálních volbách v říjnu 2014 jsem byl zvolen do pražského zastupitelstva.
+    Po zvolení jsem se rozhodl věnovat problematice informatiky, která byla na Magistrátu
+    v žalostném stavu, hospodaření s majetkem a bezpečnosti.
   icon: users
-  title: Zvolen do ZHMP
-  description: "V komunálních volbách v říjnu 2014 jsem byl zvolen do pražského zastupitelstva. Po zvolení jsem se rozhodl věnovat problematice informatiky, která byla na Magistrátu v žalostném stavu, hospodaření s majetkem a bezpečnosti."
+  img: /assets/img/uspechy/praha.png
   priority: 1
-- img: /assets/img/uspechy/ginis.jpg
-  icon: lock
-  date: 2014-12-05
-  title: Boj proti proprietárnímu uzamčení (vendor lock-in)
-  description: "Praha hledala, kdo jí dodá účetnictví. Vybrala firmu. Za dvacet let ale firma a její výrobky natolik prorostly do fungování města, že se jich metropole už nemůže zbavit. A firma chce za své služby víc a víc. Problém, který dosud nikdo neřešil, a který může za děsivé výdaje samospráv. Prahu svazuje dnes a denně a vedení města jej tiše přijalo. Bojoval jsem proti vendor lock-inu a chystám se mu podívat na zub i ve státní správě."
-  priority: 3
-  link:
-  - https://praha.pirati.cz/dvacet-milionu-pro-gordic.html
-  - https://praha.pirati.cz/praha-rezignovala-na-boj-se-zavislosti-na-dodavateli-ucetnictvi.html
-- date: 2015-01-23
-  icon: recycle
-  title: Upozornění na superzakázku na odpad
-  description: "13 miliard za 10 let. V pražském zastupitelstvu jsem vystoupil proti monstrzakázce, která má zničit trh, a zajistit Pražským službám 100 % svozu odpadu. Metropole se ale nakonec rozhodla, že volnou soutěž ve svozu odpadu nechce a přiklepla to Pražským službám."
-  link: https://praha.pirati.cz/ondra.html
-  priority: 2
-- img: /assets/img/uspechy/otevrena_mesta.jpg
-  icon: building
-  date: 2015-02-06
-  title: založení Otevřených měst
-  description: "Přes šest tisíc obcí řeší stejný problém - jak fungovat efektivně. S problémy se ale dosud potýkaly samostatně. Proto jsem se podílel na vzniku spolku Otevřená města, aby mohly obce sdílet své zkušenosti. Jak zrychlit fungování úřadu? Jak transparentně rozhodovat? Jak zvýšit participaci, zavádět otevřená data a svobodný software. Proč by města měla kupovat předražený software, když jinde jsou k dispozici svobodná, vyzkoušená a dobře fungující řešení."
-  priority: 2
-  link: https://www.root.cz/clanky/otevrena-mesta-iniciativa-chhttps://farm2.staticflickr.com/1467/24785828289_f173e9268d_k.jpgce-open-source-na-radnice/
-- img: /assets/img/uspechy/opencard.jpg
-  date: 2015-03-02
-  icon: id-card-o
-  title: Konec Opencard
-  description: "Když jsem přišel na Magistrát, byla Praha rukojmím provozovatele Opencard. Děsivé smlouvy z doby Pavla Béma zavazovaly město používat Opencard skoro na všechno a platit za ní tučné peníze. Podařilo se mi najít řešení, jak s tímto vydíráním Prahy skončit, neuvrhnout metropoli do rizika placení pokut nebo soudních sporů. Dnes je Opencard už minulostí; kdo chce může mít Lítačku, kdo chce má papírový kupon a jízdné lze platit dokonce i platební kartou."
-  priority: 1
-  link:
-  - https://praha.idnes.cz/pirati-chteji-plnou-nahradu-pro-ty-kterym-konci-platnost-opencard-103-/praha-zpravy.aspx?c=A150307_2145446_praha-zpravy_nub
-  - https://www.tyden.cz/rubriky/domaci/politika/opencard-skoncila-ve-sparech-piratu_334253.html
-- img: /assets/img/uspechy/teze.jpg
-  icon: laptop
-  date: 2015-09-17
-  title: Teze digitální strategie
-  description: "Prosadil jsem, aby v tezích digitální strategie hlavního města Prahy, tedy v základním dokumentu, podle něhož se má řídit rozvoj IT, byl zahrnut open source, aby se rozvíjela otevřená data a aby se Praha vyvarovala chyb z minulosti (outsourcing, předražené zakázky apod.)"
-  priority: 1
-  link: https://praha.pirati.cz/rada-digitalni-strategie.html
-- img: https://farm2.staticflickr.com/1467/24785828289_f173e9268d_k.jpg
-  img-attribution: Ben Goings
-  icon: child
-  date: 2016-02-20
-  title: Spoluorganizace demonstrace za svob. internet
-  description: "Blokování hazardních webů může znít ušlechtile, ale cesta do pekla bývá dlážděná dobrými úmysly. Jakmile připustíme blokování webů, nemůžeme si být jisti, kde skončí. Cenzura se nám může vrátit rychleji, než si myslíme. Na demonstraci, která prošla kolem budovy vlády, jsme řekli jasné NE rizikovým cenzurním paragrafům loterijního zákona. Na naší straně stáli i zástupci řady internetových firem a občanských sdružení. "
-  priority: 3
-  link:
-  - https://echo24.cz/a/w4WrJ/svobodny-internet-v-ohrozeni-pirati-demonstrovali-proti-loterijnimu-zakonu
-  - https://feedit.cz/2016/02/18/demonstrace-za-svobodny-internet-v-praze-na-klarove-uz-tuto-sobotu/
-- img: /assets/img/uspechy/libensky_most.jpg
-  icon: road
-  date: 2016-02-26
-  title: boj za Libeňský most
-  description: "Vedení Prahy navrhlo betonový dálniční most, který měl nahradit funkcionalistický skvost v Libni. Protože jsem nechtěl na rozhraní Prahy 7 a Prahy 8 dálnici, která by vedla odnikud nikam, apeloval jsem na vedení města, aby původní most pouze opravilo. Problém jsem ve spolupráci s odborníky medializoval. Hlavní město se nakonec rozhodlo, že most konečně opraví a projekt betonového monstra uložilo k ledu."
-  priority: 2
-  link: https://praha.pirati.cz/libensky-most.html
-- img: /assets/img/uspechy/tetra.jpg
-  icon: wifi
-  date: 2016-09-14
-  title: radiový systém policie nezabezpečen
-  description: "Odhalil jsem, že Praha používá zcela nezabezpečený systém komunikace mezi složkami záchranného systému a policie. Každý jej dokáže odposlouchávat rádiem za 300 korun. Úředníci zapomněli, že zločincům otevřeli zlatý důl. Město svojí chybu přiznalo a slíbilo nápravu."
-  priority: 1
-  link:
-  - https://technet.idnes.cz/odposlech-site-tetra-a-mestske-policie-dhy-/tec_technika.aspx?c=A160913_145939_tec_technika_vse
-  - https://praha.pirati.cz/odposlouchavani.html
-- img: /assets/img/uspechy/otevreno.jpg
+  subject: Zvolen do ZHMP
+- date: 2018-12-01
+  description: "Česká republika utratí každým rokem zhruba 1,7 miliardy korun za poštovné,\
+    \ zatímco elektronické nástroje zůstávají nevyužité. Jedním z problémů je i nízká\
+    \ informovanost obyvatel, Piráti proto chtějí ze státního rozpočtu uvolnit prostředky\
+    \ na osvětu a propagaci v oblasti datových schránek.\r\n\r\nOlga Richterová proto\
+    \ podala spolu s poslanci Lukášem Koláříkem a Ondřejem Profantem pozměňovací návrh\
+    \ k návrhu rozpočtu ČR na rok 2019, který by podpořil zajištění propagace zřizování\
+    \ a využívání datových schránek.\r\n\r\nDalší zdroje:\r\n\r\n* Denik.cz: [Stát\
+    \ zbytečně utrácí za poštovné. Používejme datové schránky, říkají Piráti](https://www.denik.cz/ekonomika/stat-zbytecne-utraci-za-postovne-pouzivejme-datove-schranky-rikaji-pirati-20181207.html)\r\
+    \n* Video: [Víte, že stát utratí za poštovné zbytečně 1,7 miliardy Kč ročně?](https://www.facebook.com/ceska.piratska.strana/videos/2260663814258134/)\r\
+    \n* PN č. 1827 k ST 287: [Sněmovní tisk 287 Vl.n.z. o státním rozpočtu ČR na rok\
+    \ 2019](http://www.psp.cz/sqw/historie.sqw?o=8&t=287)"
   icon: thumbs-up
-  date: 2016-09-29
-  title: získání ceny Otevřeno
-  description: "Náš klub na Magistrátě získal cenu Otevřeno za \"hypetransparentnost\". Zavedl jsem systém Redmine, kde se každý mohl podívat, jak zastupitelé za Piráty pracují a čemu se kdy věnovali. Zveřejňovali jsme naše odměny a veškerou spisovou dokumentaci klubu. Porazili jsme dalších několik desítek subjektů, které se do soutěže přihlásily."
-  priority: 2
-  link: https://wiki.pirati.cz/tiskove-zpravy/hypertransparentni_klub._prazsti_pirati_ziskali_cenu_za_otevrenost
-- img: /assets/img/uspechy/libensky_most.jpg
-  icon: building
-  date: 2016-11-16
-  title: Sídliště Písnice
-  description: "Apeloval jsem na vedení města, aby koupilo písnické sídliště. Vlastník (ČEZ) se ho rozhodl prodat developerovi. Praha ale měla konat. Jako jeden z mála pražských zastupitelů jsem vystoupil na demonstraci občanů za záchranu sídliště. Praha ale strčila i přes naše výzvy hlavu do písku a prošvihla termín pro odkup. Na svoje občany se vykašlala."
-  priority: 3
-  link: https://praha.pirati.cz/pisnicti-pres-palubu.html
-- img: /assets/img/uspechy/open_source.jpg
-  icon: database
-  date: 2016-12-08
-  title: Opendata
-  description: "Města mají hodně dat, ale schovávají si je v trezoru. Proto se konceptu otevřených dat bojí. Samy z nich ale mohou těžit! Prosadil jsem, aby Praha měla vlastní portál otevřených dat a spolu s komunitou programátorů zorganizoval první hackaton města. Napsali jsme řadu unikátních aplikací - a Praha je dostala zadarmo. Náš portál se stal vzorem pro další kraje a získali jsme za něj i ocenění Otevřeno od Otevřené společnosti."
-  priority: 1
-  link: http://opendata.praha.eu/
-- img: /assets/img/uspechy/smart_city.jpg
-  icon: money
-  date: 2017-01-03
-  title: hlavní kritik Smart Cities
-  description: "Odpadové koše, které potřebují software za tisíce, lavičky za dva miliony s reklamním displejem, wifi v lanovce, která jede 3 minuty. Praha se rozhodla utrácet ve velkém. Projekty za statisíce, které ale málokdo využije. Apeloval jsem na vedení města, aby namísto nesmyslů zajistilo raději wifi v metru, zjednodušilo kontakt občanů s úřadu, nebo zavedlo smart technologie v oblasti parkování. Odhalil jsem, že Smart Cities jsou v Praze nástrojem ANO 2011 k získávání lukrativních zakázek v oblasti IT, které navíc stojí stamiliony ročně."
-  priority: 2
-  link:
-  - https://www.lupa.cz/clanky/ondrej-profant-v-projektu-smart-prague-jde-o-to-rychle-utratit-hodne-penez/
-  - https://praha.pirati.cz/smart-cities-podle-piratu.html
-- img: /assets/img/uspechy/odbaveni.jpg
-  icon: subway
-  date: 2017-01-27
-  title: Představení vize dopravního odbavení
-  description: "Možnost volby. Ve vizi dopravního odbavení, kterou jsem spolu s odborníky z komise ICT připravil, jsem se jako první věnoval dalším technologickým řešením, která mohou do pražské dopravy přijít – mobilní aplikace, platební karty nebo paypal. Aby Praha nevymýšlela vlastní platební služby, různé peněženky a další monolitické zbytečnosti, které ve výsledku budou stát miliony a budou k ničemu."
-  priority: 3
-  link:
-  - https://praha.pirati.cz/vize-dopravniho-odbavovani.html
-  - https://zpravy.aktualne.cz/domaci/pirati-litacka-je-hloupejsi-papir-praha-by-mela-zavest-syste/r~7057c630bd3c11e6b628002590604f2e/
-- img: /assets/img/uspechy/okruh.jpg
-  icon: car
-  date: 2017-06-15
-  title: Městský okruh
-  description: "Vedení Prahy chce postavit nový městský tunel (Blanka 2), který bude stát desítky miliard, opět však v něm nebude zavedena MHD. Přitom tangenciální směry dopravy jsou v Praze dlouhodobě neřešené. Apeloval jsem na vedení Prahy, aby neschvalovala stavbu, která bude významnou investicí, pro cestující veřejnou dopravou však bude mít jen zanedbatelný přínos."
-  priority: 3
-  link: https://praha.pirati.cz/chceme-v-blance-ii-mhd.html
-- img: /assets/img/uspechy/datove_centrum.jpg
-  icon: server
-  date: 2017-06-21
-  title: upozornění na zakázku na Datové centrum
-  description: "Megalomanský projekt, kam se firmy měli šanci přihlásit jen během 11 dnů. Specifikace požadavků byla přepsána z letáků předem zvažovaného vítěze; server srovnatelný s Centrálním Mozkem Lidstva. Technologie, které se neosvědčily (wm-ware, Oracle). To byla zakázka na vybavení Datového centra, do které Praha šla a před kterou jsem opakovaně varoval."
-  priority: 3
-  link:
-  - https://praha.pirati.cz/zakazka-psana-na-miru.html
-  - https://www.euro.cz/praha/praha-vybrala-dodavatele-datoveho-centra-zakazka-byla-sita-na-miru-tvrdi-opozice-1355684
-- img: /assets/img/uspechy/psp.jpg
-  icon: users
-  date: 2017-10-22
-  title: zvolen do sněmovny
-  priority: 1
-  description: "V podzimních sněmovních volbách jsem byl zvolen z třetího místa pražské kandidátky Pirátů do PSP ČR. Tím jsem dostal příležitost své zkušenosti z pražského zastupitelstva, kde jsem hlídal problematiku IT, uplatnit i na celostátní úrovni. Přislíbil jsem, že se mandátu pražského zastupitele vzdám, neboť kumulovat funkce odmítám."
-- img: /assets/img/uspechy/cityvizor.jpg
-  date: 2017-11-22
+  id: 16472
+  img: ''
+  priority: 4
+  subject: Stát utratí za poštovné 1,7 miliardy Kč ročně, Piráti mají recept na snížení
+  tags:
+  - tym-MPSV
+  - ondrej-profant
+  - lukas-kolarik
+  - státní rozpočet
+  - poštovné
+  - datovky
+  - MPSV
+  - olga-richterova
+  - vysledek
+  video: ''
+- date: 2017-12-20
+  description: "Rozklikávací rozpočet je systém, který umožní zveřejňování příjmů\
+    \ a výdajů státního rozpočtu na internetu, a to ve formátu otevřených dat. Transparentní\
+    \ rozpočet s nahlížením až do faktur prosazují Piráti i v nově vznikající pražské\
+    \ koalici. Piráti rozklikávací rozpočet navrhovali jak v roce 2017, tak v roce\
+    \ 2018. \r\n\r\nCílem rozvoje tohoto tzv. rozklikávacího rozpočtu by měla kromě\
+    \ vyžadovaného členění dle vyhlášky o rozpočtové skladbě data zobrazitelná až\
+    \ po úroveň jednotlivých konkrétních výdajů státního rozpočtu včetně identifikace\
+    \ příjemce.\r\n\r\nNaposledy drtivá většina poslanců ANO hlasovala proti [hlasování\
+    \ o doprovodném usnesení 2018](http://www.psp.cz/sqw/hlasy.sqw?G=68809), čímž\
+    \ přijetí usnesení zablokovala a hlasovala v rozporu s programem, kde ANO slibovalo\
+    \ voličům: „Lidé mají právo vědět, jak stát nakládá s finančními prostředky a\
+    \ jak rozděluje vybrané daně.” Pro návrh hlasovalo 96 poslanců napříč spektrem\
+    \ (ODS, Piráti, SPD, KDU-ČSL, TOP09, STAN, částečně také ČSSD a KSČM), nicméně\
+    \ neprošel o 4 hlasy. K jeho schválení bylo potřeba 100 hlasů.\r\n\r\nDalší zdroje:\r\
+    \n\r\n* ČT24: [Rozklikávací rozpočet až do faktur. Piráti se usazují v nové koalici](https://ct24.ceskatelevize.cz/domaci/2634398-rozklikavaci-rozpocet-az-do-faktur-pirati-se-usazuji-v-prazske-koalici)\r\
+    \n* [Jak má vypadat rozklikávací rozpočet](https://moravskatrebova.pirati.cz/aktuality/rozklikavaci-rozpocet.html)\
+    \ \r\n* [Vládní návrh zákona o státním rozpočtu ČR pro rok 2018](https://www.mfcr.cz/cs/legislativa/legislativni-dokumenty/2017/vladni-navrh-zakona-o-statnim-rozpoctu-c-29781) "
   icon: thumbs-up
-  title: cena za Cityvizor
-  priority: 3
-  description: "Podílím se na tvorbě aplikace Cityvizor, která pomáhá obcím zveřejňovat informace o tom, jak hospodaří. Města a obce už tak nemusí kupovat předražený software, ale mohou využít takový, který jsme připravili spolu s Ministerstvem financí. Za nástroj jsme obdrželi ocenění Fondu Otakara Motejla."
-  link: https://www.lupa.cz/clanky/hlidac-statu-vyhral-soutez-spolecne-otevirame-data-bodoval-i-cityvizor-ministerstva-financi/
-- img: /assets/img/posts/gdpr-seminar.jpg
-  date: 2018-03-12
+  id: 16226
+  img: https://raw.githubusercontent.com/pirati-web/pirati.cz/gh-pages/assets/img/articles/2019/ferjencik-mikrofon.jpg
+  priority: 4
+  subject: Piráti navrhují rozklikávací rozpočet až na úroveň faktur
+  tags:
+  - ochranaobcanu
+  - kontrolamoci
+  - piratipracuji
+  - klubik-kontrola
+  - klubik-zjednoduseni
+  - ondrej-profant
+  - mikulas-ferjencik
+  - praha
+  - vysledek
+  - jakub-michalek
+  video: ''
+- date: 2019-06-01
+  description: "Ve spolupráci se spolkem [Otevřená města](https://www.otevrenamesta.cz/)\
+    \ jsme zajistili profesionální překlad a sazbu brožury od [Free Software Foundation\
+    \ Europe (FSFE)](https://fsfe.org/index.en.html#translations) [Public Money? Public\
+    \ code!](https://publiccode.eu/). Jedná se o přehlednou brožuru, která je velmi\
+    \ vstřícným úvodem do problematiky opensource ve veřejné správě. Dále jsme zajistili\
+    \ tisk brožury a distribuujeme ji poslancům, zastupitelům apod.\r\n\r\nOdborně\
+    \ na brožuru navazuje pirátský [Akční plán boje proti vendor lock-in a podpory\
+    \ open source software](https://www.pirati.cz/assets/pdf/akcni-plan-opensource-v3.pdf).\r\
+    \n\r\nDalší zdroje:\r\n[abclinuxu.cz](https://www.abclinuxu.cz/zpravicky/preklad-a-vydani-brozury-public-money-public-code-verejne-penize-verejny-kod)\r\
+    \n[linuxexpres.cz](https://www.linuxexpres.cz/verejna-sprava-06-2019-public-money-public-code-v-cestine)\r\
+    \n"
   icon: thumbs-up
-  title: Seminář GDPR mýtů zbavené
-  priority: 2
-  description: "Seminář o GDPR pro samosprávy uspořádaný ve spolupráci s Otevřenými městy a Iuridicum Remedium."
-  link: https://www.profant.eu/2018/seminar-gdpr.html
-- img: /assets/img/uspechy/digitalni-sluzba.jpg
-  date: 2018-08-07
-  icon:  thumbs-up
-  title: Začátek spolupráce na zákonu o digitální službě
+  id: 32640
+  img: ''
   priority: 3
-  description: "Společně s Ivanem Bartošem jsme se spojili s ICT unii v přípravách zákona o digitální službě."
-  link:
-  - https://www.pirati.cz/tiskove-zpravy/ictu-a-pirati-pripravuji-zakon-o-digitalni-sluzbe.html
-- img: /assets/img/uspechy/firma-za-1-den.png
-  date: 2018-10-01
-  icon: building 
-  title: Firma za 1 den
-  priority: 1
-  description: "Piráti představili bezplatnou aplikaci, díky které si založíte firmu za jeden den. Též jsme předložili návrh legislativních změn, aby byl start podnikání vstřícnější."
-  link: 
-  - https://urad.pirati.cz
-  - https://www.pirati.cz/tiskove-zpravy/komentar-ondreje-profanta-zrychlime-podnikani.html
-- img: /assets/img/uspechy/infozakon.jpg
-  date: 2018-12-05
-  icon: info-circle 
-  title: Záchrana infozákona
-  priority: 1
-  description: "Podařilo se ubránit infozákon v smysluplné podobě. Vláda navrhovala vypuštění veškerých informací o probíhajících trestních řízení. Nic bychom se nedozvěděli o kauze Čapího hnízda apod. Můj pozměňovací návrh je kompromisem, který tuto problematiku řeší mnohem citlivěji."
-  link: 
-  - https://www.profant.eu/2018/gdpr-posledni-dejstvi.html
-  - https://ct24.ceskatelevize.cz/domaci/2671181-poslanci-prijali-vyjimky-v-ochrane-soukromi-skryta-kamera-v-mediich-zustane-pripustna
-  - https://www.irozhlas.cz/zpravy-domov/osobni-udaje-pravo-na-informace-106-poslanecka-snemovna-pirati_1812051114_kno
+  subject: Propagujeme a distribuujeme příručku pro opensource ve veřejné správě
+  tags:
+  - open-source
+  - digitalizace
+  - ondrej-profant
+  video: ''
+- date: 2019-11-30
+  description: "Další krok v digitalizaci Česka! Poslanecká sněmovna schválila zákon,\
+    \ který umožní komunikovat se státem prostřednictvím přihlašovacích údajů do elektronického\
+    \ bankovnictví. Jde o další zásadní krok v rámci digitalizace státní správy, díky\
+    \ kterému občané získají možnost využít pro komunikaci s úřady kromě digitálního\
+    \ občanského průkazu s čipem také přihlašovací údaje do elektronického bankovnictví.\
+    \ \r\n\r\nVzhledem k tomu, že elektronické bankovnictví využívá mnohem více lidí,\
+    \ je toto řešení uživatelsky přívětivější. Návrh zpracovala širší skupina poslanců\
+    \ pod sněmovním výborem pro veřejnou správu a regionální rozvoj. \r\n\r\n* Tisková\
+    \ zpráva: [Piráti: Bankovní identita nově poslouží pro snazší komunikaci se státem.\
+    \ Digitální technická mapa pak zjednoduší stavební řízení](https://www.pirati.cz/tiskove-zpravy/bankovni-identita-a-digitalni-mapa-prosla-snemovnou.html)\r\
+    \n\r\n* ČTK: [Rozšíření využití bankovní identity lidí Sněmovna schválila](https://www.ceskenoviny.cz/zpravy/rozsireni-vyuziti-bankovni-identity-lidi-snemovna-schvalila/1828458)\r\
+    \n\r\n* Hospodářské noviny: [Bankovní účet se může stát novou občankou i podpisem](https://archiv.ihned.cz/c1-66682810-bankovni-ucet-se-muze-stat-novou-obcankou-i-podpisem-pokud-se-zmeni-zakon-bude-stacit-prihlasit-se-do-bankovnictvi)\r\
+    \n\r\n* Ekonomický deník: [Bankovní identitu budou moci lidé využít i pro komunikaci\
+    \ se státem](https://ekonomickydenik.cz/bankovni-identitu-budou-moci-lide-vyuzit-i-komunikaci-se-statem/?fbclid=IwAR2FiUMilTSOnihJ5NC11KUVnJZ76l8hi3mg-_CaoVvqP461mnRbVG57lVY)\r\
+    \n\r\n* Radio Prague Int.: [Sněmovna: přes bankovní identitu ke službám veřejné\
+    \ správy](https://www.radio.cz/cz/rubrika/zpravy/rozsireni-vyuziti-bankovni-identity-lidi-snemovna-schvalila?fbclid=IwAR2KZywTLrT-joWOwFxkT1bdhxLoZFd6U7jHzYfbrDYaPG8XeLfoYpr87N8)"
+  icon: thumbs-up
+  id: 25212
+  img: https://www.pirati.cz/assets/img/articles/2019/bartos-profant.jpg
+  priority: 4
+  subject: Bankovní identita usnadní občanům komunikaci se státem
+  tags:
+  - piratipracuji
+  - digitalizacestatu
+  - klubik-zjednoduseni
+  - '[ondrej-profant]'
+  - ondrej-profant
+  - ivan-bartos
+  - '[informatika]'
+  - tym-informatika
+  - informatika
+  - tym-mistni-rozvoj
+  video: ''
+- date: 2019-11-14
+  description: "Klíčové zákony je možné sledovat a připomínkovat online! Pro občany\
+    \ jsme totiž na webu www.otevrenasnemovna.cz spustili náš nový projekt Otevřená\
+    \ sněmovna. Díky němu bude mít každý možnost sledovat vznik zásadní legislativy\
+    \ a zároveň uvidí, které odborné organizace nechaly v zákonech svůj otisk. #drzimekurz.\r\
+    \n\r\nTisková zpráva: \r\n* [Piráti spustili web Otevřená sněmovna, umožní sledování\
+    \ a připomínkování legislativy online](https://www.pirati.cz/tiskove-zpravy/otevrena-snemovna-pirati-spustili-legislativni-web.html)\r\
+    \n\r\nDále v médiích:\r\n* [Piráti spouští web Otevřená sněmovna na sledování\
+    \ a připomínkování zákonů](https://www.lupa.cz/aktuality/pirati-spousti-web-otevrena-snemovna-na-sledovani-a-pripominkovani-zakonu/)\r\
+    \n\r\n* [Piráti spustili web Otevřená sněmovna. Umožní sledování a připomínkování\
+    \ zákonů on-line](https://www.svetchytre.cz/a/peD3G/pirati-spustili-web-otevrena-snemovna-umozni-sledovani-a-pripominkovani-zakonu-on-line)\r\
+    \n\r\n"
+  icon: thumbs-up
+  id: 24490
+  img: https://raw.githubusercontent.com/pirati-web/pirati.cz/gh-pages/assets/img/articles/2019/bartos-profant-os.jpg
+  priority: 5
+  subject: Otevíráme Sněmovnu občanům, zákony je nyní možné sledovat a komentovat
+    online!
+  tags:
+  - ivan-bartos
+  - ondrej-profant
+  - digitalizace
+  - piratipracuji
+  - digitalizacestatu
+  - otevrena-snemovna
+  video: ''
+- date: 2019-11-08
+  description: "Sněmovna schválila klíčový zákon pro digitalizaci české státní správy!\
+    \ Zákon o právo na digitální službu je zásadní zákon české digitalizace a garantuje\
+    \ občanům postupně do 5 let možnost komunikovat s úřady a státem elektronicky\
+    \ z pohodlí domova nebo z mobilního telefonu. Završila se tak více než roční konstruktivní\
+    \ spolupráce sněmovních politických stran, odborníků z komerční sféry a resortů\
+    \ ministerstev. Zákon vznikal pod Výborem pro veřejnou správu a regionální rozvoj,\
+    \ kterému předsedá Pirát Ivan Bartoš.\r\n\r\nTisková zpráva: \r\n* [Sněmovna schválila\
+    \ digitální ústavu. Lidé získají právo komunikovat se státem přes internet](https://www.pirati.cz/tiskove-zpravy/zakon-o-pravu-na-digitalni-sluzbu-prosel-snemovnou.html)\r\
+    \n\r\nDále v médiích:\r\n* [Zákon o právu na digitální služby prošel sněmovnou.\
+    \ Co při tom spadlo pod stůl?](https://www.lupa.cz/clanky/zakon-o-pravu-na-digitalni-sluzby-prosel-snemovnou-co-pri-tom-spadlo-pod-stul/)\r\
+    \n\r\n* [Místo přepážek na úřadech internet a klávesnice. Zákon o právu občanů\
+    \ na digitální služby prošel](https://ct24.ceskatelevize.cz/domaci/2971454-zive-snemovna-bude-schvalovat-pravo-na-digitalni-komunikaci-s-urady)\r\
+    \n\r\n* [Komentář poslance Ondřeje Profanta: S ICTU spolupracujeme na zákonu o\
+    \ digitální službě, na podzim půjde do Sněmovny](https://www.pirati.cz/tiskove-zpravy/ictu-a-pirati-pripravuji-zakon-o-digitalni-sluzbe.html)\r\
+    \n\r\n* [Pod zákon garantující digitální komunikaci občanů se státem se podepsalo\
+    \ 137 poslanců](https://www.pirati.cz/tiskove-zpravy/sto-tricet-sedm-podpisu-pod-zakon-o-digitalni-komunikaci.html)\r\
+    \n\r\n* [Zákon o právu na digitální službu podepsalo 137 poslanců](https://www.ceskenoviny.cz/zpravy/zakon-o-pravu-na-digitalni-sluzbu-podepsalo-137-poslancu/1738086)\r\
+    \n\r\n* [Všechny politické strany podepsaly memorandum o podpoře zákona o právu\
+    \ na digitální službu. Návrh jde do Sněmovny v březnu](https://www.pirati.cz/tiskove-zpravy/vsechny-politicke-strany-podepsali-memorandum-na-digitalni-sluzbu.html)\r\
+    \n\r\n* [Zákon o právu na digitální službu míří do sněmovny, má podporu poslaneckých\
+    \ klubů](https://www.lupa.cz/aktuality/zakon-o-pravu-na-digitalni-sluzbu-miri-do-snemovny-ma-podporu-vsech-poslaneckych-klubu/?utm_source=rss&utm_medium=text&utm_campaign=rss)\r\
+    \n"
+  icon: thumbs-up
+  id: 24430
+  img: https://raw.githubusercontent.com/pirati-web/pirati.cz/gh-pages/assets/img/articles/2019/bartos102.jpg
+  priority: 6
+  subject: Digitální ústava prošla Sněmovnou!
+  tags:
+  - piratipracuji
+  - ondrej-profant
+  - ivan-bartos
+  - digitalni-ustava
+  - eGovernment
+  - egov
+  - digitalizacestatu
+  - snemovna
+  - digitalizace
+  video: ''
+- date: 2019-11-06
+  description: "Technické normy jsou definicí požadavků pro dané výrobky, procesy\
+    \ nebo služby. Pirátům se podařilo prosadit doprovodné usnesení, kterým požádali\
+    \ vládu, aby podnikla nezbytné kroky k zajištění veřejné dostupnosti všech technických\
+    \ norem. Zda vláda usnesení plní, kontrolují Piráti prostřednictvím písemných\
+    \ interpelací.\r\n\r\n\r\nNormy stanoví příslušné požadavky na bezpečnost, slučitelnost,\
+    \ zaměnitelnost a pro řadu dalších faktorů. Díky normám se tak zboží snáze kontroluje,\
+    \ což usnadňuje jeho volný pohyb na trhu a zároveň poskytuje dostatečné garance\
+    \ ve vztahu k požadavkům na jeho kvalitu a další parametry, například již zmíněnou\
+    \ bezpečnost.  \r\n\r\n\r\n- Profant.eu: [Technické normy: Sága pokračuje](https://www.profant.eu/2019/technicke-normy-saga.html)\r\
+    \n- Kverulant.org: [Povinné normy má stát poskytovat zdarma](https://www.kverulant.org/kauza/povinne-normy-ma-stat-poskytovat-zdarma-16102019)\r\
+    \n- feedit.cz: [O jednu absurditu méně – vláda bude muset nově zveřejňovat technické\
+    \ normy](https://feedit.cz/2019/02/01/o-jednu-absurditu-mene-vlada-bude-muset-nove-zverejnovat-technicke-normy/)"
+  icon: thumbs-up
+  id: 24296
+  img: ''
+  priority: 4
+  subject: Piráti tlačí vládu k bezplatnému zveřejnění technických norem
+  tags:
+  - digitalizace
+  - ondrej-profant
+  video: ''
+- date: 2019-10-15
+  description: "Piráti vytvořili Akční plán pro boj s vendor lock-inem a rozšíření\
+    \ využití open source ve veřejné správě, který má být součástí strategie Digitální\
+    \ Česko. Dokument obsahuje praktický postup a podklady pro ministerstva a jejich\
+    \ úřady i zastupitele.\r\n\r\n\r\nAkční plán se zabývá dvěma hlavními tématy.\
+    \ Prvním je problém vendor lock-in (uzamčení k jednomu dodavateli), ke kterému\
+    \ přinášíme právní analýzy smluv, metodiku řešení veřejných zakázek a další doporučení.\
+    \ Druhá část je věnována způsobům, jak se dá negativnímu efektu vendor lock-in\
+    \ předcházet za pomoci open source software.\r\n\r\n\r\n- [Tisková zpráva](https://www.pirati.cz/tiskove-zpravy/akcni-plan-piratu-digitalizace-otevreny-software.html)\r\
+    \n- Lupa.cz: [Piráti přišli s akčním plánem pro zavedení otevřeného softwaru na\
+    \ úřadech](https://www.lupa.cz/aktuality/pirati-prisli-s-akcnim-planem-pro-zavedeni-otevreneho-softwaru-na-uradech/)\r\
+    \n- Feedit.cz: [Piráti se aktivně podílí na digitalizaci Česka. Připravili akční\
+    \ plán pro zavedení otevřeného softwaru na úřadech](https://feedit.cz/2019/02/21/pirati-se-aktivne-podili-na-digitalizaci-ceska-pripravili-akcni-plan-pro-zavedeni-otevreneho-softwaru-na-uradech/)"
+  icon: thumbs-up
+  id: 23736
+  img: https://a.pirati.cz/resize/600x600/profant/akcni-plan.jpg
+  priority: 4
+  subject: Piráti připravili akční plán pro zavedení open source na úřadech
+  tags:
+  - digitalizace
+  - ondrej-profant
+  - ivan-bartos
+  video: ''
+- date: 2019-10-07
+  description: "V současnosti digitální služby státu nevyužívá téměř nikdo, a to zejména\
+    \ kvůli komplikovanému přístupu k nim. Díky navrhované novele bude možné se například\
+    \ k Portálu Občana přihlásit údaji z internetového bankovnictví, které dnes používá\
+    \ přes 5,5 milionu lidí.\r\n\r\n\r\nNávrh, který předkládá skupina poslanců včetně\
+    \ Pirátů Ivana Bartoše a Ondřeje Profanta, byl chválen sněmovnou a možnost přístupu\
+    \ ke službám státu přes internetové bankovnictví bude pravděpodobně na začátku\
+    \ roku 2021, až banky provedou potřebné úpravy. Do druhého čtení také připravili\
+    \ Piráti komplexní pozměňovací návrh, který reaguje na připomínky například Bezpečnostní\
+    \ informační služby a upraví možnosti přístupu bank do základních registrů státu.\r\
+    \n\r\n\r\nDalší zdroje:\r\n* Tisokvá zpráva: [Vláda podpořila návrh umožňující\
+    \ komunikaci občanů se státem prostřednictvím bankovní identity](https://www.pirati.cz/tiskove-zpravy/navrh-komunikace-se-statem-bankovni-identitou.html)\r\
+    \n* iDnes.cz: [Na úřad přes banku. Portál občana se má nově zpřístupnit více lidem](https://www.idnes.cz/ekonomika/domaci/portal-obcana-internetove-bankovnictvi.A190711_488255_ekonomika_are)\r\
+    \n* Český rozhlas: [Bankovní identita jako nová „digitální občanka“. Přelomový\
+    \ digitalizační projekt s názvem SONIA](https://hradec.rozhlas.cz/bankovni-identita-jako-nova-digitalni-obcanka-prelomovy-digitalizacni-projekt-s-7846983)\r\
+    \n* Aktuálně.cz: [Složitá hesla nebudou třeba. Ke státním registrům se půjde přihlásit\
+    \ bankovními údaji](https://zpravy.aktualne.cz/ekonomika/pristup-na-urad-pres-banku-je-zase-o-krok-bliz-bankovni-iden/r~0703f9a6e03411e984260cc47ab5f122/)"
+  icon: thumbs-up
+  id: 23607
+  img: https://www.pirati.cz/assets/img/articles/2019/bartos-profant.jpg
+  priority: 4
+  subject: Piráti prosadili online přístup ke službám státu pomocí internetového bankovnictví
+  tags:
+  - ivan-bartos
+  - ondrej-profant
+  - digitalizace
+  video: ''
+- date: 2019-09-27
+  description: "Pirátský poslanec Ondřej Profant a místopředseda evropského parlamentu\
+    \ Marcel Kolaja napsali vládě dopis, ve kterém žádali připojení ČR k žalobě Polska\
+    \ na tzv. copyright směrnici. \r\n\r\nPodle nezávislé právní analýzy je článek\
+    \ 17 (dříve 13) v rozporu s Listinou základních práv a svobod, a tedy i s ústavním\
+    \ pořádkem ČR. Jeho pravděpodobným důsledkem bude zavádění automatizovaných filtrů\
+    \ nahrávaného obsahu a tedy faktická cenzura internetu. I díky pirátskému tlaku\
+    \ ale byla ustanovena konzultační skupina k implementaci copyrightové směrnice,\
+    \ na kterou mají všechny členské státy EU dva roky od jejího schválení.  V rámci\
+    \ této skupiny se společně s dalšími nevládními organizacemi budou Piráti zasazovat\
+    \ o to, aby dopad směrnice byl co nejmenší. \r\n\r\n\r\nDalší zdroje:\r\n* TZ:\
+    \ [Odkaz](https://www.pirati.cz/tiskove-zpravy/copyrightova-smernice-je-protiustavni-apelujeme-na-premiera-k-pripojeni-k-polske-zalobe.html)\r\
+    \n* Seznam Zprávy: [Odkaz](https://www.seznamzpravy.cz/clanek/smernice-o-autorskem-pravu-je-protiustavni-mel-by-ji-resit-soud-tvrdi-pirati-a-zadaji-babise-o-podporu-78489?seq-no=4&dop-ab-variant=&source=clanky-home)\r\
+    \n* Novinky.cz: [Odkaz](https://www.novinky.cz/domaci/clanek/pripojme-se-k-zalobe-kvuli-smernici-eu-o-copyrightu-vyzyvaji-babise-pirati-40295596)\
+    \ \r\n\r\n\r\n\r\n\r\n\r\n\r\n"
+  icon: thumbs-up
+  id: 23260
+  img: ''
+  priority: 4
+  subject: Piráti vyzvali vládu k připojení k polské žalobě proti copyrightové směrnici
+  tags:
+  - opozice
+  - ondrej-profant
+  - copyright
+  video: ''
+- date: 2019-07-01
+  description: "Jedna z největších bašt papírového úřadování je v ohrožení! Poslanec\
+    \ Jakub Michálek totiž prosadil, že Podvýbor pro digitalizaci justice a e-Sbírku,\
+    \ jemuž předsedá, už úřaduje elektronicky a dokumenty se podepisují pomocí uznávaného\
+    \ elektronického podpisu. \r\n\r\nTen mají členové podvýboru nahraný ve svých\
+    \ občanských průkazech a testuje se v pilotním projektu, který se v případě úspěchu\
+    \ bude moci rozšířit na další výbory Sněmovny. Michálek tak naplnil jednu ze svých\
+    \ priorit v rámci Poslanecké sněmovny, tedy zavést elektronický podpis a elektronický\
+    \ oběh dokumentů, aby šla sněmovna příkladem celé státní správě.\r\n\r\nNejedná\
+    \ se o první úspěch Pirátů v digitalizaci vlastní agendy Sněmovny, protože už\
+    \ přibližně před rokem naučili úředníky Sněmovny pracovat s interpelacemi, které\
+    \ jsou podávány elektronicky přes datovou schránku. Řada ministrů však odpovědi\
+    \ podepisuje stále ručně.\r\n\r\nNa popud Pirátů Kancelář Poslanecké sněmovny\
+    \ v současné době připravuje řadu seminářů a školení v oblasti elektronických\
+    \ podpisů. Piráti učinili další krok k elektronizaci Poslanecké sněmovny. Ušetří\
+    \ se mnoho papíru a zároveň lze dokument podepsat z pohodlí kanceláře nebo domova.\
+    \ Do budoucna plánuje Michálek zrychlit zveřejňování elektronicky podepsaných\
+    \ zápisů. Poslanec také požádal zástupce Ministerstva vnitra, aby zjednodušili\
+    \ používání elektronické občanky.\r\n\r\nDalší zdroje: \r\n\r\n* Tisková zpráva:\
+    \ [Konec obíhání kanceláří a plýtvání papírem, poslanci si zkusili plně elektronickou\
+    \ práci](https://www.pirati.cz/tiskove-zpravy/elktronicke-dokumenty-podvybor-digitalizace-justice.html)\r\
+    \n* [Pirátské listy](https://www.piratskelisty.cz/clanek-2478-konec-obihani-kancelari-a-plytvani-papirem-poslanci-si-zkusili-plne-elektronickou-praci)\r\
+    \n* ParlamentníListy.cz: [Michálek (Piráti): Další krok k elektronizaci Poslanecké\
+    \ sněmovny](https://www.parlamentnilisty.cz/politika/politici-volicum/Michalek-Pirati-Dalsi-krok-k-elektronizaci-Poslanecke-snemovny-587106)\r\
+    \n* [Elektronicky podepsaný zápis z jednání Podvýboru pro digitalizaci justice\
+    \ a e-sbírku](https://www.pirati.cz/assets/pdf/00159006.pdf)\r\n  "
+  icon: thumbs-up
+  id: 21559
+  img: https://live.staticflickr.com/65535/47576156942_a87366c7f2_z.jpg
+  priority: 3
+  subject: Konec obíhání kanceláří a plýtvání papírem, poslanci si zkusili plně elektronickou
+    práci
+  tags:
+  - tym-informatika
+  - ondrej-profant
+  - snemovna
+  - jakub-michalek
+  - vysledek
+  - '[digitalizace]'
+  - tym-spravedlnost
+  video: ''
+- date: 2019-11-24
+  description: "Digitální technická mapa dostala ve Sněmovně zelenou! Díky její existenci\
+    \ bude možné provádět přesnější územní plánování, zjednoduší se stavební řízení\
+    \ a zefektivní se procesy veřejné správy. Jde o další velký legislativní úspěch\
+    \ Pirátů. \r\n\r\nNávrh vznikl pod záštitou Výboru pro veřejnou správu a regionální\
+    \ rozvoj, kterému předsedá Ivan Bartoš. Jednání se pravidelně účastnili zástupci\
+    \ většiny sněmovních stran, ICT unie, dotčených ministerstvech a samospráv.\r\n\
+    \r\n„Zprovoznění digitální technické mapy je velkým krokem vpřed směrem k digitálně\
+    \ propojené společnosti, která je naším cílem. Věřím, že pomůže zjednodušit procesy\
+    \ ve veřejné správě a ocení ji i občané. Pokud budu chtít například stavět dům,\
+    \ mohu jednoduše z mapy vyčíst, kudy vedou inženýrské sítě jako elektrické vedení,\
+    \ vodovodní potrubí či kanalizace. Údaje z technické mapy jsou pak důležité i\
+    \ pro veřejnou správu, například při územním plánování. Je to jednoznačně posun\
+    \ k chytřejšímu nakládání s daty, což je cesta, kterou se musíme ubírat,” uvedl\
+    \ předseda Podvýboru pro eGovernment Pirát Ondřej Profant, který je jedním z předkladatelů\
+    \ návrhu.\r\n\r\nZdroje:\r\n* [Tisková zpráva](https://www.pirati.cz/tiskove-zpravy/technicka-digitalni-mapa-zefektivni-uzemni-planovani.html)\r\
+    \n* [Parlamentní listy](https://www.parlamentnilisty.cz/politika/politici-volicum/Profant-Pirati-Digitalni-technicka-mapa-zefektivni-uzemni-planovani-i-stavebni-rizeni-586460)\r\
+    \n* [Ukázka DTM Prahy](https://app.iprpraha.cz/apl/app/dtmp/)"
+  icon: thumbs-up
+  id: 21375
+  img: https://www.pirati.cz/assets/img/articles/2019/digimapa.jpg
+  priority: 5
+  subject: Digitální technická mapa dostala ve Sněmovně zelenou
+  tags:
+  - bartos
+  - ivan-bartos
+  - ondrej-profant
+  - '[ondrej-profant]'
+  - tym-informatika
+  - informatika
+  - digitalizacestatu
+  - piratipracuji
+  - data
+  - '[digitalizace]'
+  - stavebni pravo
+  - elektronický-stavební-deník
+  video: ''
+- date: 2019-01-10
+  description: "Národní úřad kybernetické a informační bezpečnosti vydal varování\
+    \ před výrobky Huawei a ZTE v rámci kritické infrastruktury státu. Ondřej Profant,\
+    \ místopředseda komise pro práci NUKIB, upozornil že kauza má zcela jasné řešení\
+    \ - otevřený hardware ve veřejné správě, ideálně vyráběný na území EU.\r\n\r\n\
+    Další zdroje:\r\n\r\n* Novinky.cz: [Poslanci řešili rizika spojená s Huawei a\
+    \ ZTE. Stát se musí chránit, zdůraznili](https://www.novinky.cz/domaci/493999-poslanci-resili-rizika-spojena-s-huawei-a-zte-stat-se-musi-chranit-zduraznili.html)\r\
+    \n* ČRO: [Čínské technologie Huawei by klidně mohly samy vypnout celou naši energetickou\
+    \ síť. Varování NÚKIB je vážné, tvrdí poslanec Profant](https://plus.rozhlas.cz/cinske-technologie-huawei-klidne-mohly-samy-vypnout-celou-nasi-energetickou-sit-7723026)\r\
+    \n* ČT: [Jednání Miloše Zemana a Andreje Babiše o kauze Huawei](https://www.ceskatelevize.cz/porady/11412378947-90-ct24/219411058130128/)\r\
+    \n* Večerní zprávy: [Kauza ministryně Dostálové, další problém Huawei a exekuce\
+    \ na Klinice](https://www.seznamzpravy.cz/clanek/kauza-ministryne-dostalove-dalsi-problem-huawei-a-exekuce-na-klinice-63962)\r\
+    \n* pirati.cz: [Piráti představili řešení kyberbezpečnosti na komisi pro NÚKIB,\
+    \ uvádí poslanec Profant ](https://www.pirati.cz/tiskove-zpravy/komise-k-nukib-o-bezpecnosti-technologii.html)\r\
+    \n* profant.eu: [Otevřený hardware jako součást kybernetické bezpečnosti](https://www.profant.eu/2019/otevreny-hardware.html)\r\
+    \n"
+  icon: thumbs-up
+  id: 16462
+  img: https://www.ceskatelevize.cz/porady/11412378947-90-ct24/219411058130128/
+  priority: 4
+  subject: Piráti navrhují řešit kybernetickou bezpečnost pomocí otevřeného hardware
+  tags:
+  - informatika
+  - nukib
+  - bezpecnost
+  - ondrej-profant
+  - vysledek
+  video: ''
+- date: 2018-03-10
+  description: "V rámci zákonů k GDPR vláda navrhla silné omezení infozákona (106/1999\
+    \ Sb.). Vypadly by například informace o trestních stíháních i dílčí rozsudky\
+    \ soudu. Piráti okamžitě navrhli pozměňovací návrh, který nechával infozákon tak\
+    \ jako předtím. Tento návrh však neměl podporu. Po dlouhém jednání získal podporu\
+    \ kompromisní návrh Ondřeje Profanta a následně byl 5. 12. přijat.\r\n\r\n- Tisková\
+    \ zpráva: [Piráti zabránili silnému omezení práva na informace](https://www.pirati.cz/tiskove-zpravy/pirati-zabranili-silnemu-omezeni-prava-na-informace.html)\r\
+    \n- ČT24: [Poslanci přijali výjimky v ochraně soukromí. Skrytá kamera v médiích\
+    \ zůstane přípustná](https://ct24.ceskatelevize.cz/domaci/2671181-poslanci-prijali-vyjimky-v-ochrane-soukromi-skryta-kamera-v-mediich-zustane-pripustna)\r\
+    \n- ČRO: [Vládní přílepek sněmovnou neprošel. ‚Silně by narušil právo občanů na\
+    \ informace,‘ říká pirátský poslanec ](https://www.irozhlas.cz/zpravy-domov/osobni-udaje-pravo-na-informace-106-poslanecka-snemovna-pirati_1812051114_kno)\r\
+    \n\r\n[Image by Yuri Samoilov, CC-BY 2.0](https://www.flickr.com/photos/yusamoilov/13334048894)."
+  icon: thumbs-up
+  id: 16460
+  img: https://www.pirati.cz/assets/img/vysledky/infozamek.jpg
+  priority: 4
+  subject: Piráti zabránili vykostění infozákona
+  tags:
+  - infozakon
+  - ondrej-profant
+  - vysledek
+  video: ''
+- date: 2019-01-01
+  description: "Jaké by to bylo založit si firmu za pár minut, bez zbytečné byrokracie\
+    \ a pouze za 500 Kč? Díky Pirátům půjde možná již brzy o realitu. Náš návrh má\
+    \ totiž širokou podporu napříč stranami. A abyste nekupovali zajíce v pytli, spustili\
+    \ jsme aplikaci https://urad.pirati.cz, kde si již nyní můžete založit firmu jen\
+    \ za stávající zákonné poplatky.\r\n\r\nCelý proces se tak zjednoduší, zrychlí\
+    \ a zlevní. Strana přišla s webem urad.pirati.cz, kde prezentuje vlastní software,\
+    \ který podnikatelům umožní reálně založit firmu online již dnes. Tuto aplikaci\
+    \ nabízí k využití i státu skrze Ministerstvo spravedlnosti. Návrh pirátských\
+    \ poslanců Ondřeje Profanta a Martina Jiránka má již podporu poslanců z ANO, ČSSD,\
+    \ ODS, SPD, KDU-ČSL, TOP 09 a STAN.\r\n\r\n**založení firmy dnes:**\r\n* notář\
+    \ - sepsat dokumenty\r\n* banka - založit účet pro základní kapitál\r\n* banka\
+    \ - složit základní kapitál\r\n* živnostenský úřad - ohlásit živnosti\r\n* živnostenský\
+    \ úřad - vyzvednou oprávnění\r\n* notář - zapsat do živnostenského rejstříku\r\
+    \n\r\n**po Pirátské novele:**\r\n* vyplnit formulář - online\r\n* ověřit identitu\
+    \ - online nebo Czechpoint \r\n\r\nDalší zdroje:\r\n\r\n* pirati.cz: [Na úřad\
+    \ z domova](https://urad.pirati.cz)\r\n* pirati.cz: [Piráti představili politikům\
+    \ bezplatnou aplikaci, díky které si založíte firmu za jeden den](https://www.pirati.cz/tiskove-zpravy/komentar-ondreje-profanta-zrychlime-podnikani.html)\r\
+    \n[Piráti přišli s novelou, která umožňuje založit firmu za jeden den přes internet]\
+    \ (https://www.e15.cz/domaci/pirati-prisli-s-novelou-ktera-umoznuje-zalozit-firmu-za-jeden-den-pres-internet-1355887)"
+  icon: thumbs-up
+  id: 16458
+  img: https://raw.githubusercontent.com/pirati-web/pirati.cz/gh-pages/assets/img/articles/2019/firma-za-den.jpg
+  priority: 5
+  subject: Piráti navrhují založení firmy za jeden den
+  tags:
+  - martin-jiranek
+  - ochranaobcanu
+  - digitalizacestatu
+  - piratipracuji
+  - informatika
+  - firma
+  - zivnost
+  - firma-za-jeden-den
+  - ondrej-profant
+  - vysledek
+  video: ''
+- date: 2019-01-10
+  description: "Ondřej Profant se podílí na tvorbě aplikace Cityvizor, která pomáhá\
+    \ obcím zveřejňovat informace o tom, jak hospodaří. Města a obce už tak nemusí\
+    \ kupovat předražený software, ale mohou využít takový, který jsme připravili\
+    \ spolu s Ministerstvem financí. Za nástroj jsme obdrželi ocenění Fondu Otakara\
+    \ Motejla a od časopisu eGovernment.\r\n\r\nDalší zdroje:\r\n\r\n* Lupa.cz: [Hlídač\
+    \ státu vyhrál soutěž Společně otevíráme data, bodoval i CityVizor ministerstva\
+    \ financí ](https://www.lupa.cz/clanky/hlidac-statu-vyhral-soutez-spolecne-otevirame-data-bodoval-i-cityvizor-ministerstva-financi)\r\
+    \n* SvětChytře: [Obecní rozpočet na internetu zadarmo a na pár kliknutí!](https://www.svetchytre.cz/a/ighrM/obecni-rozpocet-na-internetu-zadarmo-a-na-par-kliknuti)\r\
+    \n* Praha 7: [Na hospodaření Prahy 7 dohlíží CityVizor](https://www.praha7.cz/na-hospodareni-prahy-7-dohlizi-cityvizor/)\r\
+    \n* ekonomicky-denik.cz: [Klikací rozpočet je mrtev – přichází atraktivnější CityVizor](http://ekonomicky-denik.cz/klikaci-rozpocet-je-mrtev-prichazi-atraktivnejsi-cityvizor)\r\
+    \n* PiratskeListy.cz: [CityVizor: Sledujte hospodaření vaší obce v mobilu](https://www.piratskelisty.cz/clanek-2173-cityvizor-sledujte-hospodareni-vasi-obce-v-mobilu)\r\
+    \n"
+  icon: thumbs-up
+  id: 16452
+  img: https://www.pirati.cz/assets/img/vysledky/citivizor.png
+  priority: 4
+  subject: Piráti pomohli vytvořit software na rozklikávací rozpočet
+  tags:
+  - informatika
+  - ondrej-profant
+  - vysledek
+  video: ''
+- date: 2020-08-19
+  description: "Český statistický úřad začne konečně zveřejňovat data o registrovaných\
+    \ partnerstvích i četnosti jmen a příjmení. Stalo se tak po urgencích pirátského\
+    \ poslance Ondřeje Profanta, který se problematikou jmen, statistiky a otevřených\
+    \ dat dlouhodobě zabývá.\r\n\r\nV rámci projednávání zákona o sčítání lidu, domů\
+    \ a bytů v roce 2021 vyšlo najevo, že Český statistický úřad nezveřejňuje o registrovaných\
+    \ partnerstvích žádné kontinuální statistiky ani 14 let od jejich uzákonění. Data\
+    \ o manželstvích, nesezdaných soužitích, rozvodech, ovdověních, narození dětí\
+    \ do a mimo manželství a podobně přitom zpracovává a zveřejňuje průběžně. Podobná\
+    \ situace panuje i okolo statistiky četnosti jmen a příjmení. Tato data byla několik\
+    \ let publikována Ministerstvem vnitra a byla používána mimo jiné v projektu KdeJsme.cz.\
+    \ V roce 2017 ministerstvo data najednou přestalo publikovat a odůvodňovalo to\
+    \ ochranou osobních údajů.\r\n\r\nPo urgencích pirátského poslance našel Český\
+    \ statistický úřad řešení. Podle jeho ředitele Marka Rojíčka se od roku 2021 počítá\
+    \ s publikováním každoročních populačních statistik včetně dat o registrovaných\
+    \ partnerstvích. Nový systém rovněž umožní vytvářet agregovanou statistiku četností\
+    \ jmen a příjmení, včetně jejich územního rozložení. Při jejich publikování bude\
+    \ prý vždy věnována maximální pozornost ochraně osobních údajů.\r\n\r\nTisková\
+    \ zpráva:\r\n* [Po urgencích Pirátů zveřejní Český statistický úřad konečně data\
+    \ o registrovaných partnerstvích i četnosti jmen](https://www.pirati.cz/tiskove-zpravy/statisticky-urad-zverejni-data-o-registrovanych-partnerstvich.html)\r\
+    \n\r\nDále v médiích:\r\n* ČTK: [ČSÚ povede průběžnou statistiku o registrovaných\
+    \ partnerstvích](https://www.ceskenoviny.cz/zpravy/csu-povede-prubeznou-statistiku-o-registrovanych-partnerstvich/1909760)\r\
+    \n"
+  icon: thumbs-up
+  id: 32396
+  img: https://live.staticflickr.com/65535/50135973458_5e6da7d993_b.jpg
+  priority: 4
+  subject: Po urgencích Pirátů zveřejní Český statistický úřad data o registrovaných
+    partnerstvích i četnosti jmen
+  tags:
+  - data
+  - kontrolamoci
+  - lidskaprava
+  - lgbt
+  - ondrej-profant
+  video: ''
+- date: 2020-05-13
+  description: "Vláda předložila v legislativní nouzi zákon, který ruší kontrolu u\
+    \ zakázek, kde je pouze jeden dodavatel a udělá tak v zákoně novou korupční díru.\
+    \ Konkrétně se už nebude zjišťovat, jakou má firma kvalifikaci, kdo ji vlastní\
+    \ a bude moci mít anonymní akcie na doručitele. Docílili jsme toho, že se vládní\
+    \ návrh bude projednávat ve standardním legislativním procesu - bude tak více\
+    \ času na to, novelu prodiskutovat v Parlamentu, a závažná rizika návrhu odstranit.\r\
+    \n\r\n„Vláda chtěla na jednání pléna zařadit zásadní prokorupční změnu zákona\
+    \ o zadávání veřejných zakázek. Zákon by umožnil v těch nejzranitelnějších případech,\
+    \ kdy je pouze jeden uchazeč ve výběrovém řízení, odstranit kontrolní mechanismy,\
+    \ které brání tomu, aby se zakázky pro jednoho dodavatele zneužívaly. Vypadá to,\
+    \ že se dodatečně legalizují pochybení, ke kterým tu došlo při zadávání veřejných\
+    \ zakázek,” uvedl předseda poslaneckého klubu Jakub Michálek, na jehož návrh bude\
+    \ nakonec zákon z jednání pléna vyřazen.\r\n\r\n„Je jasné, že v mimořádných situacích\
+    \ je potřeba, aby vláda mohla rychle a bez formalit nakoupit například ochranné\
+    \ pomůcky. Jenže přesně pro tyto situace tu je nouzový stav. A když nouzový stav\
+    \ není, měla by se vláda řídit zákonem a dodržovat alespoň základní pravidla –\
+    \ ověřit si, že ví, od koho nakupuje, a že firma má alespoň nějakou odbornost,”\
+    \ komentoval novelu pirátský poslanec Ondřej Profant.\r\n\r\nDalší zdroje: \r\n\
+    * [Tisková zpráva](https://www.pirati.cz/tiskove-zpravy/kontroverzni-navrh-verejne-zakazky-posunuti-navrhu-rozpoctu.html)\r\
+    \n* [Piráti varují před novým zákonem o zakázkách, hrozí malé domů do daňových\
+    \ rájů](https://www.pirati.cz/tiskove-zpravy/danove-raje-verejne-zakazky.html)\
+    \ \r\n* Novinky.cz: [Poslanci debatovali o ošetřovném i veřejných zakázkách](https://www.novinky.cz/domaci/clanek/on-line-poslance-ceka-bourliva-debata-o-osetrovnem-i-verejnych-zakazkach-40323917)\r\
+    \n* iHned.cz: [Sněmovna odmítla nové Palermo, řešení zakázek bez soutěže odložila](https://archiv.ihned.cz/c1-66763720-snemovna-odmitla-nove-palermo-reseni-zakazek-bez-souteze-odlozila)\r\
+    \n* iRozhlas.cz: [Korupční zákon i legalizace zlodějin. Opozice kritizuje vládní\
+    \ změnu pravidel pro zakázky bez soutěže](https://www.irozhlas.cz/zpravy-domov/koronavirus-nakup-ochrannych-pomucek-verejne-zakazky-zmena-pravidel-vlada_2005131615_kno)\
+    \ \r\n* iDnes.cz: [Vrata k miliardovým rozkrádačkám, Palermo, tepala opozice zákon\
+    \ o zakázkách](https://www.idnes.cz/zpravy/domaci/kalousek-zmena-zakona-o-verejnych-zakazkach-snemovna.A200513_114549_domaci_kop)\r\
+    \n* Českénoviny.cz: [Sporné změny v zakázkách Sněmovna zrychleně schvalovat nebude](https://www.ceskenoviny.cz/zpravy/sporne-zmeny-v-zakazkach-snemovna-zrychlene-schvalovat-nebude/1890325)\
+    \ \r\n* DeníkN.cz: [Poslanci z Pirátské strany jsou připraveni napadnout novelu\
+    \ zákona o zadávání veřejných zakázkách u Ústavního soudu](https://denikn.cz/minuta/359425/)\r\
+    \n* ParlamentníListy.cz: [Profant (Piráti): Varujeme před novým zákonem o zakázkách](https://www.parlamentnilisty.cz/politika/politici-volicum/Profant-Pirati-Varujeme-pred-novym-zakonem-o-zakazkach-623721)\
+    \ \r\n* Rekonstrukcestátu.cz: [Občanský tlak zastavil prokorupční novelu, která\
+    \ by státu umožnila netransparentní nákupy](https://www.rekonstrukcestatu.cz/cs/archiv-novinek/obcansky-tlak-zastavil-prokorupcni-novelu-ktera-by-statu-umoznila-netransparentni-nakupy)\
+    \ \r\n  "
+  icon: thumbs-up
+  id: 31043
+  img: https://live.staticflickr.com/65535/49829449347_f7f34e1fb1_c.jpg
+  priority: 4
+  subject: 'Piráti zabránili bezprostřednímu průšvihu: Rizikový návrh na změnu zákona
+    o veřejných zakázkách nebyl projednán ve stavu legislativní nouze'
+  tags:
+  - spravedlnost
+  - snemovna
+  - korona
+  - vysledek
+  - ondrej-profant
+  - jakub-michalek
+  video: ''
+- date: 2019-07-01
+  description: "Konec výjimkám z registru smluv! Díky tomu bude mít ČEZ a další společnosti\
+    \ s většinovým podílem státu povinnost zveřejňovat klíčové dokumenty stejně jako\
+    \ všechny ostatní organizace ovládané státem. Ztransparentnění státu v rámci skutečného\
+    \ protikorupčního boje bylo jednou z priorit, s nimiž jsme šli do Sněmovny. Jsme\
+    \ rádi, že se nám tomuto závazku podařilo dostát.\r\n\r\nZrušení výjimky pro ČEZ\
+    \ nebo České dráhy bylo jedním z nejdůležitějších předvolebních programových bodů\
+    \ Pirátů. Přijetí novely bohužel vzhledem k obstrukcím ostatních stran trvalo\
+    \ celý rok, ale nakonec se nám tuto účelovou výjimku podařilo zrušit. Firmy jako\
+    \ ČEZ, České dráhy a další tak budou mít povinnost zveřejňovat své smlouvy na\
+    \ internetu v registru smluv, stejně jako to již dělá například Budějovický Budvar.\
+    \ Přijetí zákona je zlom, kterým konečně končí české Palermo.\r\n\r\nPiráti předložili\
+    \ novelu, která má zrušit výjimky ze zákona o zveřejňování smluv pro ČEZ a další\
+    \ státem ovládané firmy. Současná podoba zákona totiž umožňuje zcela skrýt informace\
+    \ o případných nevýhodných smlouvách, které často indikují možné korupční jednání.\r\
+    \n\r\nZveřejňování smluv ČEZu a státních firem (ST 50), je jednoduchý několikařádkový\
+    \ zákon, který ruší výjimku ze zveřejňování smluv ČEZu, Českých drah a jiných\
+    \ státních firem. Výjimka byla schválena v minulém volebním období po tlaku lobbistů.\
+    \ Pro přijetí novely zákona o registru smluv bylo 113 ze 177 přítomných poslanců,\
+    \ hlasování [zde](http://www.psp.cz/sqw/hlasy.sqw?G=69319).\r\n\r\nDalší zdroje:\r\
+    \n\r\n* Tisková zpráva: [Končí Palermo. Piráti prosadili klíčovou novelu, která\
+    \ ruší výjimky z registru smluv](https://www.pirati.cz/tiskove-zpravy/registr-smluv-konec-vyjimek.html)\r\
+    \n* iDnes.cz: [ČEZ bude muset zveřejňovat smlouvy. Končí české Palermo, jásá Michálek](https://www.idnes.cz/ekonomika/domaci/zverejnovani-smluv-registr-smluv-cez.A190618_155129_ekonomika_kop)\r\
+    \n* Echo24.cz: [Piráti oslavují, tajnosti končí. Smlouvy státních firem už nebudou\
+    \ mít začerněná místa](https://echo24.cz/a/S4pNV/pirati-oslavuji-tajnosti-konci-smlouvy-statnich-firem-uz-nebudou-mit-zacernena-mista)\r\
+    \n* Novinky.cz: [Nemocnice nebudou mít výjimku z registru smluv. Sněmovna odmítla\
+    \ návrh Senátu](https://www.novinky.cz/domaci/508054-nemocnice-nebudou-mit-vyjimku-z-registru-smluv-snemovna-odmitla-navrh-senatu.html)\r\
+    \n* [Sněmovna schválila návrh Pirátů na zrušení výjimek z registru smluv pro ČEZ\
+    \ a další společnosti](https://www.pirati.cz/tiskove-zpravy/zasadni-zmena-schvalena-novela-zakona-o-registru-smluv.html)\r\
+    \n* Lidovky.cz: [ČEZ a další firmy zřejmě přijdou o výjimku z povinného zveřejňování\
+    \ smluv. Novelu iniciovali Piráti](https://www.lidovky.cz/byznys/firmy-a-trhy/cez-a-dalsi-firmy-zrejme-prijdou-o-vyjimku-z-povinneho-zverejnovani-smluv-novelu-iniciovali-pirati.A190308_121746_firmy-trhy_ele)\r\
+    \n* iDnes.cz: [Nikdo si netroufá omezit neprůhledné prostředí v ČEZ, říká Pirát\
+    \ Michálek](https://www.idnes.cz/zpravy/domaci/registr-smluv-cez-ceske-drahy-vyjimka-snemovna.A181113_165716_domaci_kop)\
+    \ \r\n* iRozhlas.cz: [Piráti: ČEZ by měl zveřejňovat smlouvy. Výjimka se týká\
+    \ těch firem, u kterých hrozí nejvíc korupce](https://www.irozhlas.cz/zpravy-domov/pirati-cez-registr-smluv_1801031846_pj)\r\
+    \n* pirati.cz: [Sněmovna vyřadila návrh Pirátů na zrušení výjimek ze zveřejňování\
+    \ smluv ČEZu z pořadu schůze](https://www.pirati.cz/tiskove-zpravy/navrh-na-zverejnovani-smluv-cezu-vyradila-snemovna.html)\r\
+    \n* [Tisková zpráva](https://www.pirati.cz/tiskove-zpravy/vybor-doporucil-zverejnovani-smluv.html)\r\
+    \n* [Interpelace ministra obrany](https://github.com/pirati-byro/spisy-jm/tree/master/15706-interpelace-minobrany)\r\
+    \n* [Interpelace premiéra - neprůhledné hospodaření ČEZ a jeho investice v Bulharsku](https://redmine.pirati.cz/issues/15007)\
+    \ \r\n* [ST 50](http://www.psp.cz/sqw/historie.sqw?o=8&T=50)"
+  icon: thumbs-up
+  id: 21533
+  img: https://www.pirati.cz/assets/img/articles/2018/cez.jpg
+  priority: 6
+  subject: Protlačili jsme zrušení výjimek z registru smluv
+  tags:
+  - ondrej-profant
+  - kontrolamoci
+  - piratipracuji
+  - vysledek
+  - ivan-bartos
+  - tym-spravedlnost
+  - jakub-michalek
+  video: ''
+- date: 2019-01-28
+  description: "Pirátští poslanci Lukáš Kolářík, Olga Richterová a Ondřej Profant\
+    \ navrhovali, aby stát rozjel kampaň na propagaci datových schránek. \r\n\r\n\
+    Piráti napsali pozměňovací návrh ke státnímu rozpočtu, který přesouval 3 miliony\
+    \ korun z rozpočtové položky \"výdaje na sportovní reprezentaci\" Ministerstva\
+    \ vnitra s alokací na propagaci datových schránek. Návrh byl na plénu zamítnut,\
+    \ avšak k propagaci došlo i tak. \r\n\r\n[video na pirátském facebooku](https://www.facebook.com/ceska.piratska.strana/videos/2260663814258134/)\r\
+    \n[článek v Deníku](https://www.denik.cz/ekonomika/stat-zbytecne-utraci-za-postovne-pouzivejme-datove-schranky-rikaji-pirati-20181207.html?fbclid=IwAR1cCw22bZ_0SN9JcjExaJknp8uKKqhma9pvU4g_vHw8Cqbx0nYXFBRC46U)\r\
+    \n[tisková zpráva](https://www.pirati.cz/tiskove-zpravy/stat-utraci-moc-za-postu-pirati-chteji-datove-schranky.html)\r\
+    \n"
+  icon: thumbs-up
+  id: 17210
+  img: https://scontent-prg1-1.xx.fbcdn.net/v/t1.0-9/29496604_1479650088827494_5767257745489133568_n.jpg?_nc_cat=107&_nc_oc=AQmIcalr9n8bK1tDaonwrod6WKuDdHZ7gCjiPIz7k5fzL78qXJOdbsypDUpzyI15B28&_nc_ht=scontent-prg1-1.xx&oh=99844c12d4074a8411af707d1c565088&oe=5E349FD1
+  priority: 4
+  subject: Piráti iniciovali větší propagaci datových schránek
+  tags:
+  - '[olga-richterova]'
+  - '[ondrej-profant]'
+  - '[informatika]'
+  - '[lukas-kolarik]'
+  video: ''
