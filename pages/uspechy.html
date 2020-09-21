@@ -30,7 +30,7 @@ comments: false
               <div class="timeline-content__desc">
                 <p class="timeline-content__date">{{ uspech.date | date:"%d. %m. %Y" }}</p>
                 <h2 class="timeline-content__title">{{ uspech.subject }}</h2>
-                <p>{{ uspech.description }}</p>
+                <p>{{ uspech.description | markdownify }}</p>
               </div>
 
               <div class="timeline-content__media">

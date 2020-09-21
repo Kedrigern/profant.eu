@@ -1,3 +1,6 @@
+#
+# Nepřepisujte! Soubor je generován automaticky skriptem uspechy.py
+#
 - date: 2009-06-17
   description: Stál jsem u zrodu Pirátské strany a jsem v ní od samého počátku. Nejprve
     se nám různí politici (např. Miroslav Kalousek) smáli, dnes jsme  respektovaným
@@ -5,17 +8,17 @@
     IT, který současným samosprávám ale i státní správě zoufale chybí.
   icon: flag
   img: /assets/img/uspechy/zalozeni.jpg
-  priority: 2
+  priority: 5
   subject: Spoluzaložení Pirátů
 - date: 2012-01-18
   description: Pomáhal jsem s organizací [demonstrace proti ACTA](https://www.lidovky.cz/lide-demonstrovali-proti-acta-v-praze-se-jich-sesly-dva-tisice-p6o-/zpravy-domov.aspx?c=A120211_151827_ln_domov_rka)
     v Praze. Pochod na hrad, kterého se účastilo 2-3 tisíce lidí, byl první vskutku
-    větší akci Pirátů. I díky němu si   naší strany všimla média a začala nás brát
-    jako skutečnou politickou stranu, a ne jen jako recesisty.
+    větší akci Pirátů. I díky němu si naší strany všimla média a začala nás brát jako
+    skutečnou politickou stranu, a ne jen jako recesisty.
   icon: child
   img: /assets/img/uspechy/acta.jpg
   img-attribution: Jiří Straka [CC BY-SA 2.0]
-  priority: 2
+  priority: 4
   subject: Spoluorganizace demonstrací proti ACTA
 - date: 2014-10-14
   description: V komunálních volbách v říjnu 2014 jsem byl zvolen do pražského zastupitelstva.
@@ -23,8 +26,200 @@
     v žalostném stavu, hospodaření s majetkem a bezpečnosti.
   icon: users
   img: /assets/img/uspechy/praha.png
-  priority: 1
+  priority: 6
   subject: Zvolen do ZHMP
+- date: 2014-12-05
+  description: Praha hledala, kdo jí dodá účetnictví. Vybrala firmu. Za dvacet let
+    ale firma a její výrobky natolik prorostly do fungování města, že se jich metropole
+    už nemůže zbavit. A firma chce za své služby víc a víc. Problém, který dosud nikdo
+    neřešil, a který může za děsivé výdaje samospráv. Prahu svazuje dnes a denně a
+    vedení města jej tiše přijalo. Bojoval jsem proti vendor lock-inu a chystám se
+    mu podívat na zub i ve státní správě.
+  icon: lock
+  img: /assets/img/uspechy/ginis.jpg
+  link:
+  - https://praha.pirati.cz/dvacet-milionu-pro-gordic.html
+  - https://praha.pirati.cz/praha-rezignovala-na-boj-se-zavislosti-na-dodavateli-ucetnictvi.html
+  priority: 4
+  subject: Boj proti proprietárnímu uzamčení (vendor lock-in)
+- date: 2015-01-23
+  description: 13 miliard za 10 let. V pražském zastupitelstvu jsem vystoupil proti
+    monstrzakázce, která má zničit trh, a zajistit Pražským službám 100 % svozu odpadu.
+    Metropole se ale nakonec rozhodla, že volnou soutěž ve svozu odpadu nechce a přiklepla
+    to Pražským službám.
+  icon: recycle
+  link: https://praha.pirati.cz/ondra.html
+  priority: 4
+  subject: Upozornění na superzakázku na odpad
+- date: 2015-02-06
+  description: Přes šest tisíc obcí řeší stejný problém - jak fungovat efektivně.
+    S problémy se ale dosud potýkaly samostatně. Proto jsem se podílel na vzniku spolku
+    Otevřená města, aby mohly obce sdílet své zkušenosti. Jak zrychlit fungování úřadu?
+    Jak transparentně rozhodovat? Jak zvýšit participaci, zavádět otevřená data a
+    svobodný software. Proč by města měla kupovat předražený software, když jinde
+    jsou k dispozici svobodná, vyzkoušená a dobře fungující řešení.
+  icon: building
+  img: /assets/img/uspechy/otevrena_mesta.jpg
+  link: https://www.root.cz/clanky/otevrena-mesta-iniciativa-chhttps://farm2.staticflickr.com/1467/24785828289_f173e9268d_k.jpgce-open-source-na-radnice/
+  priority: 4
+  subject: založení Otevřených měst
+- date: 2015-03-02
+  description: Když jsem přišel na Magistrát, byla Praha rukojmím provozovatele Opencard.
+    Děsivé smlouvy z doby Pavla Béma zavazovaly město používat Opencard skoro na všechno
+    a platit za ní tučné peníze. Podařilo se mi najít řešení, jak s tímto vydíráním
+    Prahy skončit, neuvrhnout metropoli do rizika placení pokut nebo soudních sporů.
+    Dnes je Opencard už minulostí; kdo chce může mít Lítačku, kdo chce má papírový
+    kupon a jízdné lze platit dokonce i platební kartou.
+  icon: id-card-o
+  img: /assets/img/uspechy/opencard.jpg
+  link:
+  - https://praha.idnes.cz/pirati-chteji-plnou-nahradu-pro-ty-kterym-konci-platnost-opencard-103-/praha-zpravy.aspx?c=A150307_2145446_praha-zpravy_nub
+  - https://www.tyden.cz/rubriky/domaci/politika/opencard-skoncila-ve-sparech-piratu_334253.html
+  priority: 5
+  subject: Konec Opencard
+- date: 2015-09-17
+  description: Prosadil jsem, aby v [tezích digitální strategie hlavního města Prahy](https://praha.pirati.cz/rada-digitalni-strategie.html),
+    tedy v základním dokumentu, podle něhož se má řídit rozvoj IT, byl zahrnut open
+    source, aby se rozvíjela otevřená data a aby se Praha vyvarovala chyb z minulosti
+    (outsourcing, předražené zakázky apod.)
+  icon: laptop
+  img: /assets/img/uspechy/teze.jpg
+  priority: 5
+  subject: Teze digitální strategie
+- date: 2016-02-20
+  description: 'Blokování hazardních webů může znít ušlechtile, ale cesta do pekla
+    bývá dlážděná dobrými úmysly. Jakmile připustíme blokování webů, nemůžeme si být
+    jisti, kde skončí. Cenzura se nám může vrátit rychleji, než si myslíme. Na demonstraci,
+    která prošla kolem budovy vlády, jsme řekli jasné NE rizikovým cenzurním paragrafům
+    loterijního zákona. Na naší straně stáli i zástupci řady internetových firem a
+    občanských sdružení. '
+  icon: child
+  img: https://farm2.staticflickr.com/1467/24785828289_f173e9268d_k.jpg
+  img-attribution: Ben Goings
+  link:
+  - https://echo24.cz/a/w4WrJ/svobodny-internet-v-ohrozeni-pirati-demonstrovali-proti-loterijnimu-zakonu
+  - https://feedit.cz/2016/02/18/demonstrace-za-svobodny-internet-v-praze-na-klarove-uz-tuto-sobotu/
+  priority: 3
+  subject: Spoluorganizace demonstrace za svob. internet
+- date: 2016-02-26
+  description: Vedení Prahy navrhlo betonový dálniční most, který měl nahradit funkcionalistický
+    skvost v Libni. Protože jsem nechtěl na rozhraní Prahy 7 a Prahy 8 dálnici, která
+    by vedla odnikud nikam, apeloval jsem na vedení města, aby původní most pouze
+    opravilo. Problém jsem ve spolupráci s odborníky medializoval. Hlavní město se
+    nakonec rozhodlo, že most konečně opraví a projekt betonového monstra uložilo
+    k ledu.
+  icon: road
+  img: /assets/img/uspechy/libensky_most.jpg
+  link: https://praha.pirati.cz/libensky-most.html
+  priority: 4
+  subject: boj za Libeňský most
+- date: 2016-09-14
+  description: Odhalil jsem, že Praha používá zcela nezabezpečený systém komunikace
+    mezi složkami záchranného systému a policie. Každý jej dokáže odposlouchávat rádiem
+    za 300 korun. Úředníci zapomněli, že zločincům otevřeli zlatý důl. Město svojí
+    chybu přiznalo a slíbilo nápravu.
+  icon: wifi
+  img: /assets/img/uspechy/tetra.jpg
+  link:
+  - https://technet.idnes.cz/odposlech-site-tetra-a-mestske-policie-dhy-/tec_technika.aspx?c=A160913_145939_tec_technika_vse
+  - https://praha.pirati.cz/odposlouchavani.html
+  priority: 5
+  subject: radiový systém policie nezabezpečen
+- date: 2016-09-29
+  description: Náš klub na Magistrátě získal cenu Otevřeno za "hypetransparentnost".
+    Zavedl jsem systém Redmine, kde se každý mohl podívat, jak zastupitelé za Piráty
+    pracují a čemu se kdy věnovali. Zveřejňovali jsme naše odměny a veškerou spisovou
+    dokumentaci klubu. Porazili jsme dalších několik desítek subjektů, které se do
+    soutěže přihlásily.
+  icon: thumbs-up
+  img: /assets/img/uspechy/otevreno.jpg
+  link: https://wiki.pirati.cz/tiskove-zpravy/hypertransparentni_klub._prazsti_pirati_ziskali_cenu_za_otevrenost
+  priority: 4
+  subject: získání ceny Otevřeno
+- date: 2016-11-16
+  description: Apeloval jsem na vedení města, aby koupilo písnické sídliště. Vlastník
+    (ČEZ) se ho rozhodl prodat developerovi. Praha ale měla konat. Jako jeden z mála
+    pražských zastupitelů jsem vystoupil na demonstraci občanů za záchranu sídliště.
+    Praha ale strčila i přes naše výzvy hlavu do písku a prošvihla termín pro odkup.
+    Na svoje občany se vykašlala.
+  icon: building
+  img: /assets/img/uspechy/libensky_most.jpg
+  link: https://praha.pirati.cz/pisnicti-pres-palubu.html
+  priority: 3
+  subject: Sídliště Písnice
+- date: 2016-12-08
+  description: Města mají hodně dat, ale schovávají si je v trezoru. Proto se konceptu
+    otevřených dat bojí. Samy z nich ale mohou těžit! Prosadil jsem, aby Praha měla
+    vlastní [portál otevřených dat](http://opendata.praha.eu/) a spolu s komunitou
+    programátorů zorganizoval první hackaton města. Napsali jsme řadu unikátních aplikací
+    - a Praha je dostala zadarmo. Náš portál se stal vzorem pro další kraje a získali
+    jsme za něj i ocenění Otevřeno od Otevřené společnosti.
+  icon: database
+  img: /assets/img/uspechy/open_source.jpg
+  priority: 7
+  subject: Celopražská Opendata
+- date: 2017-01-03
+  description: Odpadové koše, které potřebují software za tisíce, lavičky za dva miliony
+    s reklamním displejem, wifi v lanovce, kterou jedete 3 minuty. Praha se rozhodla
+    utrácet ve velkém. Projekty za statisíce, které ale málokdo využije. Apeloval
+    jsem na vedení města, aby namísto nesmyslů zajistilo raději mobilní signál v metru,
+    zjednodušilo kontakt občanů s úřadu, nebo zavedlo smart technologie v oblasti
+    parkování. Odhalil jsem, že Smart Cities jsou v Praze nástrojem ANO 2011 k získávání
+    lukrativních zakázek v oblasti IT, které navíc stojí stamiliony ročně.
+  icon: money
+  img: /assets/img/uspechy/smart_city.jpg
+  link:
+  - https://www.lupa.cz/clanky/ondrej-profant-v-projektu-smart-prague-jde-o-to-rychle-utratit-hodne-penez/
+  - https://praha.pirati.cz/smart-cities-podle-piratu.html
+  priority: 6
+  subject: hlavní kritik Smart Cities
+- date: 2017-01-27
+  description: Možnost volby. Ve vizi dopravního odbavení, kterou jsem spolu s odborníky
+    z komise ICT připravil, jsem se jako první věnoval dalším technologickým řešením,
+    která mohou do pražské dopravy přijít – mobilní aplikace, platební karty nebo
+    paypal. Aby Praha nevymýšlela vlastní platební služby, různé peněženky a další
+    monolitické zbytečnosti, které ve výsledku budou stát miliony a budou k ničemu.
+  icon: subway
+  img: /assets/img/uspechy/odbaveni.jpg
+  link:
+  - https://praha.pirati.cz/vize-dopravniho-odbavovani.html
+  - https://zpravy.aktualne.cz/domaci/pirati-litacka-je-hloupejsi-papir-praha-by-mela-zavest-syste/r~7057c630bd3c11e6b628002590604f2e/
+  priority: 3
+  subject: Představení vize dopravního odbavení
+- date: 2017-06-15
+  description: Vedení Prahy chce postavit nový městský tunel (Blanka 2), který bude
+    stát desítky miliard, opět však v něm nebude zavedena MHD. Přitom tangenciální
+    směry dopravy jsou v Praze dlouhodobě neřešené. Apeloval jsem na vedení Prahy,
+    aby neschvalovala stavbu, která bude významnou investicí, pro cestující veřejnou
+    dopravou však bude mít jen zanedbatelný přínos.
+  icon: car
+  img: /assets/img/uspechy/okruh.jpg
+  link: https://praha.pirati.cz/chceme-v-blance-ii-mhd.html
+  priority: 4
+  subject: Městský okruh
+- date: 2017-06-21
+  description: Megalomanský projekt, kam se firmy měli šanci přihlásit jen během 11
+    dnů. Specifikace požadavků byla přepsána z letáků předem zvažovaného vítěze; server
+    srovnatelný s Centrálním Mozkem Lidstva. Technologie, které se neosvědčily (wm-ware,
+    Oracle). To byla zakázka na vybavení Datového centra, do které Praha šla a před
+    kterou jsem opakovaně varoval.
+  icon: server
+  img: /assets/img/uspechy/datove_centrum.jpg
+  link:
+  - https://praha.pirati.cz/zakazka-psana-na-miru.html
+  - https://www.euro.cz/praha/praha-vybrala-dodavatele-datoveho-centra-zakazka-byla-sita-na-miru-tvrdi-opozice-1355684
+  priority: 4
+  subject: upozornění na zakázku na Datové centrum
+- date: 2017-10-22
+  description: V podzimních sněmovních volbách jsem byl zvolen z třetího místa pražské
+    kandidátky Pirátů do PSP ČR. Tím jsem dostal příležitost své zkušenosti z pražského
+    zastupitelstva, kde jsem hlídal problematiku IT, uplatnit i na celostátní úrovni.
+    Přislíbil jsem, že se mandátu pražského zastupitele vzdám, neboť kumulovat funkce
+    odmítám.
+  icon: users
+  img: /assets/img/uspechy/psp.jpg
+  priority: 6
+  subject: zvolen do sněmovny
 - date: 2018-12-01
   description: "Česká republika utratí každým rokem zhruba 1,7 miliardy korun za poštovné,\
     \ zatímco elektronické nástroje zůstávají nevyužité. Jedním z problémů je i nízká\
