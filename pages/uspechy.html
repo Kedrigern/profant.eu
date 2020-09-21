@@ -29,18 +29,12 @@ comments: false
             <div class="timeline-content {% if  mod == 0 %}timeline-content--right{% endif %}">
               <div class="timeline-content__desc">
                 <p class="timeline-content__date">{{ uspech.date | date:"%d. %m. %Y" }}</p>
-                <h2 class="timeline-content__title">{{ uspech.title }}</h2>
+                <h2 class="timeline-content__title">{{ uspech.subject }}</h2>
                 <p>{{ uspech.description }}</p>
-
-                {% if uspech.link %}
-                  {% for odkaz in uspech.link  %}
-                  <div><a class="t-anchor" href="{{ odkaz }}" rel="noopener" target="_blank">Odkaz</a></div>
-                  {% endfor %}
-                {% endif %}
               </div>
 
               <div class="timeline-content__media">
-                {% if uspech.img %}
+                  {% if uspech.img != "" %}
                   <img class="timeline-image" src="{{uspech.img}}" alt= "{{uspech.title}}"/>
 
                   {% if uspech.img-attribution %}
