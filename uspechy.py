@@ -21,14 +21,13 @@ Redmine priority:
 
 class Config:
     verbose = True
-    resultPath = "./_data/media.csv"
+    resultPath = "./_data/uspechy.yaml"
     urls = {
       "rm": "https://redmine.pirati.cz",
       "issue": "https://redmine.pirati.cz/issues/",
       "issues": "https://redmine.pirati.cz/projects/snemovna/issues.json",
       "issues_tags": "https://redmine.pirati.cz/issues.csv?utf8=✓&set_filter=1&sort=id%3Adesc&f%5B%5D=status_id&op%5Bstatus_id%5D=%3D&v%5Bstatus_id%5D%5B%5D=5&f%5B%5D=tracker_id&op%5Btracker_id%5D=%3D&v%5Btracker_id%5D%5B%5D=28&f%5B%5D=project_id&op%5Bproject_id%5D=%3D&v%5Bproject_id%5D%5B%5D=185&v%5Bproject_id%5D%5B%5D=186&v%5Bproject_id%5D%5B%5D=187&v%5Bproject_id%5D%5B%5D=188&v%5Bproject_id%5D%5B%5D=189&v%5Bproject_id%5D%5B%5D=190&v%5Bproject_id%5D%5B%5D=191&v%5Bproject_id%5D%5B%5D=192&v%5Bproject_id%5D%5B%5D=193&v%5Bproject_id%5D%5B%5D=125&v%5Bproject_id%5D%5B%5D=194&v%5Bproject_id%5D%5B%5D=195&v%5Bproject_id%5D%5B%5D=196&v%5Bproject_id%5D%5B%5D=197&f%5B%5D=&c%5B%5D=tags_relations&group_by=project&t%5B%5D="
     }
-    file = "issues.csv"
     tag = "profant"
     default_icon = "thumbs-up"
     default_img = ""
@@ -121,16 +120,18 @@ def add_local_uspechy(issues):
   with open(file, encoding="utf-8") as fp:
     data = yaml.load(fp, Loader=yaml.FullLoader)
   prepend = data['prepend']
-  append = data['append']
-  for item in data['modify']:
-    pass
+  # append = data['append']
+  # for moditem in data['modify']:
+  #  for k, v in enumerate(issues):
+  #    if v['id'] == moditem['id']:
+  #      print(moditem)
+  #      print(v)
   return prepend + issues
   
-
-def test():
+def generate_uspechy():
   issues = add_local_uspechy(reduce_issues(get_relevant_issues()))
-  with open('_data/uspechy.yaml', 'w+', encoding='utf-8') as fp:
+  with open(Config.resultPath, 'w+', encoding='utf-8') as fp:
       fp.write('#\n# Nepřepisujte! Soubor je generován automaticky skriptem uspechy.py\n#\n')
       yaml.dump(issues, fp, allow_unicode=True)
 
-test()
+generate_uspechy()  

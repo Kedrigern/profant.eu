@@ -31,7 +31,7 @@ prepend:
     img: /assets/img/uspechy/ginis.jpg
     icon: lock
     date: 2014-12-05
-    description: "Praha hledala, kdo jí dodá účetnictví. Vybrala firmu. Za dvacet let ale firma a její výrobky natolik prorostly do fungování města, že se jich metropole už nemůže zbavit.\
+    description: "Praha hledala, kdo jí dodá účetnictví. Vybrala firmu Gordic. Za dvacet let ale firma a její výrobky natolik prorostly do fungování města, že se jich metropole už nemůže zbavit.\
     \ A firma chce za své služby víc a víc. Problém, který dosud nikdo neřešil, a který může za děsivé výdaje samospráv. Prahu svazuje dnes a denně a vedení města jej tiše přijalo. Bojoval\
     \ jsem proti vendor lock-inu a chystám se mu podívat na zub i ve státní správě."
     priority: 4
@@ -41,9 +41,10 @@ prepend:
   - subject: Upozornění na superzakázku na odpad
     date: 2015-01-23
     icon: recycle
-    description: "13 miliard za 10 let. V pražském zastupitelstvu jsem vystoupil proti monstrzakázce, která má zničit trh, a zajistit Pražským službám 100 % svozu odpadu. Metropole se ale\
-    \ nakonec rozhodla, že volnou soutěž ve svozu odpadu nechce a přiklepla to Pražským službám."
-    link: https://praha.pirati.cz/ondra.html
+    description: "13 miliard za 10 let. V pražském zastupitelstvu jsem [vystoupil proti monstrzakázce](https://praha.pirati.cz/ondra.html), která má zničit trh, a zajistit Pražským službám 100 %\
+    \ svozu odpadu. Metropole se ale nakonec rozhodla, že volnou soutěž ve svozu odpadu nechce a přiklepla to Pražským službám."
+    img: https://i.iinfo.cz/images/665/odpad-popelnice-recyklace-sber-trideny-odpad-1.jpg
+    img-attribution: Depositphotos
     priority: 4
   - subject: založení Otevřených měst
     img: /assets/img/uspechy/otevrena_mesta.jpg
@@ -97,12 +98,11 @@ prepend:
     img: /assets/img/uspechy/tetra.jpg
     icon: wifi
     date: 2016-09-14
-    description: "Odhalil jsem, že Praha používá zcela nezabezpečený systém komunikace mezi složkami záchranného systému a policie. Každý jej dokáže odposlouchávat rádiem za 300 korun.\
-    \ Úředníci zapomněli, že zločincům otevřeli zlatý důl. Město svojí chybu přiznalo a slíbilo nápravu."
+    description: "Odhalil jsem, že Praha používá zcela [nezabezpečený systém komunikace mezi složkami záchranného systému a policie](https://praha.pirati.cz/odposlouchavani.html). Každý jej\
+    \ dokáže odposlouchávat rádiem za 300 korun. Úředníci zapomněli, že zločincům otevřeli zlatý důl. Město svojí chybu přiznalo a slíbilo nápravu."
     priority: 5
     link:
     - https://technet.idnes.cz/odposlech-site-tetra-a-mestske-policie-dhy-/tec_technika.aspx?c=A160913_145939_tec_technika_vse
-    - https://praha.pirati.cz/odposlouchavani.html
   - subject: získání ceny Otevřeno
     img: /assets/img/uspechy/otevreno.jpg
     icon: thumbs-up
@@ -174,7 +174,3 @@ prepend:
     priority: 6
     description: "V podzimních sněmovních volbách jsem byl zvolen z třetího místa pražské kandidátky Pirátů do PSP ČR. Tím jsem dostal příležitost své zkušenosti z pražského zastupitelstva,\
     \ kde jsem hlídal problematiku IT, uplatnit i na celostátní úrovni. Přislíbil jsem, že se mandátu pražského zastupitele vzdám, neboť kumulovat funkce odmítám."
-modify:
-  - id: 32640
-    img: https://www.profant.eu/assets/img/posts/prirucky.jpg
-append:
