@@ -29,12 +29,12 @@
   priority: 6
   subject: Zvolen do ZHMP
 - date: 2014-12-05
-  description: Praha hledala, kdo jí dodá účetnictví. Vybrala firmu. Za dvacet let
-    ale firma a její výrobky natolik prorostly do fungování města, že se jich metropole
-    už nemůže zbavit. A firma chce za své služby víc a víc. Problém, který dosud nikdo
-    neřešil, a který může za děsivé výdaje samospráv. Prahu svazuje dnes a denně a
-    vedení města jej tiše přijalo. Bojoval jsem proti vendor lock-inu a chystám se
-    mu podívat na zub i ve státní správě.
+  description: Praha hledala, kdo jí dodá účetnictví. Vybrala firmu Gordic. Za dvacet
+    let ale firma a její výrobky natolik prorostly do fungování města, že se jich
+    metropole už nemůže zbavit. A firma chce za své služby víc a víc. Problém, který
+    dosud nikdo neřešil, a který může za děsivé výdaje samospráv. Prahu svazuje dnes
+    a denně a vedení města jej tiše přijalo. Bojoval jsem proti vendor lock-inu a
+    chystám se mu podívat na zub i ve státní správě.
   icon: lock
   img: /assets/img/uspechy/ginis.jpg
   link:
@@ -43,12 +43,13 @@
   priority: 4
   subject: Boj proti proprietárnímu uzamčení (vendor lock-in)
 - date: 2015-01-23
-  description: 13 miliard za 10 let. V pražském zastupitelstvu jsem vystoupil proti
-    monstrzakázce, která má zničit trh, a zajistit Pražským službám 100 % svozu odpadu.
-    Metropole se ale nakonec rozhodla, že volnou soutěž ve svozu odpadu nechce a přiklepla
-    to Pražským službám.
+  description: 13 miliard za 10 let. V pražském zastupitelstvu jsem [vystoupil proti
+    monstrzakázce](https://praha.pirati.cz/ondra.html), která má zničit trh, a zajistit
+    Pražským službám 100 % svozu odpadu. Metropole se ale nakonec rozhodla, že volnou
+    soutěž ve svozu odpadu nechce a přiklepla to Pražským službám.
   icon: recycle
-  link: https://praha.pirati.cz/ondra.html
+  img: https://i.iinfo.cz/images/665/odpad-popelnice-recyklace-sber-trideny-odpad-1.jpg
+  img-attribution: Depositphotos
   priority: 4
   subject: Upozornění na superzakázku na odpad
 - date: 2015-02-06
@@ -114,15 +115,14 @@
   priority: 4
   subject: boj za Libeňský most
 - date: 2016-09-14
-  description: Odhalil jsem, že Praha používá zcela nezabezpečený systém komunikace
-    mezi složkami záchranného systému a policie. Každý jej dokáže odposlouchávat rádiem
-    za 300 korun. Úředníci zapomněli, že zločincům otevřeli zlatý důl. Město svojí
-    chybu přiznalo a slíbilo nápravu.
+  description: Odhalil jsem, že Praha používá zcela [nezabezpečený systém komunikace
+    mezi složkami záchranného systému a policie](https://praha.pirati.cz/odposlouchavani.html).
+    Každý jej dokáže odposlouchávat rádiem za 300 korun. Úředníci zapomněli, že zločincům
+    otevřeli zlatý důl. Město svojí chybu přiznalo a slíbilo nápravu.
   icon: wifi
   img: /assets/img/uspechy/tetra.jpg
   link:
   - https://technet.idnes.cz/odposlech-site-tetra-a-mestske-policie-dhy-/tec_technika.aspx?c=A160913_145939_tec_technika_vse
-  - https://praha.pirati.cz/odposlouchavani.html
   priority: 5
   subject: radiový systém policie nezabezpečen
 - date: 2016-09-29
@@ -297,7 +297,7 @@
     \n"
   icon: thumbs-up
   id: 32640
-  img: ''
+  img: https://www.profant.eu/assets/img/posts/prirucky.jpg
   priority: 3
   subject: Propagujeme a distribuujeme příručku pro opensource ve veřejné správě
   tags:
