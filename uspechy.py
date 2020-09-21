@@ -130,6 +130,7 @@ def add_local_uspechy(issues):
 def test():
   issues = add_local_uspechy(reduce_issues(get_relevant_issues()))
   with open('_data/uspechy.yaml', 'w+', encoding='utf-8') as fp:
+      fp.write('#\n# Nepřepisujte! Soubor je generován automaticky skriptem uspechy.py\n#\n')
       yaml.dump(issues, fp, allow_unicode=True)
 
 test()
