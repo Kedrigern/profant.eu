@@ -26,11 +26,11 @@ comments: false
 
             {% assign mod = forloop.index | modulo:2 %}
 
-            <div class="timeline-content {% if  mod == 0 %}timeline-content--right{% endif %}">
+            <div class="timeline-content {% if  mod == 0 %}timeline-content--right{% endif %}" id="{{uspech.id}}">
               <div class="timeline-content__desc">
                 <p class="timeline-content__date">{{ uspech.date | date:"%d. %m. %Y" }}</p>
                 <h2 class="timeline-content__title">{{ uspech.subject }}</h2>
-                <p>{{ uspech.description | markdownify }}</p>
+                {{ uspech.description | markdownify }}  
               </div>
 
               <div class="timeline-content__media">
