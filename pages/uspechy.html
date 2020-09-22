@@ -31,7 +31,7 @@ comments: false
                 <p class="timeline-content__date">{{ uspech.date | date:"%d. %m. %Y" }}</p>
                 <h2 class="timeline-content__title">{{ uspech.subject }}</h2>
                 {{ uspech.description | markdownify }}  
-                <p><button class="button" data-open="{{uspech.id}}">Více</button></p>
+                <p><button class="button" data-open="{{uspech.id}}">Čtěte více</button></p>
                 <div class="reveal" id="{{uspech.id}}" data-reveal>
                   <h1>{{uspech.subject}}</h1>
                   {{ uspech.description | markdownify }} 
