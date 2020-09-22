@@ -30,21 +30,21 @@ comments: false
               <div class="timeline-content__desc">
                 <p class="timeline-content__date">{{ uspech.date | date:"%d. %m. %Y" }}</p>
                 <h2 class="timeline-content__title">{{ uspech.subject }}</h2>
-                <!--
-                  {{ uspech.description.excerpt }}  
-                  {{ uspech.description.excerpt | markdownify }}  
-                -->
                 {{ uspech.description | markdownify }}  
+                <p><button class="button" data-open="{{uspech.id}}">Více</button></p>
+                <div class="reveal" id="{{uspech.id}}" data-reveal>
+                  <h1>{{uspech.subject}}</h1>
+                  {{ uspech.description | markdownify }} 
+                  <button class="close-button" data-close aria-label="Close modal" type="button">
+                    <span aria-hidden="true">&times;</span>
+                  </button>
+                </div>                
               </div>
-
               <div class="timeline-content__media">
                   {% if uspech.img != "" %}
                   <img class="timeline-image" src="{{uspech.img}}" alt= "{{uspech.title}}"/>
-
                   {% if uspech.img-attribution %}
-                    <p>
-                      <small class="timeline-image-attr">Foto: {{uspech.img-attribution}}</small>
-                    </p>
+                    <p><small class="timeline-image-attr">Foto: {{uspech.img-attribution}}</small></p>
                   {% endif %}
                 {% endif %}
                 </div>

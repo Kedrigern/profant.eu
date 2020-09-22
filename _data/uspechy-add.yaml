@@ -6,6 +6,7 @@
 # 3: Nízká
 prepend:
   - subject: Spoluzaložení Pirátů
+    id: spoluzalozeni-piratu
     img: /assets/img/uspechy/zalozeni.jpg
     icon: flag
     date: 2009-06-17
@@ -13,6 +14,7 @@ prepend:
     \ respektovaným politickým subjektem. Pomohl jsem, aby Piráti získali oceňovaný rozhled v oblasti IT, který současným samosprávám ale i státní správě zoufale chybí."
     priority: 5
   - subject: Spoluorganizace demonstrací proti ACTA
+    id: acta
     img: /assets/img/uspechy/acta.jpg
     img-attribution: Jiří Straka [CC BY-SA 2.0]
     icon: child
@@ -21,6 +23,7 @@ prepend:
     \ kterého se účastilo 2-3 tisíce lidí, byl první vskutku větší akci Pirátů. I díky němu si naší strany všimla média a začala nás brát jako skutečnou politickou stranu, a ne jen jako recesisty."
     priority: 4
   - subject: Zvolen do ZHMP
+    id: zhmp
     img: /assets/img/uspechy/praha.png
     date: 2014-10-14
     icon: users
@@ -28,6 +31,7 @@ prepend:
     \ stavu, hospodaření s majetkem a bezpečnosti."
     priority: 6
   - subject: Boj proti proprietárnímu uzamčení (vendor lock-in)
+    id: vendor-lock-in-praha
     img: /assets/img/uspechy/ginis.jpg
     icon: lock
     date: 2014-12-05
@@ -39,6 +43,7 @@ prepend:
       - https://praha.pirati.cz/dvacet-milionu-pro-gordic.html
       - https://praha.pirati.cz/praha-rezignovala-na-boj-se-zavislosti-na-dodavateli-ucetnictvi.html
   - subject: Upozornění na superzakázku na odpad
+    id: odpad-zakazka
     date: 2015-01-23
     icon: recycle
     description: "13 miliard za 10 let. V pražském zastupitelstvu jsem [vystoupil proti monstrzakázce](https://praha.pirati.cz/ondra.html), která má zničit trh, a zajistit Pražským službám 100 %\
@@ -47,6 +52,7 @@ prepend:
     img-attribution: Depositphotos
     priority: 4
   - subject: založení Otevřených měst
+    id: zalozeni-otevrenych-mest
     img: /assets/img/uspechy/otevrena_mesta.jpg
     icon: building
     date: 2015-02-06
@@ -56,6 +62,7 @@ prepend:
     priority: 4
     link: https://www.root.cz/clanky/otevrena-mesta-iniciativa-chhttps://farm2.staticflickr.com/1467/24785828289_f173e9268d_k.jpgce-open-source-na-radnice/
   - subject: Konec Opencard
+    id: konec-opencard
     img: /assets/img/uspechy/opencard.jpg
     date: 2015-03-02
     icon: id-card-o
@@ -67,6 +74,7 @@ prepend:
     - https://praha.idnes.cz/pirati-chteji-plnou-nahradu-pro-ty-kterym-konci-platnost-opencard-103-/praha-zpravy.aspx?c=A150307_2145446_praha-zpravy_nub
     - https://www.tyden.cz/rubriky/domaci/politika/opencard-skoncila-ve-sparech-piratu_334253.html
   - subject: Teze digitální strategie
+    id: teze-digitalni-strategie
     img: /assets/img/uspechy/teze.jpg
     icon: laptop
     date: 2015-09-17
@@ -74,6 +82,7 @@ prepend:
     \ rozvoj IT, byl zahrnut open source, aby se rozvíjela otevřená data a aby se Praha vyvarovala chyb z minulosti (outsourcing, předražené zakázky apod.)"
     priority: 5
   - subject: Spoluorganizace demonstrace za svob. internet
+    id: demonstrace-svobodny-internet
     img: https://farm2.staticflickr.com/1467/24785828289_f173e9268d_k.jpg
     img-attribution: Ben Goings
     icon: child
@@ -86,6 +95,7 @@ prepend:
     - https://echo24.cz/a/w4WrJ/svobodny-internet-v-ohrozeni-pirati-demonstrovali-proti-loterijnimu-zakonu
     - https://feedit.cz/2016/02/18/demonstrace-za-svobodny-internet-v-praze-na-klarove-uz-tuto-sobotu/
   - subject: boj za Libeňský most
+    id: libensky-most
     img: /assets/img/uspechy/libensky_most.jpg
     icon: road
     date: 2016-02-26
@@ -95,6 +105,7 @@ prepend:
     priority: 4
     link: https://praha.pirati.cz/libensky-most.html
   - subject: radiový systém policie nezabezpečen
+    id: tetra
     img: /assets/img/uspechy/tetra.jpg
     icon: wifi
     date: 2016-09-14
@@ -104,6 +115,7 @@ prepend:
     link:
     - https://technet.idnes.cz/odposlech-site-tetra-a-mestske-policie-dhy-/tec_technika.aspx?c=A160913_145939_tec_technika_vse
   - subject: získání ceny Otevřeno
+    id: cena-otevreno
     img: /assets/img/uspechy/otevreno.jpg
     icon: thumbs-up
     date: 2016-09-29
@@ -112,6 +124,7 @@ prepend:
     priority: 4
     link: https://wiki.pirati.cz/tiskove-zpravy/hypertransparentni_klub._prazsti_pirati_ziskali_cenu_za_otevrenost
   - subject: Sídliště Písnice
+    id: sidliste-pisnice
     img: /assets/img/uspechy/libensky_most.jpg
     icon: building
     date: 2016-11-16
@@ -120,6 +133,7 @@ prepend:
     priority: 3
     link: https://praha.pirati.cz/pisnicti-pres-palubu.html
   - subject: Celopražská Opendata
+    id: celoprazska-opendata
     img: /assets/img/uspechy/open_source.jpg
     icon: database
     date: 2016-12-08
@@ -128,6 +142,7 @@ prepend:
     \ zadarmo. Náš portál se stal vzorem pro další kraje a získali jsme za něj i ocenění Otevřeno od Otevřené společnosti."
     priority: 7
   - subject: hlavní kritik Smart Cities
+    id: smart-cities
     img: /assets/img/uspechy/smart_city.jpg
     icon: money
     date: 2017-01-03
@@ -139,6 +154,7 @@ prepend:
     - https://www.lupa.cz/clanky/ondrej-profant-v-projektu-smart-prague-jde-o-to-rychle-utratit-hodne-penez/
     - https://praha.pirati.cz/smart-cities-podle-piratu.html
   - subject: Představení vize dopravního odbavení
+    id: dopravni-odbaveni
     img: /assets/img/uspechy/odbaveni.jpg
     icon: subway
     date: 2017-01-27
@@ -150,6 +166,7 @@ prepend:
     - https://praha.pirati.cz/vize-dopravniho-odbavovani.html
     - https://zpravy.aktualne.cz/domaci/pirati-litacka-je-hloupejsi-papir-praha-by-mela-zavest-syste/r~7057c630bd3c11e6b628002590604f2e/
   - subject: Městský okruh
+    id: mestsky-okruh
     img: /assets/img/uspechy/okruh.jpg
     icon: car
     date: 2017-06-15
@@ -158,6 +175,7 @@ prepend:
     priority: 4
     link: https://praha.pirati.cz/chceme-v-blance-ii-mhd.html
   - subject: upozornění na zakázku na Datové centrum
+    id: zakazka-datova-centra
     img: /assets/img/uspechy/datove_centrum.jpg
     icon: server
     date: 2017-06-21
@@ -168,6 +186,7 @@ prepend:
     - https://praha.pirati.cz/zakazka-psana-na-miru.html
     - https://www.euro.cz/praha/praha-vybrala-dodavatele-datoveho-centra-zakazka-byla-sita-na-miru-tvrdi-opozice-1355684
   - subject: zvolen do sněmovny
+    id: psp
     img: /assets/img/uspechy/psp.jpg
     icon: users
     date: 2017-10-22

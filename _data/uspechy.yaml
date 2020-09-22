@@ -7,6 +7,7 @@
     politickým subjektem. Pomohl jsem, aby Piráti získali oceňovaný rozhled v oblasti
     IT, který současným samosprávám ale i státní správě zoufale chybí.
   icon: flag
+  id: spoluzalozeni-piratu
   img: /assets/img/uspechy/zalozeni.jpg
   priority: 5
   subject: Spoluzaložení Pirátů
@@ -16,6 +17,7 @@
     větší akci Pirátů. I díky němu si naší strany všimla média a začala nás brát jako
     skutečnou politickou stranu, a ne jen jako recesisty.
   icon: child
+  id: acta
   img: /assets/img/uspechy/acta.jpg
   img-attribution: Jiří Straka [CC BY-SA 2.0]
   priority: 4
@@ -25,6 +27,7 @@
     Po zvolení jsem se rozhodl věnovat problematice informatiky, která byla na Magistrátu
     v žalostném stavu, hospodaření s majetkem a bezpečnosti.
   icon: users
+  id: zhmp
   img: /assets/img/uspechy/praha.png
   priority: 6
   subject: Zvolen do ZHMP
@@ -36,6 +39,7 @@
     a denně a vedení města jej tiše přijalo. Bojoval jsem proti vendor lock-inu a
     chystám se mu podívat na zub i ve státní správě.
   icon: lock
+  id: vendor-lock-in-praha
   img: /assets/img/uspechy/ginis.jpg
   link:
   - https://praha.pirati.cz/dvacet-milionu-pro-gordic.html
@@ -48,6 +52,7 @@
     Pražským službám 100 % svozu odpadu. Metropole se ale nakonec rozhodla, že volnou
     soutěž ve svozu odpadu nechce a přiklepla to Pražským službám.
   icon: recycle
+  id: odpad-zakazka
   img: https://i.iinfo.cz/images/665/odpad-popelnice-recyklace-sber-trideny-odpad-1.jpg
   img-attribution: Depositphotos
   priority: 4
@@ -60,6 +65,7 @@
     svobodný software. Proč by města měla kupovat předražený software, když jinde
     jsou k dispozici svobodná, vyzkoušená a dobře fungující řešení.
   icon: building
+  id: zalozeni-otevrenych-mest
   img: /assets/img/uspechy/otevrena_mesta.jpg
   link: https://www.root.cz/clanky/otevrena-mesta-iniciativa-chhttps://farm2.staticflickr.com/1467/24785828289_f173e9268d_k.jpgce-open-source-na-radnice/
   priority: 4
@@ -72,6 +78,7 @@
     Dnes je Opencard už minulostí; kdo chce může mít Lítačku, kdo chce má papírový
     kupon a jízdné lze platit dokonce i platební kartou.
   icon: id-card-o
+  id: konec-opencard
   img: /assets/img/uspechy/opencard.jpg
   link:
   - https://praha.idnes.cz/pirati-chteji-plnou-nahradu-pro-ty-kterym-konci-platnost-opencard-103-/praha-zpravy.aspx?c=A150307_2145446_praha-zpravy_nub
@@ -84,6 +91,7 @@
     source, aby se rozvíjela otevřená data a aby se Praha vyvarovala chyb z minulosti
     (outsourcing, předražené zakázky apod.)
   icon: laptop
+  id: teze-digitalni-strategie
   img: /assets/img/uspechy/teze.jpg
   priority: 5
   subject: Teze digitální strategie
@@ -95,6 +103,7 @@
     loterijního zákona. Na naší straně stáli i zástupci řady internetových firem a
     občanských sdružení. '
   icon: child
+  id: demonstrace-svobodny-internet
   img: https://farm2.staticflickr.com/1467/24785828289_f173e9268d_k.jpg
   img-attribution: Ben Goings
   link:
@@ -110,6 +119,7 @@
     nakonec rozhodlo, že most konečně opraví a projekt betonového monstra uložilo
     k ledu.
   icon: road
+  id: libensky-most
   img: /assets/img/uspechy/libensky_most.jpg
   link: https://praha.pirati.cz/libensky-most.html
   priority: 4
@@ -120,6 +130,7 @@
     Každý jej dokáže odposlouchávat rádiem za 300 korun. Úředníci zapomněli, že zločincům
     otevřeli zlatý důl. Město svojí chybu přiznalo a slíbilo nápravu.
   icon: wifi
+  id: tetra
   img: /assets/img/uspechy/tetra.jpg
   link:
   - https://technet.idnes.cz/odposlech-site-tetra-a-mestske-policie-dhy-/tec_technika.aspx?c=A160913_145939_tec_technika_vse
@@ -132,6 +143,7 @@
     dokumentaci klubu. Porazili jsme dalších několik desítek subjektů, které se do
     soutěže přihlásily.
   icon: thumbs-up
+  id: cena-otevreno
   img: /assets/img/uspechy/otevreno.jpg
   link: https://wiki.pirati.cz/tiskove-zpravy/hypertransparentni_klub._prazsti_pirati_ziskali_cenu_za_otevrenost
   priority: 4
@@ -143,6 +155,7 @@
     Praha ale strčila i přes naše výzvy hlavu do písku a prošvihla termín pro odkup.
     Na svoje občany se vykašlala.
   icon: building
+  id: sidliste-pisnice
   img: /assets/img/uspechy/libensky_most.jpg
   link: https://praha.pirati.cz/pisnicti-pres-palubu.html
   priority: 3
@@ -155,6 +168,7 @@
     - a Praha je dostala zadarmo. Náš portál se stal vzorem pro další kraje a získali
     jsme za něj i ocenění Otevřeno od Otevřené společnosti.
   icon: database
+  id: celoprazska-opendata
   img: /assets/img/uspechy/open_source.jpg
   priority: 7
   subject: Celopražská Opendata
@@ -167,6 +181,7 @@
     parkování. Odhalil jsem, že Smart Cities jsou v Praze nástrojem ANO 2011 k získávání
     lukrativních zakázek v oblasti IT, které navíc stojí stamiliony ročně.
   icon: money
+  id: smart-cities
   img: /assets/img/uspechy/smart_city.jpg
   link:
   - https://www.lupa.cz/clanky/ondrej-profant-v-projektu-smart-prague-jde-o-to-rychle-utratit-hodne-penez/
@@ -180,6 +195,7 @@
     paypal. Aby Praha nevymýšlela vlastní platební služby, různé peněženky a další
     monolitické zbytečnosti, které ve výsledku budou stát miliony a budou k ničemu.
   icon: subway
+  id: dopravni-odbaveni
   img: /assets/img/uspechy/odbaveni.jpg
   link:
   - https://praha.pirati.cz/vize-dopravniho-odbavovani.html
@@ -193,6 +209,7 @@
     aby neschvalovala stavbu, která bude významnou investicí, pro cestující veřejnou
     dopravou však bude mít jen zanedbatelný přínos.
   icon: car
+  id: mestsky-okruh
   img: /assets/img/uspechy/okruh.jpg
   link: https://praha.pirati.cz/chceme-v-blance-ii-mhd.html
   priority: 4
@@ -204,6 +221,7 @@
     Oracle). To byla zakázka na vybavení Datového centra, do které Praha šla a před
     kterou jsem opakovaně varoval.
   icon: server
+  id: zakazka-datova-centra
   img: /assets/img/uspechy/datove_centrum.jpg
   link:
   - https://praha.pirati.cz/zakazka-psana-na-miru.html
@@ -217,6 +235,7 @@
     Přislíbil jsem, že se mandátu pražského zastupitele vzdám, neboť kumulovat funkce
     odmítám.
   icon: users
+  id: psp
   img: /assets/img/uspechy/psp.jpg
   priority: 6
   subject: zvolen do sněmovny
