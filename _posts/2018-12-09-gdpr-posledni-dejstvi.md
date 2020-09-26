@@ -58,7 +58,7 @@ Policie si do návrhu prosadila plný přístup do databáze fotek z dokladů (o
 
 V tomto pozměňovacím návrhu se Jakub Michálek snažil o důslednější vymáhání standardů spisové služby. Ty jsou dnes sice definovány v legislativě, ale některé části jsou dosti ignorovány. Idea je taková, že například EZÚ by certifikoval spisové služby. Návrh neprošel.
 
-### Tabulka významnějších pozměňovacích návrhů
+### Tabulka významnějších pozměňovacích návrhů 
 
 ||Návrh |Tisk |Předkladatel |Výsledek |
 |---|---|---|---|---|
@@ -67,6 +67,7 @@ V tomto pozměňovacím návrhu se Jakub Michálek snažil o důslednější vym
 |C5 | Snížení pokuty pro všechny územní samosprávy na 10 000 Kč. | 138 | ÚPV | [Neprošel](http://www.psp.cz/sqw/hlasy.sqw?g=68417&l=cz) |
 |E  | Internetová plnoletost snížena na 13 let |138 |Tomáš Martínek | [Neprošel](http://www.psp.cz/sqw/hlasy.sqw?g=68415&l=cz) |
 |G  | Max. pokuta 5000 Kč pro malé obce |138 |Věra Kovářová | [Prošel](http://www.psp.cz/sqw/hlasy.sqw?g=68418&l=cz) |
+|I  | Úplná beztrestnost pro celý veřejný sektor |138|Vít Kaňkovský | [Neprošel](https://www.psp.cz/sqw/hlasy.sqw?g=68416&l=cz) |
 |J  | ÚOOÚ jako úřad odpovědný za právo na informace |138 |Jakub Michálek | [Prošel](http://www.psp.cz/sqw/hlasy.sqw?g=68420&l=cz) |
 |D1 | Sdílet s policií se nebude databáze fotek, ale pouze markery nutné ke strojovému posouzení. |139 |Ondřej Profant | [Neprošel](https://www.psp.cz/sqw/hlasy.sqw?g=68596&l=cz) |
 |D2 | Původní 106ka |139 |Ondřej Profant | [Neprošel](https://www.psp.cz/sqw/hlasy.sqw?g=68597&l=cz) |
@@ -74,6 +75,11 @@ V tomto pozměňovacím návrhu se Jakub Michálek snažil o důslednější vym
 |D4 | Kompromisní návrh u 106ky |139 |Ondřej Profant | [Prošel](https://www.psp.cz/sqw/hlasy.sqw?g=68599) |
 |H1-H3 | Espis |139 |Jakub Michálek | [Neprošel](http://www.psp.cz/sqw/hlasy.sqw?G=68605) |
 
-[Všech 54 pozměňovacích návrhů](https://docs.google.com/spreadsheets/d/1xOBelces2J9kLUGqYxDEoxCWTeNsk-vhlzVyHHkRUJk/edit?usp=sharing).
+[Všech 54 pozměňovacích návrhů](https://docs.google.com/spreadsheets/d/1xOBelces2J9kLUGqYxDEoxCWTeNsk-vhlzVyHHkRUJk/edit?usp=sharing). 
 
 Ohlasy v mediích: [ČT](https://ct24.ceskatelevize.cz/domaci/2671181-poslanci-prijali-vyjimky-v-ochrane-soukromi-skryta-kamera-v-mediich-zustane-pripustna), [ČRO](https://www.irozhlas.cz/zpravy-domov/osobni-udaje-pravo-na-informace-106-poslanecka-snemovna-pirati_1812051114_kno).
+
+### Senát zavedl vrchnostenský přístup
+
+Akktualizace: Ve sněmovně se podařilo zabránit pozměňovacímu návrhu pod písmenem I poslance V. Kaňkovského (KDU-ČSL), který zaváděl **úplnou beztrestnost pro celý veřejný sektor**. 
+Avšak obdobný návrh předložil i senátor Jaroslav Větrovský (zvolen za ANO) na hospodářském výboru senátu. Na plénu senátu se [jednalo o 12. hlasování](https://www.senat.cz/xqw/xervlet/pssenat/hlasy?G=17894&O=12). PRO bylo 55 ze 74 přítomných senátorů. Následně se návrh vrátil do sněmovny, kde se o něm hlasovalo na [27 schůzi jako 212. hlasování](https://www.psp.cz/sqw/hlasy.sqw?G=69364). PRO bylo ANO, ODS, ČSSD, KDU-ČSL, STAN.
