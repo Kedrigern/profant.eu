@@ -10,8 +10,6 @@ author:     Ondřej Profant
 video:      https://www.youtube.com/embed/wCCJzHNGxQA
 ---
 
-V rámci projednávání novely zákona o matrikách předkládám pozměňovací návrh, který ruší povinnost podstoupit kastraci pro dosažení úřední změny pohlaví. Tato praxe je přitom požadovaná už pouze v několika evropských státech a je kritizovaná lidskoprávními organizacemi a odsouzená Evropským soudem pro lidská práva. Nejen o tom jsem mluvil v talkshow V Tranzu, prvním českým talkshow o trans tématech.
+V rámci projednávání novely zákona o matrikách předkládám pozměňovací návrh, který ruší povinnost podstoupit kastraci pro dosažení úřední změny pohlaví. Tato praxe je přitom požadovaná už pouze v několika evropských státech, je kritizovaná lidskoprávními organizacemi a odsouzená Evropským soudem pro lidská práva. Nejen o tom jsem mluvil v talkshow V Tranzu, prvním českým talkshow o trans tématech.
 
 <!--more-->
-
-
