@@ -7,7 +7,7 @@ comments:   true
 tags:       [finance, data-driven]
 img:        priority-trade-offs.jpg
 author:     Ondřej Profant
-video:      https://youtu.be/GYAN_FWl-i4
+video:      https://www.youtube.com/watch?v=GYAN_FWl-i4
 ---
 
 Politika musí být založena na faktech, datech a názorech expertů. U nás se to bohužel neděje. Nedávný průzkum vlády ukázal, že většina dopadových analýz (tzv. RIA) vzniká v rozporu s dobrou praxí. To se projevuje i v neutěšeném stavu digitalizace státní správy, na který pravidelně upozorňuje NKÚ.
