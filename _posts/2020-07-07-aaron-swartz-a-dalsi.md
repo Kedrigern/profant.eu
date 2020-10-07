@@ -22,7 +22,7 @@ Té předcházel dlouhý a zcela zbytečný soudní spor ohledně Aaronova rozho
 
 Je potřeba si uvědomit, že nátlak, který JSTOR a MIT na Aarona vyvíjely, naprosto neodpovídal jeho údajnému provinění. Úmyslem Aarona Swartze nebylo se obohacovat na práci jiných -- chtěl jen více zprostředkovat vědecké poznání širší veřejnosti. Stažená díla navíc nakonec ani dále nesdílel, což později vedlo ke stažení žaloby. O to absurdnější proto bylo pokračování celého procesu, které prokuratora vyžadovala. Právě bezohledný přístup žalobců dohnal Aarona ke smutnému rozhodnutí ukončit svůj život.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7fyGLmHvfwQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/7fyGLmHvfwQ?controls=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Aaron Swartz zdaleka není jediný "informační disident" současnosti. Ze známějších jmen můžeme vzpomenout na whistleblowery Edwarda Snowdena, Jeremyho Hammonda, Chelsea (dříve Bradley) Manning, novináře Baretta Browna, zakladatele Wikileaks Juliana Assange nebo jednoho ze zakladatelů The Pirate Bay Gottfrida Svartholma. Existuje ale daleko více příběhů o bezpráví páchaném státním aparátem na ochráncích svobody informací. Příběh Aarona Swartze mezi nimi vyčnívá jako mrazivá připomínka toho, kam až může zajít fanatické vynucování nefunkčních zákonů, které ve své podstatě jen brání svobodnému přístupu k informacím.
 
@@ -30,4 +30,4 @@ Je proto zcela na místě kritizovat porušování lidských práv a cenzorní p
 
 Jak dlouho ještě potrvá, než ve společnosti najdeme dostatečnou politickou vůli, poptávku a především odvahu k reformě autorského práva? Kolik dalších lidí musí ještě zažít šikanu ze strany státu a korporací -- nebo dokonce zemřít -- , než se odhodláme ke změně dosavadního přístupu?
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3Q6Fzbgs_Lg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/3Q6Fzbgs_Lg?controls=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
