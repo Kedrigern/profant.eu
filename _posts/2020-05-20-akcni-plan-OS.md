@@ -35,6 +35,7 @@ Na evropské úrovni se tématu otevřených řešení  věnuje [Open Source Obs
 Otevřené projekty zůstávají velmi důležitým tématem. Opravdová tržní soutěž je totiž možná jen s open source, jak ukazuje nedávný případ [rámcových dohod na MV ČR](https://www.profant.eu/2020/ramcove-dohody-mvcr.html). Otevřená řešení totiž umožňují dodávat každému technicky schopnému dodavateli. Řešení uzavřená soutěž naopak omezují, neboť rozhoduje spíše licenční a patentová exkluzivita než efektivita dodavatele.  
 
 Proto připravuje další již 4. aktualizaci tohoto plánu (minulé verze -  [v1](https://www.profant.eu/assets/pdf/akcni-plan-opensource-v1.pdf), [v2](https://www.profant.eu/assets/pdf/akcni-plan-opensource-v2.pdf), [v3](https://www.profant.eu/assets/pdf/akcni-plan-opensource-v3.pdf)). V nové verzi půjde zejména o:
+
 - doplnění příkladů o další instituce, včetně nasazení OS v kritické infrastruktuře
 - aktualizace starších příkladů
 - navázání na nově vzniklé výše jmenované dokumenty a na vznikající Akční plán kybernetické bezpečnosti
