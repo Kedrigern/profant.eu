@@ -15,9 +15,9 @@ Vláda měla jasná data. Věděla co se stane stejně dobře jako teď ví, co 
 
 ## Co říkají data
 
-Prošel jsem si historii prezentací z ÚZIS. Zajímavé jsou dvě z nich. 
+Prošel jsem si historii prezentací z ÚZIS. Zajímavé jsou dvě z nich.
 
-V [prezentaci z 3. 8.][Prezentace z 3. 8.] je číslo R rovno 1,26. Co to v praxi znamená? Pokud to dosadíme do modelu od WHO,[^1] tak nám vyjdou ještě horší čísla než máme dnes.[^2] Pokud využijeme pozdějších poznatků a R upravíme speciálně pro srpen a speciálně pro září, tak nám **vyjdou čísla lehce překračující dnešní data**.[^3] 
+V [prezentaci z 3. 8.][Prezentace z 3. 8.] je číslo R rovno 1,26. Co to v praxi znamená? Pokud to dosadíme do modelu od WHO,[^1] tak nám vyjdou ještě horší čísla než máme dnes.[^2] Pokud využijeme pozdějších poznatků a R upravíme speciálně pro srpen a speciálně pro září, tak nám **vyjdou čísla lehce překračující dnešní data**.[^3]
 
 Osobně se domnívám, že problém je v tom, že již někdy v **půlce září se zhroutilo testování a trasování**, čili naše čísla nejsou důvěryhodná (nakažených je více). Tento předpoklad potvrzují doporučení WHO pro procento nakažených v celkovém objemu testů. Běžně by nemělo překročit 5 %, nad 10 % už značí velký problém s trasováním. K 9. 10. má ČR [31.3 %!](https://onemocneni-aktualne.mzcr.cz/covid-19) Toto potrvzují i svědectví trasovaných.
 
@@ -27,7 +27,7 @@ Jak jsem již řekl vláda měla 3. 8. klíčovou informaci. Přirozenou reakcí
 
 Ministr zdravotnictví Adam Vojtěch si toho byl vědom. Proto navrhl v půlce srpna opatření, která by nám dovolila přečkat očekávanou zářijovou vlnu. **[Opatření však premiér Babiš odmítl][Babiš rozmlouvá Vojtěchovi opatření] bez jakékoliv analýzy** či zdůvodnění. Osobně se domnívám, že navrhovaná opatření byla více drakonická než bylo nutné. Bylo třeba udržet v chodu trasování a drobnější podpůrná opatření. Avšak ani jedno se nestalo.
 
-V září začla být čísla hodně zlá. Od půlky měsíce bylo nadevší pochybnost, že je třeba zavést opatření. Již první 2 záříjové týdny jsme překročili limit, od kterého Evropská komise doporučuje lockdown (informace z prezentace ÚZIS[^5]) (prezentace ÚZIS 17. 9., slide 14). V ten samý moment [Andrej Babiš situaci osobně **bagatelizoval**][Babiš: Nestrašme koronavirem! Ministerstvo zdravotnictví: Letos může být až 3,6 milionu nakažených]. Je zcela evidentní, že s opatřeními se **čekalo kvůli krajským volbám 2.-3. 10.!** To je absolutní pohrdání lidskými životy. 
+V září začala být čísla, i díky školní docházce a návratu pracujících do běžného režimu, hodně zlá. Zvyšování reprodukčního čísla R nebylo kompenzováno skutečně efektivními opatřeními - ze srpnových 1,1 se vyhouplo až na 1,5. Od půlky měsíce bylo nadevší pochybnost, že je třeba zavést opatření. Již první 2 záříjové týdny jsme překročili limit 5 % pozitivně testovaných, od kterého Evropská komise doporučuje lockdown (informace z prezentace ÚZIS[^5]) (prezentace ÚZIS 17. 9., slide 14). V ten samý moment [Andrej Babiš situaci osobně **bagatelizoval**][Babiš: Nestrašme koronavirem! Ministerstvo zdravotnictví: Letos může být až 3,6 milionu nakažených]. Je zcela evidentní, že s opatřeními se **čekalo kvůli krajským volbám 2.-3. 10.!** To je absolutní pohrdání lidskými životy.
 
 Celou dobu zároveň vláda věděla, že klíčové trasování v podání našich hygienických stanic je zcela potěmkinovou vesnicí. Hygienici se některým lidem ozvali až 15 dní po kontaktu, některé odmítali trasovat zcela. Zároveň na povrch vyplavalo, že hygienici odmítají pracovat s centrálním softwarem Daktela a díky tomu nejsou schopni efektivně využít posil z řad mediků.
 
@@ -68,7 +68,7 @@ Naopak je třeba se **vyvarovat**:
 
 <iframe src="https://ourworldindata.org/coronavirus-data-explorer?zoomToSelection=true&country=~CZE&region=World&casesMetric=true&interval=total&hideControls=true&smoothing=0&pickerMetric=location&pickerSort=asc" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
-### [Index striktnosti opatření - srovnání s Dánském](https://ourworldindata.org/grapher/covid-stringency-index?tab=chart&time=2020-01-22..latest&country=CZE~DNK)
+### [Index striktnosti opatření - srovnání s Dánskem](https://ourworldindata.org/grapher/covid-stringency-index?tab=chart&time=2020-01-22..latest&country=CZE~DNK)
 
 <iframe src="https://ourworldindata.org/grapher/covid-stringency-index?tab=chart&time=2020-01-22..latest&country=CZE~DNK" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
