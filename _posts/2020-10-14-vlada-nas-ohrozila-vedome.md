@@ -29,9 +29,13 @@ Ministr zdravotnictví Adam Vojtěch si toho byl vědom. Proto navrhl v půlce s
 
 V září začala být čísla, i díky školní docházce a návratu pracujících do běžného režimu, hodně zlá. Zvyšování reprodukčního čísla R nebylo kompenzováno skutečně efektivními opatřeními - ze srpnových 1,1 se vyhouplo až na 1,5. Od půlky měsíce bylo nadevší pochybnost, že je třeba zavést opatření. Již první 2 záříjové týdny jsme překročili limit 5 % pozitivně testovaných, od kterého Evropská komise doporučuje lockdown (informace z prezentace ÚZIS[^5]) (prezentace ÚZIS 17. 9., slide 14). V ten samý moment [Andrej Babiš situaci osobně **bagatelizoval**][Babiš: Nestrašme koronavirem! Ministerstvo zdravotnictví: Letos může být až 3,6 milionu nakažených]. Piráti na špatný stav upozorňovali několikrát, [18.9. jsme v reakci na zhoršující se epidemiologickou situaci představili souhrn konkrétních návrhů proti přetížení zdravotnictví a zmrazení celé ekonomiky][Vláda zcela selhala v ochraně lidí i firem před koronavirem. Piráti představili nutná opatření proti přetížení zdravotnictví a zmrazení celé ekonomiky]. Dnes je zcela evidentní, že s opatřeními vláda **čekala kvůli krajským volbám 2.-3. 10.!** To je absolutní pohrdání lidskými životy.
 
+Přitom již 17.9. [odhadoval ÚZIS reprodukční číslo R na 1,59 a načrtl scénář zavedení výrazných opatření již od 24.9.][Prezentace z 17. 9.]. V zatím poslední [prezentaci z 10.10.][Prezentace z 10. 10.] je R odhadováno 1,53. Přitom toto R znamená, že se počet nakažených zdvojnásobí za každých 9 dní! Celé září a první půlku října tak nemoc postupovala touto rychlou geometrickou řadou bez efektivního brždění. 
+
 Celou dobu zároveň vláda věděla, že klíčové trasování v podání našich hygienických stanic je zcela potěmkinovou vesnicí. Hygienici se některým lidem ozvali až 15 dní po kontaktu, některé odmítali trasovat zcela. Zároveň na povrch vyplavalo, že hygienici odmítají pracovat s centrálním softwarem Daktela a díky tomu nejsou schopni efektivně využít posil z řad mediků.
 
 Pro zvládnutí epidemie tohoto rozsahu je klíčové dovolit lidem žít relativně normálně jejich životy a přitom mít nákazu pod kontrolou. Tomu mohla napomoci aplikace eRouška ve své druhé verzi. Avšak vláda se vykašlala na její podporu a propagaci a v klíčovém září ji realně používalo příliš málo lidí. 13. 10. byla sice rozeslána SMS, avšak vzhledem k lockdownu od 14. 10 to již nebude mít přilišný vliv pro současnou vlnu.
+
+
 
 ## Co lze dělat nyní?
 
