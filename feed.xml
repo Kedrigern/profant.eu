@@ -1,7 +1,103 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://www.profant.eu/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.profant.eu/" rel="alternate" type="text/html" /><updated>2020-10-14T16:00:28+00:00</updated><id>https://www.profant.eu/feed.xml</id><title type="html">Profant</title><subtitle>Zápisník pirátského poslance Ondřeje Profanta, který se zaměřuje na opendata, e-government, digitalizaci společnosti a kybernetickou bezpečnost.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://www.profant.eu/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.profant.eu/" rel="alternate" type="text/html" /><updated>2020-10-14T16:23:01+00:00</updated><id>https://www.profant.eu/feed.xml</id><title type="html">Profant</title><subtitle>Zápisník pirátského poslance Ondřeje Profanta, který se zaměřuje na opendata, e-government, digitalizaci společnosti a kybernetickou bezpečnost.
 Rád bych byl, aby Česká republika byla moderním státem s rozvinutou digitální ekonomikou, kde je kladen silný důraz na vzdělávání a svobodu.
 V digitalizaci se musíme inspirovat ve Velké Britanii, Dánsku a Estonsku, řešení musí být otevřená, uživatelsky přívětivá a ohleduplná k soukromí.
-</subtitle><author><name>Ondřej Profant</name></author><entry><title type="html">Vláda tvoří zákony na koleně a stav digitalizace tomu odpovídá</title><link href="https://www.profant.eu/2020/data-driven-policy.html" rel="alternate" type="text/html" title="Vláda tvoří zákony na koleně a stav digitalizace tomu odpovídá" /><published>2020-10-06T07:00:00+00:00</published><updated>2020-10-06T07:00:00+00:00</updated><id>https://www.profant.eu/2020/data-driven-policy</id><content type="html" xml:base="https://www.profant.eu/2020/data-driven-policy.html">&lt;p&gt;Politika musí být založena na faktech, datech a názorech expertů. U nás se to bohužel neděje. Nedávný průzkum vlády ukázal, že většina dopadových analýz (tzv. RIA) vzniká v rozporu s dobrou praxí. To se projevuje i v neutěšeném stavu digitalizace státní správy, na který pravidelně upozorňuje NKÚ.&lt;/p&gt;
+</subtitle><author><name>Ondřej Profant</name></author><entry><title type="html">Vláda nás ohrozila vědomě</title><link href="https://www.profant.eu/2020/vlada-nas-ohrozila-vedome.html" rel="alternate" type="text/html" title="Vláda nás ohrozila vědomě" /><published>2020-10-14T07:00:00+00:00</published><updated>2020-10-14T07:00:00+00:00</updated><id>https://www.profant.eu/2020/vlada-nas-ohrozila-vedome</id><content type="html" xml:base="https://www.profant.eu/2020/vlada-nas-ohrozila-vedome.html">&lt;p&gt;Vláda měla jasná data. Věděla co se stane stejně dobře jako teď ví, co se bude dít v následujících týdnech. Avšak místo přiměřených opatření se útápěla v nesmyslných hádkách a mediálních obratech.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;h2 id=&quot;co-říkají-data&quot;&gt;Co říkají data&lt;/h2&gt;
+
+&lt;p&gt;Prošel jsem si historii prezentací z ÚZIS. Zajímavé jsou dvě z nich.&lt;/p&gt;
+
+&lt;p&gt;V &lt;a href=&quot;https://www.uzis.cz/res/file/covid/20200803-dusek.pdf&quot;&gt;prezentaci z 3. 8.&lt;/a&gt; je číslo R rovno 1,26. Co to v praxi znamená? Pokud to dosadíme do modelu od WHO,&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; tak nám vyjdou ještě horší čísla než máme dnes.&lt;sup id=&quot;fnref:2&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; Pokud využijeme pozdějších poznatků a R upravíme speciálně pro srpen a speciálně pro září, tak nám &lt;strong&gt;vyjdou čísla lehce překračující dnešní data&lt;/strong&gt;.&lt;sup id=&quot;fnref:3&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;Osobně se domnívám, že problém je v tom, že již někdy v &lt;strong&gt;půlce září se zhroutilo testování a trasování&lt;/strong&gt;, čili naše čísla nejsou důvěryhodná (nakažených je více). Tento předpoklad potvrzují doporučení WHO pro procento nakažených v celkovém objemu testů. Běžně by nemělo překročit 5 %, nad 10 % už značí velký problém s trasováním. K 9. 10. má ČR &lt;a href=&quot;https://onemocneni-aktualne.mzcr.cz/covid-19&quot;&gt;31.3 %!&lt;/a&gt; Toto potrvzují i svědectví trasovaných.&lt;/p&gt;
+
+&lt;h2 id=&quot;kde-se-stala-chyba&quot;&gt;Kde se stala chyba&lt;/h2&gt;
+
+&lt;p&gt;Jak jsem již řekl vláda měla 3. 8. klíčovou informaci. Přirozenou reakcí je zavést přiměřená opatření. Obdobně jako tomu činí již od začátku pandemie v &lt;a href=&quot;https://www.novinky.cz/koronavirus/clanek/kde-se-stala-chyba-danove-jaro-zvladli-stejne-jako-cesi-ovsem-zvladaji-i-podzim-40339071&quot;&gt;Dánsku&lt;/a&gt;. Naše vláda však raději jde ode zdi ke zdi - čímž poškozuje zdraví obyvatel i ekonomiku nejvíce.&lt;/p&gt;
+
+&lt;p&gt;Ministr zdravotnictví Adam Vojtěch si toho byl vědom. Proto navrhl v půlce srpna opatření, která by nám dovolila přečkat očekávanou zářijovou vlnu. &lt;strong&gt;&lt;a href=&quot;https://www.idnes.cz/zpravy/domaci/koronavorus-covid-opatreni-rousky-babis-vojtech.A200819_200525_domaci_bro&quot;&gt;Opatření však premiér Babiš odmítl&lt;/a&gt; bez jakékoliv analýzy&lt;/strong&gt; či zdůvodnění. Osobně se domnívám, že navrhovaná opatření byla více drakonická než bylo nutné. Bylo třeba udržet v chodu trasování a drobnější podpůrná opatření. Avšak ani jedno se nestalo.&lt;/p&gt;
+
+&lt;p&gt;V září začla být čísla hodně zlá. Od půlky měsíce bylo nadevší pochybnost, že je třeba zavést opatření. Již první 2 záříjové týdny jsme překročili limit, od kterého Evropská komise doporučuje lockdown (informace z prezentace ÚZIS&lt;sup id=&quot;fnref:5&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:5&quot; class=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt;) (prezentace ÚZIS 17. 9., slide 14). V ten samý moment &lt;a href=&quot;https://www.reflex.cz/clanek/komentare/102946/babis-nestrasme-koronavirem-ministerstvo-zdravotnictvi-letos-muze-byt-az-3-6-milionu-nakazenych.html&quot;&gt;Andrej Babiš situaci osobně &lt;strong&gt;bagatelizoval&lt;/strong&gt;&lt;/a&gt;. Je zcela evidentní, že s opatřeními se &lt;strong&gt;čekalo kvůli krajským volbám 2.-3. 10.!&lt;/strong&gt; To je absolutní pohrdání lidskými životy.&lt;/p&gt;
+
+&lt;p&gt;Celou dobu zároveň vláda věděla, že klíčové trasování v podání našich hygienických stanic je zcela potěmkinovou vesnicí. Hygienici se některým lidem ozvali až 15 dní po kontaktu, některé odmítali trasovat zcela. Zároveň na povrch vyplavalo, že hygienici odmítají pracovat s centrálním softwarem Daktela a díky tomu nejsou schopni efektivně využít posil z řad mediků.&lt;/p&gt;
+
+&lt;p&gt;Pro zvládnutí epidemie tohoto rozsahu je klíčové dovolit lidem žít relativně normálně jejich životy a přitom mít nákazu pod kontrolou. Tomu mohla napomoci aplikace eRouška ve své druhé verzi. Avšak vláda se vykašlala na její podporu a propagaci a v klíčovém září ji realně používalo příliš málo lidí. 13. 10. byla sice rozeslána SMS, avšak vzhledem k lockdownu od 14. 10 to již nebude mít přilišný vliv pro současnou vlnu.&lt;/p&gt;
+
+&lt;h2 id=&quot;co-lze-dělat-nyní&quot;&gt;Co lze dělat nyní?&lt;/h2&gt;
+
+&lt;p&gt;Situace v nejbližších týdnech nebude vůbec jednoduchá. Dokonce začnou výrazně více umírat lidé. Je potřeba zajistit:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;strong&gt;Zdravotní systém na nápor nemocných&lt;/strong&gt;: Zdravotní systém pochopitelně není stavěn na takto ohromný nápor nemocných. Což na jaře velmi krutým způsobem zjistila Italie, Španělsko a další státy. Nezanedbatelným problém je i to, že zdravotní systém bude všechny síly upírat na léčbu těžkých případů COVID a začne být problém zajišťovat běžnou léčbu. Pomoci může:
+    &lt;ul&gt;
+      &lt;li&gt;celostátní organizace aktivit&lt;/li&gt;
+      &lt;li&gt;kvalitní spolupráce mezi nemocnicemi&lt;/li&gt;
+      &lt;li&gt;sdílení stávajících pracovníků a “povolání” vyškolených lidí, kteří nepracují v oboru&lt;/li&gt;
+      &lt;li&gt;zajištění zázemí zdravotnímu personálu (např. hlídání dětí)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Příprava na rozvolnění&lt;/strong&gt;: Současný lockdown je silné opatření, které omezí šíření. Avšak jakmile skončí, tak tu stále budeme mít hodně aktivních případů. Nemůžeme tedy k epidemii přistupovat tak laxně jako v srpnu až polovině října. Musíme nasadit taková opatření, která nám dovolí žít a zároveň ochrání naše zdraví. Jinak nás čeká &lt;strong&gt;3. a ještě horší vlna&lt;/strong&gt;. Opatření:
+    &lt;ul&gt;
+      &lt;li&gt;&lt;strong&gt;Opravit testování a trasování:&lt;/strong&gt; volat v řádu hodin od pozitivního testu.&lt;/li&gt;
+      &lt;li&gt;Nastolit &lt;strong&gt;dlouhodobá a transparentní opatření&lt;/strong&gt;, která se nebudou měnit. Typicky se jedná o omezení nočních klubů a diskoték, roušky v MHD apod. Avšak tato dlouhodobá opatření nesmí být drakonická, jinak nebudou dodržována. Zde se můžeme snadno inspirovat v okolních zemích. Dobré je mít jasný a přehledný semafor včetně opatření - inspirovat se můžeme například v &lt;a href=&quot;https://corkbusiness.ie/wp-content/uploads/2020/10/87604_405b1065-055a-4ca8-9513-390ce5298b10_page-0001-scaled.jpg&quot;&gt;Irsku&lt;/a&gt;.&lt;/li&gt;
+      &lt;li&gt;&lt;strong&gt;Komunikovat s občany&lt;/strong&gt;. Vláda musí jít příkladem a veškerá opatření a rozhodnutí musí trpělivě vysvětlovat, tak aby dosáhla co největší míry konsenzu a tedy i přirozeného dodržování. Občané musí vědět, proč se děje to, co se děje, kdy se začne dít něco jiného, jak poznat, že se situace nevyvíjí podle plánů. Příkladem mohou být osvětové podcasty německého virologa Christiana Drostena.&lt;/li&gt;
+      &lt;li&gt;&lt;strong&gt;Komunikovat s odborníky&lt;/strong&gt;. Mnoho odborníků je připraveno pomoci. Predikce epidemie není snadná úloha, je potřeba pracovat s množstvím velmi těžko kvantifikovatelných jevů (o kolik se situace zlepší pokud zavedeme roušky ve vlacích?). Státu mohou výrazně pomoci odborníci světové úrovně, akorát stát se tomu brání - nezveřejňuje veškerá dostupná data a modely (dle jakých vzorců jsou data získávána).&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Naopak je třeba se &lt;strong&gt;vyvarovat&lt;/strong&gt;:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Zmatečným opatřením na poslední chvíli.&lt;/li&gt;
+  &lt;li&gt;Siláckým řečem, které zakrývají nepěknou realitu. Již se nesmí stát, že představitelé státu budou bagatelizovat jasná čísla.&lt;/li&gt;
+  &lt;li&gt;Bezhlavé lití peněz postiženým oborům. Například v Dánsku jsou od začátku omezené hospody, ale ne tak drasticky, aby měly problém se uživit. Koneckonců oběd ve dvou lidech u stolu není příliš rizikový.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;grafy&quot;&gt;Grafy&lt;/h2&gt;
+
+&lt;h3 id=&quot;nejhorší-testování-v-evropě&quot;&gt;&lt;a href=&quot;https://ourworldindata.org/grapher/positive-rate-daily-smoothed?time=latest&amp;amp;country=~CZE&amp;amp;region=Europe&quot;&gt;Nejhorší testování v Evropě&lt;/a&gt;&lt;/h3&gt;
+
+&lt;iframe src=&quot;https://ourworldindata.org/grapher/positive-rate-daily-smoothed?time=latest&amp;amp;country=~CZE&amp;amp;region=Europe&quot; loading=&quot;lazy&quot; style=&quot;width: 100%; height: 600px; border: 0px none;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h3 id=&quot;procento-pozitivních-testů&quot;&gt;&lt;a href=&quot;https://ourworldindata.org/grapher/positive-rate-daily-smoothed?tab=chart&amp;amp;time=earliest..latest&amp;amp;country=~CZE&amp;amp;region=Europe&quot;&gt;Procento pozitivních testů&lt;/a&gt;&lt;/h3&gt;
+
+&lt;iframe src=&quot;https://ourworldindata.org/grapher/positive-rate-daily-smoothed?tab=chart&amp;amp;time=earliest..latest&amp;amp;country=~CZE&amp;amp;region=Europe&quot; loading=&quot;lazy&quot; style=&quot;width: 100%; height: 600px; border: 0px none;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h3 id=&quot;kumulativní-počet-prokázaných-případů&quot;&gt;&lt;a href=&quot;https://ourworldindata.org/coronavirus-data-explorer?zoomToSelection=true&amp;amp;country=~CZE&amp;amp;region=World&amp;amp;casesMetric=true&amp;amp;interval=total&amp;amp;hideControls=true&amp;amp;smoothing=0&amp;amp;pickerMetric=location&amp;amp;pickerSort=asc&quot;&gt;Kumulativní počet prokázaných případů&lt;/a&gt;&lt;/h3&gt;
+
+&lt;iframe src=&quot;https://ourworldindata.org/coronavirus-data-explorer?zoomToSelection=true&amp;amp;country=~CZE&amp;amp;region=World&amp;amp;casesMetric=true&amp;amp;interval=total&amp;amp;hideControls=true&amp;amp;smoothing=0&amp;amp;pickerMetric=location&amp;amp;pickerSort=asc&quot; loading=&quot;lazy&quot; style=&quot;width: 100%; height: 600px; border: 0px none;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h3 id=&quot;index-striktnosti-opatření---srovnání-s-dánském&quot;&gt;&lt;a href=&quot;https://ourworldindata.org/grapher/covid-stringency-index?tab=chart&amp;amp;time=2020-01-22..latest&amp;amp;country=CZE~DNK&quot;&gt;Index striktnosti opatření - srovnání s Dánském&lt;/a&gt;&lt;/h3&gt;
+
+&lt;iframe src=&quot;https://ourworldindata.org/grapher/covid-stringency-index?tab=chart&amp;amp;time=2020-01-22..latest&amp;amp;country=CZE~DNK&quot; loading=&quot;lazy&quot; style=&quot;width: 100%; height: 600px; border: 0px none;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h3 id=&quot;lůžka-intenzivní-péče&quot;&gt;&lt;a href=&quot;https://covid19.healthdata.org/czechia?view=resource-use&amp;amp;tab=trend&amp;amp;resource=icu_beds&quot;&gt;Lůžka intenzivní péče&lt;/a&gt;&lt;/h3&gt;
+
+&lt;iframe src=&quot;https://covid19.healthdata.org/czechia?view=resource-use&amp;amp;tab=trend&amp;amp;resource=icu_beds&quot; loading=&quot;lazy&quot; style=&quot;width: 100%; height: 780px; border: 0px none;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h3 id=&quot;vývoj-reprodukčního-čísla&quot;&gt;&lt;a href=&quot;https://e.infogram.com/8137759f-80a8-4d43-8736-b53a90df2960?src=embed&quot;&gt;Vývoj reprodukčního čísla&lt;/a&gt;&lt;/h3&gt;
+
+&lt;iframe src=&quot;https://e.infogram.com/8137759f-80a8-4d43-8736-b53a90df2960?src=embed&quot; loading=&quot;lazy&quot; style=&quot;width: 100%; height: 600px; border: 0px none;&quot;&gt;&lt;/iframe&gt;
+
+&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;Model popisovaný v žurnálu WHO &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:2&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;cca 180 000, my máme 130 000, avšak při špatném trasování. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:3&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;opět cca 180 000 &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:5&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://www.mzcr.cz/wp-content/uploads/2020/09/Prezentace-%C3%9AZIS-%E2%80%93-prof.-Du%C5%A1ek-17092020.pdf&quot;&gt;Prezentace ÚZIS 17. 9.&lt;/a&gt;, slide 14 &lt;a href=&quot;#fnref:5&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;</content><author><name>Ondřej Profant</name></author><category term="Bezpečnost" /><category term="Bezpečnost" /><summary type="html">Vláda měla jasná data. Věděla co se stane stejně dobře jako teď ví, co se bude dít v následujících týdnech. Avšak místo přiměřených opatření se útápěla v nesmyslných hádkách a mediálních obratech.</summary></entry><entry><title type="html">Vláda tvoří zákony na koleně a stav digitalizace tomu odpovídá</title><link href="https://www.profant.eu/2020/data-driven-policy.html" rel="alternate" type="text/html" title="Vláda tvoří zákony na koleně a stav digitalizace tomu odpovídá" /><published>2020-10-06T07:00:00+00:00</published><updated>2020-10-06T07:00:00+00:00</updated><id>https://www.profant.eu/2020/data-driven-policy</id><content type="html" xml:base="https://www.profant.eu/2020/data-driven-policy.html">&lt;p&gt;Politika musí být založena na faktech, datech a názorech expertů. U nás se to bohužel neděje. Nedávný průzkum vlády ukázal, že většina dopadových analýz (tzv. RIA) vzniká v rozporu s dobrou praxí. To se projevuje i v neutěšeném stavu digitalizace státní správy, na který pravidelně upozorňuje NKÚ.&lt;/p&gt;
 
 &lt;!--more--&gt;
 
@@ -452,20 +548,4 @@ Zúčastnil jsem se několika akcí pirátských místních sdružení. V Olomou
       &lt;td&gt;&lt;a href=&quot;https://www.profant.eu/2020/transparentni-report-012.html&quot;&gt;Další report (červenec 2020 - září 2020) »»&lt;/a&gt;&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
-&lt;/table&gt;</content><author><name>Ondřej Profant</name></author><category term="report" /><category term="transparence" /><category term="report" /><category term="Piráti" /><summary type="html">Souhrnný report mé činnosti v období duben až červen 2020. Nejčerstvější informace o mých aktivitách naleznete na mých profilech na sociálních sítích a zde na blogu v sekci Otevřenost.</summary></entry><entry><title type="html">GDPR vs. CLOUD Act</title><link href="https://www.profant.eu/2020/cloud-act.html" rel="alternate" type="text/html" title="GDPR vs. CLOUD Act" /><published>2020-07-15T19:00:00+00:00</published><updated>2020-07-15T19:00:00+00:00</updated><id>https://www.profant.eu/2020/cloud-act</id><content type="html" xml:base="https://www.profant.eu/2020/cloud-act.html">&lt;p&gt;V souvislosti s vyhláškou k používání cloudu ve státní správě, kterou nyní připravuje NÚKIB, se opět otevírá otázka bezpečnosti dat na úložištích amerických firem. A to i v případě, že se tato úložiště fyzicky nacházejí v EU. Podle americké legislativy (tzv. CLOUD Act) totiž v odůvodněných případech musí americké firmy tato data vládě vydat. Taková praxe se ale dostává do ostrého rozporu s nařízením GDPR, které chrání soukromí evropských občanů.&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;p&gt;Jedná se tak o komplikovaný právní problém, ve kterém se střetává americká a evropská legislativa. Data státní správy přitom obsahují citlivé údaje, které by se rozhodně neměly dostat do nesprávných rukou. Ať už jde o soukromé firmy nebo cizí mocnosti.&lt;/p&gt;
-
-&lt;p&gt;Hloubku problematiky předávání dat umocňuje její plošnost. Je jasné, že předání jedné fotky nebo jiného méně citlivého údaje díru do světa neudělá. Avšak v případě státu se bavíme o databázích, ve kterých jsou informace o všech občanech. Dobrým příkladem jsou fotky z občanského a řidičského průkazu, které jsou dnes zpravidla uloženy v dostatečné kvalitě umožňující rozpoznávání obličejů. Pochopitelně ještě nebezpečnější je situace v případě citlivých dat o zdravotním stavu. O tato data navíc stát může přijít velice snadno, často může stačit pouhá snaha ušetřit. Cloudové řešení totiž bývá mnohdy ekonomicky výhodnější než vlastní hosting.&lt;/p&gt;
-
-&lt;p&gt;Pokud jsou ale data v cloudu, hrozí jim celý repertoár nových nebezpečí – například zranitelnost &lt;a href=&quot;https://meltdownattack.com/&quot;&gt;Meltdown&lt;/a&gt;, nebo právě přímé zásahy jiných států. Tedy situace, kdy provozovatel je v jiném státě povinen data předat bez možnosti zákazníka (v tomto případě tedy ČR) to ovlivnit. V tom spočívá nebezpečí &lt;a href=&quot;https://www.congress.gov/bill/115th-congress/house-bill/4943&quot;&gt;CLOUD Act&lt;/a&gt;, podle kterého musí americké firmy na základě příkazu vydat požadovaná data ze svých serverů. Zákon také pamatuje na opravné prostředky a na možnost firem příkaz napadnout u soudu. Jde o tzv. &lt;strong&gt;discovery requests&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;Evropský sbor pro ochranu osobních údajů a evropský inspektor pro ochranu údajů proto vyjádřili ke CLOUD Act jasně negativní &lt;a href=&quot;https://edpb.europa.eu/sites/edpb/files/files/file2/edpb_edps_joint_response_us_cloudact_annex.pdf&quot;&gt;stanovisko&lt;/a&gt;. Přestože uznávají, že v některých případech může být vydání dat oprávněné, vždy je nutný soulad s GDPR. Takový soulad je podmíněn existencí dohody o právní spolupráci (MLAT), která už sice v &lt;a href=&quot;https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:22003A0719(02)&amp;amp;from=EN&quot;&gt;nějaké formě&lt;/a&gt; mezi EU a USA existuje, ale podle stanoviska by měla být znovu vyjednána a zpřesněna, protože CLOUD Act tu existující “pravděpodobně obchází”.&lt;/p&gt;
-
-&lt;p&gt;V této souvislosti je třeba připomenout i &lt;a href=&quot;https://www.supremecourt.gov/DocketPDF/17/17-2/23655/20171213123137791_17-2%20ac%20European%20Commission%20for%20filing.pdf&quot;&gt;postoj zastávaný Evropskou komisí&lt;/a&gt;. Článek 48 GDPR totiž jasně říká, že příkaz zahraničního soudu sám o sobě nečiní transfer dat podle GDPR legální.&lt;/p&gt;
-
-&lt;p&gt;Problém ale je, že vymáhání GDPR je dost &lt;a href=&quot;https://www.law360.com/articles/1283093&quot;&gt;špatné a nekoordinované&lt;/a&gt;. Zatím neexistuje relevantní případ, kdy by například americká firma poskytla data podle CLOUD Actu a byla za to pokutována. To má vliv i na soudy v Americe, protože americká firma (pokud se rozhodne data na požádání nevydat) by měla mimo jiné prokázat, že by z poskytnutí dat měla problémy (a jak může mít problémy, když to EU nevymáhá).&lt;/p&gt;
-
-&lt;p&gt;CLOUD Act není jediným zákonem spojených států, který bezpečnost evropských dat narušuje. S rostoucí popularitou cloudových služeb ale právě díky němu může docházet k bezprecedentnímu odlivu ohromného objemu dat z Evropy do Spojených států.&lt;/p&gt;</content><author><name>Ondřej Profant</name></author><category term="Bezpečnost" /><category term="bezpečnost" /><category term="soukromí" /><summary type="html">V souvislosti s vyhláškou k používání cloudu ve státní správě, kterou nyní připravuje NÚKIB, se opět otevírá otázka bezpečnosti dat na úložištích amerických firem. A to i v případě, že se tato úložiště fyzicky nacházejí v EU. Podle americké legislativy (tzv. CLOUD Act) totiž v odůvodněných případech musí americké firmy tato data vládě vydat. Taková praxe se ale dostává do ostrého rozporu s nařízením GDPR, které chrání soukromí evropských občanů.</summary></entry></feed>
+&lt;/table&gt;</content><author><name>Ondřej Profant</name></author><category term="report" /><category term="transparence" /><category term="report" /><category term="Piráti" /><summary type="html">Souhrnný report mé činnosti v období duben až červen 2020. Nejčerstvější informace o mých aktivitách naleznete na mých profilech na sociálních sítích a zde na blogu v sekci Otevřenost.</summary></entry></feed>
