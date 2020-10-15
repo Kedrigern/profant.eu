@@ -64,16 +64,16 @@ přidáno 15.10.
 
 | Datum 	| Událost 	|
 |-------	|---------	|
-| 23.7.  	| [Piráti upozorňují na selhávání vlády][Vláda selhává v ochraně Česka před koronavirem]	|
+| 23.7.  	| [Piráti upozorňují na selhávání vlády v ochraně Česka před koronavirem][Vláda selhává v ochraně Česka před koronavirem] - žádáme představit plán testování, zvýšit jeho kapacity až na 30 tisíc vzorků denně, zapojit konečně laboratoře, zavést čtyři stupně pandemické pohotovosti, zprovoznit systém chytré karantény	|
 | 3.8.  	| ÚZIS na tiskovce [prezentuje][Prezentace z 3. 8.] aktuální čísla k epidemii, **R = 1,26**  	|
 | 18.8.  	| Piráti mají [obavy][Vláda nezdůvodnila plošná opatření proti koronaviru], že vláda o připravenosti na další vlnu pandemie mlží a nemá situaci pod kontrolou, a žádají jasný plán prevence. 	|
 | 19.8.  	| [Ptal jsem se ministra Plagy na připravenost škol][Plaga tweet]        	|
 | 19.8.  	| Ministr zdravotnictví Vojtěch navrhl opatření, která by dovolila přečkat očekávanou zářijovou vlnu. [Opatření však premiér Babiš odmítl][Babiš rozmlouvá Vojtěchovi opatření] bez jakékoliv analýzy či zdůvodnění.  	|
-| 20.8 	  | [Vláda dál mlží ohledně koronaviru][]. Ani po urgencích Pirátů nepředstavila plán prevence ani nevysvětlila plošná opatření.	Občané i firmy tak i nadále zůstávají v nejistotě. |
+| 20.8 	  | [Vláda dál mlží ohledně koronaviru][]. Ani po urgencích Pirátů nepředstavila plán prevence ani nevysvětlila plošná opatření.	Občané i firmy tak i nadále zůstávají v nejistotě. Zavedený 4-stupňový semafor není reflektován, není vypracován plán pro jednotlivé stupně, jako např. [v Irsku][Semafor Irsko] |
 | 4.9.   	| [Piráti navrhli ministru zdravotnictví, jak motivovat občany k využívání aplikace eRouška a žádají lepší informování veřejnosti][]	|
 | 5.9.   	| Překročena 5% positivita testů (kontrolovaná mez dle doporučení WHO)	|
 | 1. polovina září | Přestáváme stíhat trasovat a testovat, reportované údaje dále jsou podhodnocené	|
-| 16.9.   | [Sněmovna odmítla návrhy ke koronaviru. Měly přitom zvýšit ochranu obyvatel][]      	|
+| 16.9.   | [Sněmovna odmítla návrhy ke koronaviru, které měly zvýšit ochranu obyvatel][Sněmovna odmítla návrhy ke koronaviru. Měly přitom zvýšit ochranu obyvatel]      	|
 | 17.9.  	| [ÚZIS odhaduje][Prezentace z 17. 9.] **reprodukční číslo R na 1,59** a načrtává scénář zavedení výrazných opatření již od **24.9.**   	|
 | 18.9.  	| [Piráti představují nutná opatření proti přetížení zdravotnictví a zmrazení celé ekonomiky][Vláda zcela selhala v ochraně lidí i firem před koronavirem. Piráti představili nutná opatření proti přetížení zdravotnictví a zmrazení celé ekonomiky]. Vyzývají k zavedení opatření v řádu hodin. 	|
 | 20.9. | Překročena 10% positivita testů (za kontrolovanou mez je považováno 5 %)	|
