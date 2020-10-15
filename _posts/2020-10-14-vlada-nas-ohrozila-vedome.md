@@ -80,7 +80,7 @@ přidáno 15.10.
 | 21.9. | Adam Vojtěch rezignoval, ministrem zdravotnictví se stává Prymula	|
 | 2.-3.10.| Krajské a senátní volby   	|
 | 9.-10.10.| 2. kolo senátních voleb   	|
-| 10.10. 	| **[ÚZIS odhaduje R na 1,53][Prezentace z 10. 10.]**|
+| 10.10. 	| **[ÚZIS odhaduje R na 1,53][Prezentace z 10. 10.]**. I při nerealistickém nejoptimističtějším předpokladu (snížení základní reprodukce i četnosti kontaktů o 50 %) to znamená v prosinci kumulativně více než 400 tis. případů. Pro srovnání - pokud bychom stejná opatření aplikovali již 24.9., [ÚZIS počítal][Prezentace z 17. 9.] s 208 tis. případů kumulativně v prosinci. Tedy nejméně 200 tis. zbytečně nakažených touto 3-týdenní prodlevou! |
 | 12.10. 	| Prymula oznamuje opatření účinná od 14.10. 	|
 | 13.10. 	| Je rozesílána SMS vyzývající k instalaci eRoušky	|
 
