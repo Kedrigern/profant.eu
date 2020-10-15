@@ -102,9 +102,10 @@ přidáno 15.10.
 
 <iframe src="https://ourworldindata.org/grapher/covid-stringency-index?tab=chart&time=2020-01-22..latest&country=CZE~DNK" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
-### [Lůžka intenzivní péče](https://covid19.healthdata.org/czechia?view=resource-use&tab=trend&resource=icu_beds)
+### [Lůžka intenzivní péče - prognóza](https://covid19.healthdata.org/czechia?view=resource-use&tab=trend&resource=icu_beds)
 
-<iframe src="https://covid19.healthdata.org/czechia?view=resource-use&tab=trend&resource=icu_beds" loading="lazy" style="width: 100%; height: 780px; border: 0px none;"></iframe>
+![Lůžka intenzivní péče - prognóza](/assets/img/posts/icu_beds.png)
+[link](https://covid19.healthdata.org/czechia?view=resource-use&tab=trend&resource=icu_beds)
 
 ### [Vývoj reprodukčního čísla](https://e.infogram.com/8137759f-80a8-4d43-8736-b53a90df2960?src=embed)
 
