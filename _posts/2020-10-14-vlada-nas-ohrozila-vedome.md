@@ -58,19 +58,21 @@ Naopak je třeba se **vyvarovat**:
 - Siláckým řečem, které zakrývají nepěknou realitu. Již se nesmí stát, že představitelé státu budou bagatelizovat jasná čísla.
 - Bezhlavé lití peněz postiženým oborům. Například v Dánsku jsou od začátku omezené hospody, ale ne tak drasticky, aby měly problém se uživit. Koneckonců oběd ve dvou lidech u stolu není příliš rizikový.
 
-## Časová osa (přidáno 15.10.)
+## Časová osa
+
+přidáno 15.10.
 
 | Datum 	| Událost 	|
 |-------	|---------	|
 | 23.7.  	| [Piráti upozorňují na selhávání vlády][Vláda selhává v ochraně Česka před koronavirem]	|
 | 3.8.  	| ÚZIS na tiskovce [prezentuje][Prezentace z 3. 8.] aktuální čísla k epidemii, **R = 1,26**  	|
-| 18.8.  	| Piráti mají [obavy][Vláda nezdůvodnila plošná opatření proti koronaviru], že vláda o připravenost na další vlnu pandemie mlží a nemá situaci pod kontrolou, a žádají jasný plán prevence. 	|
+| 18.8.  	| Piráti mají [obavy][Vláda nezdůvodnila plošná opatření proti koronaviru], že vláda o připravenosti na další vlnu pandemie mlží a nemá situaci pod kontrolou, a žádají jasný plán prevence. 	|
 | 19.8.  	| [Ptal jsem se ministra Plagy na připravenost škol][Plaga tweet]        	|
-| 19.8.  	| Ministr zdravotnictví Vojtěch navrhl opatření, která by nám dovolila přečkat očekávanou zářijovou vlnu. [Opatření však premiér Babiš odmítl][Babiš rozmlouvá Vojtěchovi opatření] bez jakékoliv analýzy či zdůvodnění.  	|
+| 19.8.  	| Ministr zdravotnictví Vojtěch navrhl opatření, která by dovolila přečkat očekávanou zářijovou vlnu. [Opatření však premiér Babiš odmítl][Babiš rozmlouvá Vojtěchovi opatření] bez jakékoliv analýzy či zdůvodnění.  	|
 | 20.8 	  | [Vláda dál mlží ohledně koronaviru][]. Ani po urgencích Pirátů nepředstavila plán prevence ani nevysvětlila plošná opatření.	Občané i firmy tak i nadále zůstávají v nejistotě. |
 | 4.9.   	| [Piráti navrhli ministru zdravotnictví, jak motivovat občany k využívání aplikace eRouška a žádají lepší informování veřejnosti][]	|
 | 5.9.   	| Překročena 5% positivita testů (kontrolovaná mez dle doporučení WHO)	|
-| 1. polovina září | Přestáváme stíhat trasovat a testovat, reportované údaje jsou podhodnocené	|
+| 1. polovina září | Přestáváme stíhat trasovat a testovat, reportované údaje dále jsou podhodnocené	|
 | 16.9.   | [Sněmovna odmítla návrhy ke koronaviru. Měly přitom zvýšit ochranu obyvatel][]      	|
 | 17.9.  	| [ÚZIS odhaduje][Prezentace z 17. 9.] **reprodukční číslo R na 1,59** a načrtává scénář zavedení výrazných opatření již od **24.9.**   	|
 | 18.9.  	| [Piráti představují nutná opatření proti přetížení zdravotnictví a zmrazení celé ekonomiky][Vláda zcela selhala v ochraně lidí i firem před koronavirem. Piráti představili nutná opatření proti přetížení zdravotnictví a zmrazení celé ekonomiky]. Vyzývají k zavedení opatření v řádu hodin. 	|
