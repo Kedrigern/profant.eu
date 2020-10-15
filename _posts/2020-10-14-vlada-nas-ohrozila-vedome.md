@@ -62,19 +62,20 @@ Naopak je třeba se **vyvarovat**:
 
 | Datum 	| Událost 	|
 |-------	|---------	|
-| 23.7.  	| [Piráti upozorňují na selhávání vlády][[Vláda selhává v ochraně Česka před koronavirem]	|
+| 23.7.  	| [Piráti upozorňují na selhávání vlády][Vláda selhává v ochraně Česka před koronavirem]	|
 | 3.8.  	| ÚZIS na tiskovce [prezentuje][Prezentace z 3. 8.] aktuální čísla k epidemii, **R = 1,26**  	|
-| 18.8.  	| Piráti mají [obavy][Vláda nezdůvodnila plošná opatření proti koronaviru], že vláda o připravenost na další vlnu pandemie mlží a nemá situaci pod kontrolou a žádají jasný plán prevence. 	|
+| 18.8.  	| Piráti mají [obavy][Vláda nezdůvodnila plošná opatření proti koronaviru], že vláda o připravenost na další vlnu pandemie mlží a nemá situaci pod kontrolou, a žádají jasný plán prevence. 	|
 | 19.8.  	| [Ptal jsem se ministra Plagy na připravenost škol][Plaga tweet]        	|
 | 19.8.  	| Ministr zdravotnictví Vojtěch navrhl opatření, která by nám dovolila přečkat očekávanou zářijovou vlnu. [Opatření však premiér Babiš odmítl][Babiš rozmlouvá Vojtěchovi opatření] bez jakékoliv analýzy či zdůvodnění.  	|
 | 20.8 	  | [Vláda dál mlží ohledně koronaviru][]. Ani po urgencích Pirátů nepředstavila plán prevence ani nevysvětlila plošná opatření.	Občané i firmy tak i nadále zůstávají v nejistotě. |
 | 4.9.   	| [Piráti navrhli ministru zdravotnictví, jak motivovat občany k využívání aplikace eRouška a žádají lepší informování veřejnosti][]	|
 | 16.9.   | [Sněmovna odmítla návrhy ke koronaviru. Měly přitom zvýšit ochranu obyvatel][]      	|
-| 17.9.  	| [ÚZIS odhaduje][Prezentace z 17. 9.] **reprodukční číslo R na 1,59** a načrtává scénář zavedení výrazných opatření již od **24.9.**]     	|
-| 18.9.  	| [Vláda zcela selhala v ochraně lidí i firem před koronavirem. Piráti představují nutná opatření proti přetížení zdravotnictví a zmrazení celé ekonomiky][Vláda zcela selhala v ochraně lidí i firem před koronavirem. Piráti představili nutná opatření proti přetížení zdravotnictví a zmrazení celé ekonomiky]. Piráti vyzývají k zavedení opatření v řádu hodin. 	|
+| 17.9.  	| [ÚZIS odhaduje][Prezentace z 17. 9.] **reprodukční číslo R na 1,59** a načrtává scénář zavedení výrazných opatření již od **24.9.**   	|
+| 18.9.  	| [Piráti představují nutná opatření proti přetížení zdravotnictví a zmrazení celé ekonomiky][Vláda zcela selhala v ochraně lidí i firem před koronavirem. Piráti představili nutná opatření proti přetížení zdravotnictví a zmrazení celé ekonomiky]. Vyzývají k zavedení opatření v řádu hodin. 	|
+| 21.9. | Adam Vojtěch rezignoval, ministrem zdravotnictví se stává Prymula	|
 | 2.-3.10.| Krajské a senátní volby   	|
 | 9.-10.10.| 2. kolo senátních voleb   	|
-| 10.10. 	| [ÚZIS odhaduje R na 1,53][Prezentace z 10. 10.]|
+| 10.10. 	| **[ÚZIS odhaduje R na 1,53][Prezentace z 10. 10.]**|
 | 12.10. 	| Prymula oznamuje opatření účinná od 14.10. 	|
 | 13.10. 	| Je rozesílána SMS vyzývající k instalaci eRoušky	|
 
