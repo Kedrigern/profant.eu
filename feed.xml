@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://www.profant.eu/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.profant.eu/" rel="alternate" type="text/html" /><updated>2020-10-15T13:03:48+00:00</updated><id>https://www.profant.eu/feed.xml</id><title type="html">Profant</title><subtitle>Zápisník pirátského poslance Ondřeje Profanta, který se zaměřuje na opendata, e-government, digitalizaci společnosti a kybernetickou bezpečnost.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://www.profant.eu/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.profant.eu/" rel="alternate" type="text/html" /><updated>2020-10-15T13:39:15+00:00</updated><id>https://www.profant.eu/feed.xml</id><title type="html">Profant</title><subtitle>Zápisník pirátského poslance Ondřeje Profanta, který se zaměřuje na opendata, e-government, digitalizaci společnosti a kybernetickou bezpečnost.
 Rád bych byl, aby Česká republika byla moderním státem s rozvinutou digitální ekonomikou, kde je kladen silný důraz na vzdělávání a svobodu.
 V digitalizaci se musíme inspirovat ve Velké Britanii, Dánsku a Estonsku, řešení musí být otevřená, uživatelsky přívětivá a ohleduplná k soukromí.
 </subtitle><author><name>Ondřej Profant</name></author><entry><title type="html">Vláda nás ohrozila vědomě</title><link href="https://www.profant.eu/2020/vlada-nas-ohrozila-vedome.html" rel="alternate" type="text/html" title="Vláda nás ohrozila vědomě" /><published>2020-10-14T07:00:00+00:00</published><updated>2020-10-14T07:00:00+00:00</updated><id>https://www.profant.eu/2020/vlada-nas-ohrozila-vedome</id><content type="html" xml:base="https://www.profant.eu/2020/vlada-nas-ohrozila-vedome.html">&lt;p&gt;Vláda měla jasná data. Věděla co se stane stejně dobře jako teď ví, co se bude dít v následujících týdnech. Avšak místo přiměřených opatření se utápěla v nesmyslných hádkách a mediálních obratech.&lt;/p&gt;
@@ -167,9 +167,10 @@ V digitalizaci se musíme inspirovat ve Velké Britanii, Dánsku a Estonsku, ře
 
 &lt;iframe src=&quot;https://ourworldindata.org/grapher/covid-stringency-index?tab=chart&amp;amp;time=2020-01-22..latest&amp;amp;country=CZE~DNK&quot; loading=&quot;lazy&quot; style=&quot;width: 100%; height: 600px; border: 0px none;&quot;&gt;&lt;/iframe&gt;
 
-&lt;h3 id=&quot;lůžka-intenzivní-péče&quot;&gt;&lt;a href=&quot;https://covid19.healthdata.org/czechia?view=resource-use&amp;amp;tab=trend&amp;amp;resource=icu_beds&quot;&gt;Lůžka intenzivní péče&lt;/a&gt;&lt;/h3&gt;
+&lt;h3 id=&quot;lůžka-intenzivní-péče---prognóza&quot;&gt;&lt;a href=&quot;https://covid19.healthdata.org/czechia?view=resource-use&amp;amp;tab=trend&amp;amp;resource=icu_beds&quot;&gt;Lůžka intenzivní péče - prognóza&lt;/a&gt;&lt;/h3&gt;
 
-&lt;iframe src=&quot;https://covid19.healthdata.org/czechia?view=resource-use&amp;amp;tab=trend&amp;amp;resource=icu_beds&quot; loading=&quot;lazy&quot; style=&quot;width: 100%; height: 780px; border: 0px none;&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/img/posts/icu_beds.png&quot; alt=&quot;Lůžka intenzivní péče - prognóza&quot; /&gt;
+&lt;a href=&quot;https://covid19.healthdata.org/czechia?view=resource-use&amp;amp;tab=trend&amp;amp;resource=icu_beds&quot;&gt;link&lt;/a&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;vývoj-reprodukčního-čísla&quot;&gt;&lt;a href=&quot;https://e.infogram.com/8137759f-80a8-4d43-8736-b53a90df2960?src=embed&quot;&gt;Vývoj reprodukčního čísla&lt;/a&gt;&lt;/h3&gt;
 
