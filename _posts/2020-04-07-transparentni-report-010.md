@@ -115,7 +115,7 @@ Na zasedání podvýboru jsme probírali zakázku České pošty na outsourcing 
 
 #### Schůzka na MHMP
 
-Na schůzce na Magistrátu hlavního města Prahy k Portálu Pražana jsme řešili zákonné zmocnění k základním registrům. Dohodli jsme se na pozměňovacím návrhu k ST 756 DEPO (Další elektronizaci postupů orgánů veřejné moci), který celý proces pro samosprávy usnadní.
+Na [schůzce](https://evidence.pirati.cz/report/4754/) na Magistrátu hlavního města Prahy k Portálu Pražana jsme řešili zákonné zmocnění k základním registrům. Dohodli jsme se na pozměňovacím návrhu k ST 756 DEPO (Další elektronizaci postupů orgánů veřejné moci), který celý proces pro samosprávy usnadní.
 
 #### Pracovní skupina Veřejné zakázky
 
