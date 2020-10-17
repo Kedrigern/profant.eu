@@ -63,7 +63,8 @@ Naopak je třeba se **vyvarovat**:
 přidáno 15.10.
 
 | Datum 	| Událost 	|
-|-------	|---------	|
+|-------:|---------	|
+| 28. 4. | Piráti představili chytrý plán řešení krize: [Budoucnost řešíme teď](https://budoucnostresimeted.cz) |
 | 23.7.  	| [Piráti upozorňují na selhávání vlády v ochraně Česka před koronavirem][Vláda selhává v ochraně Česka před koronavirem] - žádáme představit plán testování, zvýšit jeho kapacity až na 30 tisíc vzorků denně, zapojit konečně laboratoře, zavést čtyři stupně pandemické pohotovosti, zprovoznit systém chytré karantény	|
 | 3.8.  	| ÚZIS na tiskovce [prezentuje][Prezentace z 3. 8.] aktuální čísla k epidemii, **R = 1,26**  	|
 | 18.8.  	| Piráti mají [obavy][Vláda nezdůvodnila plošná opatření proti koronaviru], že vláda o připravenosti na další vlnu pandemie mlží a nemá situaci pod kontrolou, a žádají jasný plán prevence. 	|
