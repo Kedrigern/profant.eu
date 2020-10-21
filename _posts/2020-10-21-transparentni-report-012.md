@@ -56,7 +56,7 @@ Vystoupil jsem v [pořadu Události, komentáře](https://www.facebook.com/ondre
 **Účast na Prague Pride**  
 Namísto tradičního pochodu jsem se letos zúčastnil plavby lodí. Na letošním Pride jsem se také zúčastnil diskuze na Palackého náměstí a měl jsem přednášku o legislativě manželství pro všechny, která by měla pomoci k odstranění současných nerovností v zákoně, a dalších souvisejících tématech.
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=hgMRmdcRIrc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hgMRmdcRIrc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 **Kritika centrálního nákupu roušek**  
 Vzhledem k mým zkušenostem s veřejnými zakázkami z jiných oblastí jsem již v začátcích pandemie upozorňoval na to, aby stát pro veřejné zakázky na dodání ochranných pomůcek [stanovil nediskriminační podmínky](https://www.facebook.com/ondrej.profant/posts/10217726190573210). Podle nových zjištění se tak nestalo a z výběrových řízení byli vyřazeni například výrobci znovupoužitelných masek.
@@ -108,7 +108,7 @@ Sněmovní tisk 756 (DEPO), který definuje postupy související s elektronizac
 **Lidská práva a povinné sterilizace v ČR**  
 Stále se v souvislosti se svou snahou o ukončení povinných sterilizací transgender lidí pokouším k tomuto tématu přitáhnout [větší pozornost](https://a2larm.cz/2020/09/co-zazivaji-pri-dlouhem-procesu-tranzice-v-cesku-transgender-osoby-komplikace-a-paradoxy/). Tuto zákonem vyžadovanou povinnost považuji za odporný zásah do osobních svobod. Vystoupil jsem proto v diskuzním pořadu V Tranzu, kde jsem vysvětloval kontext současné legislativy a předsudky, kterým při snaze o její změnu čelíme.
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=wCCJzHNGxQA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wCCJzHNGxQA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 **Zavádění směrnice o autorském právu**  
 [Upozornil jsem](https://www.pirati.cz/tiskove-zpravy/Pirati-varuji-pred-ceskou-verzi-smernice-o-autorskych-pravech.html) na závažný problém při zavádění evropské směrnice o autorském právu do české legislativy. V návrhu Ministerstva kultury chybí důležité pojistky pro ochranu svobodného projevu uživatelů na internetu. Současný návrh naopak výrazně upřednostňuje zájmy držitelů autorských práv.
