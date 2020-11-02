@@ -4,7 +4,7 @@ title:      "Vláda nás ohrozila vědomě"
 date:       2020-10-14 08:00:00 +0100
 categories: Bezpečnost
 comments:   true
-tags:       [Bezpečnost]
+tags:       [Bezpečnost, Zdraví]
 img:        epidemie-luzka.png
 author:     Ondřej Profant
 ---
