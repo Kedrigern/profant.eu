@@ -15,11 +15,11 @@ Vláda požádala sněmovnu o prodloužení nouzového stavu do 3. prosince. Pir
 
 ## Klid před bouří
 
-Období pandemie je velmi složitý stav, na který vláda ani občané pochopitelně nejsou myšlenkově připraveni. Jednoduše řečeno málokdo s takovou krizí v prosinci 2019 počítal. Nicméně stát samotný připravu provedenou má - jasné protokoly krizového štabu, nouzové zásoby, IZS, armáda a v neposlední řadě samotný institut nouzového stavu. První vlnou jsme prošli dobře, protože přišel [muž s excelem][] a přesvědčil neschopného premiéra, že je třeba konat. 
+Období pandemie je velmi složitý stav, na který vláda ani občané pochopitelně nejsou myšlenkově připraveni. Jednoduše řečeno málokdo s takovou krizí v prosinci 2019 počítal. Nicméně stát samotný připravu provedenou má - jasné protokoly krizového štabu, nouzové zásoby, IZS, armáda a v neposlední řadě samotný institut nouzového stavu. První vlnou jsme prošli dobře, protože přišel [muž s excelem](https://www.seznamzpravy.cz/clanek/tajemny-muz-ktery-na-jare-zachranil-cesko-exreditel-ceske-pojistovny-124767) a přesvědčil neschopného premiéra, že je třeba konat. 
 
 Následně přišlo období, o kterém všichni znalí věděli, že se jedná o klid před bouří (druhou vlnou). Léto utlumí styky v zaměstnání i ve škole. Lidé se odjedou rekreovat. Stačilo dodržet elementární pravidla a situace nebyla příliš nebezpečná. Nicméně doly v Karviné a pražský klub Techtle mechtle nám jasně ukázal, že jakmile se nakažený dostane do prostředí napomáhající šíření viru, tak to jde opravdu rychle. To pro vládu mělo být jasné varování. Jediný, kdo to tak vzal, byl tehdejší ministr zdravotnictví Adam Vojtěch.
 
-Zuřící epidemie je balancování na hraně. Příznivá situace se může rychle obrátit v nepřiznivou. A přesně to se stalo v září. [Data ukazovala zhoršování situace][vlada-vedela], Vojtěch navrhl přísnější opatření, Babiš navrhovaná opatření zarazil. Zároveň nebyla zavedena neinvazivní opatření, která by snížila nebezpečí, ale neohrozila ekonomiku. Narozdíl třeba od Dánska, kde jsou opatření, která dovolují ekonomice dýchat. Částečně chápu neochotu k tvrdým opatřením, ale u těch měkkých je to neodpustitelné. Premiér viditelně s opatřeními čekal až na období po krajských volbách. A jelikož není dobrý manager, tak je ani nedokázal zavést ihned po krajských volbách, ale na vyhlášení jsme čekali do 14. října, tedy 12 dní po volbách.
+Zuřící epidemie je balancování na hraně. Příznivá situace se může rychle obrátit v nepřiznivou. A přesně to se stalo v září. [Data ukazovala zhoršování situace](https://www.profant.eu/2020/vlada-nas-ohrozila-vedome.html), Vojtěch navrhl přísnější opatření, Babiš navrhovaná opatření zarazil. Zároveň nebyla zavedena neinvazivní opatření, která by snížila nebezpečí, ale neohrozila ekonomiku. Narozdíl třeba od Dánska, kde jsou opatření, která dovolují ekonomice dýchat. Částečně chápu neochotu k tvrdým opatřením, ale u těch měkkých je to neodpustitelné. Premiér viditelně s opatřeními čekal až na období po krajských volbách. A jelikož není dobrý manager, tak je ani nedokázal zavést ihned po krajských volbách, ale na vyhlášení jsme čekali do 14. října, tedy 12 dní po volbách.
 
 ## Nejhorší v Evropě
 
@@ -36,7 +36,7 @@ I v počtu mrtvých na 1 milion obyvatel jsme bohužel na první příčce a ten
 
 ## Prodloužení nouzového stavu
 
-Vláda opět vyhlásila nouzový stav od pondělí 5. října 2020. Vláda sama tento mimořádný instrument může vyhlásit maximálně na dobu 30 dnů. Delší trvání musí schválit poslanecká sněmovna. Ta o prodloužení jednala v pátek 30. řijna 2020. Vláda zažádala o prodloužení do 3. prosince 2020 (celkově by tedy trval téměř 2 měsíce). 
+Vláda opět vyhlásila nouzový stav od pondělí 5. října 2020. Vláda sama tento mimořádný instrument může vyhlásit maximálně na dobu 30 dnů. Delší trvání musí schválit poslanecká sněmovna. Ta o prodloužení jednala v pátek 30. řijna 2020. Vláda [zažádala o prodloužení do 3. prosince 2020](https://www.psp.cz/sqw/text/orig2.sqw?idd=12472) (celkově by tedy trval téměř 2 měsíce). 
 
 Ve sněmovně však vláda ztrácí většinu, protože jí přestávají podporovat komunisté, o které se od začátku opírá. Vládní žádost neprošla a sněmovna se usnesla, že nouzový stav prodlouží jen do 20. listopadu 2020.
 
@@ -265,13 +265,4 @@ IV. nadále lépe propagovat aplikaci eRouška ve veřejném zájmu prostřednic
       </tr>
     </tbody>
 </table>
-
-
-
-Samozřejmě doprovodná usnesení poslanecké sněmovny jsou primárně mantinely pro vládu, která se viditelně bojí svá vlastní opatření komunikovat a diskutovat. Nejsou to tvrdá opatření, která by ihned platila, ale to ani není jejich účel.
-
-
-[muž s excelem]: https://www.seznamzpravy.cz/clanek/tajemny-muz-ktery-na-jare-zachranil-cesko-exreditel-ceske-pojistovny-124767
-[vlada-vedela]: https://www.profant.eu/2020/vlada-nas-ohrozila-vedome.html
-[zadost-vlady]: https://www.psp.cz/sqw/text/orig2.sqw?idd=12472
-[steno]: https://www.psp.cz/eknih/2017ps/stenprot/062schuz/bqbs/b18650901.htm
+<p>Samozřejmě doprovodná usnesení poslanecké sněmovny jsou primárně mantinely pro vládu, která se viditelně bojí svá vlastní opatření komunikovat a diskutovat. Nejsou to tvrdá opatření, která by ihned platila, ale to ani není jejich účel.</p>
