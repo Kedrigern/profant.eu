@@ -9,17 +9,17 @@ img:        tz-nouzovy-stav.jpg
 author:     Ondřej Profant
 ---
 
-Vláda požádala sněmovnu o prodloužení nouzového stavu do 3. prosince. Piráti si uvědomují, že situace je vážná, avšak naše zkušenosti s vládou jsou tragické. [Vláda v srpnu věděla][vlada-vedela], že v září jsou třeba opatření a ta samá vláda se rozhodla opatření nezavést. Tím zapříčinila dnešní situaci, kdy umírají stovky lidí s covidem denně.
+Vláda požádala sněmovnu o prodloužení nouzového stavu do 3. prosince. Piráti si uvědomují, že situace je vážná, avšak naše zkušenosti s vládou jsou tragické. Vláda v srpnu věděla, že v září jsou třeba opatření a ta samá vláda se rozhodla opatření nezavést. Tím zapříčinila dnešní situaci, kdy umírají stovky lidí s covidem denně.
 
 <!--more-->
 
-## Prolog / Předehra
+## Klid před bouří
 
 Období pandemie je velmi složitý stav, na který vláda ani občané pochopitelně nejsou myšlenkově připraveni. Jednoduše řečeno málokdo s takovou krizí v prosinci 2019 počítal. Nicméně stát samotný připravu provedenou má - jasné protokoly krizového štabu, nouzové zásoby, IZS, armáda a v neposlední řadě samotný institut nouzového stavu. První vlnou jsme prošli dobře, protože přišel [muž s excelem][] a přesvědčil neschopného premiéra, že je třeba konat. 
 
 Následně přišlo období, o kterém všichni znalí věděli, že se jedná o klid před bouří (druhou vlnou). Léto utlumí styky v zaměstnání i ve škole. Lidé se odjedou rekreovat. Stačilo dodržet elementární pravidla a situace nebyla příliš nebezpečná. Nicméně doly v Karviné a pražský klub Techtle mechtle nám jasně ukázal, že jakmile se nakažený dostane do prostředí napomáhající šíření viru, tak to jde opravdu rychle. To pro vládu mělo být jasné varování. Jediný, kdo to tak vzal, byl tehdejší ministr zdravotnictví Adam Vojtěch.
 
-Zuřící epidemie je balancování na hraně. Příznivá situace se může rychle obrátit v nepřiznivou. A přesně to se stalo v září. Vojtěch navrhl přísnější opatření, Babiš navrhovaná opatření zarazil. Zároveň nebyla zavedena neinvazivní opatření, která by snížila nebezpečí, ale neohrozila ekonomiku. Narozdíl třeba od Dánska, kde jsou opatření, která dovolují ekonomice dýchat. Částečně chápu neochotu k tvrdým opatřením, ale u těch měkkých je to neodpustitelné. Premiér viditelně s opatřeními čekal až na období po krajských volbách. A jelikož není dobrý manager, tak je ani nedokázal zavést ihned po krajských volbách, ale na vyhlášení jsme čekali do 14. října, tedy 12 dní po volbách.
+Zuřící epidemie je balancování na hraně. Příznivá situace se může rychle obrátit v nepřiznivou. A přesně to se stalo v září. [Data ukazovala zhoršování situace][vlada-vedela], Vojtěch navrhl přísnější opatření, Babiš navrhovaná opatření zarazil. Zároveň nebyla zavedena neinvazivní opatření, která by snížila nebezpečí, ale neohrozila ekonomiku. Narozdíl třeba od Dánska, kde jsou opatření, která dovolují ekonomice dýchat. Částečně chápu neochotu k tvrdým opatřením, ale u těch měkkých je to neodpustitelné. Premiér viditelně s opatřeními čekal až na období po krajských volbách. A jelikož není dobrý manager, tak je ani nedokázal zavést ihned po krajských volbách, ale na vyhlášení jsme čekali do 14. října, tedy 12 dní po volbách.
 
 ## Nejhorší v Evropě
 
@@ -54,9 +54,10 @@ Piráti předložili 2 usnesení přímo v rozpravě a pak jedno velké připrav
 Část b týkající se digitalizace prošla celá, ve zbytku jen některé části. ODS předložila 6 usnesení a neprošlo ani jedno.
 
 
- <table>
+<table>
     <caption>Přehled doprovodných usnesení poslanecké sněmovny k <a href="https://www.psp.cz/eknih/2017ps/stenprot/062schuz/62-6.html#q735">bodu 509</a> 62. schůze poslanecké sněmovny.</caption>
     <thead>
+     <tr>
       <th>?
       </th>
       <th>
@@ -65,6 +66,7 @@ Piráti předložili 2 usnesení přímo v rozpravě a pak jedno velké připrav
       <th>
         Předkladatel
       </th>
+      </tr>
     </thead>
     <tbody>
       <tr pass="true" election="214">
@@ -240,7 +242,6 @@ IV. nadále lépe propagovat aplikaci eRouška ve veřejném zájmu prostřednic
         <td>PSP  <strong>ukládá</strong> vládě, aby připravila a představila veřejnosti plán uvolňování opatření pro různé scénáře vývoje epidemiologické situace. </td>
         <td>ODS</td>
       </tr>
-      <tr pas
       <tr pass="false" election="">
         <td style="background-color: #f04124;"><a href="https://www.psp.cz/sqw/hlasy.sqw?G=74246">✖️</a></td>
         <td>PSP  <strong>ukládá</strong>  vládě, aby aktivovala personální a lůžkové kapacity lázní, které jsou vhodné pro umístění pacientů s onemocněním COVID-19, kteří nevyžadují akutní hospitalizaci, ale zdravotnická zařízení je nemohou propustit k domácímu léčení</td>
@@ -264,6 +265,7 @@ IV. nadále lépe propagovat aplikaci eRouška ve veřejném zájmu prostřednic
       </tr>
     </tbody>
 </table>
+
 
 
 Samozřejmě doprovodná usnesení poslanecké sněmovny jsou primárně mantinely pro vládu, která se viditelně bojí svá vlastní opatření komunikovat a diskutovat. Nejsou to tvrdá opatření, která by ihned platila, ale to ani není jejich účel.
