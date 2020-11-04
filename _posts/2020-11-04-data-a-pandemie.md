@@ -4,7 +4,7 @@ title:      "Data a pandemie"
 date:       2020-11-04 08:00:00 +0100
 categories: Bezpečnost
 comments:   true
-tags:       [Bezpečnost]
+tags:       [Bezpečnost, opendata]
 img:        data.jpg
 author:     Bára Soukupová
 ---
