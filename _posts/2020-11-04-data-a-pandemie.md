@@ -19,11 +19,13 @@ Datová politika je jednou ze stěžejních součástí pirátského programu. B
 
 Když v březnu pandemie propukla, nebylo systematicky denně zveřejňováno téměř nic. Od novinářů, osob v exekutivních funkcích, výzkumníků i občanů nastala velká poptávka po pandemických datech.
 
-Ministerstvo zdravotnictví a hlavně Ústav zdravotnických informací a statistiky (ÚZIS) poměrně rychle zareagovaly a již na konci března byl k dispozici [dashboard](https://onemocneni-aktualne.mzcr.cz/covid-19) a nejdůležiější otevřená data na denní bázi, včetně API. V průběhu dalších měsíců pak byla data i vizualizace rozšiřována a vylepšována. Za tento počin je třeba ÚZIS pochválit.
+Ministerstvo zdravotnictví a hlavně Ústav zdravotnických informací a statistiky (ÚZIS) poměrně rychle zareagovaly a již na konci března byl k dispozici [dashboard](https://onemocneni-aktualne.mzcr.cz/covid-19) a nejdůležitější otevřená data na denní bázi, včetně API. V průběhu dalších měsíců pak byla data i vizualizace rozšiřována a vylepšována. Za tento počin je třeba ÚZIS pochválit. Ostatně článek o tomto dashboardu byl [vydán i v prestižním vědeckém časopise](https://www.jmir.org/2020/5/e19367/).
 
-Stále však mnohá potřebná data zveřejňována nebyla. Piráti na začátku května marně [žádali](https://www.pirati.cz/tiskove-zpravy/data-o-epidemii-vedcum.html) o poskytnutí epidemiologických modelů, podrobných anonymizovaných dat a scénářů vývoje. Později jsme pak [žádali](https://www.pirati.cz/tiskove-zpravy/opatreni-proti-koronaviru-pirati-svolali-vybor.html) i o data, na jejichž základě jsou vyhlašována jednotlivá opatření.
+Stále však mnohá potřebná data zveřejňována nebyla. Studie kolektivní imunity, která se uskutečnila na konci dubna, byla od začátku nastavena tak, že data zůstanou pouze v rukou ÚZIS, respektive Ministerstva zdravotnictví. Přitom standardem je umožnění poskytnutí dat třetí straně (např. akademické instituci). S daty tak nikdo jiný nemohl pracovat a všichni se museli spolehnout na interpretaci ÚZIS.
 
-Postupně se daří data z ÚZISu dostávat. Již poskytnul parametry svého epidemiologického modelu i detailní informace o kapacitách nemocnic. Problémem je ale jejich forma.
+Piráti na také začátku května marně [žádali](https://www.pirati.cz/tiskove-zpravy/data-o-epidemii-vedcum.html) o poskytnutí epidemiologických modelů, podrobných anonymizovaných dat a scénářů vývoje. Později jsme pak [žádali](https://www.pirati.cz/tiskove-zpravy/opatreni-proti-koronaviru-pirati-svolali-vybor.html) i o data, na jejichž základě jsou vyhlašována jednotlivá opatření.
+
+Postupně se daří některá data z ÚZISu dostávat. Již poskytnul parametry svého epidemiologického modelu i detailní informace o kapacitách nemocnic. Problémem je ale jejich forma.
 
 ## Forma dat
 
@@ -33,7 +35,7 @@ Aktuální epidemiologické informace včetně podrobných kapacit zdravotní p�
 
 Obsáhlejší datovým zdrojem jsou týdenní souhrnné reporty, které prof. Dušek prezentuje vládě a poslancům a poslankyním na Zdravotním výboru Sněmovny. V nich jsou aktuální data shrnuta do několika desítek více či méně nepřehledných tabulek a grafům. I tyto prezentace se stejně dostávají na veřejnost a novinové titulky popisující ["uniklé dokumenty"](https://prazsky.denik.cz/zpravy_region/na-konci-rijna-130-mrtvych-denne-podivejte-se-na-unikla-data-o-covidu-20201014.html) zrovna nepřispívají v důvěru lidí vládě.
 
-Zbytečná politika tajení dat, které z principu tajné nejsou a mohou být velmi prospěšné v mnoha oblastech, tak zbytečně komplikuje efektivní postup proti pandemii a podráží již tak téměř neexistující důvěru lidí.
+Zbytečná politika tajení dat, která z principu tajná nejsou a mohou být velmi prospěšná v mnoha oblastech, tak zbytečně komplikuje efektivní postup proti pandemii a podráží již tak téměř neexistující důvěru lidí.
 
 ## Predikce vývoje
 
