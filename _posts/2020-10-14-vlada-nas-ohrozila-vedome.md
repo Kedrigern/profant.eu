@@ -5,6 +5,7 @@ date:       2020-10-14 08:00:00 +0100
 categories: Bezpečnost
 comments:   true
 tags:       [Bezpečnost, Zdraví]
+featured:   true
 img:        epidemie-luzka.png
 author:     Ondřej Profant
 ---

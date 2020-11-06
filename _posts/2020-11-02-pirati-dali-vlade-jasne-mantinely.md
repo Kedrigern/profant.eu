@@ -6,6 +6,7 @@ categories: Bezpečnost
 comments:   true
 tags:       [Bezpečnost, Zdraví]
 img:        tz-nouzovy-stav.jpg
+featured:   true
 author:     Ondřej Profant
 ---
 
