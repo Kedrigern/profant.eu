@@ -9,7 +9,7 @@ img:        data.jpg
 author:     Bára Soukupová
 ---
 
-Pandemie koronaviru nepochybně změní svět v mnoha ohledem. Nejen v Česku bude milníkem v možnostech práce z domova, distančním vzdělávání, digitalizaci a mnoha dalších oblastech. Významný posun také způsobí v oblasti chápání dat, jejich zveřejňování a obecně politiky postavené na datech.
+Pandemie koronaviru nepochybně změní svět v mnoha ohledech. Nejen v Česku bude milníkem v možnostech práce z domova, distančním vzdělávání, digitalizaci a mnoha dalších oblastech. Významný posun také způsobí v oblasti chápání dat, jejich zveřejňování a obecně politiky postavené na datech.
 
 <!--more-->
 
