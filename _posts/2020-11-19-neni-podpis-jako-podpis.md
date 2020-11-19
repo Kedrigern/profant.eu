@@ -42,6 +42,16 @@ Stejně tak vám nepomohou ani datové schránky. Zákon říká, že “Úkon u
 
 To vše se ale brzy změní.
 
+
+| Podpis |      |
+|------- |------ |
+| prostý elektronický   | *"Franta Novák"* |
+| zaručený elektronický | podepsáno a zmraženo šifrovacím klíčem  |
+| uznávaný elektronický | podepsáno a zmraženo šifrovacím klíčem, který je vydán akreditovanou certifikační autoritou |
+| kvalifikovaný elektronický | podepsáno a zmraženo šifrovacím klíčem, který je vydán akreditovanou certifikační autoritou; podpis  vytvořen kvalifikovaným prostředkem |  
+| vlastnoruční | vlastní rukou na papír |
+| úředně ověřený | potvrzený autoritou, s připojenou doložkou |        
+
 ### Místo podpisu e-identita - již za pár měsíců
 
 Striktní požadavky na podpis, vlastnoruční podpis či úředně ověřený podpis jsou jednou z překážek digitalizace státní správy. Nové zákony na nich proto již netrvají, respektive nabízejí širší škálu možností, jak může člověk vůči úřadu prokázat, že “já jsem skutečně já“.
