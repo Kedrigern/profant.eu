@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://www.profant.eu/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.profant.eu/" rel="alternate" type="text/html" /><updated>2020-11-19T09:42:57+00:00</updated><id>https://www.profant.eu/feed.xml</id><title type="html">Profant</title><subtitle>Zápisník pirátského poslance Ondřeje Profanta, který se zaměřuje na opendata, e-government, digitalizaci společnosti a kybernetickou bezpečnost.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://www.profant.eu/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.profant.eu/" rel="alternate" type="text/html" /><updated>2020-11-19T16:46:16+00:00</updated><id>https://www.profant.eu/feed.xml</id><title type="html">Profant</title><subtitle>Zápisník pirátského poslance Ondřeje Profanta, který se zaměřuje na opendata, e-government, digitalizaci společnosti a kybernetickou bezpečnost.
 Rád bych byl, aby Česká republika byla moderním státem s rozvinutou digitální ekonomikou, kde je kladen silný důraz na vzdělávání a svobodu.
 V digitalizaci se musíme inspirovat ve Velké Britanii, Dánsku a Estonsku, řešení musí být otevřená, uživatelsky přívětivá a ohleduplná k soukromí.
 </subtitle><author><name>Ondřej Profant</name></author><entry><title type="html">Není podpis jako podpis</title><link href="https://www.profant.eu/2020/neni-podpis-jako-podpis.html" rel="alternate" type="text/html" title="Není podpis jako podpis" /><published>2020-11-19T07:00:00+00:00</published><updated>2020-11-19T07:00:00+00:00</updated><id>https://www.profant.eu/2020/neni-podpis-jako-podpis</id><content type="html" xml:base="https://www.profant.eu/2020/neni-podpis-jako-podpis.html">&lt;p&gt;Když se řekne elektronický podpis, většina lidí si představí šifry a zaručené certifikáty. Ale elektronických podpisů máme několik typů, nebo spíše řekněme úrovní.&lt;/p&gt;
@@ -6,6 +6,7 @@ V digitalizaci se musíme inspirovat ve Velké Britanii, Dánsku a Estonsku, ře
 &lt;!--more--&gt;
 
 &lt;h3 id=&quot;prostý-elektronický-podpis&quot;&gt;Prostý elektronický podpis&lt;/h3&gt;
+
 &lt;p&gt;Elektronický podpis může vypadat i takto:&lt;/p&gt;
 
 &lt;blockquote&gt;
@@ -17,15 +18,18 @@ Franta Novák&lt;/p&gt;
 &lt;p&gt;Ona dvě slova, která jsem na klávesnici připsal za text dopisu, jsou elektronickým podpisem. Samozřejmě elektronickým podpisem nijak zvlášť průkazným. Na rozdíl od vlastnoručního podpisu na papíře tady není žádný jedinečný “klikyhák,” který by mohl v případě sporu porovnávat soudní znalec. Proto vás s takovým podpisem nenechají z e-shopu ani objednat si ty housky… (Ostatně, ani já nejsem Franta Novák.) Ale klidně by mohli. I takové jednání je totiž podepsané, a tudíž platné. Takovýto podpis má tedy praktické využití, pokud je zde ještě něco navíc, čím si adresát ověří, že jste to skutečně vy. V civilním styku to může být třeba osobní známost - dlouhá léta spolu komunikujete přes stejný e-mail a pravidelně si objednáváte housky, adresát má tedy důvod věřit, že autorem podpisu jste vy.&lt;/p&gt;
 
 &lt;h3 id=&quot;zaručený-elektronický-podpis&quot;&gt;Zaručený elektronický podpis&lt;/h3&gt;
+
 &lt;p&gt;Zaručený elektronický podpis funguje na stejném principu, jako když pod dokument připíšete své jméno a příjmení. Akorát že dokument nepodepisujete dvěma slovy vyťukanými na klávesnici, ale souborem zašifrovaných dat. A protože šifrovací klíč máte na svém počítači jenom vy (a vydala vám ho nějaká dostatečně důvěryhodná autorita), tak adresát už má v ruce něco silnějšího.
 Zaručený elektronický podpis má ještě jednu výhodu - v podstatě “zmrazí“ celý dokument. Jinými slovy je zaručeno nejen “kdo“ jedná, ale i “co“ říká. Pokud by adresát chtěl dokument změnit (například škrtnout z objednávky krabici mléka a nahradit ji luxusním mercedesem), zaručený elektronický podpis bude zneplatněn.&lt;/p&gt;
 
 &lt;h3 id=&quot;uznávaný-elektronický-podpis&quot;&gt;Uznávaný elektronický podpis&lt;/h3&gt;
+
 &lt;p&gt;Uznávaný elektronický podpis je pak vyšší úrovní zaručeného elektronického podpisu. Liší se tím, že jeho součástí je takzvaný kvalifikovaný certifikát, tedy certifikát, který může vydat pouze akreditovaná kvalifikovaná certifikační autorita řídící se zákonem o elektronickém podpisu. Pouze s takovým uznávaným elektronickým podpisem můžete jednat vůči orgánu veřejné moci. (Existuje ještě vyšší úroveň, takzvaný &lt;strong&gt;kvalifikovaný elektronický podpis&lt;/strong&gt;, který však pro zjednodušení vynecháme.)&lt;/p&gt;
 
 &lt;p&gt;Požadavek podpisu je v zákonech poměrně striktní. Většina zákonů trvá na tom, že jednání vůči úřadu má být “podepsáno“ (např. § 37 správního řádu, který se vztahuje téměř na všechna úřední podání). I když tedy ověříte svou identitu jinak, třeba i metodou násobně bezpečnější, nepomůže vám to.&lt;/p&gt;
 
-&lt;h3 id=&quot;vlastnoruční-a-ověřený-podpis---zatím-jen-na-papíře&quot;&gt;Vlastnoruční a ověřený podpis - zatím jen na papíře.&lt;/h3&gt;
+&lt;h3 id=&quot;vlastnoruční-a-ověřený-podpis---zatím-jen-na-papíře&quot;&gt;Vlastnoruční a ověřený podpis - zatím jen na papíře&lt;/h3&gt;
+
 &lt;p&gt;Kromě různých forem a úrovní elektronického podpisu máme ještě podpisy čistě papírové. Vlastnoruční podpis je podpis vlastní rukou. Tedy, pokud po vás někdo požaduje vlastnoruční podpis, není možné ho nahradit ani tou nejvyšší a nejbezpečnější formou podpisu elektronického.&lt;/p&gt;
 
 &lt;p&gt;Stejně tak je to s podpisem úředně ověřeným. Úředně ověřený podpis znamená, že nějaká důvěryhodná autorita - státní úřad, notář, advokát, nebo i pošta - k vašemu vlastnoručnímu podpisu připojí doložku, kterou ověří, že “ano, tento podpis skutečně patří panu Františku Novákovi, protože se podepsal přede mnou a ukázal mi přitom občanský průkaz”.
@@ -39,28 +43,40 @@ Zákon nepamatuje na to, že by se úředně daly ověřovat podpisy elektronick
 &lt;table&gt;
   &lt;thead&gt;
     &lt;tr&gt;
-      &lt;th&gt;Podpis&lt;/th&gt;
-      &lt;th&gt; &lt;/th&gt;
+      &lt;th colspan=&quot;2&quot;&gt;Druh podpisu&lt;/th&gt;
+      &lt;th&gt;Popis&lt;/th&gt;
     &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td&gt;prostý elektronický&lt;/td&gt;
+      &lt;th rowspan=&quot;4&quot;&gt;
+        &lt;span style=&quot;writing-mode: vertical-lr;
+                     -ms-writing-mode: tb-rl;
+                     transform: rotate(180deg);&quot;&gt;
+                     Elektronický
+        &lt;/span&gt;
+      &lt;/th&gt;
+      &lt;td&gt;prostý&lt;/td&gt;
       &lt;td&gt;&lt;em&gt;“Franta Novák”&lt;/em&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;zaručený elektronický&lt;/td&gt;
+      &lt;td&gt;zaručený&lt;/td&gt;
       &lt;td&gt;podepsáno a zmraženo šifrovacím klíčem&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;uznávaný elektronický&lt;/td&gt;
+      &lt;td&gt;uznávaný&lt;/td&gt;
       &lt;td&gt;podepsáno a zmraženo šifrovacím klíčem, který je vydán akreditovanou certifikační autoritou&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;kvalifikovaný elektronický&lt;/td&gt;
-      &lt;td&gt;podepsáno a zmraženo šifrovacím klíčem, který je vydán akreditovanou certifikační autoritou; podpis  vytvořen kvalifikovaným prostředkem&lt;/td&gt;
+      &lt;td&gt;kvalifikovaný&lt;/td&gt;
+      &lt;td&gt;podepsáno a zmraženo šifrovacím klíčem, který je vydán akreditovanou certifikační autoritou; podpis vytvořen kvalifikovaným prostředkem (např. el. občanka)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
+      &lt;th rowspan=&quot;2&quot;&gt;
+        &lt;span style=&quot;writing-mode: vertical-lr;
+                     -ms-writing-mode: tb-rl;
+                     transform: rotate(180deg);&quot;&gt;Listinný
+         &lt;/span&gt;&lt;/th&gt;
       &lt;td&gt;vlastnoruční&lt;/td&gt;
       &lt;td&gt;vlastní rukou na papír&lt;/td&gt;
     &lt;/tr&gt;
