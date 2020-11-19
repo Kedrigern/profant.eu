@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://www.profant.eu/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.profant.eu/" rel="alternate" type="text/html" /><updated>2020-11-19T08:39:42+00:00</updated><id>https://www.profant.eu/feed.xml</id><title type="html">Profant</title><subtitle>Zápisník pirátského poslance Ondřeje Profanta, který se zaměřuje na opendata, e-government, digitalizaci společnosti a kybernetickou bezpečnost.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://www.profant.eu/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.profant.eu/" rel="alternate" type="text/html" /><updated>2020-11-19T09:42:57+00:00</updated><id>https://www.profant.eu/feed.xml</id><title type="html">Profant</title><subtitle>Zápisník pirátského poslance Ondřeje Profanta, který se zaměřuje na opendata, e-government, digitalizaci společnosti a kybernetickou bezpečnost.
 Rád bych byl, aby Česká republika byla moderním státem s rozvinutou digitální ekonomikou, kde je kladen silný důraz na vzdělávání a svobodu.
 V digitalizaci se musíme inspirovat ve Velké Britanii, Dánsku a Estonsku, řešení musí být otevřená, uživatelsky přívětivá a ohleduplná k soukromí.
 </subtitle><author><name>Ondřej Profant</name></author><entry><title type="html">Není podpis jako podpis</title><link href="https://www.profant.eu/2020/neni-podpis-jako-podpis.html" rel="alternate" type="text/html" title="Není podpis jako podpis" /><published>2020-11-19T07:00:00+00:00</published><updated>2020-11-19T07:00:00+00:00</updated><id>https://www.profant.eu/2020/neni-podpis-jako-podpis</id><content type="html" xml:base="https://www.profant.eu/2020/neni-podpis-jako-podpis.html">&lt;p&gt;Když se řekne elektronický podpis, většina lidí si představí šifry a zaručené certifikáty. Ale elektronických podpisů máme několik typů, nebo spíše řekněme úrovní.&lt;/p&gt;
@@ -35,6 +35,41 @@ Zákon nepamatuje na to, že by se úředně daly ověřovat podpisy elektronick
 &lt;p&gt;Stejně tak vám nepomohou ani datové schránky. Zákon říká, že “Úkon učiněný (…) prostřednictvím datové schránky má stejné účinky jako úkon učiněný písemně a podepsaný“. Ale ani datová schránka (ačkoliv poskytuje nejvyšší záruku zabezpečení) ověřený podpis nenahradí.&lt;/p&gt;
 
 &lt;p&gt;To vše se ale brzy změní.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Podpis&lt;/th&gt;
+      &lt;th&gt; &lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;prostý elektronický&lt;/td&gt;
+      &lt;td&gt;&lt;em&gt;“Franta Novák”&lt;/em&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;zaručený elektronický&lt;/td&gt;
+      &lt;td&gt;podepsáno a zmraženo šifrovacím klíčem&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;uznávaný elektronický&lt;/td&gt;
+      &lt;td&gt;podepsáno a zmraženo šifrovacím klíčem, který je vydán akreditovanou certifikační autoritou&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;kvalifikovaný elektronický&lt;/td&gt;
+      &lt;td&gt;podepsáno a zmraženo šifrovacím klíčem, který je vydán akreditovanou certifikační autoritou; podpis  vytvořen kvalifikovaným prostředkem&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;vlastnoruční&lt;/td&gt;
+      &lt;td&gt;vlastní rukou na papír&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;úředně ověřený&lt;/td&gt;
+      &lt;td&gt;potvrzený autoritou, s připojenou doložkou&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
 
 &lt;h3 id=&quot;místo-podpisu-e-identita---již-za-pár-měsíců&quot;&gt;Místo podpisu e-identita - již za pár měsíců&lt;/h3&gt;
 
