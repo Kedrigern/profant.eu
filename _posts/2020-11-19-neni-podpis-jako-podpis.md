@@ -59,7 +59,8 @@ To vše se ale brzy změní.
       <th rowspan="4">
         <span style="writing-mode: vertical-lr;
                      -ms-writing-mode: tb-rl;
-                     transform: rotate(180deg);">
+                     transform: rotate(180deg);
+                     min-width:15px;">
                      Elektronický
         </span>
       </th>
