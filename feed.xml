@@ -1,7 +1,32 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://www.profant.eu/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.profant.eu/" rel="alternate" type="text/html" /><updated>2020-11-19T16:46:16+00:00</updated><id>https://www.profant.eu/feed.xml</id><title type="html">Profant</title><subtitle>Zápisník pirátského poslance Ondřeje Profanta, který se zaměřuje na opendata, e-government, digitalizaci společnosti a kybernetickou bezpečnost.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://www.profant.eu/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.profant.eu/" rel="alternate" type="text/html" /><updated>2020-12-01T11:08:23+00:00</updated><id>https://www.profant.eu/feed.xml</id><title type="html">Profant</title><subtitle>Zápisník pirátského poslance Ondřeje Profanta, který se zaměřuje na opendata, e-government, digitalizaci společnosti a kybernetickou bezpečnost.
 Rád bych byl, aby Česká republika byla moderním státem s rozvinutou digitální ekonomikou, kde je kladen silný důraz na vzdělávání a svobodu.
 V digitalizaci se musíme inspirovat ve Velké Britanii, Dánsku a Estonsku, řešení musí být otevřená, uživatelsky přívětivá a ohleduplná k soukromí.
-</subtitle><author><name>Ondřej Profant</name></author><entry><title type="html">Není podpis jako podpis</title><link href="https://www.profant.eu/2020/neni-podpis-jako-podpis.html" rel="alternate" type="text/html" title="Není podpis jako podpis" /><published>2020-11-19T07:00:00+00:00</published><updated>2020-11-19T07:00:00+00:00</updated><id>https://www.profant.eu/2020/neni-podpis-jako-podpis</id><content type="html" xml:base="https://www.profant.eu/2020/neni-podpis-jako-podpis.html">&lt;p&gt;Když se řekne elektronický podpis, většina lidí si představí šifry a zaručené certifikáty. Ale elektronických podpisů máme několik typů, nebo spíše řekněme úrovní.&lt;/p&gt;
+</subtitle><author><name>Ondřej Profant</name></author><entry><title type="html">Skutečný přínos Otevřených měst se projeví až s odstupem času</title><link href="https://www.profant.eu/2020/prinos-om.html" rel="alternate" type="text/html" title="Skutečný přínos Otevřených měst se projeví až s odstupem času" /><published>2020-11-30T19:00:00+00:00</published><updated>2020-11-30T19:00:00+00:00</updated><id>https://www.profant.eu/2020/prinos-om</id><content type="html" xml:base="https://www.profant.eu/2020/prinos-om.html">&lt;p&gt;Spolek Otevřená města za svou krátkou existenci prokázal, že spolupráce mezi obcemi za účelem kvalitní digitalizace a zlepšení transparentnosti má smysl a je o ni zájem. Hlavní přínos navíc spočívá v maximálním důrazu na otevřenost poskytovaných řešení.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;Politická reforma, které se snažíme postupnou poctivou prací v české společnosti dosáhnout, musí nutně probíhat ve všech patrech české politiky. Nestačí tedy jen být zvolen do Parlamentu nebo zastupitelstva. Otevřený a zodpovědný přístup ke správě věcí veřejných, který jako Piráti prosazujeme, je potřeba podpořit i za pomoci dalších nástrojů přímo v místech, kde je informatizace zapotřebí nejvíce a kde také může nejlépe sloužit občanům.&lt;/p&gt;
+
+&lt;p&gt;Za jeden z těchto nástrojů na změnu české politiky je možné považovat i spolek Otevřená města. Ten byl založen za cílem zprůhlednění, zpřehlednění a celkovému zpřístupnění fungování obecních úřadů a uspokojení jejich potřeb v oblasti IT. Spolek funguje jako platforma pro sdílení zkušeností a osvědčených postupů, ale zároveň svým členům prostřednictvím sdílených nákladů nabízí možnost hospodárnějšího pořizování softwarových produktů. Tyto produkty jsou vytvořeny na míru obcím a jsou nabízeny jako open source. Tím se předchází dvěma velkým problémům, kterým obce v pozici zákázníků na trhu s informačními technologiemi čelí – nesrozumitelnosti a výsledné nepoužitelnosti software v běžném provozu a vendor lock-in kvůli nevýhodným licenčním podmínkám a smlouvám.&lt;/p&gt;
+
+&lt;p&gt;Právě praktický přístup k řešení běžných starostí, se kterými se obce při digitalizaci procesů potýkají, je hlavní výhodou Otevřených měst. Dlouhodobé a palčivé &lt;a href=&quot;https://otevrenamesta.cz/problemy/&quot;&gt;problémy&lt;/a&gt;, jako je nedostupnost dat, slabá pozice samotných obcí pro vyjednávání s dodavateli a celková izolovanost jednotlivých řešení, kdy se prakticky stejný systém pro tu samou agendu nakupuje či vyvíjí opakovaně, se lépe řeší společně. Sdružení obcí zcela přirozeně dosáhne lepších a výhodnějších podmínek než obce, která se snaží celé své IT řešit jen v rámci svého beztak napjatého rozpočtu.&lt;/p&gt;
+
+&lt;p&gt;Využívání open dat a dobrá praxe při zveřejňování smluv stejně jako rozvoj prostředků a služeb pro zapojení občanů online jsou důležitými předpoklady úspěšné a prospěšné digitalizace. Proto společně s propagací open source řešení patří mezi hlavní &lt;a href=&quot;https://otevrenamesta.cz/cile/&quot;&gt;cíle Otevřených měst&lt;/a&gt;. Já osobně jsem velice rád, že Otevřená města jsou v tomto směru konzistentní a skutečně otevřená.&lt;/p&gt;
+
+&lt;p&gt;Otevřená města vznikla už v roce 2015, formálně byla založena v roce 2016 a já jsem měl čest být u jejich založení (stejně jako jsem v roce 2009 stál u založení Pirátů). Po určitý čas jsem Otevřená města dokonce vedl jako předseda výboru spolku. O činnosti Otevřených měst se pravidelně zmiňuji na sociálních sítích a zde na svém blogu, zejména při příležitosti konání odborných seminářů a konferencí nebo v souvislosti s aplikací pro vizualizaci rozpočtu &lt;strong&gt;&lt;a href=&quot;https://www.cityvizor.cz/&quot;&gt;CityVizor&lt;/a&gt;&lt;/strong&gt;, která byla vytvořena ve spolupráci s Ministerstvem financí a kterou i nadále rozvíjí týmy z &lt;a href=&quot;https://cesko.digital/&quot;&gt;Česko.Digital&lt;/a&gt; a &lt;a href=&quot;https://operatorict.cz/&quot;&gt;Operátora ICT&lt;/a&gt;. CityVizor zobrazuje rozpočet a jeho čerpání až na úroveň jednotlivých faktur, je tedy užitečným nástrojem nejen pro zvýšení transparentnosti, ale slouží dobře i jako pracovní pomůcka zastupitelům a zaměstnancům úřadů.&lt;/p&gt;
+
+&lt;p&gt;CityVizor ale není jediným úspěšným a užitečným &lt;a href=&quot;https://otevrenamesta.cz/projekty/&quot;&gt;projektem Otevřených měst&lt;/a&gt;. Mezi další pozitivní počiny patří například:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://otevrenamesta.cz/projekty/dsw&quot;&gt;Dotační software&lt;/a&gt;&lt;/strong&gt;
+Nástroj pro správu dotačních programů, který původně nechala vyvinout MČ Praha 3. Software umožňuje snadný příjem, zpracování, kontrolu a hodnocení dotačních žádostí, včetně následného zveřejnění informací o dotaci ve formátu otevřených dat.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://otevrenamesta.cz/projekty/GISEditor&quot;&gt;Geografický informační systém&lt;/a&gt;&lt;/strong&gt;
+Obce velmi častu pracují s geograficky a prostorově vztaženými daty, například pro účely územního plánování. Dlouhodobá poptávka po dostupném GIS editoru tak spěla ke společnému projektu na vytvoření takového otevřeného nástroje.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://otevrenamesta.cz/projekty/lo_interoperabilita&quot;&gt;Interoperabilita LibreOffice&lt;/a&gt;&lt;/strong&gt;
+Na trhu s kancelářskými balíky jasně dominují produkty velkých korporací, které si tak můžou snadno diktovat své podmínky. Otevřená města proto podporují vývoj open source alternativy Libre Office, kterou je možné využívat zcela bezplatně.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Navzdory své krátké existenci a omezeným finančním zdrojům a personálním kapacitám tak Otevřená města dokázala, že můžou členským obcím přinést mnoho výhod a úspor. Mají navíc ohromný potenciál růstu. V současnosti členské obce Otevřených měst zastupují celkem 697 753 obyvatel. Pro srovnání členské obce Svazu měst a obcí ČR zastupují 8 499 200 obyvatel, poptávka po spolupráci samospráv je tedy velká. S rostoucím významem digitalizace a rozšiřováním digitálních služeb se tak můžou naplno projevit i veškeré výhody moderního přístupu Otevřených měst. Jejich opravdový přínos, který tkví právě v důrazu na vývoj otevřených řešení, se navíc projeví až s odstupem času.&lt;/p&gt;</content><author><name>Ondřej Profant</name></author><category term="Regiony" /><category term="regiony" /><category term="egovernment" /><category term="digitalizace" /><summary type="html">Spolek Otevřená města za svou krátkou existenci prokázal, že spolupráce mezi obcemi za účelem kvalitní digitalizace a zlepšení transparentnosti má smysl a je o ni zájem. Hlavní přínos navíc spočívá v maximálním důrazu na otevřenost poskytovaných řešení.</summary></entry><entry><title type="html">Není podpis jako podpis</title><link href="https://www.profant.eu/2020/neni-podpis-jako-podpis.html" rel="alternate" type="text/html" title="Není podpis jako podpis" /><published>2020-11-19T07:00:00+00:00</published><updated>2020-11-19T07:00:00+00:00</updated><id>https://www.profant.eu/2020/neni-podpis-jako-podpis</id><content type="html" xml:base="https://www.profant.eu/2020/neni-podpis-jako-podpis.html">&lt;p&gt;Když se řekne elektronický podpis, většina lidí si představí šifry a zaručené certifikáty. Ale elektronických podpisů máme několik typů, nebo spíše řekněme úrovní.&lt;/p&gt;
 
 &lt;!--more--&gt;
 
@@ -52,7 +77,8 @@ Zákon nepamatuje na to, že by se úředně daly ověřovat podpisy elektronick
       &lt;th rowspan=&quot;4&quot;&gt;
         &lt;span style=&quot;writing-mode: vertical-lr;
                      -ms-writing-mode: tb-rl;
-                     transform: rotate(180deg);&quot;&gt;
+                     transform: rotate(180deg);
+                     min-width:15px;&quot;&gt;
                      Elektronický
         &lt;/span&gt;
       &lt;/th&gt;
@@ -853,53 +879,4 @@ Ivan Bartoš připravuje vládní tým a shromažďuje podklady pro strategie a 
 
 &lt;p&gt;Městská cyklistika tedy není bojem proti autům. Ale hledáním alternativy k neudržitelnému způsobu dopravy. Jedná se o rozšíření možností dopravy, které si obyvatel může zvolit. Vyvážený dopravní mix prospívá všem druhům dopravy i celému městu. Koneckonců asi všichni víme, že nejlépe se autem jezdí, pokud je město prázdné (typicky v noci).&lt;/p&gt;
 
-&lt;p&gt;V příštím článku se podíváme na konkrétní legislativní návrhy jak napomoci cyklistice.&lt;/p&gt;</content><author><name>Ondřej Profant</name></author><category term="Cyklo" /><category term="cyklo" /><category term="praha" /><summary type="html">Kolo ve městech vzbuzuje silné emoce. U některých pozitivní, u některých negativní. Pojďme si rozebrat, proč nás tak dražďí a čím narušuje status quo.</summary></entry><entry><title type="html">Zvládla státní správa home office při koronakrizi?</title><link href="https://www.profant.eu/2020/covid-home-office.html" rel="alternate" type="text/html" title="Zvládla státní správa home office při koronakrizi?" /><published>2020-08-21T08:00:00+00:00</published><updated>2020-08-21T08:00:00+00:00</updated><id>https://www.profant.eu/2020/covid-home-office</id><content type="html" xml:base="https://www.profant.eu/2020/covid-home-office.html">&lt;p&gt;Koronavirová krize přinesla i několik nečekaných důsledků. Jedním z nich bylo, že si spousta lidí i firem „nedobrovolně“ vyzkoušela práci z domova. Zajímalo mě, jak si v porovnání s firmami vedla naše státní správa. Napsal jsem proto dopis několika úřadům a pro porovnání i pár malým a středním firmám. Některé úřady se nové situaci efektivně přizpůsobily, u jiných nedošlo k téměř žádné změně.&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;p&gt;Home office je společně s flexibilními úvazky příležitost, jak zvýšit efektivitu práce nebo usnadnit návrat návrat maminek a tatínků z rodičovské dovolené. Byl bych rád, kdyby se tak v přiměřené míře stalo i ve veřejné správě, proto mě velmi zajímala přímá zkušenost úřadů.&lt;/p&gt;
-
-&lt;h3 id=&quot;kde-to-úřady-zvládly&quot;&gt;Kde to úřady zvládly&lt;/h3&gt;
-
-&lt;p&gt;Potěšily mě zejména odpovědi ministerstev. Na &lt;strong&gt;ministerstvu průmyslu a obchodu&lt;/strong&gt; (MPO) pracovalo na home office v různém rozsahu až 55 % zaměstnanců, na &lt;strong&gt;ministerstvu pro místní rozvoj&lt;/strong&gt; dokonce 85 %.&lt;/p&gt;
-
-&lt;p&gt;MPO ve své odpovědi specifikovalo, že díky krizi začali používat programy Microsoft OneDrive aTeams, a že očekávají jejich další využití v budoucnu. Zároveň zde v některých odborech fungovala koordinace úředníků, kdy byl např. fyzicky přítomný jeden z nich, který s ostatními útvary řešil jejich potřeby a následně distribuoval úkoly mezi úředníky na home office. MPO také přistoupilo k zavádění dvoufaktorového ověření při vzdáleném přihlášení, například skrz OTP token nebo aplikaci v telefonu. To jednoznačně chválím, protože důraz na zabezpečení citlivých dat je nezbytný.&lt;/p&gt;
-
-&lt;p&gt;Problémem zůstává nedostatek vybavení a také administrativní náročnost, kdy je potřeba s každým zaměstnancem nejprve uzavřít dohodu o výkonu práce z domova. Toto se ale netýká jen státní správy, ale každého zaměstnaneckého poměru.&lt;/p&gt;
-
-&lt;p&gt;Od &lt;strong&gt;ministerstva zemědělství&lt;/strong&gt; jsem obdržel jen neurčitou odpověď, že k práci z domova a k rotování zaměstnanců dochází. Jako nedostatky zmiňuje ministerstvo nízkou vybavenost, otázku bezpečnosti a také problém kontroly vykonané práce.&lt;/p&gt;
-
-&lt;p&gt;Také &lt;strong&gt;Úřad práce&lt;/strong&gt; se alespoň částečně dokázal přizpůsobit nečekaným podmínkám. Podle jejich informací pracovala z domova přibližně ⅓ zaměstnanců.&lt;/p&gt;
-
-&lt;h3 id=&quot;kde-se-nestalo-vůbec-nic&quot;&gt;Kde se nestalo vůbec nic&lt;/h3&gt;
-
-&lt;p&gt;Přechod na bezpečnější režim práce z domova naopak nezvládla &lt;strong&gt;Česká správa sociálního zabezpečení&lt;/strong&gt; (ČSSZ) nebo &lt;strong&gt;Generální finanční ředitelství&lt;/strong&gt; (GFŘ). Jako jediné opatření zmínilo GFŘ, že došlo ke zrušení služebních cest (což je dost pochopitelné) a školících akcí. Plošnému využití home office prý bránila zejména otázka zabezpečení citlivých dat, se kterými GFŘ pracuje. ČSSZ jako důvod zmínila „nezbytný přístup k fyzickým dokumentům a k aplikacím“.&lt;/p&gt;
-
-&lt;p&gt;Tyto příklady bohužel demonstrují tristní úroveň digitalizace na některých českých úřadech. Elektronizace procesů buď vůbec neproběhla, nebo proběhla špatně a systémy nejsou řádně zabezpečeny pro vzdálený přístup.&lt;/p&gt;
-
-&lt;h3 id=&quot;a-co-soukromníci&quot;&gt;A co soukromníci?&lt;/h3&gt;
-
-&lt;p&gt;Pro porovnání jsem oslovil i několik malých a středních českých firem. Ty se nové situaci přizpůsobily lépe, jednoduše proto, že musely.&lt;/p&gt;
-
-&lt;p&gt;Od personální firmy Předvýběr jsem obdržel výsledky &lt;a href=&quot;https://www.predvyber.cz/novinky/tiskove-zpravy/home-office-behem-epidemie-vyuziva-tretina-lidi-pracuji-a-jeste-stihnou-spoustu-jinych-veci/&quot;&gt;průzkumu&lt;/a&gt;, podle kterého home office využívala až třetina zaměstnanců. Výzkum ale také potvrdil, že home office není pro každého: téměř polovině respondentů se na home office pracovalo hůře než v práci. Efektivita práce z domova tedy záleží na prioritách daného zaměstnance a taky na typu práce.&lt;/p&gt;
-
-&lt;p&gt;To mi potvrdil i šéf účetní firmy Altaxo, pan Kubáň, který také zdůraznil nutnost kontrolních nástrojů jako např. standardizovaných výkazů práce. Podle jeho názoru by home office v kombinaci s částečnými úvazky dokázal do systému přilákat kvalitativně lepší pracovníky. To je problémem i veřejné správy, kde rigidní pracovní podmínky mohou být pro potencionálně kvalitní zaměstnance nepřekonatelnou bariérou.&lt;/p&gt;
-
-&lt;h3 id=&quot;co-s-tím&quot;&gt;Co s tím?&lt;/h3&gt;
-
-&lt;p&gt;Ideálem je vytvořit takovou organizaci veřejné správy, aby co nejvíce úředníkům umožňovala flexibilně pracovat nezávisle na fyzickém místě. Je to výhodné nejen v případě pandemie, či skloubení pracovního života s péčí o rodinu, ale pomůže to i v mnoha jiných oblastech. Například tolik diskutované vylidňování venkova lze částečně řešit tím, že zaměstancům a zaměstnankyním umožníme alespoň část času pracovat na dálku. Home office je pro některé preferovanou formou práce a benefity přináší i zaměstnavatelům. Lze tak ušetřit na fyzických pracovních místech, nájmech, úklidu i kafi.&lt;/p&gt;
-
-&lt;p&gt;Samozřejmě toto nelze aplikovat u všech pracovních pozic. Musí zůstat funkční hustá síť kontaktních pracovišť, aby si i lidé, kteří nechtějí komunikovat digitálně, mohli zařídit na úřadech vše potřebné jako dosud. Jak toho docílit?&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Důsledně digitalizovat procesy ve veřejné správě. Nikoliv metodou přepisování papírových postupů do digitálního světa, ale skutečně promyšlenou transformací s využitím možností, které mobily, počítače a internet dnes nabízí tak, aby proces byl opravdu efektivní.&lt;/li&gt;
-  &lt;li&gt;Zrušením místní příslušnosti u agend, kde stále zůstává (například správa sociálního zabezpečení).&lt;/li&gt;
-  &lt;li&gt;Sloučení kontaktních pracovišť pro více agend tak, aby zůstali široce dostupné a mohli být i v menších obcích.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;po-home-office-i-korespondenční-volba&quot;&gt;Po home office i korespondenční volba?&lt;/h3&gt;
-
-&lt;p&gt;Opět se ukázalo, že z nečekané situace mohou zapříčinit vznik nových inovací nebo jejich urychlení. Kromě práce na dálku je dalším příkladem otázka voleb. Možná se tak díky covidu dočkáme zavedení nových způsobů volby, jako třeba korespondenčního hlasování. To navrhoval Vojta Pikal už před víc jak rokem. Bohužel ministerstvo vnitra náš návrh pro podzimní krajské volby nepřijalo, ale uvidíme co za rok.&lt;/p&gt;
-
-&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p lang=&quot;cs&quot; dir=&quot;ltr&quot;&gt;Včera jsem byl v Událostech komentářích na ČT k tématu voleb v době COVIDu. &lt;br /&gt;&lt;br /&gt;Všeobecné volby jsou základem demokratického státu. Neumím si představit, že by stát omezil volební právo lidí v preventivní karanténě.&lt;a href=&quot;https://t.co/fYtiJFsfjl&quot;&gt;https://t.co/fYtiJFsfjl&lt;/a&gt;&lt;/p&gt;&amp;mdash; Ondřej Profant (@ondrej_profant) &lt;a href=&quot;https://twitter.com/ondrej_profant/status/1290927964524367873?ref_src=twsrc%5Etfw&quot;&gt;August 5, 2020&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;</content><author><name>Ondřej Profant</name></author><category term="Digitalizace" /><category term="digitalizace" /><category term="práce" /><summary type="html">Koronavirová krize přinesla i několik nečekaných důsledků. Jedním z nich bylo, že si spousta lidí i firem „nedobrovolně“ vyzkoušela práci z domova. Zajímalo mě, jak si v porovnání s firmami vedla naše státní správa. Napsal jsem proto dopis několika úřadům a pro porovnání i pár malým a středním firmám. Některé úřady se nové situaci efektivně přizpůsobily, u jiných nedošlo k téměř žádné změně.</summary></entry></feed>
+&lt;p&gt;V příštím článku se podíváme na konkrétní legislativní návrhy jak napomoci cyklistice.&lt;/p&gt;</content><author><name>Ondřej Profant</name></author><category term="Cyklo" /><category term="cyklo" /><category term="praha" /><summary type="html">Kolo ve městech vzbuzuje silné emoce. U některých pozitivní, u některých negativní. Pojďme si rozebrat, proč nás tak dražďí a čím narušuje status quo.</summary></entry></feed>
