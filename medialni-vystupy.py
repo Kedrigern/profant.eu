@@ -22,6 +22,14 @@ class Config:
         "praha.pirati.cz": {
             "url": "git@github.com:pirati-web/praha.pirati.cz.git",
             "prefix": "/"
+        },
+        "praha8.pirati.cz": {
+            "url": "https://github.com/pirati-web/praha8.pirati.cz",
+            "prefix": "/tiskove-zpravy/"
+        },
+        "praha11.pirati.cz": {
+            "url": "https://github.com/pirati-web/praha11.pirati.cz",
+            "prefix": "/tiskove-zpravy/"
         }
     }
     verbose = True
