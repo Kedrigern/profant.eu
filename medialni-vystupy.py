@@ -47,9 +47,13 @@ def article_clean(article):
         article['date'] = article['date'][0]
         article['tags'] = article['tags'][0]
         article['author'] = article['author'][0]
-    except KeyError:
-        article['tags'] = ""
-        print("Error: " + title[0])
+    except KeyError as e:
+        if e.args[0] == 'tags':
+            article['tags'] = ""
+        elif e.args[0] == 'author':
+            article['author'] = ""
+        else:
+            print("KeyError: missing {0} key in {1} in func article clean".format(e, title[0]))
 
 def create_url(path, prefix):
     """
@@ -100,8 +104,11 @@ def process_article(filepath, prefix):
             Result.articles.append(record)
         if not Config.verbose:
             print(".", end="")
-    except KeyError:
-        print("KeyError: ", filepath)
+    except KeyError as e:
+        if e.args[0] == 'author':
+            pass
+        else:
+            print("KeyError: missing {0} key in {1} in the func process_article".format(e, filepath))
 
 def process_repo(dirname, repo):
     """Process one git repository"""
