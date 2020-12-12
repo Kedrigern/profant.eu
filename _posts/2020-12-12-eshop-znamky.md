@@ -39,11 +39,11 @@ Pro rekapitulaci shrnutí základních informací:
 
 10) Cena je namísto [401 nově 309 milionů Kč](https://www.seznamzpravy.cz/clanek/elektronicke-dalnicni-znamky-jsou-vyhozene-penize-rika-hlidac-statu-131945). Což je stále zcela nesmyslná suma, pokud by zadání bylo rozumně připravené. SFDI jistě přijde se sofistikovaným zdůvodněním, proč to bylo třeba, avšak to vše za předpokladu špatné architektury řešení, které náklady zjevně prodražuje.
 
-![edalnice screenshot 1](edalnice3.jpg "Chybové hlášky")
+![edalnice screenshot 1](https://www.profant.eu/assets/img/posts/edalnice3.jpg "Chybové hlášky")
 
 11) Technické řešení nového systému je postavené na CMS Wordpress s množstvím pluginů. Je vidět, že je vše šito horkou jehlou. Například ve vyhledávači Google se vám při hledání "edalnice" zobrazoval text "Takto bude vypadat text. Vyzkoušejte si jaká velikost textu vám bude vyhovovat. Zvětšete nebo zmenšete si text podle vašich potřeb." V konzoli webového prohlížeče se dále objevovaly různé chybové hlášky. Od projektu za sta miliony bych očekával mnohem více. Nejméně důsledné otestování před spuštěním (na to ani nejsou potřeba kvalifikovaní specialisté, ale zvládnou to bez problémů běžní referenti).
 
-![edalnice screenshot 2](edalnice1.jpg "Text vyhledávače")
+![edalnice screenshot 2](https://www.profant.eu/assets/img/posts/edalnice1.png "Text vyhledávače")
 
 12) Celé řešení je však k ničemu, protože nerespektuje digitální cestu. Legislativa není uzpůsobena a není možno automaticky kontrolovat dálniční známky. Čili hlavní [cíl projektu a možná nejvyšší úspora zcela chybí](
 https://www.piratskelisty.cz/clanek-3650-spusteni-elektronicke-dalnicni-znamky-skoncilo-fiaskem-projekt-za-stovky-milionu-selhava-na-novou-eru-na-dalnicich-zatim-zapomenme).
