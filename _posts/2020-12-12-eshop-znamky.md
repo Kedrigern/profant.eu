@@ -50,7 +50,7 @@ https://www.piratskelisty.cz/clanek-3650-spusteni-elektronicke-dalnicni-znamky-s
 
 13) V momentě veřejného spuštění web nevydržel nápor uživatelů, a proto ho ministr raději nechal vypnout. To vypovídá hodně o schopnosti vlády udržovat důležité systémy v chodu (nebo je vůbec dokázat spustit).
 
-14) Web také nerespektuje centrální egovernment. Takto významný portál by měl být na centrální státní doméně `.gov.cz`. Stejně tak web nerespektuje společný design, který nastavil [Portál občana](https://portal.gov.cz) a který převzaly například již datové schránky.
+14) Web také nerespektuje centrální egovernment. Rozhodně by měl web využít centrální identity NIA a být napojen na [Portál občana](https://portal.gov.cz). Takto významný portál by měl tají být na centrální státní doméně `.gov.cz`. Stejně tak web nerespektuje společný design, který nastavil již zmiňovaný portál a který převzaly například datové schránky.
 
 15) Na hackathonu vznikla i koncepce, že by stát provozoval primárně backend. Samotný prodej by zajistily běžné eshopy. Výhoda je, že by státní eshop nebyl pod takovou návštěvností a leccos by mu šlo odpustit. Kupon byste si pak mohli zakoupit ve svém oblíbeném eshopu (třeba společně s jinými nákupy). 
 
