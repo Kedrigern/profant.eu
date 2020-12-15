@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Prvotní verze Katalogu služeb je od ideálu daleko. Ve vládě bují resortismus"
+title:      "Prvotní verze Katalogu služeb je od ideálu daleko, ve vládě bují resortismus"
 date:       2020-12-15
 categories: Digitalizace
 comments:   true
@@ -37,7 +37,7 @@ Nejzodpovědněji se k úkolu postavilo postavilo Ministerstvo vnitra, které do
 Jednotlivá odůvodnění, proč některé služby nelze digitalizovat, jsou navíc skutečně absurdní:
 - Ministerstvo zemědělství argumentuje, že **správní poplatek nejde zaplatit online**. Přitom již samotný zákon s platbou online počítá.
 - Ministerstvo průmyslu a obchodu nenavrhlo žádnou agendu vhodnou k digitalizaci, u velké části z nich tomu údajně brání **nemožnost seznámit se s podklady digitálně** - přitom elektronické nahlížení do spisu je na mnoha úřadech a soudech možné.
-- Ministerstvo práce a sociálních věcí také nenavrhlo ani jednu agendu, například pro seznámení se s podklady rozhodnutí ohledně vrácení přeplatku na dávce hmotné nouze je údajně **„potřeba dostavit se osobně na úřad“**, to by ale znamenalo, že agendu nelze řešit ani doporučeným dopisem, natož elektronicky.
+- Ministerstvo práce a sociálních věcí také nenavrhlo ani jednu agendu k digitalizaci. Například seznámení se s podklady rozhodnutí ohledně vrácení přeplatku na dávce hmotné nouze je údovděnou **„potřebou dostavit se osobně na úřad“**. Úřady tak asi neumí dokumenty poslat ani poštou, ani například datovou schránkou.
 
 Prvotní verze tohoto Katalogu bude podle informací Ministerstva vnitra v průběhu ledna ještě doplňována, popisovaný stav tak naštěstí není finální. Snad se podaří do 1. února seznam zkompletovat tak, aby skutečně obsahoval alespoň většinu běžných služeb, které stát poskytuje. Ideálním bonusem k tomu by bylo obeznámit ministerstva s fungováním platebních karet, e-mailů, datových schránek a dalších vymožeností 21. století.
 
