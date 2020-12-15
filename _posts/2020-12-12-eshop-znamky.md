@@ -45,7 +45,7 @@ Pro rekapitulaci shrnutí základních informací:
 
 ![edalnice screenshot 2](https://www.profant.eu/assets/img/posts/edalnice1.png "Text vyhledávače")
 
-12) Celé řešení je však k ničemu, protože nerespektuje digitální cestu. Legislativa není uzpůsobena a není možno automaticky kontrolovat dálniční známky. Čili hlavní [cíl projektu a možná nejvyšší úspora zcela chybí](
+12) Celé řešení je však k ničemu, protože nerespektuje digitální cestu. Legislativa není uzpůsobena a není možno automaticky kontrolovat dálniční známky. Nově instalované brány sice přečtou SPZ a porovnají ji s databází zaplacených známek, ale už nepoznají, jestli náhodou nemáte výjimku z povinnosti mít známku. To budou muset udělat až policisté, když auto zastaví. Čili hlavní [cíl projektu a možná nejvyšší úspora zcela chybí](
 https://www.piratskelisty.cz/clanek-3650-spusteni-elektronicke-dalnicni-znamky-skoncilo-fiaskem-projekt-za-stovky-milionu-selhava-na-novou-eru-na-dalnicich-zatim-zapomenme).
 
 13) V momentě veřejného spuštění web nevydržel nápor uživatelů, a proto ho ministr raději nechal vypnout. To vypovídá hodně o schopnosti vlády udržovat důležité systémy v chodu (nebo je vůbec dokázat spustit).
