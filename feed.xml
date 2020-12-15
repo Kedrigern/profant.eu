@@ -1,7 +1,98 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://www.profant.eu/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.profant.eu/" rel="alternate" type="text/html" /><updated>2020-12-15T10:06:42+00:00</updated><id>https://www.profant.eu/feed.xml</id><title type="html">Profant</title><subtitle>Zápisník pirátského poslance Ondřeje Profanta, který se zaměřuje na opendata, e-government, digitalizaci společnosti a kybernetickou bezpečnost.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://www.profant.eu/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.profant.eu/" rel="alternate" type="text/html" /><updated>2020-12-15T16:49:47+00:00</updated><id>https://www.profant.eu/feed.xml</id><title type="html">Profant</title><subtitle>Zápisník pirátského poslance Ondřeje Profanta, který se zaměřuje na opendata, e-government, digitalizaci společnosti a kybernetickou bezpečnost.
 Rád bych byl, aby Česká republika byla moderním státem s rozvinutou digitální ekonomikou, kde je kladen silný důraz na vzdělávání a svobodu.
 V digitalizaci se musíme inspirovat ve Velké Britanii, Dánsku a Estonsku, řešení musí být otevřená, uživatelsky přívětivá a ohleduplná k soukromí.
-</subtitle><author><name>Ondřej Profant</name></author><entry><title type="html">Eshop na dálniční známky aneb Jak nedělat egovernment</title><link href="https://www.profant.eu/2020/eshop-znamky.html" rel="alternate" type="text/html" title="Eshop na dálniční známky aneb Jak nedělat egovernment" /><published>2020-12-12T18:00:00+00:00</published><updated>2020-12-12T18:00:00+00:00</updated><id>https://www.profant.eu/2020/eshop-znamky</id><content type="html" xml:base="https://www.profant.eu/2020/eshop-znamky.html">&lt;p&gt;Eshop na dálniční známky vyvolal vášně už na začátku roku, kdy byla zrušena původní zakázka na jeho realizaci. Problémy s eshopem ale vyvrcholily s jeho oficálním spuštěním, které doprovázala řada technických selhání způsobených špatnými rozhodnutími.&lt;/p&gt;
+</subtitle><author><name>Ondřej Profant</name></author><entry><title type="html">Prvotní verze Katalogu služeb je od ideálu daleko. Ve vládě bují resortismus</title><link href="https://www.profant.eu/2020/katalog-sluzeb.html" rel="alternate" type="text/html" title="Prvotní verze Katalogu služeb je od ideálu daleko. Ve vládě bují resortismus" /><published>2020-12-15T00:00:00+00:00</published><updated>2020-12-15T00:00:00+00:00</updated><id>https://www.profant.eu/2020/katalog-sluzeb</id><content type="html" xml:base="https://www.profant.eu/2020/katalog-sluzeb.html">&lt;p&gt;Když byl před více než rokem schválen Sněmovnou Zákon o právu na digitální služby, bylo jako první mezník digitalizace označeno sestavení Katalogu služeb. V meziresortním připomínkovém řízení se minulý týden objevila jeho první verze.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;Katalog služeb má obsahovat soupis všech služeb, které ministerstva poskytují. Jak &lt;a href=&quot;https://www.egovernment.cz/inpage/katalog-sluzeb-a-digizakon/&quot;&gt;uvádí ředitel odboru eGovernmentu Roman Vrba&lt;/a&gt; obsahuje katalog všechny služby, které stát poskytuje. Tedy jak služby na žádost, tak služby poskytované z vlastní úřední povinnosti. A to služby digitální i nedigitální, tedy i ty, které není možné digitalizovat, a proto nikdy digitální nebudou. Finální verzi tohoto katalogu musí vláda zveřejnit do 1. února 2020.&lt;/p&gt;
+
+&lt;p&gt;Verze, která šla minulý týden do meziresortního připomínkového řízení, se však tomuto ideálu ani zdaleka neblíží. Seznam 663 služeb se na první pohled může zdát jako dostačující, avšak bližší zkoumání odhalí, že jde spíše o náhodnou, neúplnou změť agend, než o systematický soupis. Vina v tomto případě není na odboru eGovernmentu Ministerstva vnitra, který celý katalog připravuje, ale na jednotlivých ministerstvech. Těm ani několik měsíců připravy nestačilo k tomu, aby sepsala, co vlastně dělají.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Služby&lt;/th&gt;
+      &lt;th&gt;digitalizovatelné&lt;/th&gt;
+      &lt;th&gt;nedigitalizovatelné&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Ministerstvo vnitra&lt;/td&gt;
+      &lt;td&gt;218&lt;/td&gt;
+      &lt;td&gt;136&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Ministerstvo dopravy&lt;/td&gt;
+      &lt;td&gt;25&lt;/td&gt;
+      &lt;td&gt;112&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Ministerstvo zahraničních věcí&lt;/td&gt;
+      &lt;td&gt;2&lt;/td&gt;
+      &lt;td&gt;10&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Ministerstvo obrany&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;5&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Ministerstvo práce a sociálních věcí&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;14&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Ministerstvo pro místní rozvoj&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;8&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Ministerstvo průmyslu a obchodu&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;75&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Ministerstvo zdravotnictví&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;2&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Ministerstvo zemědělství&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;12&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Ministerstvo životního prostředí&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;17&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Národní bezpečnostní úřad&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;27&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;Celkem&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;strong&gt;245&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;strong&gt;418&lt;/strong&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;Nejzodpovědněji se k úkolu postavilo postavilo Ministerstvo vnitra, které dokonce považuje většinu svých služeb za digitalizovatelné. Ostatní ministerstva dodala velmi neúplné seznamy, kde navíc většinu svých služeb považují za nedigitalizovatelnou. Ministerstvo spravedlnosti, kterému např. evropské nařízení &lt;a href=&quot;https://ec.europa.eu/info/publications/company-law-package_en&quot;&gt;Company Law package&lt;/a&gt; přikazuje digitalizovat zakládání firem, nedodalo ani čárku. Obdobně skoupá byla i ministerstva financí, školství a kultury. Ze 17 služeb, které uvedlo Ministerstvo životního prostředí, se jich 9 týká činnosti v Antarktidě a 5 geologických prací. Nechce se věřit, že MŽP řeší převážně tyto agendy.&lt;/p&gt;
+
+&lt;p&gt;Jednotlivá odůvodnění, proč některé služby nelze digitalizovat, jsou navíc skutečně absurdní:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Ministerstvo zemědělství argumentuje, že &lt;strong&gt;správní poplatek nejde zaplatit online&lt;/strong&gt;. Přitom již samotný zákon s platbou online počítá.&lt;/li&gt;
+  &lt;li&gt;Ministerstvo průmyslu a obchodu nenavrhlo žádnou agendu vhodnou k digitalizaci, u velké části z nich tomu údajně brání &lt;strong&gt;nemožnost seznámit se s podklady digitálně&lt;/strong&gt; - přitom elektronické nahlížení do spisu je na mnoha úřadech a soudech možné.&lt;/li&gt;
+  &lt;li&gt;Ministerstvo práce a sociálních věcí také nenavrhlo ani jednu agendu, například pro seznámení se s podklady rozhodnutí ohledně vrácení přeplatku na dávce hmotné nouze je údajně &lt;strong&gt;„potřeba dostavit se osobně na úřad“&lt;/strong&gt;, to by ale znamenalo, že agendu nelze řešit ani doporučeným dopisem, natož elektronicky.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Prvotní verze tohoto Katalogu bude podle informací Ministerstva vnitra v průběhu ledna ještě doplňována, popisovaný stav tak naštěstí není finální. Snad se podaří do 1. února seznam zkompletovat tak, aby skutečně obsahoval alespoň většinu běžných služeb, které stát poskytuje. Ideálním bonusem k tomu by bylo obeznámit ministerstva s fungováním platebních karet, e-mailů, datových schránek a dalších vymožeností 21. století.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.profant.eu/assets/xlsx/katalog.xlsx&quot;&gt;Prvotní verze Katalogu služeb v rámci meziresortního připomínkového řízení&lt;/a&gt;&lt;/p&gt;</content><author><name>Bára Soukupová</name></author><category term="Digitalizace" /><category term="egovernment" /><category term="digitalizace" /><summary type="html">Když byl před více než rokem schválen Sněmovnou Zákon o právu na digitální služby, bylo jako první mezník digitalizace označeno sestavení Katalogu služeb. V meziresortním připomínkovém řízení se minulý týden objevila jeho první verze.</summary></entry><entry><title type="html">Eshop na dálniční známky aneb Jak nedělat egovernment</title><link href="https://www.profant.eu/2020/eshop-znamky.html" rel="alternate" type="text/html" title="Eshop na dálniční známky aneb Jak nedělat egovernment" /><published>2020-12-12T18:00:00+00:00</published><updated>2020-12-12T18:00:00+00:00</updated><id>https://www.profant.eu/2020/eshop-znamky</id><content type="html" xml:base="https://www.profant.eu/2020/eshop-znamky.html">&lt;p&gt;Eshop na dálniční známky vyvolal vášně už na začátku roku, kdy byla zrušena původní zakázka na jeho realizaci. Problémy s eshopem ale vyvrcholily s jeho oficálním spuštěním, které doprovázala řada technických selhání způsobených špatnými rozhodnutími.&lt;/p&gt;
 
 &lt;!--more--&gt;
 
@@ -799,68 +890,4 @@ Ivan Bartoš připravuje vládní tým a shromažďuje podklady pro strategie a 
 
 &lt;p&gt;Zároveň se nám v příštích měsících naskytne příležitost, jak digitalizaci urychlit, a to díky prostředkům z Plánu oživení, který v návaznosti na koronavirovou krizi přijala Evropská unie. Pro ČR by z něj mělo jít až 180 miliard korun. Zde je klíčové, aby ten náš národní plán obnovy, který má připravit ministr Havlíček, nebyl dělaný logikou beton, beton, beton, ale obsahoval opravdu smysluplné investice, které pomohou efektivně transformovat jak českou státní správu, tak i celou ekonomiku.&lt;/p&gt;</content><author><name>Ondřej Profant</name></author><category term="Egovernment" /><category term="finance" /><category term="data-driven" /><summary type="html">Politika musí být založena na faktech, datech a názorech expertů. U nás se to bohužel neděje. Nedávný průzkum vlády ukázal, že většina dopadových analýz (tzv. RIA) vzniká v rozporu s dobrou praxí. To se projevuje i v neutěšeném stavu digitalizace státní správy, na který pravidelně upozorňuje NKÚ.</summary></entry><entry><title type="html">Video: V Tranzu - Konec povinných sterilizací?</title><link href="https://www.profant.eu/2020/video-v-tranzu.html" rel="alternate" type="text/html" title="Video: V Tranzu - Konec povinných sterilizací?" /><published>2020-09-30T07:00:00+00:00</published><updated>2020-09-30T07:00:00+00:00</updated><id>https://www.profant.eu/2020/video-v-tranzu</id><content type="html" xml:base="https://www.profant.eu/2020/video-v-tranzu.html">&lt;p&gt;V rámci projednávání novely zákona o matrikách předkládám pozměňovací návrh, který ruší povinnost podstoupit kastraci pro dosažení úřední změny pohlaví. Tato praxe je přitom požadovaná už pouze v několika evropských státech, je kritizovaná lidskoprávními organizacemi a odsouzená Evropským soudem pro lidská práva. Nejen o tom jsem mluvil v talkshow V Tranzu, prvním českým talkshow o trans tématech.&lt;/p&gt;
 
-&lt;!--more--&gt;</content><author><name>Ondřej Profant</name></author><category term="Lidská" /><category term="práva" /><category term="lidská práva" /><category term="LGBT" /><category term="sterilizace" /><category term="kastrace" /><category term="trans" /><category term="transgender" /><summary type="html">V rámci projednávání novely zákona o matrikách předkládám pozměňovací návrh, který ruší povinnost podstoupit kastraci pro dosažení úřední změny pohlaví. Tato praxe je přitom požadovaná už pouze v několika evropských státech, je kritizovaná lidskoprávními organizacemi a odsouzená Evropským soudem pro lidská práva. Nejen o tom jsem mluvil v talkshow V Tranzu, prvním českým talkshow o trans tématech.</summary></entry><entry><title type="html">eRouška 2,0</title><link href="https://www.profant.eu/2020/erouska-2.html" rel="alternate" type="text/html" title="eRouška 2,0" /><published>2020-09-18T11:00:00+00:00</published><updated>2020-09-18T11:00:00+00:00</updated><id>https://www.profant.eu/2020/erouska-2</id><content type="html" xml:base="https://www.profant.eu/2020/erouska-2.html">&lt;p&gt;Dnes vyšla nová verze aplikace eRouška. Jedná se o prostředek, který nám všem může pomoci normálně žít i v době probíhající pandemie. Poslouží k včasnému varování při zachování vysoké míry soukromí. Navíc je opensource.&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;p&gt;Stahovat můžete verzi pro &lt;a href=&quot;https://play.google.com/store/apps/details?id=cz.covid19cz.erouska&quot;&gt;android&lt;/a&gt; i &lt;a href=&quot;https://apps.apple.com/cz/app/erou%C5%A1ka/id1509210215&quot;&gt;iOS&lt;/a&gt;. O tom jak by měla fungovat &lt;a href=&quot;https://www.profant.eu/2020/chytra-karantena.html&quot;&gt;chytrá karanténa&lt;/a&gt; jsem informoval již na počátku dubna. eRouška 2.0 je její součástí. Pokud bude mít tato aplikace dostatek uživatelů, tak se nám všem zlepší život. Pomůže včasnému varování při kontaktu s nemocným a díky tomu může zabránit mnohým dalším kontaktům.&lt;/p&gt;
-
-&lt;h2 id=&quot;jak-to-funguje&quot;&gt;Jak to funguje?&lt;/h2&gt;
-
-&lt;p&gt;eRouška 1.0 byl komunitní projekt iniciativy &lt;a href=&quot;https://www.covid19cz.cz/&quot;&gt;covid19cz&lt;/a&gt;. Státem vlastněná akciová společnost NAKIT v srpnu převzala vývoj (při zachování většiny původního tvůrčího týmu) a nyní vydává verzi 2.0. Ta využívá celosvětový protokol, na kterém se domluvili dva největší výrobci operačních systému pro smartphony.&lt;/p&gt;
-
-&lt;p&gt;Obrovskou výhodou je využítí technologie bluetooth. Ta funguje dobře i v budovách či podzemí (metro) a silně napomáhá ochraně soukromí (nejsou získávány údaje o poloze).&lt;/p&gt;
-
-&lt;p&gt;Původní aplikace využívala standardní bluetooth API z operačních systémů, které však nebylo nejvhodnější pro tento druh použití. Aplikace nebyla vždy stabilní a značně vybíjela baterku. Proto je dobře, že do procesu vstoupili majoritní výrobci a navrhli jak to udělat od základu správně. Vytvořili tedy v samotných operačních systémech možnost tohoto druhu trasování, které dbá ochrany soukromí i baterie zařízení. Tato funkcionalita operačního systému se jmenuje &lt;em&gt;Exposure Notifications API&lt;/em&gt;&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; a je dostupná jen &lt;em&gt;orgánům ochrany veřejného zdraví&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;Když aplikaci zapnete, bude pro vaše zařízení generovat náhodná ID. Ta se každých 10–20 minut mění, aby vás pomocí nich nebylo možné identifikovat ani lokalizovat. Tato náhodná ID se vyměňují přes bluetooth s ostatními zařízeními s aplikací eRouška. Telefon pravidelně kontroluje všechna ID přidružená k pozitivním případům COVID-19 a porovnává je se svým seznamem.&lt;/p&gt;
-
-&lt;p&gt;Pokud zjistíte, že jste nakažen, tak se pracovníci Hygieny se vás dotáží zda používáte eRoušku. Pokud ano, tak vám zašle speciální SMS. Tu rozpozná aplikace a nabídne vám možnost odeslat vaše náhodná ID na server. Centrální server ve správě NAKIT pak distribuuje seznam nakažených ID. Telefony dalších uživatelů již samy vyhodnotí zda potkaly nakažené ID, či nikoliv. Pokud ano, tak to oznámí uživateli, nikoliv hygieně.&lt;/p&gt;
-
-&lt;p&gt;Více se můžete dočíst přímo v &lt;a href=&quot;https://www.google.com/covid19/exposurenotifications/&quot;&gt;materiálu od Google&lt;/a&gt; tvůrce operačního systému Android. V tomto článku cituji celé pasáže z jejich popisu. Erouška má také velmi kvalitní nápovědu přímo v aplikaci, popřípadě &lt;a href=&quot;https://erouska.cz/caste-dotazy&quot;&gt;často kladené otázky&lt;/a&gt; naleznete i na jejím webu.&lt;/p&gt;
-
-&lt;p&gt;Mezinárodní spolupráce je v plánu, avšak zatím není implementována. V Evropě vzniká centrální iniciativa, která by měla zajistit výměnu informací. Realnou výměnu informací mezi státy můžeme čekat až na konci října, spíše v listopadu. Mezinárodní přesah je pro Evropu důležitý, protože volný pohyb osob je jedním ze základních pilířů EU.&lt;/p&gt;
-
-&lt;h2 id=&quot;ochrana-soukromí&quot;&gt;Ochrana soukromí&lt;/h2&gt;
-
-&lt;p&gt;Hlavní prvky ochrany soukromí:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Aplikaci (i příslušné API operačního systému) &lt;strong&gt;můžete kdykoliv vypnout&lt;/strong&gt;.&lt;/li&gt;
-  &lt;li&gt;Aplikace &lt;strong&gt;nesleduje vaší polohu&lt;/strong&gt;. Na Androidu však vyžaduje &lt;a href=&quot;https://erouska.cz/caste-dotazy#proc-gps&quot;&gt;oprávnění k lokalizačním službám&lt;/a&gt;.&lt;/li&gt;
-  &lt;li&gt;Vyhledávání možného kontaktu probíhá &lt;strong&gt;přímo v zařízení&lt;/strong&gt;. Vaše identita není sdílena s ostatními uživateli.&lt;/li&gt;
-  &lt;li&gt;Aplikace je &lt;strong&gt;&lt;a href=&quot;https://github.com/covid19cz&quot;&gt;open source&lt;/a&gt;&lt;/strong&gt;. Nezávislí odborníci posuzují kvalitu kódu i to zda dělá jen to, co má. Více o &lt;a href=&quot;https://erouska.cz/audit-kod&quot;&gt;&lt;strong&gt;auditu&lt;/strong&gt; zdrojových kódů eRoušky&lt;/a&gt;.&lt;/li&gt;
-  &lt;li&gt;Váš telefon vysílá pouze &lt;strong&gt;náhodná ID&lt;/strong&gt; a ty se navíc mění v čase.&lt;/li&gt;
-  &lt;li&gt;Příslušné funkce operačního systému jsou dostupné jen &lt;em&gt;orgánům ochrany veřejného zdraví&lt;/em&gt;.&lt;/li&gt;
-  &lt;li&gt;Komunikaci skrze bluetooth napsali výrobci operačního systému. Pokud jim běžně důvěřujete, tak ani zde nemáte důvod ke zvýšeným obavám.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p style=&quot;float: right; max-width: 68%&quot;&gt;&lt;img src=&quot;https://www.profant.eu/assets/img/posts/erouska-schema.png&quot; alt=&quot;Schéma fungování, zdroj: Ian Bott, Financial Times&quot; title=&quot;Schéma fungování, zdroj: Ian Bott, Financial Times&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;slabá-místa&quot;&gt;Slabá místa&lt;/h2&gt;
-
-&lt;p&gt;Aplikace doposud měla čtyři slabá místa, respektive důvody proč jí uživatelé odmítají:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Vybíjení baterie&lt;/strong&gt; mobilu: to zlepšila právě nová verze, mimojiné díky využití &lt;em&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Bluetooth_Low_Energy&quot;&gt;Bluetooth Low Energy&lt;/a&gt;&lt;/em&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Ochrana soukromí&lt;/strong&gt;: doufám, že to jsem pochopitelně vysvětlil a rozptýlil vaše obavy. Je správné se ptát, ale zároveň je potřeba zjišťovat fakta a poměřovat reálné riziko a přínosy.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Aplikace &lt;a href=&quot;https://arstechnica.com/tech-policy/2020/04/2-billion-phones-cannot-use-google-and-apple-contract-tracing-tech/&quot;&gt;nepodporuje&lt;/a&gt; starší verze&lt;/strong&gt; operačních systémů a přístroje bez podpory &lt;em&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Bluetooth_Low_Energy&quot;&gt;Bluetooth Low Energy&lt;/a&gt;&lt;/em&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Hygiena nedostačně využívá data&lt;/strong&gt;: v nové podobě stačí, aby zaslala sms, to se lehce kontroluje a můžete si to vyžádat.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Nízký počet uživatelů&lt;/strong&gt;: tento problém musíme řešit společně.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Poslední 2 důvody přetrvávají. Oboje vláda může snadno změnit. Původní aplikaci vláda téměř nepropagovala. Přitom vládní přítomnost v mediích je značná. Hygiena prozměnu spala ve 20. století a byla probuzena opravdovou krizí. Je pochopitelné, že v březnu a dubnu to neměla lehké. Ale od té doby měla 4 měsíce na přípravu. Doufám, že vláda nebude i nadále pokračovat ve stylu chaos managmentu, ale podnikne nezbytné kroky.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;Chápu, že i přes to všechno se najdou lidé, kteří aplikaci použít nemohou. Ať už jsou to lidé, kteří nemají chytrý telefon nebo lidé, kteří prostě nechtějí. Nic to nemění na tom, že pokud tuto aplikaci nainstaluje třeba 70% lidí aktivně se pohybujících ve veřejném prostoru, tak to značně napomůže k včasnému varování před nákazou. Systém nikdy nebude 100% spolehlivý, ale rozhodně je lepší se snažit kvalitně a rychle trasovat, než další plošné zastavení celé ekonomiky.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;Popis API: pro &lt;a href=&quot;https://developers.google.com/android/exposure-notifications/exposure-notifications-api&quot;&gt;Androidu&lt;/a&gt;, pro &lt;a href=&quot;https://developer.apple.com/documentation/exposurenotification&quot;&gt;iOS&lt;/a&gt;. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;</content><author><name>Ondřej Profant</name></author><category term="Bezpečnost" /><category term="bezpečnost" /><category term="zdravi" /><summary type="html">Dnes vyšla nová verze aplikace eRouška. Jedná se o prostředek, který nám všem může pomoci normálně žít i v době probíhající pandemie. Poslouží k včasnému varování při zachování vysoké míry soukromí. Navíc je opensource.</summary></entry></feed>
+&lt;!--more--&gt;</content><author><name>Ondřej Profant</name></author><category term="Lidská" /><category term="práva" /><category term="lidská práva" /><category term="LGBT" /><category term="sterilizace" /><category term="kastrace" /><category term="trans" /><category term="transgender" /><summary type="html">V rámci projednávání novely zákona o matrikách předkládám pozměňovací návrh, který ruší povinnost podstoupit kastraci pro dosažení úřední změny pohlaví. Tato praxe je přitom požadovaná už pouze v několika evropských státech, je kritizovaná lidskoprávními organizacemi a odsouzená Evropským soudem pro lidská práva. Nejen o tom jsem mluvil v talkshow V Tranzu, prvním českým talkshow o trans tématech.</summary></entry></feed>
