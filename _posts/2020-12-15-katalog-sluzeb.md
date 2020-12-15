@@ -41,4 +41,4 @@ Jednotlivá odůvodnění, proč některé služby nelze digitalizovat, jsou nav
 
 Prvotní verze tohoto Katalogu bude podle informací Ministerstva vnitra v průběhu ledna ještě doplňována, popisovaný stav tak naštěstí není finální. Snad se podaří do 1. února seznam zkompletovat tak, aby skutečně obsahoval alespoň většinu běžných služeb, které stát poskytuje. Ideálním bonusem k tomu by bylo obeznámit ministerstva s fungováním platebních karet, e-mailů, datových schránek a dalších vymožeností 21. století.
 
-[Prvotní verze Katalogu služeb v rámci meziresortního připomínkového řízení](https://www.profant.eu/assets/xlsx/katalog.xlsx)
+[Prvotní verze Katalogu služeb v rámci meziresortního připomínkového řízení](https://www.profant.eu/assets/xlsx/Katalog.xlsx)
