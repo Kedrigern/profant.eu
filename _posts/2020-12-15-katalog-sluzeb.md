@@ -30,6 +30,10 @@ Verze, která šla minulý týden do meziresortního připomínkového řízení
 | Ministerstvo zemědělství             | 0                 | 12                  |
 | Ministerstvo životního prostředí     | 0                 | 17                  |
 | Národní bezpečnostní úřad            | 0                 | 27                  |
+| Ministerstvo školství                | 0                 | 0                   |  
+| Ministerstvo spravedlnosti           | 0                 | 0                   |  
+| Ministerstvo financí                 | 0                 | 0                   |  
+| Ministerstvo kultury                 | 0                 | 0                   |   
 | **Celkem**                           | **245**           | **418**             |
 
 Nejzodpovědněji se k úkolu postavilo postavilo Ministerstvo vnitra, které dokonce považuje většinu svých služeb za digitalizovatelné. Ostatní ministerstva dodala velmi neúplné seznamy, kde navíc většinu svých služeb považují za nedigitalizovatelnou. Ministerstvo spravedlnosti, kterému např. evropské nařízení [Company Law package](https://ec.europa.eu/info/publications/company-law-package_en) přikazuje digitalizovat zakládání firem, nedodalo ani čárku. Obdobně skoupá byla i ministerstva financí, školství a kultury. Ze 17 služeb, které uvedlo Ministerstvo životního prostředí, se jich 9 týká činnosti v Antarktidě a 5 geologických prací. Nechce se věřit, že MŽP řeší převážně tyto agendy.
