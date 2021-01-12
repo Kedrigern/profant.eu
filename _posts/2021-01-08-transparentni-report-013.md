@@ -54,6 +54,8 @@ Ve své online interpelaci jsem premiéra Andreje Babiše vyzval k tomu, [aby b�
 **Prodloužení nouzového stavu**  
 V říjnu poslanecký klub Pirátů hlasoval pro prodloužení nouzového stavu o 14 dní, zároveň jsme vládu vyzvali k přijetí dalších konkrétních opatření. V oblasti digitalizace šlo hlavně o zamezení zbytečných osobních kontaktů možností práce či komunikace s úřady z domova. Podařilo se nám také prosadit využívání datových zpráv soukromým subjektům zdarma. Více v samostatném článku [Piráti dali vládě jasné mantinely](https://www.profant.eu/2020/pirati-dali-vlade-jasne-mantinely.html).
 
+<blockquote class="twitter-tweet"><p lang="cs" dir="ltr">Dnes jsme prosadili:<br>👉Datové zprávy zdarma<br>👉Komunikaci občanů s úřady telefonicky nebo mailem<br>👉Zavedení homeoffice ve státní správě<br>👉Preferovat digitální dokumenty před naskenovanými<br>👉Možnost centrálně uložit kontaktní údaje občana<br>👉Metodika zastupitelstev online<a href="https://twitter.com/hashtag/psp?src=hash&amp;ref_src=twsrc%5Etfw">#psp</a> <a href="https://twitter.com/hashtag/egov?src=hash&amp;ref_src=twsrc%5Etfw">#egov</a></p>&mdash; Ondřej Profant (@ondrej_profant) <a href="https://twitter.com/ondrej_profant/status/1322224194713735168?ref_src=twsrc%5Etfw">October 30, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
 ### Listopad 2020
 
 **Projednávání stavebního zákona**  
@@ -87,8 +89,6 @@ Jednání a hlasování o [daňové reformě, která z veřejných peněz ukroj�
 
 **Další prodloužení nouzového stavu**  
 V listopadu už Piráti další prodloužení nouzového stavu nepodpořili, protože vláda nepředložila žádný plán. Prodloužení nouzového stavu není žádoucí v situaci, kdy ho vláda využívá převážně pro usnadnění svého fungování, ale skutečnou krizi se jí řešit nedaří. Piráti představili svůj [plán pro boj s pandemii již na konci dubna](https://budoucnostresimeted.cz).
-
-<blockquote class="twitter-tweet"><p lang="cs" dir="ltr">Dnes a zítra probíhá konference OpenAlt. Největší tuzemská konference zaměřená na svobodný svět. A to nejen softwaru.<br><br>Též vás rád uvidím na mé přednášce: Digitalizace státu v době pandemie, kterou mám od 16:00. <a href="https://t.co/eIJsixEVrF">https://t.co/eIJsixEVrF</a> <a href="https://twitter.com/hashtag/openalt?src=hash&amp;ref_src=twsrc%5Etfw">#openalt</a> <a href="https://twitter.com/hashtag/openalt2020?src=hash&amp;ref_src=twsrc%5Etfw">#openalt2020</a></p>&mdash; Ondřej Profant (@ondrej_profant) <a href="https://twitter.com/ondrej_profant/status/1325033122652712961?ref_src=twsrc%5Etfw">November 7, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 **OpenAlt 2020**  
 Vzhledem k pandemii jsem se tentokrát OpenAltu zúčastnil pouze vzdáleně. Na největší tuzemské konferenci o otevřenosti (nejen software) jsem tentokrát streamoval svou přednášku o [Digitalizaci veřejné správy v době pandemie](https://www.facebook.com/ondrej.profant/posts/10218300952541900).
