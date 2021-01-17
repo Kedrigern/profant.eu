@@ -13,9 +13,7 @@ Konečně jsme se dočkali světla na konci dlouhého pandemického tunelu - dis
 
 <!--more-->
 
-15\. 1. byl spuštěn rezervační systém. A objevila se v něm celá řada chyb. 
-
-<blockquote class="twitter-tweet"><p lang="cs" dir="ltr">Zahájení očkování proti koronaviru v Česku nebylo připravené, nezvládlo by se bez nemocnic, které ale dostává pod další tlak, tvrdí Milan Kubek. Nechápe také, proč se senioři mají přihlašovat pomocí elektronického systému, který „jediné, co dělá, že zaměstnává jejich příbuzné.“ <a href="https://t.co/aRvqKSk6je">pic.twitter.com/aRvqKSk6je</a></p>&mdash; CT24zive (@CT24zive) <a href="https://twitter.com/CT24zive/status/1350818278134976512?ref_src=twsrc%5Etfw">January 17, 2021</a></blockquote>
+15\. 1. byl spuštěn rezervační systém. A objevila se v něm celá řada chyb. Milan Kubek prezident české lékařské komory k [tomu říká následující](https://twitter.com/CT24zive/status/1350818278134976512): "Ten systém připravený nebyl, dělá se všechno na poslední chvíli. Už v létě bylo jasné, že budeme muset očkovat. Vláda ale teprve až na podzim začala brát epidemiologickou krizi vážně." Pojďme se podívat, co se stalo konkrétně.
 
 ## Chyby organizační
 
