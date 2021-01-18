@@ -27,10 +27,11 @@ Konečně jsme se dočkali světla na konci dlouhého pandemického tunelu - dis
 
 5) **Špatná komunikace s médii**. Server iRozhlas.cz se již měsíc zajímal přesně o palčivé problémy okolo nakládání s osobními údaji, ale komunikace ze strany NAKIT byla formalistická a snažila se chyby zapírat.
 
-6) **Nebyla domluva s mobilními operátory**, proto nestačila SMS brána jak informoval [DeníkN][].
+6) Některá **očkovací centra** (např. Blansko) **nejsou integrována** do systému. Občané je tedy ani nenajdou v nabídce.
+
+7) **Nebyla domluva s mobilními operátory**, proto nestačila SMS brána jak informoval [DeníkN][].
 <blockquote class="twitter-tweet"><p lang="cs" dir="ltr">Mobilní operátoři o ověřovacích SMS pro registraci k očkování nevěděli. PIN kódy tak lidem přicházely se zpožděním. O půl deváté měli operátoři Chytré karantény ve frontě 40 tisíc SMS zpráv. <a href="https://t.co/v5RYPg5QwF">pic.twitter.com/v5RYPg5QwF</a></p>&mdash; CT24zive (@CT24zive) <a href="https://twitter.com/CT24zive/status/1350094469484457985?ref_src=twsrc%5Etfw">January 15, 2021</a></blockquote>
 
-7) Některá **očkovací centra** (např. Blansko) **nejsou integrována** do systému. Občané je tedy ani nenajdou v nabídce.
 
 Odpovědnost je zcela jistě na vládě, která má zemi svěřenou do péče. Parlament jí ve všem vyšel vstříc, avšak i přesto vláda v čele s premiérem Andrejem Babišem nedokázala připravit klíčové věci včas. Zcela absurdní je výrok poslance ANO J. [Špičáka][spicak], který se snaží hodit vinu na opozici, protože vládě neporadila, že má věci řešit v předstihu.
 
@@ -52,7 +53,7 @@ Odpovědnost je zcela jistě na vládě, která má zemi svěřenou do péče. P
 
 1) Stát měl zvolit lepší doménu než `https://registrace.mzcr.cz` či `crs.uzis.cz`, například státní doména `gov.cz` sice není ideální, avšak je krátká. Nicneříkající zkratky ministerstev nepomáhají. Stát si určitě mohl koupit lepší doménu druhého řádu.
 
-2) ReCaptcha od společnosti Google nepatří na klíčový web veřejné správy. Senioři jsou nuceni klikat na obrázky a rozpoznávat, na kterých jsou fotky semaforů či hydrantů z USA!
+2) ReCaptcha od společnosti Google nepatří na klíčový web veřejné správy. Senioři jsou nuceni klikat na obrázky a rozpoznávat, na kterých jsou fotky semaforů či hydrantů z USA! Zvláště nepochopitelné je použití captcha v momentě, kdy se ověřuje přes sms.
 
 <blockquote class="twitter-tweet"><p lang="cs" dir="ltr">Právě jsem mluvil s babičkou. <br><br>Poněkud jí zmátlo, že při registraci na očkování musela absolvovat test z rozpoznávání hydrantů (ReCaptcha).</p>&mdash; Ondřej Profant (@ondrej_profant) <a href="https://twitter.com/ondrej_profant/status/1350857240899682304?ref_src=twsrc%5Etfw">January 17, 2021</a></blockquote> 
 
