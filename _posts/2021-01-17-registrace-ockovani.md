@@ -50,7 +50,7 @@ Odpovědnost je zcela jistě na vládě, která má zemi svěřenou do péče. P
 
 ## Chyby v návrhu a uživatelské přívětivosti
 
-1) Stát měl zvolit lepší doménu než `https://registrace.mzcr.cz` či ` crs.uzis.cz`, například státní doména `gov.cz` sice není ideální, avšak je krátká. Nicneříkající zkratky ministerstev nepomáhají. Stát si určitě mohl koupit lepší doménu druhého řádu.
+1) Stát měl zvolit lepší doménu než `https://registrace.mzcr.cz` či `crs.uzis.cz`, například státní doména `gov.cz` sice není ideální, avšak je krátká. Nicneříkající zkratky ministerstev nepomáhají. Stát si určitě mohl koupit lepší doménu druhého řádu.
 
 2) ReCaptcha od společnosti Google nepatří na klíčový web veřejné správy. Senioři jsou nuceni klikat na obrázky a rozpoznávat, na kterých jsou fotky semaforů či hydrantů z USA!
 
