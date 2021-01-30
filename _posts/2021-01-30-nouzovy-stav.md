@@ -89,6 +89,7 @@ b) podpořila pravidelné testování zaměstnanců ve firmách, zejména v prů
 a) informaci, že MZ CR 21. 1. 2021 zveřejnilo data o počtu aplikovaných vakcín v jednotlivých krajích po dnech,</td>
             <td>Piráti</td>
         </tr>
+        <tr>
             <td style="background-color: #f04124;"><a href="https://www.psp.cz/sqw/hlasy.sqw?G=75053">✖️</a></td>
             <td>b) Poslanecká sněmovna vyzývá vládu, aby do 25. 1. 2021 rozšířila tato data o indikační skupinu, věkovou kohortu, pořadí dávky.</td>
             <td>Protinávrh ODS</td>
