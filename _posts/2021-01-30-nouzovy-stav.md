@@ -104,7 +104,6 @@ c) umožnila ředitelům škol povolit přítomnost žáků závěrečných roč
 <td>KSČM</td>
 </tr></tbody></table>
 
-
 <table>
 <caption>Přehled schválení nouzových stavů v roce 2020/2021</caption>
 <thead>
@@ -134,15 +133,15 @@ c) umožnila ředitelům škol povolit přítomnost žáků závěrečných roč
 </tr><tr>
 <td>20. 11.</td>
 <td>12. 12.</td>
-<td>Sněmovna</td>
+<td><a href="">Sněmovna</a></td>
 </tr><tr>
 <td>12. 12.</td>
 <td>23. 12.</td>
-<td>Sněmovna</td>
+<td><a href="">Sněmovna</a></td>
 </tr><tr>
 <td>23. 12.</td>
 <td>22. 1</td>
-<td>Sněmovna</td>
+<td><a href="https://www.psp.cz/sqw/hlasy.sqw?G=74944">Sněmovna</a></td>
 </tr><tr>
 <td>22. 1.</td>
 <td>14. 2</td>
