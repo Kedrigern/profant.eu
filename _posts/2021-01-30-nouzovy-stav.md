@@ -1,11 +1,11 @@
 ---
 layout:     post
 title:      "Proč jsem nepodpořil prodloužení nouzového stavu?"
-date:       2021-01-17 20:30:00 +0100
+date:       2021-01-30 20:30:00 +0100
 categories: Bezpečnost
 comments:   true
 tags:       [Bezpečnost]
-img:        facepalm-ockovani.jpg
+img:        stul-mikrofon.jpg
 author:     Ondřej Profant
 ---
 
