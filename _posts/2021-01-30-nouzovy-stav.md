@@ -121,7 +121,11 @@ c) umožnila ředitelům škol povolit přítomnost žáků závěrečných roč
 </tr><tr>
 <td>12. 4.</td>
 <td>30. 4.</td>
-<td>Sněmovna</td>
+<td><a href="https://www.psp.cz/sqw/hlasy.sqw?G=72491">Sněmovna</a></td>
+</tr><tr>
+<td>30. 4.</td>
+<td>17. 5.</td>
+<td><a href="https://www.psp.cz/sqw/hlasy.sqw?G=72860">Sněmovna</a></td>
 </tr><tr>
 <td>5. 10.</td>
 <td>4. 11.</td>
@@ -133,11 +137,11 @@ c) umožnila ředitelům škol povolit přítomnost žáků závěrečných roč
 </tr><tr>
 <td>20. 11.</td>
 <td>12. 12.</td>
-<td><a href="">Sněmovna</a></td>
+<td><a href="https://www.psp.cz/sqw/hlasy.sqw?G=74382">Sněmovna</a></td>
 </tr><tr>
 <td>12. 12.</td>
 <td>23. 12.</td>
-<td><a href="">Sněmovna</a></td>
+<td><a href="https://www.psp.cz/sqw/hlasy.sqw?G=74687">Sněmovna</a></td>
 </tr><tr>
 <td>23. 12.</td>
 <td>22. 1</td>
