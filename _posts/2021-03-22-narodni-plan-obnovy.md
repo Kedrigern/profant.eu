@@ -37,13 +37,13 @@ Plán je rozdělen do tří kategorií: Ekologie, konkurenceschopnost a sociáln
 
 U ekologických opatření hraje prim **dekarbonizace průmyslu a snížení energetické náročnosti budov**. Typicky může jít o výměnu kotlů na uhlí za kotle na biomasu nebo nákup ekologičtějších tepelných čerpadel. Francouzská vláda zároveň monitoruje, jaké procento domů a je ekologicky nehospodárných - v současnosti jde o 17 % obytných domů a cíl je toto číslo co nejvíce snížit. Dostane se ale i na podporu cyklistiky, hromadné dopravy nebo elektromobility. Třešničkou na dortu je pak podpora výzkumu a vývoje zeleného vodíku.
 
-Většinu nákladů v kategorii konkurenceschopnost tvoří dočasné snížení daně z produkce. Jde o obdobu naší daně z přidané hodnoty nebo z nemovitosti a cílem tohoto opatření je podpořit spotřebu. Dále bude podpořena francouzská vládní iniciativa (FranceNum)[https://www.francenum.gouv.fr/france-num], která **poskytuje malým a středním podnikům pomoc s investicemi do digitalizace či kyberbezpečnosti**. Nabízí jak finanční podporu, tak síť aktivátorů a poradenství. 
+Většinu nákladů v kategorii konkurenceschopnost tvoří dočasné snížení daně z produkce. Jde o obdobu naší daně z přidané hodnoty nebo z nemovitosti a cílem tohoto opatření je podpořit spotřebu. Dále bude podpořena francouzská vládní iniciativa [FranceNum](https://www.francenum.gouv.fr/france-num), která **poskytuje malým a středním podnikům pomoc s investicemi do digitalizace či kyberbezpečnosti**. Nabízí jak finanční podporu, tak síť aktivátorů a poradenství. 
 
-V sociální oblasti se počítá s podporou vzdělávání mladých lidí pro strategické a perspektivní sektory, nebo s rekvalifikacemi. Peníze půjdou také na tzv. (back to school příspěvek)[https://www.cleiss.fr/docs/regimes/regime_france/an_4.html], kdy **každá chudá rodina dostane jednorázový příspěvek, aby vybavila své děti do školy**.
+V sociální oblasti se počítá s podporou vzdělávání mladých lidí pro strategické a perspektivní sektory, nebo s rekvalifikacemi. Peníze půjdou také na tzv. [back to school příspěvek](https://www.cleiss.fr/docs/regimes/regime_france/an_4.html), kdy **každá chudá rodina dostane jednorázový příspěvek, aby vybavila své děti do školy**.
 
 Obecně jde [podle expertů](https://www.euractiv.com/section/economy-jobs/news/french-economic-recovery-plan-resonates-strongly-with-german-and-eu-plan/) o dobrý plán, který je v souladu s ekologickými a digitálními cíli EU. Důležitý ale bude monitoring čerpání těchto peněz - bude totiž (oprávněný) tlak na to, aby se peníze dostaly do ekonomiky co nejrychleji. To je něco, na co bychom měli pamatovat i zde v ČR.
 
-![Plán Francie](/assets/img/posts/fr-graf.jpg)
+![Plán Francie](/assets/img/posts/fr_graf.JPG)
 
 ## Plán Moderní a úspěšné Slovensko
 
