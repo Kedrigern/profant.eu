@@ -5,7 +5,7 @@ date:       2021-03-22 16:30:00 +0100
 categories: regiony
 comments:   true
 tags:       [regiony, Piráti, digitalizace]
-img:        NPO.jpg
+img:        vlajka-eu.jpg
 author:     Ondřej Profant
 ---
 
