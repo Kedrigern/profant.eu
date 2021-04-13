@@ -1,7 +1,113 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://www.profant.eu/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.profant.eu/" rel="alternate" type="text/html" /><updated>2021-04-12T14:10:40+00:00</updated><id>https://www.profant.eu/feed.xml</id><title type="html">Profant</title><subtitle>Zápisník pirátského poslance Ondřeje Profanta, který se zaměřuje na opendata, e-government, digitalizaci společnosti a kybernetickou bezpečnost.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://www.profant.eu/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.profant.eu/" rel="alternate" type="text/html" /><updated>2021-04-13T14:19:30+00:00</updated><id>https://www.profant.eu/feed.xml</id><title type="html">Profant</title><subtitle>Zápisník pirátského poslance Ondřeje Profanta, který se zaměřuje na opendata, e-government, digitalizaci společnosti a kybernetickou bezpečnost.
 Rád bych byl, aby Česká republika byla moderním státem s rozvinutou digitální ekonomikou, kde je kladen silný důraz na vzdělávání a svobodu.
 V digitalizaci se musíme inspirovat ve Velké Britanii, Dánsku a Estonsku, řešení musí být otevřená, uživatelsky přívětivá a ohleduplná k soukromí.
-</subtitle><author><name>Ondřej Profant</name></author><entry><title type="html">Bezpečnostní USB klíče: Rozumné řešení elektronického ověření</title><link href="https://www.profant.eu/2021/usb-klice.html" rel="alternate" type="text/html" title="Bezpečnostní USB klíče: Rozumné řešení elektronického ověření" /><published>2021-03-27T05:30:00+00:00</published><updated>2021-03-27T05:30:00+00:00</updated><id>https://www.profant.eu/2021/usb-klice</id><content type="html" xml:base="https://www.profant.eu/2021/usb-klice.html">&lt;p&gt;Pro rozvoj jakýchkoliv digitálních služeb je potřeba zvolit vhodné a bezpečné prostředky pro elektronické ověření identity. FIDO2 USB klíče jsou dobrým řešením, které kromě ochrany nabízí i přístup ke službám českého egovernmentu.&lt;/p&gt;
+</subtitle><author><name>Ondřej Profant</name></author><entry><title type="html">Zpráva o transparentnosti leden 2021 - březen 2021</title><link href="https://www.profant.eu/2021/transparentni-report-014.html" rel="alternate" type="text/html" title="Zpráva o transparentnosti leden 2021 - březen 2021" /><published>2021-04-12T15:30:00+00:00</published><updated>2021-04-12T15:30:00+00:00</updated><id>https://www.profant.eu/2021/transparentni-report-014</id><content type="html" xml:base="https://www.profant.eu/2021/transparentni-report-014.html">&lt;p&gt;Souhrnný report mé činnosti v období leden až březen 2021. Nejčerstvější informace o mých aktivitách naleznete na mých profilech na sociálních sítích a zde na blogu v sekci &lt;a href=&quot;https://www.profant.eu/transparentnost/&quot;&gt;Otevřenost&lt;/a&gt;.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;h3 id=&quot;leden&quot;&gt;Leden&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Centrální rezervační systém očkování&lt;/strong&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.profant.eu/2021/registrace-ockovani.html&quot;&gt;Podrobně jsem rozebral selhání rezervačního systému očkování&lt;/a&gt;. Spuštění systému doprovázela řada organizačních, technických a dalších pochybení. Registrační formulář navíc &lt;a href=&quot;https://www.piratskelisty.cz/clanek-3771-chranit-citliva-osobni-data-ve-zdravotnictvi-je-zaklad-stat-na-to-kasle&quot;&gt;předával marketingové údaje společností Google a Facebook&lt;/a&gt;. Takové propojení je v případě citlivých zdravotních údajů velmi rizikové.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Výpadek systému COVID Najemné a COVID Gastro&lt;/strong&gt;&lt;br /&gt;
+Systém pro posílání žádostí o podporu v programech COVID Nájemné a COVID Gastro ve správě Ministerstva průmyslu a obchodu se už od svého spuštění potýkal s problémy. V průběhu ledna ho potkal ale úplný výpadek, který ministerstvo zdůvodnilo “vyhořením serveru”. Podobné selhání by nemělo být přípustné, proto jsem v této věci &lt;a href=&quot;https://www.facebook.com/ondrej.profant/posts/10218812405927915&quot;&gt;napsal ministru Havlíčkovi dopis s žádostí o vysvětlení&lt;/a&gt;.&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p lang=&quot;cs&quot; dir=&quot;ltr&quot;&gt;Další státní web, který nefunguje. Přitom jde opět jen o formulář. Prostě vláda nemehel. &lt;a href=&quot;https://t.co/xaIsvdVhdO&quot;&gt;https://t.co/xaIsvdVhdO&lt;/a&gt;&lt;/p&gt;&amp;mdash; Ondřej Profant (@ondrej_profant) &lt;a href=&quot;https://twitter.com/ondrej_profant/status/1351638519823929351?ref_src=twsrc%5Etfw&quot;&gt;January 19, 2021&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;&lt;strong&gt;Primární volby&lt;/strong&gt;&lt;br /&gt;
+V primárních volbách mého domovského krajského sdružení jsem byl zvolen na 3. místo pirátské kandidátní listiny pro volby do Poslanecké sněmovny. Velice si vážím široké podpory, kterou mi pražští Piráti vyjádřili. Za tento výsledek jsem vděčný &lt;a href=&quot;https://www.facebook.com/ondrej.profant/posts/10218724621533360&quot;&gt;především svému týmu nejbližších spolupracovníků&lt;/a&gt;, bez kterých by to nešlo.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Chciidentitu a Design systém GOV&lt;/strong&gt;&lt;br /&gt;
+Vždycky jsem rád, když se státu v oblasti &lt;a href=&quot;https://www.facebook.com/ondrej.profant/posts/10218792940881301&quot;&gt;egovernmentu něco povede&lt;/a&gt;. Nový portál chciidentitu.gov.cz je praktickým rozcestníkem pro zřízení online identity pro komunikaci se státem. A dalším užitečným počinem je také &lt;a href=&quot;https://designsystem.gov.cz/&quot;&gt;Design systém GOV&lt;/a&gt;, na kterém jsou dostupné doporučené UX prvky pro státní weby.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Kritika formalistního přístupu k veřejným zakázkám&lt;/strong&gt;&lt;br /&gt;
+K vyloučení firmy ze zádavacího řízení by mělo docházet jen v odůvodněných případech. Ne z naprosto zbytečných příčin, jako tomu bylo v případě zakázky Ministerstva dopravy, které vyřadilo nabídku z důvodu nezaokrouhlení ceny. Úřad pro ochranu hospodářské soutěže naštěstí ministerstvu &lt;a href=&quot;https://www.facebook.com/ondrej.profant/posts/10218825776902181&quot;&gt;udělil pokutu a jasně ukázal&lt;/a&gt;, že takový přístup vůči dodavatelům není vhodný.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Ceny Genderman 2020&lt;/strong&gt;&lt;br /&gt;
+Přestože jsem v cenách Genderman roku 2020 se svou nominací neuspěl, mám velkou radost, že můj kolega &lt;a href=&quot;https://www.otevrenaspolecnost.cz/dokumenty/tiskove-zpravy/tz_ceny_genderman_roku_2020_predany_final_28012021.pdf&quot;&gt;František Kopřiva získal první místo&lt;/a&gt; a s ním i titul Genderman roku. Jsem rád, že jako Piráti ve svém boji za rovné příležitosti žen a mužů nepolevujeme a vytrvale se snažíme prosazovat &lt;a href=&quot;https://www.facebook.com/ondrej.profant/posts/10218838437218681&quot;&gt;férový přístup ve společnosti&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Zobrazování grafů ve sněmovních materiálech&lt;/strong&gt;&lt;br /&gt;
+Drobného vítězství se mi podařilo dosáhnout v zobrazování dat poskytovaných Sněmovnou. &lt;a href=&quot;https://twitter.com/ondrej_profant/status/1354366753430757378&quot;&gt;Na mou žádost byly odstraněny 3D grafy&lt;/a&gt; z výroční zprávy, nové 2D zobrazení je daleko přehlednější.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Odmítnutí nouzového stavu&lt;/strong&gt;&lt;br /&gt;
+Na mém blogu si můžete přečíst důvody, proč jsem v lednu &lt;a href=&quot;https://www.profant.eu/2021/nouzovy-stav.html&quot;&gt;odmítl další prodloužení nouzového stavu&lt;/a&gt;. Není možné nechávat vládě volnou ruku, když boj s pandemií viditelně nezvládá. V článku naleznete také shrnutí informací k různým návrhům, které k nouzovému stavu byly předloženy, a přehled předchozího prodlužování.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Koaliční expertní týmy&lt;/strong&gt;&lt;br /&gt;
+Začalo se pracovat na společném koaličním programu. Jako vedoucí 2 RT samozřejmě práci koordinuji za oba resorty. Společný program připravují ETK - expertní týmy koalice. Já za Piráty vedu ETK Veřejná správa a egovernment. Mým protějškem za STAN je Viktor Vojtko. Druhá přislušná ETK je Místní rozvoj, který za Piráty vede Matouš Vanča. V co největší možné míře vycházíme z již hotového pirátského programu.&lt;/p&gt;
+
+&lt;h3 id=&quot;únor-2021&quot;&gt;Únor 2021&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Snaha o řešení koranavirové krize&lt;/strong&gt;&lt;br /&gt;
+Přes opakovaná manažerská, organizační a další selhání premiéra Babiše a jeho ministrů se z opozice snažíme podávat smysluplné návrhy pro řešení koronakrize. Babišova vláda ale zarputile odmítá jakékoliv jednání s opozicí, zároveň ale také často ignoruje i rady svých vlastních odborníků. Ve spolupráci s koaličním partnerem STAN jsme proto za přispění analytiků a expertů připravili &lt;a href=&quot;https://za5dvanact.pirati.cz/&quot;&gt;plán cesty ven z koronakrize&lt;/a&gt;. Další informace k pandemii si můžete přečíst na Facebooku:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.facebook.com/ondrej.profant/posts/10219041924825744&quot;&gt;Shrnutí stavu ke konci února&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.facebook.com/ivan.bartos.37/posts/10221670640295880&quot;&gt;Testování ve Sněmovně&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.facebook.com/ondrej.profant/posts/10218941028503399&quot;&gt;Představení plánu Za pět dvanáct&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Sněmovna&lt;/strong&gt;&lt;br /&gt;
+Kromě řešení koronavirové krize ale samozřejmě probíhá i běžná sněmovní činnost. Sněmovna měla v únoru několik schůzí (jak řádné, tak mimořádné), kterých jsem se zpravidla osobně účastnil. Také jsem se účastnil jednání dalších orgánů, kterých jsem členem, tedy například Stálé komise pro kontrolu činnosti Národního úřadu pro kybernetickou a informační bezpečnost. Bližší podrobnosti naleznete v mém &lt;a href=&quot;https://www.profant.eu/transparentnost/&quot;&gt;veřejném kalendáři&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Online konference k vizi resortu spravedlnosti&lt;/strong&gt;&lt;br /&gt;
+Zúčastnil jsem se online konference k vizi resortu spravedlnosti pořádanou pirátským resortním týmem Spravedlnost pod záštitou poslance Jakuba Michálka. Na konferenci jsem vystoupil se svým příspěvkem k digitalizaci justice a jejích procesů. K &lt;a href=&quot;https://www.youtube.com/watch?v=kxaTJABCVxM&quot;&gt;dispozici je záznam&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Schůzka s ředitelem ÚOHS&lt;/strong&gt;&lt;br /&gt;
+Společně s pirátskou senátorkou Adélou Šípovou jsme se &lt;a href=&quot;https://www.facebook.com/ondrej.profant/posts/10218894714745584&quot;&gt;setkali s novým ředitelem Úřadu pro ochranu hospodářské soutěže Petrem Mlsnou&lt;/a&gt;. Hovořili jsme především o problematice veřejných zakázek, protože za minulého vedení úřadu byla jeho rozhodnutí častokrát dost nejasná a nepředvídatelná, zároveň se kladl příliš velký důraz na formalistní postupy. Z prvních kroků pana ředitele mám zatím dobrý pocit, ale činnost úřadu a jeho rozhodnutí budu i nadále pečlivě sledovat.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Kritika současné podoby katalogu služeb&lt;/strong&gt;&lt;br /&gt;
+Vládě se stále nedaří postupovat v digitalizaci. Ani nepodruhé totiž nezvládla dostatečně aktualizovat katalog služeb, se kterým počítá &lt;a href=&quot;https://www.zakonyprolidi.cz/cs/2020-12&quot;&gt;zákon o právu na digitální služby&lt;/a&gt;. Kvůli váhání vlády a zdržování jednotlivých ministerstev se proto digitalizace mnoha agend odkládá (to se týká například vydání dokladů bez čekání nebo procesů stavebního práva). Příprava katalogu navíc ukázala na resortní chaos, kdy &lt;a href=&quot;https://www.facebook.com/ceska.piratska.strana/posts/10158212656924039&quot;&gt;část ministerstev ani pořádně neví, jaké agendy mají mít v kompetenci&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Zákon o Vojenském zpravodajství&lt;/strong&gt;&lt;br /&gt;
+V návrhu zákona o Vojenském zpravodajství se nám &lt;a href=&quot;https://www.piratskelisty.cz/clanek-3860-piratum-se-podarilo-prosadit-aby-vojenske-zpravodajstvi-nemohlo-sledovat-online-komunikaci-nedostatecne-osetreni-aktivnich-zasahu-a-derava-kontrola-vsak-pretrvavaji&quot;&gt;podařilo dosáhnout důležitých změn&lt;/a&gt;, bez kterých by v ČR došlo k vážnému ohrožení soukromí na internetu a nepřiměřeným postihům pro poskytovatele internetového připojení. Nepodařilo se nám ale prosadit potřebné posílení parlamentního dohledu, který je pro kontrolu zpravodajských služeb podstatný.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Virtuální vzdělávací pořad&lt;/strong&gt;&lt;br /&gt;
+S dobrovolníky ze strany i mimo ni jsem připravil projekt &lt;a href=&quot;https://www.profant.eu/2021/virtual.html&quot;&gt;vzdělávacího pořadu na YouTube&lt;/a&gt;, je ve stylu 3D animace, včetně mě samotného. Vystupuji tedy jako virtuální avatar v kyberprostoru, kde se snažím svým divákům přiblížit některé výzvy a problémy, kterým v digitální době čelíme. Chystám také různé užitečné videonávody a v plánu mám i streamovat na Twitchi.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/channel/UCEwlwlJYjtpuV7VxFT8R__A&quot;&gt;YouTube&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.twitch.tv/keddievt&quot;&gt;Twitch&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Veřejný profil na FB&lt;/strong&gt;&lt;br /&gt;
+Až dosud jsem na Facebooku komunikoval přes svůj osobní účet. To má ale své limity, proto jsem si zřídil i &lt;a href=&quot;https://www.facebook.com/ondrej.pirat.profant/posts/349160309656201&quot;&gt;veřejný profil&lt;/a&gt;, abych byl více přístupný případným otázkám a podnětům, ať už se budou týkat pirátské politiky, mých odborných témat nebo mě samotného.&lt;/p&gt;
+
+&lt;h3 id=&quot;březen&quot;&gt;Březen&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Sněmovna&lt;/strong&gt;&lt;br /&gt;
+Kromě řádných schůzí běžného cyklu Sněmovny proběhlo v březnu i několik mimořádných schůzí, převážně k řešení COVIDové pandemie. Současný stav je velmi náročný na systematickou přípravu, zároveň se stále projevuje chaotický přístup vlády při projednávání jejích návrhů.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Kritika absurdních opatření&lt;/strong&gt;&lt;br /&gt;
+Dalším z absurdních protiepidemických opatření Babišovy vlády byl zákaz cestování mezi okresy. Tento zákaz jsem &lt;a href=&quot;https://www.facebook.com/ondrej.pirat.profant/posts/364693921436173&quot;&gt;kritizoval i kvůli častému požadavku&lt;/a&gt; policie na tištěnou podobu písemného odůvodnění cesty mezi okresy.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Národní plán obnovy&lt;/strong&gt;&lt;br /&gt;
+Vládní přípravy plánu na čerpání 180 miliard Kč z unijních fondů probíhaly za zavřenými dveřmi. Oddalování zveřejnění plánu se může ale záporně projevit na schopnosti čerpat investiční prostředky EU dostatečně efektivně a účelně. Svolali jsme proto k Národnímu plánu obnovy mimořádnou schůzi Sněmovny.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.facebook.com/ondrej.pirat.profant/posts/366202604618638&quot;&gt;FB post&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.profant.eu/2021/narodni-plan-obnovy.html&quot;&gt;Článek na blogu&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.pirati.cz/tiskove-zpravy/narodni-plan-obnovy-pripominkovani.html&quot;&gt;Tisková zpráva&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p lang=&quot;cs&quot; dir=&quot;ltr&quot;&gt;Havlíček: &amp;quot;Národní plán obnovy by měl sledovat nějakou vizi.&amp;quot;&lt;br /&gt;&lt;br /&gt;Po přečtení komponenty 1.1 a 1.2 (egov) mohu zcela jasně prohlásit, že za nimi žádná vize nestojí. Jen financování běžných mandatorních projektů. Žádná reálná generační obměna. Pouze nákup toho, co již mají.&lt;/p&gt;&amp;mdash; Ondřej Profant (@ondrej_profant) &lt;a href=&quot;https://twitter.com/ondrej_profant/status/1375373777199054850?ref_src=twsrc%5Etfw&quot;&gt;March 26, 2021&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;&lt;strong&gt;Účast na zasedání RVIS&lt;/strong&gt;&lt;br /&gt;
+Zúčastnil jsem se mimořádného zasedání Rady vlády pro informační společnost, na které byly představeny kapitoly k digitalizaci. V rámci zasedání ale nebylo možné předložené návrhy dostatečně připomínkovat, takže se o to pokusím aspoň dodatečně.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Schválení DEPO&lt;/strong&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.facebook.com/ondrej.pirat.profant/posts/367020261203539&quot;&gt;Sněmovna schválila klíčový digitalizační balíček DEPO&lt;/a&gt; (další elektronizace postupů orgánů veřejné moci). Díky němu se více zpřístupní portálová řešení ověřené elektronické identity a dojde k dalšímu snižování nepotřebné byrokracie (například při zřizování datové schránky nebo zrušení povinnosti nošení řidičského průkazu). Důležitou součástí DEPO je také regulatorika cloudových služeb. Tento legislativní balíček jsem také podrobněji představil na setkání pirátských krajských expertních týmů pro IT.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.pirati.cz/tiskove-zpravy/ridicaky-doma-digitalizacni-zakon.html&quot;&gt;Tisková zpráva&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Kritika nefunkčního online Sčítání&lt;/strong&gt;&lt;br /&gt;
+Spuštění online formuláře pro Sčítání lidí, domů a bytů bylo doprovázeno selháním a následnou nedostupností. &lt;a href=&quot;https://www.facebook.com/ondrej.profant/posts/10219206089049747&quot;&gt;Příčinou byla zřejmě nedostatečně otestována komponenta&lt;/a&gt; “našeptávače adres”. Sčítání.cz tak znovu ukázalo dlouhodobé a často opakované nedostatky, které se pojí se státními IT projekty. V tomto konkrétním případě se jedná především o problém na straně dodavatele, takže ČSÚ by měl vymáhat náhradu škodu.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Privilegium pro Hrad jako návrh ministra Hamáčka&lt;/strong&gt;&lt;br /&gt;
+Se skupinou dalších poslanců jsme po konzultacích s Ministerstvem vnitra připravili &lt;a href=&quot;https://www.rekonstrukcestatu.cz/archiv-novinek/hrad-si-vylobboval-vyjimku-z-infozakona-navrhuje-ji-ministr-hamacek-jako-poslanec&quot;&gt;změny infozákona&lt;/a&gt;, které mají veřejnosti zajistit její právo na informace. Přesto Jan Hamáčka (ČSSD) předložil poslanecký návrh, kterým by Kancelář prezidenta republiky získala výjimku ze zákona na svobodný přístup k informacím. Novým návrhem by se Kancelář stala sama sobě odvolacím místem, přestože takový zvláštní režim nedává v případě žádostí o zveřejnění informací vůbec smysl.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Propagace používání USB klíčů&lt;/strong&gt;&lt;br /&gt;
+Časté úniky osobních informací, hesel a dalších dat by měl vést uživatele k větší míře obezřetnosti na internetu. Důležitá je především ochrana jeho elektronické identity, přes kterou se útočníci mohou dostat k mnoha citlivým údajům nebo finančním prostředkům napadeného. Na svém blogu jsem proto vydal &lt;a href=&quot;https://www.profant.eu/2021/usb-klice.html&quot;&gt;článek o bezpečnostních USB klíčích&lt;/a&gt;, které jsou účinnou obranou i proti sofistikovanějším typům útoků.&lt;/p&gt;</content><author><name>Ondřej Profant</name></author><category term="report" /><category term="transparence" /><category term="report" /><category term="Piráti" /><summary type="html">Souhrnný report mé činnosti v období leden až březen 2021. Nejčerstvější informace o mých aktivitách naleznete na mých profilech na sociálních sítích a zde na blogu v sekci Otevřenost.</summary></entry><entry><title type="html">Bezpečnostní USB klíče: Rozumné řešení elektronického ověření</title><link href="https://www.profant.eu/2021/usb-klice.html" rel="alternate" type="text/html" title="Bezpečnostní USB klíče: Rozumné řešení elektronického ověření" /><published>2021-03-27T05:30:00+00:00</published><updated>2021-03-27T05:30:00+00:00</updated><id>https://www.profant.eu/2021/usb-klice</id><content type="html" xml:base="https://www.profant.eu/2021/usb-klice.html">&lt;p&gt;Pro rozvoj jakýchkoliv digitálních služeb je potřeba zvolit vhodné a bezpečné prostředky pro elektronické ověření identity. FIDO2 USB klíče jsou dobrým řešením, které kromě ochrany nabízí i přístup ke službám českého egovernmentu.&lt;/p&gt;
 
 &lt;!--more--&gt;
 
@@ -518,103 +624,4 @@ Obce velmi častu pracují s geograficky a prostorově vztaženými daty, např�
 Na trhu s kancelářskými balíky jasně dominují produkty velkých korporací, které si tak můžou snadno diktovat své podmínky. Otevřená města proto podporují vývoj open source alternativy Libre Office, kterou je možné využívat zcela bezplatně.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Navzdory své krátké existenci, omezeným finančním zdrojům a personálním kapacitám tak Otevřená města dokázala, že můžou členským obcím přinést mnoho výhod a úspor. Mají navíc ohromný potenciál růstu. V současnosti členské obce Otevřených měst zastupují celkem 697 753 obyvatel. Pro srovnání členské obce Svazu měst a obcí ČR zastupují 8 499 200 obyvatel, poptávka po spolupráci samospráv je tedy velká. S rostoucím významem digitalizace a rozšiřováním digitálních služeb se tak můžou naplno projevit i veškeré výhody moderního přístupu Otevřených měst. Jejich opravdový přínos, který tkví právě v důrazu na vývoj otevřených řešení, se navíc projeví až s odstupem času. Já osobně jsem velice rád, že Otevřená města jsou v tomto směru konzistentní a skutečně otevřená.&lt;/p&gt;</content><author><name>Ondřej Profant</name></author><category term="Regiony" /><category term="regiony" /><category term="egovernment" /><category term="digitalizace" /><summary type="html">Spolek Otevřená města, který sdružuje obce, města a městské části, za svou krátkou existenci prokázal, že spolupráce za účelem kvalitní digitalizace a zlepšení transparentnosti má smysl a je o ni zájem. Velký přínos navíc spočívá v maximálním důrazu na otevřenost poskytovaných řešení.</summary></entry><entry><title type="html">Není podpis jako podpis</title><link href="https://www.profant.eu/2020/neni-podpis-jako-podpis.html" rel="alternate" type="text/html" title="Není podpis jako podpis" /><published>2020-11-19T07:00:00+00:00</published><updated>2020-11-19T07:00:00+00:00</updated><id>https://www.profant.eu/2020/neni-podpis-jako-podpis</id><content type="html" xml:base="https://www.profant.eu/2020/neni-podpis-jako-podpis.html">&lt;p&gt;Když se řekne elektronický podpis, většina lidí si představí šifry a zaručené certifikáty. Ale elektronických podpisů máme několik typů, nebo spíše řekněme úrovní.&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;h3 id=&quot;prostý-elektronický-podpis&quot;&gt;Prostý elektronický podpis&lt;/h3&gt;
-
-&lt;p&gt;Elektronický podpis může vypadat i takto:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Objednávám ve vašem e-shopu pět housek a mléko.
-S úctou,
-Franta Novák&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Ona dvě slova, která jsem na klávesnici připsal za text dopisu, jsou elektronickým podpisem. Samozřejmě elektronickým podpisem nijak zvlášť průkazným. Na rozdíl od vlastnoručního podpisu na papíře tady není žádný jedinečný “klikyhák,” který by mohl v případě sporu porovnávat soudní znalec. Proto vás s takovým podpisem nenechají z e-shopu ani objednat si ty housky… (Ostatně, ani já nejsem Franta Novák.) Ale klidně by mohli. I takové jednání je totiž podepsané, a tudíž platné. Takovýto podpis má tedy praktické využití, pokud je zde ještě něco navíc, čím si adresát ověří, že jste to skutečně vy. V civilním styku to může být třeba osobní známost - dlouhá léta spolu komunikujete přes stejný e-mail a pravidelně si objednáváte housky, adresát má tedy důvod věřit, že autorem podpisu jste vy.&lt;/p&gt;
-
-&lt;h3 id=&quot;zaručený-elektronický-podpis&quot;&gt;Zaručený elektronický podpis&lt;/h3&gt;
-
-&lt;p&gt;Zaručený elektronický podpis funguje na stejném principu, jako když pod dokument připíšete své jméno a příjmení. Akorát že dokument nepodepisujete dvěma slovy vyťukanými na klávesnici, ale souborem zašifrovaných dat. A protože šifrovací klíč máte na svém počítači jenom vy (a vydala vám ho nějaká dostatečně důvěryhodná autorita), tak adresát už má v ruce něco silnějšího.
-Zaručený elektronický podpis má ještě jednu výhodu - v podstatě “zmrazí“ celý dokument. Jinými slovy je zaručeno nejen “kdo“ jedná, ale i “co“ říká. Pokud by adresát chtěl dokument změnit (například škrtnout z objednávky krabici mléka a nahradit ji luxusním mercedesem), zaručený elektronický podpis bude zneplatněn.&lt;/p&gt;
-
-&lt;h3 id=&quot;uznávaný-elektronický-podpis&quot;&gt;Uznávaný elektronický podpis&lt;/h3&gt;
-
-&lt;p&gt;Uznávaný elektronický podpis je pak vyšší úrovní zaručeného elektronického podpisu. Liší se tím, že jeho součástí je takzvaný kvalifikovaný certifikát, tedy certifikát, který může vydat pouze akreditovaná kvalifikovaná certifikační autorita řídící se zákonem o elektronickém podpisu. Pouze s takovým uznávaným elektronickým podpisem můžete jednat vůči orgánu veřejné moci. (Existuje ještě vyšší úroveň, takzvaný &lt;strong&gt;kvalifikovaný elektronický podpis&lt;/strong&gt;, který však pro zjednodušení vynecháme.)&lt;/p&gt;
-
-&lt;p&gt;Požadavek podpisu je v zákonech poměrně striktní. Většina zákonů trvá na tom, že jednání vůči úřadu má být “podepsáno“ (např. § 37 správního řádu, který se vztahuje téměř na všechna úřední podání). I když tedy ověříte svou identitu jinak, třeba i metodou násobně bezpečnější, nepomůže vám to.&lt;/p&gt;
-
-&lt;h3 id=&quot;vlastnoruční-a-ověřený-podpis---zatím-jen-na-papíře&quot;&gt;Vlastnoruční a ověřený podpis - zatím jen na papíře&lt;/h3&gt;
-
-&lt;p&gt;Kromě různých forem a úrovní elektronického podpisu máme ještě podpisy čistě papírové. Vlastnoruční podpis je podpis vlastní rukou. Tedy, pokud po vás někdo požaduje vlastnoruční podpis, není možné ho nahradit ani tou nejvyšší a nejbezpečnější formou podpisu elektronického.&lt;/p&gt;
-
-&lt;p&gt;Stejně tak je to s podpisem úředně ověřeným. Úředně ověřený podpis znamená, že nějaká důvěryhodná autorita - státní úřad, notář, advokát, nebo i pošta - k vašemu vlastnoručnímu podpisu připojí doložku, kterou ověří, že “ano, tento podpis skutečně patří panu Františku Novákovi, protože se podepsal přede mnou a ukázal mi přitom občanský průkaz”.
-Úředně ověřené podpisy jsou vyžadovány při některých velmi důležitých typech právních jednání - například žádáte-li poštou o voličský průkaz, zakládáte obchodní společnost nebo si dělíte majetek před rozvodem.
-Zákon nepamatuje na to, že by se úředně daly ověřovat podpisy elektronické. Znamená to tedy, že když zákon požaduje bez výjimky jen a pouze úředně ověřený podpis, není možné takové jednání dělat elektronicky? Skoro ano. V praxi se tento “nedostatek“ obchází tak, že se elektronický dokument vytiskne, notář ověří podpis na papíře a dokument se znovu konvertuje do elektronické podoby. Jistě uznáte, že to není ideální stav věcí&lt;/p&gt;
-
-&lt;p&gt;Stejně tak vám nepomohou ani datové schránky. Zákon říká, že “Úkon učiněný (…) prostřednictvím datové schránky má stejné účinky jako úkon učiněný písemně a podepsaný“. Ale ani datová schránka (ačkoliv poskytuje nejvyšší záruku zabezpečení) ověřený podpis nenahradí.&lt;/p&gt;
-
-&lt;p&gt;To vše se ale brzy změní.&lt;/p&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th colspan=&quot;2&quot;&gt;Druh podpisu&lt;/th&gt;
-      &lt;th&gt;Popis&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;th rowspan=&quot;4&quot;&gt;
-        &lt;span style=&quot;writing-mode: vertical-lr;
-                     -ms-writing-mode: tb-rl;
-                     transform: rotate(180deg);
-                     min-width:15px;&quot;&gt;
-                     Elektronický
-        &lt;/span&gt;
-      &lt;/th&gt;
-      &lt;td&gt;prostý&lt;/td&gt;
-      &lt;td&gt;&lt;em&gt;“Franta Novák”&lt;/em&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;zaručený&lt;/td&gt;
-      &lt;td&gt;podepsáno a zmraženo šifrovacím klíčem&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;uznávaný&lt;/td&gt;
-      &lt;td&gt;podepsáno a zmraženo šifrovacím klíčem, který je vydán akreditovanou certifikační autoritou&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;kvalifikovaný&lt;/td&gt;
-      &lt;td&gt;podepsáno a zmraženo šifrovacím klíčem, který je vydán akreditovanou certifikační autoritou; podpis vytvořen kvalifikovaným prostředkem (např. el. občanka)&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;th rowspan=&quot;2&quot;&gt;
-        &lt;span style=&quot;writing-mode: vertical-lr;
-                     -ms-writing-mode: tb-rl;
-                     transform: rotate(180deg);&quot;&gt;Listinný
-         &lt;/span&gt;&lt;/th&gt;
-      &lt;td&gt;vlastnoruční&lt;/td&gt;
-      &lt;td&gt;vlastní rukou na papír&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;úředně ověřený&lt;/td&gt;
-      &lt;td&gt;potvrzený autoritou, s připojenou doložkou&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;h3 id=&quot;místo-podpisu-e-identita---již-za-pár-měsíců&quot;&gt;Místo podpisu e-identita - již za pár měsíců&lt;/h3&gt;
-
-&lt;p&gt;Striktní požadavky na podpis, vlastnoruční podpis či úředně ověřený podpis jsou jednou z překážek digitalizace státní správy. Nové zákony na nich proto již netrvají, respektive nabízejí širší škálu možností, jak může člověk vůči úřadu prokázat, že “já jsem skutečně já“.&lt;/p&gt;
-
-&lt;p&gt;Datové schránky tu již byly zmíněny - pokud jednáte skrze datovou schránku, podepisovat už nemusíte, protože systém datových schránek se bere jako dostatečná záruka vaší identity. Modernější než datové schránky je projekt eIDAS, neboli celoevropská elektronická identita, která umožňuje ověřit vaši identitu skrze jakýkoliv nástroj, který je do systému zapojen. Všechny prostředky eIDAS použitelné v Česku jsou dostupné na &lt;a href=&quot;https://www.eidentita.cz/&quot;&gt;eindentita.cz&lt;/a&gt;. K dnes již poměrně široké škále možných přihlašovacích prostředků se v průběhu příštího roku připojí i banky se svým internetovým bankovnictví.&lt;/p&gt;
-
-&lt;p&gt;Starší zákony s e-identitou nepočítají, z čehož vznikají problémy popsané výše. To se ale má brzy změnit. Chystají se tudíž dva zákony, které mají napravit problémy zmíněné výše.&lt;/p&gt;
-
-&lt;p&gt;První z nich už byl schválena a do dvou let začne fungovat v praxi - zákon o právu na digitální služby ve svém § 6 má vyřešit zmíněnou absurditu ohledně úředně ověřených podpisů. Sílu ověřovací doložky tedy bude mít kvalifikovaný elektronický podpis ověřující osoby. Ověřování tedy bude probíhat jako dosud, akorát notář nebo úředník nedá razítko na papír, ale k elektronickému dokumentu. A co je zajímavější - tento proces bude moct být provedený i automatizovaně, pokud se přihlásíte s e-identitou v nejvyšším stupni záruky. V praxi tedy - přihlásíte se skrze e-identitu na dejme tomu speciální webový portál krajského úřadu, nahrajete tam svůj dokument, a vrátí se vám s elektronickou ověřovací doložku, přesněji řečeno s kvalifikovanou elektronickou pečetí.&lt;/p&gt;
-
-&lt;p&gt;Možná ale ověřování podpisů už nebudete potřebovat. Ten samý zákon totiž stanoví, že uznávaný elektronický podpis, který doteď měl sílu podpisu prostého, může mít i sílu podpisu ověřeného, pokud bude ze základních registrů zjistitelné, že patří vám. Jinými slovy, pokud ministerstvu vnitra nahlásíte, jaké číslo má váš uznávaný elektronický podpis, všechny úřady ho budou automaticky akceptovat jako úředně ověřený.&lt;/p&gt;
-
-&lt;p&gt;Konečně, za několik měsíců nás možná čeká změna, která všechno ještě usnadní. Pokud parlament schválí změnu zákona o informačních systémech veřejné správy, jednání učiněná skrze tyto systémy už nebudou muset být podepsaná. Co to znamená? Dnes nemůžete podat žádost dejme tomu o nový řidičský průkaz tak, že se přihlásíte na web městského úřadu s stisknete tlačítko “Požádat o nový průkaz“ jako když nakupujete v eshopu. Právě proto, že úřední žádost musí být podepsaná. (Vzpomínáte? § 37 správního řádu.) Podpis můžete nahradit podáním datovou schránkou nebo podpisem elektronickým, ale ne tím, že se přihlásíte na městský web. Již začátkem příštího roku by to ale mělo být možné - přinejmenším právně. Samozřejmě nebude stačit přihlášení pod náhodným jménem a heslem, jako do eshopu, budete potřebovat třeba už zmiňovanou e-identitu. Ale jakmile bude mít informační systém dostatečnou jistotu, že “vy jste skutečně vy,” umožní vám vůči úřadu jednat i bez podpisu. Tedy, třeba stiskem tlačítka na webové stránce.&lt;/p&gt;</content><author><name>Martin Archalous</name></author><category term="Egovernment" /><category term="Egovernment" /><category term="bezpečnost" /><summary type="html">Když se řekne elektronický podpis, většina lidí si představí šifry a zaručené certifikáty. Ale elektronických podpisů máme několik typů, nebo spíše řekněme úrovní.</summary></entry></feed>
+&lt;p&gt;Navzdory své krátké existenci, omezeným finančním zdrojům a personálním kapacitám tak Otevřená města dokázala, že můžou členským obcím přinést mnoho výhod a úspor. Mají navíc ohromný potenciál růstu. V současnosti členské obce Otevřených měst zastupují celkem 697 753 obyvatel. Pro srovnání členské obce Svazu měst a obcí ČR zastupují 8 499 200 obyvatel, poptávka po spolupráci samospráv je tedy velká. S rostoucím významem digitalizace a rozšiřováním digitálních služeb se tak můžou naplno projevit i veškeré výhody moderního přístupu Otevřených měst. Jejich opravdový přínos, který tkví právě v důrazu na vývoj otevřených řešení, se navíc projeví až s odstupem času. Já osobně jsem velice rád, že Otevřená města jsou v tomto směru konzistentní a skutečně otevřená.&lt;/p&gt;</content><author><name>Ondřej Profant</name></author><category term="Regiony" /><category term="regiony" /><category term="egovernment" /><category term="digitalizace" /><summary type="html">Spolek Otevřená města, který sdružuje obce, města a městské části, za svou krátkou existenci prokázal, že spolupráce za účelem kvalitní digitalizace a zlepšení transparentnosti má smysl a je o ni zájem. Velký přínos navíc spočívá v maximálním důrazu na otevřenost poskytovaných řešení.</summary></entry></feed>
