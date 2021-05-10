@@ -58,23 +58,23 @@ Pohlaví uvedené v občance v praxi nenapomáhá identifikaci jejich držitelů
 >Jaké je vaše nejintimnější tajemství? Něco, co jste nikdy nikomu neřekli nebo jen těm úplně nejbližším. Něco, co si fakt chcete nechat pro sebe. Něco, co je pro vás obvzláště nepříjemné a zraňující. Zavřete oči a zamyslete se. Máte? Tak si najděte takový ten žlutý lepící papírek a na ten to svoje největší a nejdůvěrnější tajemství napište. Tak. Jak to vypadá, když je to napsané takhle černé na žlutém? Je to jiné, než když je to jen ve vaší hlavě, že...
 >A teď si vytáhněte svoji občanku a na tu ten papírek nalepte. A teď si představte, že od teď budete všude používat občanku s tímhle nalepeným papírkem - s papírkem, na kterém máte napsané svoje největší životní tajemství.
 >Vaše nejintimnější tajemství od teď bude vědět:
->💥 Váš zaměstnavatel (tudíž asi všichni kolegové).
-💥 Studijní oddělení vaší školy (tudíž asi všichni pedagogové a asi i spolužáci).
-💥 Paní za přepážkou na poště (tudíž do 3 minut všichni zaměstnanci dané pobočky).
-💥 Policajt, co vás bude namátkově testovat na alkohol.
-💥 Obsluha v půjčovně bruslí, lyží, auta, čehokoli.
-💥 Průvodčí ve vlaku (pokud teda pojedete s elektronickou jízdenkou, což je fakt bizár).
-💥 Arogantní blbeček, co vám přišel vyvrtat kabel k internetu a nese vám i modem "k pronájmu".
-💥 Nabroušená bába na finančáku.
-💥 Úředník v bance, co vám schvaluje půjčku.
-💥 Prodavač ve výdejně eshopu (ano, někde pořád chtějí vidět občanku).
-💥 Pracovník mobilního operátora, co s ním podepisujete smlovu na tarif.
-💥 Nepříjemná sestra u kartotéky v nemocnici (příjemné na tuhle práci nenajímají).
-💥 K smrti unudění členové volební komise, co si vás potřebují akorát odškrtnout.
-💥 Recepční v hotýlku, kam jdete strávit noc se svou novou známostí z tinderu.
-💥 Vedení sdružení vlastníků ve vašem domě (tudíž asi i všichni sousedi).
-💥 Kdokoli vám prodává alkohol a vy máte smůlu, že vypadáte mladě.
-Všichni tihle lidé od teď budou znát vaše nejintimnější tajemství. Jaký je to pocit? Chvilku se zastavte a představte si to.
+>💥 Váš zaměstnavatel (tudíž asi všichni kolegové).  
+💥 Studijní oddělení vaší školy (tudíž asi všichni pedagogové a asi i spolužáci).  
+💥 Paní za přepážkou na poště (tudíž do 3 minut všichni zaměstnanci dané pobočky).  
+💥 Policajt, co vás bude namátkově testovat na alkohol.  
+💥 Obsluha v půjčovně bruslí, lyží, auta, čehokoli.  
+💥 Průvodčí ve vlaku (pokud teda pojedete s elektronickou jízdenkou, což je fakt bizár).  
+💥 Arogantní blbeček, co vám přišel vyvrtat kabel k internetu a nese vám i modem "k pronájmu".  
+💥 Nabroušená bába na finančáku.  
+💥 Úředník v bance, co vám schvaluje půjčku.  
+💥 Prodavač ve výdejně eshopu (ano, někde pořád chtějí vidět občanku).  
+💥 Pracovník mobilního operátora, co s ním podepisujete smlovu na tarif.  
+💥 Nepříjemná sestra u kartotéky v nemocnici (příjemné na tuhle práci nenajímají).  
+💥 K smrti unudění členové volební komise, co si vás potřebují akorát odškrtnout.  
+💥 Recepční v hotýlku, kam jdete strávit noc se svou novou známostí z tinderu.  
+💥 Vedení sdružení vlastníků ve vašem domě (tudíž asi i všichni sousedi).  
+💥 Kdokoli vám prodává alkohol a vy máte smůlu, že vypadáte mladě.  
+Všichni tihle lidé od teď budou znát vaše nejintimnější tajemství. Jaký je to pocit? Chvilku se zastavte a představte si to.  
 Takový pocit zažívají trans lidé pořád.
 
 Ostatně uvádění pohlaví do občanského průkazu není žádnou nutností ani tradicí. Německo, Itálie ani Srbsko pohlaví nikdy v občankách neuváděly, Nizozemsko jeho uvádění dnes ruší. V [historických občanských průkazech](https://is.muni.cz/th/2514/pravf_m/Diplomka_zriha_final.pdf) se objevoval branný poměr, oprávnění k řízení motorových vozidel a k nošení zbraní, ale pohlaví ne. V Česku se pohlaví [objevilo na občance až v květnu 1993](https://www.mvcr.cz/soubor/obcanske-prukazy-bez-strojove-citelnych-udaju.aspx).
