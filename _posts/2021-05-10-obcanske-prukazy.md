@@ -9,7 +9,8 @@ img:        profant_tiskovka.jpg
 author:     Ondřej Profant
 ---
 
-K čemu nám slouží občanský průkaz a co v něm má být uvedeno? Měly by tam zůstat akademické tituly? Přidáme tam i barvu očí a vlasů? Tělesnou výšku?
+
+K čemu nám slouží občanský průkaz a co v něm má být uvedeno? Měly by tam zůstat akademické tituly? Přidáme tam i barvu očí a vlasů? Tělesnou výšku? Nebo bychom občanky měli rovnou zrušit po vzoru Velké Británie?
 
 <!--more-->
 
@@ -26,8 +27,7 @@ Pojďme si projít k čemu občanský průkaz slouží:
 - všechny další podrobné údaje o osobách jsou evidovány ve specializovaných aplikacích s jasně danými přístupy, ke kterým se může oprávněná osoba (třeba úředník či policistka) elektronicky dostat napojením přes vaše číslo občanského průkazu, či kombinací jména, příjmení a data narození
 - přístupy k údajům jsou různé podle dané agendy - např. policista nemůže přistoupit ke zdravotním záznamům a k výši vašeho důchodu, úřednice na sociálce zase neuvidí, jestli máte řidičský průkaz
 
-**2. identifikace vůči samosprávám**: bydliště
-- místní vyhlášky mohou operovat s trvalým bydlištěm (např. modré zóny)
+**2. identifikace vůči samosprávám**: místní vyhlášky mohou operovat s trvalým bydlištěm (např. modré zóny)
 
 **3. identifikace vůči třetím stranám**: např. doručení na poště
 
@@ -53,14 +53,30 @@ Proč ho ale rovnou škrtat? Vždyť tam nikomu nevadí a je tam tradičně uvá
 Je pravdou, že naprostá většina obyvatel nevnímá uvádění pohlaví na občance jako problém a nepovažuje ho za nějaký citlivý osobní údaj. Na druhou stranu - je mezi námi někdo, komu by pohlaví na občance skutečně chybělo? Byla vám někdy, kdykoliv v životě, kolonka "Pohlaví" v občance k něčemu aspoň přibližně užitečnému nebo má pro vás jakoukoliv hodnotu? Na řidičském průkazu (a mnoha dalších) také není a nikdo proti tomu neprotestuje. Dokážu pochopit, že někteří z nás nebudou mít pochopení pro vyškrtnutí vysokoškolských titulů z občanek. Na poště je již totiž nebudou podle občanky titulovat "pane inženýre", ale jen prostě "pane Nováku". Ale proč by tam někomu chybělo pohlaví? Neexistuje jediná agenda, která by se určovala na místě podle pohlaví v občance. Státních agend, na které má pohlaví vliv, je minimum a všechny jsou složitými procesy za použití mnoha vstupů a informačních systémů (např. výpočet důchodů). Vůbec tak není potřeba mít tento údaj uvedený na občance, je totiž veden např. v Registru osob, ke kterému má každý úřad přístup. A doby, kdy Veřejná bezpečnost honila a popotahovala mladé muže za jejich dlouhé vlasy jsou snad již dávno pryč.
 
 
-Pohlaví uvedené v občance v praxi nenapomáhá identifikaci jejich držitelů. Někdy je tomu právě naopak, kdy vzhled lidí neodpovídá běžné představě o mužích a ženách, a tak vznikají zbytečná nedorozumění. Návrh by ulehčil život i tisícům trans a nebinárních lidí. Ti mají v občanském průkazu často uvedeno pohlaví, které neodpovídá jejich identitě a vzhledu, a tak způsobuje problémy v každodenním životě. Jeden příklad za všechny, který před nedávnem zveřejnila na svém Facebooku trans žena Lenka Králová:
+Pohlaví uvedené v občance v praxi nenapomáhá identifikaci jejich držitelů. Někdy je tomu právě naopak, kdy vzhled lidí neodpovídá běžné představě o mužích a ženách, a tak vznikají zbytečná nedorozumění. Návrh by ulehčil život i tisícům trans a nebinárních lidí. Ti mají v občanském průkazu často uvedeno pohlaví, které neodpovídá jejich identitě a vzhledu, a tak způsobuje problémy v každodenním životě. Jeden příklad za všechny, který před nedávnem zveřejnila [na svém Facebooku trans žena Lenka Králová](https://www.facebook.com/lenka.kralova.10888/posts/474141417234783):
 
-
-<div id="fb-root"></div>
-<script async defer crossorigin="anonymous" src="https://connect.facebook.net/cs_CZ/sdk.js#xfbml=1&version=v10.0" nonce="4wBRMifM"></script>
-
-<div class="fb-post" data-href="https://www.facebook.com/lenka.kralova.10888/posts/474141417234783" data-width="500" data-show-text="true"><blockquote cite="https://www.facebook.com/lenka.kralova.10888/posts/474141417234783" class="fb-xfbml-parse-ignore"><p>Jaké je vaše nejintimnější tajemství? Něco, co jste nikdy nikomu neřekli nebo jen těm úplně nejbližším. Něco, co si fakt...</p>Zveřejnil(a) <a href="https://www.facebook.com/lenka.kralova.10888">Lenka Králová</a> dne&nbsp;<a href="https://www.facebook.com/lenka.kralova.10888/posts/474141417234783">Středa 14. dubna 2021</a></blockquote></div>
-
+>Jaké je vaše nejintimnější tajemství? Něco, co jste nikdy nikomu neřekli nebo jen těm úplně nejbližším. Něco, co si fakt chcete nechat pro sebe. Něco, co je pro vás obvzláště nepříjemné a zraňující. Zavřete oči a zamyslete se. Máte? Tak si najděte takový ten žlutý lepící papírek a na ten to svoje největší a nejdůvěrnější tajemství napište. Tak. Jak to vypadá, když je to napsané takhle černé na žlutém? Je to jiné, než když je to jen ve vaší hlavě, že...
+>A teď si vytáhněte svoji občanku a na tu ten papírek nalepte. A teď si představte, že od teď budete všude používat občanku s tímhle nalepeným papírkem - s papírkem, na kterém máte napsané svoje největší životní tajemství.
+>Vaše nejintimnější tajemství od teď bude vědět:
+>💥 Váš zaměstnavatel (tudíž asi všichni kolegové).
+💥 Studijní oddělení vaší školy (tudíž asi všichni pedagogové a asi i spolužáci).
+💥 Paní za přepážkou na poště (tudíž do 3 minut všichni zaměstnanci dané pobočky).
+💥 Policajt, co vás bude namátkově testovat na alkohol.
+💥 Obsluha v půjčovně bruslí, lyží, auta, čehokoli.
+💥 Průvodčí ve vlaku (pokud teda pojedete s elektronickou jízdenkou, což je fakt bizár).
+💥 Arogantní blbeček, co vám přišel vyvrtat kabel k internetu a nese vám i modem "k pronájmu".
+💥 Nabroušená bába na finančáku.
+💥 Úředník v bance, co vám schvaluje půjčku.
+💥 Prodavač ve výdejně eshopu (ano, někde pořád chtějí vidět občanku).
+💥 Pracovník mobilního operátora, co s ním podepisujete smlovu na tarif.
+💥 Nepříjemná sestra u kartotéky v nemocnici (příjemné na tuhle práci nenajímají).
+💥 K smrti unudění členové volební komise, co si vás potřebují akorát odškrtnout.
+💥 Recepční v hotýlku, kam jdete strávit noc se svou novou známostí z tinderu.
+💥 Vedení sdružení vlastníků ve vašem domě (tudíž asi i všichni sousedi).
+💥 Kdokoli vám prodává alkohol a vy máte smůlu, že vypadáte mladě.
+Všichni tihle lidé od teď budou znát vaše nejintimnější tajemství. Jaký je to pocit? Chvilku se zastavte a představte si to.
+Takový pocit zažívají trans lidé pořád.
 
 Ostatně uvádění pohlaví do občanského průkazu není žádnou nutností ani tradicí. Německo, Itálie ani Srbsko pohlaví nikdy v občankách neuváděly, Nizozemsko jeho uvádění dnes ruší. V [historických občanských průkazech](https://is.muni.cz/th/2514/pravf_m/Diplomka_zriha_final.pdf) se objevoval branný poměr, oprávnění k řízení motorových vozidel a k nošení zbraní, ale pohlaví ne. V Česku se pohlaví [objevilo na občance až v květnu 1993](https://www.mvcr.cz/soubor/obcanske-prukazy-bez-strojove-citelnych-udaju.aspx).
 Můj návrh na neuvádění pohlaví není žádným útokem na tradiční hodnoty ani na pohlaví jako takové. Jen se snaží agendu občanských průkazů dále zjednodušit, o což se snažíme ve všech agendách státu. Návrh navíc naprostou většinu lidí nijak nezasáhne a pár tisícům českých občanů pomůže.
+Předmětem celého zákona není žádná plošná změna všech občnaských průkazů, měnit se tak budou postupně jen ty, kterým bude končit platnost.
