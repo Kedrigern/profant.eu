@@ -57,7 +57,7 @@ Pohlaví uvedené v občance v praxi nenapomáhá identifikaci jejich držitelů
 
 >Jaké je vaše nejintimnější tajemství? Něco, co jste nikdy nikomu neřekli nebo jen těm úplně nejbližším. Něco, co si fakt chcete nechat pro sebe. Něco, co je pro vás obvzláště nepříjemné a zraňující. Zavřete oči a zamyslete se. Máte? Tak si najděte takový ten žlutý lepící papírek a na ten to svoje největší a nejdůvěrnější tajemství napište. Tak. Jak to vypadá, když je to napsané takhle černé na žlutém? Je to jiné, než když je to jen ve vaší hlavě, že...
 >A teď si vytáhněte svoji občanku a na tu ten papírek nalepte. A teď si představte, že od teď budete všude používat občanku s tímhle nalepeným papírkem - s papírkem, na kterém máte napsané svoje největší životní tajemství.
->Vaše nejintimnější tajemství od teď bude vědět:
+>Vaše nejintimnější tajemství od teď bude vědět:  
 >💥 Váš zaměstnavatel (tudíž asi všichni kolegové).  
 💥 Studijní oddělení vaší školy (tudíž asi všichni pedagogové a asi i spolužáci).  
 💥 Paní za přepážkou na poště (tudíž do 3 minut všichni zaměstnanci dané pobočky).  
