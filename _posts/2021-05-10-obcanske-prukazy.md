@@ -26,6 +26,7 @@ Pojďme si projít k čemu občanský průkaz slouží:
 - důležité je, aby bylo jasné, že ztotožňovaná osoba odpovídá údajům na průkaze - to je určováno zejména podle fotky
 - všechny další podrobné údaje o osobách jsou evidovány ve specializovaných aplikacích s jasně danými přístupy, ke kterým se může oprávněná osoba (třeba úředník či policistka) elektronicky dostat napojením přes vaše číslo občanského průkazu, či kombinací jména, příjmení a data narození
 - přístupy k údajům jsou různé podle dané agendy - např. policista nemůže přistoupit ke zdravotním záznamům a k výši vašeho důchodu, úřednice na sociálce zase neuvidí, jestli máte řidičský průkaz
+- podle zákona není povinné nosit občanský průkaz u sebe, pro případnou identifikaci totiž policii stačí i pouhé sdělení kombinace jména, příjmení a data narození, podle které je možné vás najít v databázi
 
 **2. identifikace vůči samosprávám**: místní vyhlášky mohou operovat s trvalým bydlištěm (např. modré zóny)
 
@@ -35,7 +36,7 @@ Pojďme si projít k čemu občanský průkaz slouží:
 
 **5. potvrzení zákonných požadavků**: typický je věk
 
-Postupující digitalizace s sebou nese vyšší propojení databází. Není tak nutné psát všechny potřebné údaje na kartu, stačí, když karta poslouží k identifikaci a další údaje se načtou propojením informačních systémů. Pěkným příkladem je nedávno schválená možnost nemít u sebe řidičský průkaz - policisté si totiž všechny potřebné údaje mohou načíst rovnou z databáze. A hlavně už to dávno dělají.
+Postupující digitalizace s sebou nese vyšší propojení databází. Není tak nutné psát všechny potřebné údaje na kartu, stačí, když karta poslouží k identifikaci a další údaje se načtou propojením informačních systémů. Pěkným příkladem je nedávno schválená [možnost nemít u sebe řidičský průkaz](https://www.pirati.cz/tiskove-zpravy/ridicaky-doma-digitalizacni-zakon.html) - policisté si totiž všechny potřebné údaje mohou načíst rovnou z databáze. A hlavně už to dávno dělají.
 
 V občance tedy stále potřebujeme:
 -  fotku
