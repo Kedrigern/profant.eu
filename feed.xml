@@ -1,7 +1,44 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://www.profant.eu/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.profant.eu/" rel="alternate" type="text/html" /><updated>2021-06-04T13:07:29+00:00</updated><id>https://www.profant.eu/feed.xml</id><title type="html">Profant</title><subtitle>Zápisník pirátského poslance Ondřeje Profanta, který se zaměřuje na opendata, e-government, digitalizaci společnosti a kybernetickou bezpečnost.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://www.profant.eu/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.profant.eu/" rel="alternate" type="text/html" /><updated>2021-06-04T13:11:31+00:00</updated><id>https://www.profant.eu/feed.xml</id><title type="html">Profant</title><subtitle>Zápisník pirátského poslance Ondřeje Profanta, který se zaměřuje na opendata, e-government, digitalizaci společnosti a kybernetickou bezpečnost.
 Rád bych byl, aby Česká republika byla moderním státem s rozvinutou digitální ekonomikou, kde je kladen silný důraz na vzdělávání a svobodu.
 V digitalizaci se musíme inspirovat ve Velké Britanii, Dánsku a Estonsku, řešení musí být otevřená, uživatelsky přívětivá a ohleduplná k soukromí.
-</subtitle><author><name>Ondřej Profant</name></author><entry><title type="html">K čemu je vlastně občanka a co v ní má být?</title><link href="https://www.profant.eu/2021/obcanske-prukazy.html" rel="alternate" type="text/html" title="K čemu je vlastně občanka a co v ní má být?" /><published>2021-05-10T00:00:00+00:00</published><updated>2021-05-10T00:00:00+00:00</updated><id>https://www.profant.eu/2021/obcanske-prukazy</id><content type="html" xml:base="https://www.profant.eu/2021/obcanske-prukazy.html">&lt;p&gt;K čemu nám slouží občanský průkaz a co v něm má být uvedeno? Měly by tam zůstat akademické tituly? Přidáme tam i barvu očí a vlasů? Tělesnou výšku? Nebo bychom občanky měli rovnou zrušit po vzoru Velké Británie?&lt;/p&gt;
+</subtitle><author><name>Ondřej Profant</name></author><entry><title type="html">Evropský zelený certifikát</title><link href="https://www.profant.eu/2021/evropsky-zeleny-certifikat.html" rel="alternate" type="text/html" title="Evropský zelený certifikát" /><published>2021-06-04T00:00:00+00:00</published><updated>2021-06-04T00:00:00+00:00</updated><id>https://www.profant.eu/2021/evropsky-zeleny-certifikat</id><content type="html" xml:base="https://www.profant.eu/2021/evropsky-zeleny-certifikat.html">&lt;p&gt;Vláda připravila už druhou verzi zákona k tzv. covidpassům. Ani ta však nevyvrátila pochybnosti o tom, zda je takový zákon vůbec nutný a zda nastavuje podmínky pro používání tohoto certifikátu správně.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;Vláda sama uznala, že její legislativní předklad covidpassu je špatný, a tak ho stáhla. Je důležité, aby nová verze i z ní plynoucí opatření byly dostatečně odůvodněné - jinak opět hrozí shození Nejvyšším správním soudem jako se to opakovaně stalo v případě epidemiologických opatření ministerstva zdravotnictví.&lt;/p&gt;
+
+&lt;p&gt;Evropský covidpass je v pořádku. Sjednocuje pravidla přeshraničního prokazování, a díky tomu zjednodušuje občanům cestování po EU. Zachovává paralelně možnost testování, očkování i období immunity po prodělání nemoci. Navíc ho lze snadno použít v digitální i listinné podobě.&lt;/p&gt;
+
+&lt;p&gt;Národní covidpass, tedy použití certifikátu pro různá omezení života v Česku, by měl mít jasná a předem vymezená pravidla. Musí dojít k vyvážení zájmů občanů, ochrany zdraví a zájmů podnikatelů. Každé konkrétní použití covidpassu, jakožto prostředku pro prokázání bezinfekčnosti, musí být dobře odůvodněné.&lt;/p&gt;
+
+&lt;p&gt;Existuje mnoho provozů a situací, kde rozhodně není potřeba. Piráti si myslí, že by měl být používán pouze pro epidemiologicky významné události, např. pro velké koncerty. V současné době ale nedává smysl ho používat na místech, kde není velké nebezpečí, třeba ve službách, kde se setkávají najednou jen 2 lidé (kadeřník).&lt;/p&gt;
+
+&lt;p&gt;Schválení takového mimořádného prostředku musí být časově omezené, proto navrhujeme platnost zákona omezit pouze na následující rok.&lt;/p&gt;
+
+&lt;h2 id=&quot;technicky&quot;&gt;Technicky&lt;/h2&gt;
+
+&lt;p&gt;Technicky na tom není nic složitého. Veškerá potřebná data jsou zašifrována v QR kódu. Ten může být v listinné podobě (papír), anebo digitálně. Aplikace na mobilu ověřovatele pak snadno zjistí, zda daný člověk splnil, či nesplnil podmínky (ale nic víc). Co stát musí udělat proto, aby to vše fungovalo:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;legislativní podklad (aby i soukromý subjekt, třeba pořadatel koncertu, měl právo kontrolovat účastníky)&lt;/li&gt;
+  &lt;li&gt;proces vydávání QR kódů (propojení dat z ÚZIS, testování apod). V rámci tohoto je třeba například vydat klíče testovacím laboratořím. A stejně tak je třeba seznam revokovaných certifikátů.&lt;/li&gt;
+  &lt;li&gt;jednoduchá aplikace, která řekne ANO/NE při přečtený daného QR kódu, v kterém je zašifrovaná informace&lt;/li&gt;
+  &lt;li&gt;vše se provádí offline lokálně (stát ani nikdo jiný nemůže sledovat na jakou akci zrovna jdu)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Mám však obavu, že česká vláda se do toho zamotá a bude vymýšlet kolo a zbytečně složitý systém.&lt;/p&gt;
+
+&lt;h2 id=&quot;co-nám-vláda-předložila&quot;&gt;Co nám vláda předložila&lt;/h2&gt;
+
+&lt;p&gt;Vláda nám předložila novou, již druhou, verzi covidpassu. Jenže tato úprava legislativy vlastně jen rozšiřuje informační systém infekčních nemocí, tzv. ISIN provozovaný ÚZIS. Ani tato verze nebyla dostatečně odůvodněna, zejména v oblasti sběru dalších osobních údajů. Zejména zmocnění pro sběr rodných čísel v novele tohoto zákona je zarážející - cožpak tento fungující systém rodná čísla již dávno nesbírá?&lt;/p&gt;
+
+&lt;p&gt;Největším problémem je, že návrh vůbec neřeší kdy a jak by se měl covidpass použít. Přitom to je zcela klíčové. O této problematice má rozhodovat ministerstvo zdravotnictví. To samé ministerstvo, které rozpustilo MeSES a není ochotno své kroky odborně odůvodnit. Po takových krocích je již důvěra ve vládu nulová, proto požadujeme jasné vymezení možného použití přímo v zákoně. Obáváme se např. situace, kdy ministerstvo bude opětovně zakazovat vstup do lesa (a podmíní vstup certifikátem).&lt;/p&gt;
+
+&lt;h2 id=&quot;aktuální-situace&quot;&gt;Aktuální situace&lt;/h2&gt;
+
+&lt;p&gt;Zákon měl být původně projednán v legislativní nouzi, ale vláda na takový postup neměla dostatek hlasů ve sněmovně. Čeká se tedy na řádné projednání, případně předložení další verze.&lt;/p&gt;
+
+&lt;p&gt;Ministerstvo zdravotnictví začalo vydávat certifikáty 1. června na adrese [ocko.uzis.cz]. Tato služba vyvolala velký nápor na Základní registry, které nejsou v dobré kondici a které jsou potřeba pro ověření totožnosti.&lt;/p&gt;</content><author><name>Ondřej Profant</name></author><category term="Soukromí" /><category term="soukromí" /><category term="digitalizace" /><summary type="html">Vláda připravila už druhou verzi zákona k tzv. covidpassům. Ani ta však nevyvrátila pochybnosti o tom, zda je takový zákon vůbec nutný a zda nastavuje podmínky pro používání tohoto certifikátu správně.</summary></entry><entry><title type="html">K čemu je vlastně občanka a co v ní má být?</title><link href="https://www.profant.eu/2021/obcanske-prukazy.html" rel="alternate" type="text/html" title="K čemu je vlastně občanka a co v ní má být?" /><published>2021-05-10T00:00:00+00:00</published><updated>2021-05-10T00:00:00+00:00</updated><id>https://www.profant.eu/2021/obcanske-prukazy</id><content type="html" xml:base="https://www.profant.eu/2021/obcanske-prukazy.html">&lt;p&gt;K čemu nám slouží občanský průkaz a co v něm má být uvedeno? Měly by tam zůstat akademické tituly? Přidáme tam i barvu očí a vlasů? Tělesnou výšku? Nebo bychom občanky měli rovnou zrušit po vzoru Velké Británie?&lt;/p&gt;
 
 &lt;!--more--&gt;
 
@@ -667,115 +704,4 @@ Vzhledem ke zvolení Ivana Bartoše celostátním lídrem do sněmovních voleb 
 Byl jsem &lt;a href=&quot;https://forum.pirati.cz/viewtopic.php?f=349&amp;amp;t=55269&quot;&gt;nominován na čelní místa kandidátní listiny&lt;/a&gt; pro volby do Poslanecké sněmovny 2021. Rozhodl jsem se kandidovat od 3. místa dále, více v mé &lt;a href=&quot;https://forum.pirati.cz/viewtopic.php?p=735027#p735027&quot;&gt;kandidátské řeči&lt;/a&gt;. Odpovědi na dotazy k mé kandidatuře můžete transparentně dohledat na Pirátském fóru.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Další digitalizační témata&lt;/strong&gt;&lt;br /&gt;
-Ještě v průběhu listopadu jsem na svém blogu vydal dva články k dalším tématům souvisejícím s digitalizací, k jejich sdílení a bližšímu vysvětlování na sociálních sítích jsem se ale dostal až v prosinci. Prvním je &lt;a href=&quot;https://www.profant.eu/2020/neni-podpis-jako-podpis.html&quot;&gt;rozbor elektronických podpisů&lt;/a&gt;, jejich jednotlivých typů a užití. Druhý článek se zabývá &lt;a href=&quot;https://www.profant.eu/2020/prinos-om.html&quot;&gt;Otevřenými městy a jejich přínosem&lt;/a&gt; pro spolupráci obcí za účelem koordinovanější a efektivnější digitalizace.&lt;/p&gt;</content><author><name>Ondřej Profant</name></author><category term="report" /><category term="transparence" /><category term="report" /><category term="Piráti" /><summary type="html">Souhrnný report mé činnosti v období říjen až prosinec 2020. Nejčerstvější informace o mých aktivitách naleznete na mých profilech na sociálních sítích a zde na blogu v sekci Otevřenost.</summary></entry><entry><title type="html">Prvotní verze Katalogu služeb je od ideálu daleko, ve vládě bují resortismus</title><link href="https://www.profant.eu/2020/katalog-sluzeb.html" rel="alternate" type="text/html" title="Prvotní verze Katalogu služeb je od ideálu daleko, ve vládě bují resortismus" /><published>2020-12-15T00:00:00+00:00</published><updated>2020-12-15T00:00:00+00:00</updated><id>https://www.profant.eu/2020/katalog-sluzeb</id><content type="html" xml:base="https://www.profant.eu/2020/katalog-sluzeb.html">&lt;p&gt;Když byl před více než rokem schválen Sněmovnou Zákon o právu na digitální služby, bylo jako první mezník digitalizace označeno sestavení Katalogu služeb. V meziresortním připomínkovém řízení se minulý týden objevila jeho první verze.&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;p&gt;Katalog služeb má obsahovat soupis všech služeb, které ministerstva poskytují. Jak &lt;a href=&quot;https://www.egovernment.cz/inpage/katalog-sluzeb-a-digizakon/&quot;&gt;uvádí ředitel odboru eGovernmentu Roman Vrba&lt;/a&gt; obsahuje katalog všechny služby, které stát poskytuje. Tedy jak služby na žádost, tak služby poskytované z vlastní úřední povinnosti. A to služby digitální i nedigitální, tedy i ty, které není možné digitalizovat, a proto nikdy digitální nebudou. Finální verzi tohoto katalogu musí vláda zveřejnit do 1. února 2020.&lt;/p&gt;
-
-&lt;p&gt;Verze, která šla minulý týden do meziresortního připomínkového řízení, se však tomuto ideálu ani zdaleka neblíží. Seznam 663 služeb se na první pohled může zdát jako dostačující, avšak bližší zkoumání odhalí, že jde spíše o náhodnou, neúplnou změť agend, než o systematický soupis. Vina v tomto případě není na odboru eGovernmentu Ministerstva vnitra, který celý katalog připravuje, ale na jednotlivých ministerstvech. Těm ani několik měsíců připravy nestačilo k tomu, aby sepsala, co vlastně dělají.&lt;/p&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;Služby&lt;/th&gt;
-      &lt;th&gt;digitalizovatelné&lt;/th&gt;
-      &lt;th&gt;nedigitalizovatelné&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Ministerstvo vnitra&lt;/td&gt;
-      &lt;td&gt;218&lt;/td&gt;
-      &lt;td&gt;136&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Ministerstvo dopravy&lt;/td&gt;
-      &lt;td&gt;25&lt;/td&gt;
-      &lt;td&gt;112&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Ministerstvo zahraničních věcí&lt;/td&gt;
-      &lt;td&gt;2&lt;/td&gt;
-      &lt;td&gt;10&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Ministerstvo obrany&lt;/td&gt;
-      &lt;td&gt;0&lt;/td&gt;
-      &lt;td&gt;5&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Ministerstvo práce a sociálních věcí&lt;/td&gt;
-      &lt;td&gt;0&lt;/td&gt;
-      &lt;td&gt;14&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Ministerstvo pro místní rozvoj&lt;/td&gt;
-      &lt;td&gt;0&lt;/td&gt;
-      &lt;td&gt;8&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Ministerstvo průmyslu a obchodu&lt;/td&gt;
-      &lt;td&gt;0&lt;/td&gt;
-      &lt;td&gt;75&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Ministerstvo zdravotnictví&lt;/td&gt;
-      &lt;td&gt;0&lt;/td&gt;
-      &lt;td&gt;2&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Ministerstvo zemědělství&lt;/td&gt;
-      &lt;td&gt;0&lt;/td&gt;
-      &lt;td&gt;12&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Ministerstvo životního prostředí&lt;/td&gt;
-      &lt;td&gt;0&lt;/td&gt;
-      &lt;td&gt;17&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Národní bezpečnostní úřad&lt;/td&gt;
-      &lt;td&gt;0&lt;/td&gt;
-      &lt;td&gt;27&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Ministerstvo školství&lt;/td&gt;
-      &lt;td&gt;0&lt;/td&gt;
-      &lt;td&gt;0&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Ministerstvo spravedlnosti&lt;/td&gt;
-      &lt;td&gt;0&lt;/td&gt;
-      &lt;td&gt;0&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Ministerstvo financí&lt;/td&gt;
-      &lt;td&gt;0&lt;/td&gt;
-      &lt;td&gt;0&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Ministerstvo kultury&lt;/td&gt;
-      &lt;td&gt;0&lt;/td&gt;
-      &lt;td&gt;0&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;strong&gt;Celkem&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;&lt;strong&gt;245&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;&lt;strong&gt;418&lt;/strong&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;p&gt;Nejzodpovědněji se k úkolu postavilo postavilo Ministerstvo vnitra, které dokonce považuje většinu svých služeb za digitalizovatelné. Ostatní ministerstva dodala velmi neúplné seznamy, kde navíc většinu svých služeb považují za nedigitalizovatelnou. Ministerstvo spravedlnosti, kterému např. evropské nařízení &lt;a href=&quot;https://ec.europa.eu/info/publications/company-law-package_en&quot;&gt;Company Law package&lt;/a&gt; přikazuje digitalizovat zakládání firem, nedodalo ani čárku. Obdobně skoupá byla i ministerstva financí, školství a kultury. Ze 17 služeb, které uvedlo Ministerstvo životního prostředí, se jich 9 týká činnosti v Antarktidě a 5 geologických prací. Nechce se věřit, že MŽP řeší převážně tyto agendy.&lt;/p&gt;
-
-&lt;p&gt;Jednotlivá odůvodnění, proč některé služby nelze digitalizovat, jsou navíc skutečně absurdní:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Ministerstvo zemědělství argumentuje, že &lt;strong&gt;správní poplatek nejde zaplatit online&lt;/strong&gt;. Přitom již samotný zákon s platbou online počítá.&lt;/li&gt;
-  &lt;li&gt;Ministerstvo průmyslu a obchodu nenavrhlo žádnou agendu vhodnou k digitalizaci, u velké části z nich tomu údajně brání &lt;strong&gt;nemožnost seznámit se s podklady digitálně&lt;/strong&gt; - přitom elektronické nahlížení do spisu je na mnoha úřadech a soudech možné.&lt;/li&gt;
-  &lt;li&gt;Ministerstvo práce a sociálních věcí také nenavrhlo ani jednu agendu k digitalizaci. Například seznámení se s podklady rozhodnutí ohledně vrácení přeplatku na dávce hmotné nouze je údovděnou &lt;strong&gt;„potřebou dostavit se osobně na úřad“&lt;/strong&gt;. Úřady tak asi neumí dokumenty poslat ani poštou, ani například datovou schránkou.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Prvotní verze tohoto Katalogu bude podle informací Ministerstva vnitra v průběhu ledna ještě doplňována, popisovaný stav tak naštěstí není finální. Snad se podaří do 1. února seznam zkompletovat tak, aby skutečně obsahoval alespoň většinu běžných služeb, které stát poskytuje. Ideálním bonusem k tomu by bylo obeznámit ministerstva s fungováním platebních karet, e-mailů, datových schránek a dalších vymožeností 21. století.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.profant.eu/assets/xlsx/Katalog.xlsx&quot;&gt;Prvotní verze Katalogu služeb v rámci meziresortního připomínkového řízení&lt;/a&gt;&lt;/p&gt;</content><author><name>Bára Soukupová</name></author><category term="Digitalizace" /><category term="egovernment" /><category term="digitalizace" /><summary type="html">Když byl před více než rokem schválen Sněmovnou Zákon o právu na digitální služby, bylo jako první mezník digitalizace označeno sestavení Katalogu služeb. V meziresortním připomínkovém řízení se minulý týden objevila jeho první verze.</summary></entry></feed>
+Ještě v průběhu listopadu jsem na svém blogu vydal dva články k dalším tématům souvisejícím s digitalizací, k jejich sdílení a bližšímu vysvětlování na sociálních sítích jsem se ale dostal až v prosinci. Prvním je &lt;a href=&quot;https://www.profant.eu/2020/neni-podpis-jako-podpis.html&quot;&gt;rozbor elektronických podpisů&lt;/a&gt;, jejich jednotlivých typů a užití. Druhý článek se zabývá &lt;a href=&quot;https://www.profant.eu/2020/prinos-om.html&quot;&gt;Otevřenými městy a jejich přínosem&lt;/a&gt; pro spolupráci obcí za účelem koordinovanější a efektivnější digitalizace.&lt;/p&gt;</content><author><name>Ondřej Profant</name></author><category term="report" /><category term="transparence" /><category term="report" /><category term="Piráti" /><summary type="html">Souhrnný report mé činnosti v období říjen až prosinec 2020. Nejčerstvější informace o mých aktivitách naleznete na mých profilech na sociálních sítích a zde na blogu v sekci Otevřenost.</summary></entry></feed>
