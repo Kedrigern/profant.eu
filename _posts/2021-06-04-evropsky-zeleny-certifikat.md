@@ -45,4 +45,4 @@ Největším problémem je, že návrh vůbec neřeší kdy a jak by se měl cov
 
 Zákon měl být původně projednán v legislativní nouzi, ale vláda na takový postup neměla dostatek hlasů ve sněmovně. Čeká se tedy na řádné projednání, případně předložení další verze.
 
-Ministerstvo zdravotnictví začalo vydávat certifikáty 1. června na adrese [ocko.uzis.cz]. Tato služba vyvolala velký nápor na Základní registry, které nejsou v dobré kondici a které jsou potřeba pro ověření totožnosti.
+Ministerstvo zdravotnictví začalo vydávat certifikáty 1. června na adrese <ocko.uzis.cz>. Tato služba vyvolala velký nápor na Základní registry, které nejsou v dobré kondici a které jsou potřeba pro ověření totožnosti.
