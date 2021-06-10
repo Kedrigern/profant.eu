@@ -32,15 +32,16 @@ comments: false
                 <h2 class="timeline-content__title">{{ uspech.subject }}</h2>
                 {{ uspech.description | markdownify }}  
       
-                <div class="reveal" id="{{uspech.id}}" data-reveal>
+                <div class="reveal" data-reveal id="{{uspech.id}}">
                   <h1>{{uspech.subject}}</h1>
                   {{ uspech.description | markdownify }} 
                   <button class="close-button" data-close aria-label="Close modal" type="button">
                     <span aria-hidden="true">&times;</span>
                   </button>
                 </div> 
+                
                 <p><button class="button" data-open="{{uspech.id}}">Čtěte více</button></p>     
-                          
+
               </div>
               <div class="timeline-content__media">
                   {% if uspech.img != "" %}
