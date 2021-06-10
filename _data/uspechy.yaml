@@ -304,11 +304,12 @@
   video: ''
 - date: 2020-05-14
   description: "Novák nebo Nováková? Podle nás by ve 21. století mělo být samozřejmostí,\
-    \ že si každá žena o tvaru svého příjmení sama svobodně rozhodne. Před časem proto\
-    \ náš poslanec Ondřej Profant předložil návrh zaručující svobodný výběr tvaru\
-    \ příjmení a teď ho podpořil garanční výbor. Máme v plánu změnit současný zkostnatělý\
-    \ stav, kdy ženy musí lhát, aby splnily nastavené podmínky pro možnost zvolit\
-    \ si příjmení bez přípony -ová.\r\n\r\n- [Tisková zpráva](https://www.pirati.cz/tiskove-zpravy/garancni-vybor-schvalil-neprechylena-prijmeni.html)\r\
+    \ že si každá žena o tvaru svého příjmení sama svobodně rozhodne. Náš poslanec\
+    \ Ondřej Profant a Helena Válková (za ANO) předložili návrh zaručující svobodný\
+    \ výběr tvaru příjmení. Tento návrh podpořil garanční výbor a schválila jej i\
+    \ Sněmovna. Považujeme za špatný současný zkostnatělý stav, kdy ženy musí lhát,\
+    \ aby splnily nastavené podmínky pro možnost zvolit si příjmení bez přípony -ová.\r\
+    \n\r\n- [Tisková zpráva](https://www.pirati.cz/tiskove-zpravy/garancni-vybor-schvalil-neprechylena-prijmeni.html)\r\
     \n- [DVTV - Profant: Povinné přechylování příjmení je šikana, nikdo se žen neptá\
     \ na jejich názor](https://video.aktualne.cz/dvtv/profant-povinne-prechylovani-prijmeni-je-sikana-nikdo-se-zen/r~f62dae5496e711ea842f0cc47ab5f122/)\r\
     \n- [Blog Ondřeje Profanta - Přechylování ženských příjmení](https://www.profant.eu/2019/prechylovani.html)"
@@ -316,7 +317,7 @@
   id: 34158
   img: https://raw.githubusercontent.com/pirati-web/pirati.cz/gh-pages/assets/img/articles/2020/profant-ova.jpg?w=720
   priority: 4
-  subject: Návrh na svobodnou volbu tvaru ženského příjmení podpořil garanční výbor
+  subject: Návrh na svobodnou volbu tvaru ženského příjmení schválen Sněmovnou!
   tags:
   - ochranaobcanu
   - bara-soukupova
@@ -349,20 +350,22 @@
   video: ''
 - date: 2020-11-14
   description: "Nemyslíme si, že je nutné u sebe stále vozit občanku i řidičák. Proto\
-    \ jsme v rámci našeho digitalizačního balíčku navrhli, aby stačila pouze občanka.\
-    \ Výboru pro veřejnou správu a regionální rozvoj dal navíc našemu návrhu zelenou.\
-    \ Takže, pokud to Sněmovna schválí, zbavíme vaši peněženku další zbytečné kartičky.\r\
-    \n\r\n„Již dnes je policie schopna si údaje dohledat, není důvod nutit občany,\
-    \ aby si s sebou vozili další kartičku navíc,” odůvodňuje návrh jeho předkladatel\
-    \ a předseda podvýboru pro eGovernment Ondřej Profant.\r\n\r\nDalší zdroje:\r\n\
-    [Tisková zpráva](https://www.pirati.cz/tiskove-zpravy/Stop-zbytecnemu-noseni-dokladu-pirati-prosadili-navrhy-k-digitalizaci.html)\r\
+    \ jsme v rámci našeho digitalizačního balíčku navrhli, aby stačilo pouze prokázání\
+    \ totožnosti (např. občanka). Sněmovna i senát dali našemu návrhu zelenou. Zbavíme\
+    \ tak vaši peněženku další zbytečné kartičky. Zároveň odpadne povinnost mít s\
+    \ sebou technický průkaz.\r\n\r\n„Již dnes je policie schopna si údaje dohledat,\
+    \ není důvod nutit občany, aby si s sebou vozili další kartičku navíc,” odůvodnil\
+    \ návrh jeho předkladatel a předseda podvýboru pro eGovernment Ondřej Profant.\r\
+    \n\r\nÚčinnost bude od července 2025, tedy na konci dalšího volebního období.\
+    \ Chtěla to tak bohužel policie. Pokud ale budeme ve vládě, tak to určitě uspíšíme.\r\
+    \n\r\nDalší zdroje:\r\n[Tisková zpráva](https://www.pirati.cz/tiskove-zpravy/Stop-zbytecnemu-noseni-dokladu-pirati-prosadili-navrhy-k-digitalizaci.html)\r\
     \n[Hospodářské noviny: Fronty uprostřed pandemie: Virus by mohl změnit přístup\
     \ lidí i úřadů k digitalizaci státní správy](https://archiv.ihned.cz/c1-66842270-fronty-uprostred-pandemie-virus-by-mohl-zmenit-pristup-lidi-i-uradu-k-digitalizaci-statni-spravy)"
   icon: thumbs-up
   id: 33589
   img: https://www.pirati.cz/assets/img/articles/2020/profant.jpg
   priority: 4
-  subject: Pirátský návrh na sloučení občanky a řidičáku míří s doporučením do Sněmovny
+  subject: Už nebudete muset vozit řidičák. Bude stačit prokázání totožnosti!
   tags:
   - ondrej-profant
   - digitalizacestatu
@@ -396,6 +399,27 @@
   - svoboda-internetu
   - marcel-kolaja
   - frantisek-kopriva
+  - ondrej-profant
+  video: ''
+- date: 2020-08-19
+  description: "Ve sněmovně náš poslanec Ondřej Profant poukázal na to, že ministerstvo\
+    \ školství neposkytlo dostatečnou podporu školám pro obnovení výuky po prázdninách.\
+    \ Z doporučení ministerstva například nebylo jasné, jak se mají školy chovat v\
+    \ případě nakažení učitele a potenciální karanténě pro celý učitelský sbor. Kritizovali\
+    \ jsme i omezení vzdělávacích olympiád a nedostatečné využití digitálních učebních\
+    \ materiálů.\r\n\r\nDalší zdroje:\r\n[vystoupení a komentář na FB](https://www.facebook.com/ondrej.profant/posts/10217784725316542)\r\
+    \n[komentář na Twitteru](https://twitter.com/ondrej_profant/status/1296123293641125894)\r\
+    \n[pedagogické info](http://www.pedagogicke.info/2020/08/ondrej-profant-ministerstvo-skolstvi-se.html)\r\
+    \n[parlamentní listy](https://www.parlamentnilisty.cz/politika/politici-volicum/Profant-Pirati-Problemem-jsou-digitalni-ucebni-materialy-tak-zvane-DUM-634213)"
+  icon: thumbs-up
+  id: 32731
+  img: ''
+  priority: 4
+  subject: Varovali jsme před nepřipraveností školství na druhou vlnu pandemie
+  tags:
+  - digitalizace
+  - koronavirus
+  - skolstvi
   - ondrej-profant
   video: ''
 - date: 2019-06-01
@@ -877,8 +901,9 @@
     \ pomůcky. Jenže přesně pro tyto situace tu je nouzový stav. A když nouzový stav\
     \ není, měla by se vláda řídit zákonem a dodržovat alespoň základní pravidla –\
     \ ověřit si, že ví, od koho nakupuje, a že firma má alespoň nějakou odbornost,”\
-    \ komentoval novelu pirátský poslanec Ondřej Profant.\r\n\r\nDalší zdroje: \r\n\
-    * [Tisková zpráva](https://www.pirati.cz/tiskove-zpravy/kontroverzni-navrh-verejne-zakazky-posunuti-navrhu-rozpoctu.html)\r\
+    \ komentoval novelu pirátský poslanec Ondřej Profant.\r\n\r\nPo více než půl roce\
+    \ od předložení vláda tento nebezpečný návrh definitivně stáhla.\r\n\r\nDalší\
+    \ zdroje: \r\n* [Tisková zpráva](https://www.pirati.cz/tiskove-zpravy/kontroverzni-navrh-verejne-zakazky-posunuti-navrhu-rozpoctu.html)\r\
     \n* [Piráti varují před novým zákonem o zakázkách, hrozí malé domů do daňových\
     \ rájů](https://www.pirati.cz/tiskove-zpravy/danove-raje-verejne-zakazky.html)\
     \ \r\n* Novinky.cz: [Poslanci debatovali o ošetřovném i veřejných zakázkách](https://www.novinky.cz/domaci/clanek/on-line-poslance-ceka-bourliva-debata-o-osetrovnem-i-verejnych-zakazkach-40323917)\r\
