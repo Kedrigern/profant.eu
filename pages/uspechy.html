@@ -28,10 +28,10 @@ comments: false
 
             <div class="timeline-content {% if mod == 1 %}timeline-content--right{% endif %}" id="{{uspech.id}}">
               <div class="timeline-content__desc">
-                <p class="timeline-content__date">{{ uspech.date | date:"%d. %m. %Y" }}</p>
+                <!--<p class="timeline-content__date">{{ uspech.date | date:"%d. %m. %Y" }}</p>-->
                 <h2 class="timeline-content__title">{{ uspech.subject }}</h2>
                 {{ uspech.description | markdownify }}  
-      
+      <!--
                 <div class="reveal" data-reveal id="{{uspech.id}}">
                   <h1>{{uspech.subject}}</h1>
                   {{ uspech.description | markdownify }} 
@@ -39,8 +39,8 @@ comments: false
                     <span aria-hidden="true">&times;</span>
                   </button>
                 </div> 
-                
-                <p><button class="button" data-open="{{uspech.id}}">Čtěte více</button></p>     
+
+                <p><button class="button" data-open="{{uspech.id}}">Čtěte více</button></p>     -->
 
               </div>
               <div class="timeline-content__media">
