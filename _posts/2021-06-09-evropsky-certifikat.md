@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Evropský zelený certifikát"
+title:      "Digitální COVID certifikát EU"
 date:       2021-06-09
 categories: Soukromí
 comments:   true
@@ -9,9 +9,11 @@ img:        covidpass.jpg
 author:     Ondřej Profant
 ---
 
-Vláda sama uznala, že její první legislativní předklad covidpassu je špatný, a tak ho raději stáhla. Ani 2. verze vládního návrhu zákona nebyla o mnoho lepší, proto jsme ji 9. června na půdě sněmovny nepodpořili. Podle nás není takový návrh totiž vůbec potřebný.
+Vláda sama uznala, že její [první legislativní předklad](https://www.psp.cz/sqw/text/tiskt.sqw?O=8&CT=1225&CT1=0) covid pasu je špatný, a tak ho raději stáhla. Ani 2. verze vládního návrhu zákona nebyla o mnoho lepší, proto jsme ji 9. června na půdě sněmovny nepodpořili. Podle nás není takový návrh totiž vůbec potřebný.
 
 <!--more-->
+
+----------------------------------------------------------------------------------
 
 ## Oficiální stanovisko Pirátů a Starostů a koalice SPOLU
 
@@ -44,7 +46,7 @@ barva prokazující bezinfekčnost.
 **Jak budeme ČR bránit před epidemií?**  
 Epidemie tu s námi stále je, mutace viru nás stále mohou ohrozit. Zvláště pak mutace Delta. Proto je třeba zaměřit se na efektivní boj s nebezpečnými mutacemi. Je potřeba rychle a přesně trasovat a v případě prokázání nákazy se nebát izolovat ohniska. V momentě, kdy virus zastavíme v počátku, minimalizujeme škody. Preventivně je třeba zachovat dostatečnou testovací kapacitu (pro případ mutací) a kapacitu na sekvenování (tedy záchyt mutací viru).
 
-
+----------------------------------------------------------------------------------
 
 ## Technicky
 
@@ -62,8 +64,8 @@ Specifikaci [nalezneme na Githubu](https://github.com/eu-digital-green-certifica
 
 ## Co nám vláda předložila
 
-Vláda nám předložila novou, již druhou, verzi covidpassu jako [sněmovní tisk 1225](https://www.psp.cz/sqw/text/tiskt.sqw?O=8&CT=1225&CT1=0) a [ST 1231](https://www.psp.cz/sqw/text/tiskt.sqw?O=8&CT=1231&CT1=0). Jenže tato úprava legislativy vlastně jen rozšiřuje informační systém infekčních nemocí, tzv. ISIN provozovaný ÚZIS. Ani tato verze nebyla dostatečně odůvodněna, zejména v oblasti sběru dalších osobních údajů. Zejména zmocnění pro sběr rodných čísel v novele tohoto zákona je zarážející - cožpak tento fungující systém rodná čísla již dávno nesbírá?
+Vláda nám předložila novou, již druhou, verzi covid pasu jako [sněmovní tisk 1231](https://www.psp.cz/sqw/text/tiskt.sqw?O=8&CT=1231&CT1=0). Jenže tato úprava legislativy vlastně jen rozšiřuje informační systém infekčních nemocí, [tzv. ISIN provozovaný ÚZIS](https://www.zakonyprolidi.cz/cs/2000-258#p75a). Ani tato verze nebyla dostatečně odůvodněna, zejména v oblasti sběru dalších osobních údajů. Zejména zmocnění pro sběr rodných čísel v novele tohoto zákona je zarážející - cožpak tento fungující systém rodná čísla již dávno nesbírá?
 
-Největším problémem je, že návrh vůbec neřeší kdy a jak by se měl covidpass použít. Přitom to je zcela klíčové.  Musí dojít k vyvážení zájmů občanů, ochrany zdraví a zájmů podnikatelů. Každé konkrétní použití covidpassu, jakožto prostředku pro prokázání bezinfekčnosti, musí být dobře odůvodněné. O této problematice má rozhodovat ministerstvo zdravotnictví. To samé ministerstvo, které rozpustilo MeSES a není ochotno své kroky odborně odůvodnit. Po takových krocích je již důvěra ve vládu nulová, proto požadujeme jasné vymezení možného použití přímo v zákoně. Obáváme se např. situace, kdy ministerstvo bude opětovně zakazovat vstup do lesa (a podmíní vstup certifikátem). Piráti si myslí, že by měl být používán pouze pro **epidemiologicky významné události**, např. pro velké koncerty. V současné době ale nedává smysl ho používat na místech, kde není velké nebezpečí, třeba ve službách, kde se setkávají najednou jen 2 lidé (kadeřník). Je důležité, aby případná opatření byla dostatečně odůvodněná - jinak opět hrozí shození Nejvyšším správním soudem jako se to opakovaně stalo v případě epidemiologických opatření ministerstva zdravotnictví.
+Největším problémem je, že návrh vůbec neřeší kdy a jak by se měl covid pas použít. Přitom to je zcela klíčové.  Musí dojít k vyvážení zájmů občanů, ochrany zdraví a zájmů podnikatelů. Každé konkrétní použití covid pasu, jakožto prostředku pro prokázání bezinfekčnosti, musí být dobře odůvodněné. O této problematice má rozhodovat ministerstvo zdravotnictví. To samé ministerstvo, které rozpustilo MeSES a není ochotno své kroky odborně odůvodnit. Po takových krocích je již důvěra ve vládu nulová, proto požadujeme jasné vymezení možného použití přímo v zákoně. Obáváme se např. situace, kdy ministerstvo bude opětovně zakazovat vstup do lesa (a podmíní vstup certifikátem). Piráti si myslí, že by měl být používán pouze pro **epidemiologicky významné události**, např. pro velké koncerty. V současné době ale nedává smysl ho používat na místech, kde není velké nebezpečí, třeba ve službách, kde se setkávají najednou jen 2 lidé (kadeřník). Je důležité, aby případná opatření byla dostatečně odůvodněná - jinak opět hrozí shození Nejvyšším správním soudem jako se to opakovaně stalo v případě epidemiologických opatření ministerstva zdravotnictví.
 
-Národní covidpass, tedy použití certifikátu pro různá omezení života v Česku, by měl mít jasná a předem vymezená pravidla, včetně omezené doby platnosti pouze na následující rok.
+Národní covid pas, tedy použití certifikátu pro různá omezení života v Česku, by měl mít jasná a předem vymezená pravidla, včetně omezené doby platnosti pouze na následující rok.

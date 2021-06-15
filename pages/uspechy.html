@@ -12,6 +12,11 @@ comments: false
       <h1 class="page__headline timeline-headline">{{ page.title }}</h1>
     </div>
   </div>
+  <div class="row">
+    <div class="small-12 columns">
+      <p>S prací, kterou Piráti odvedli v poslanecké sněmovně se také můžete seznámit na <a href="https://piratipracuji.cz/">piratipracuji.cz</a>. Nezapomeňte si též přečíst <a href="https://www.piratiastarostove.cz/program/">program pro volby 2021</a>.</p>
+    </div>
+  </div>
 
   <div class="row">
     <div class="small-12 columns">
@@ -26,19 +31,22 @@ comments: false
 
             {% assign mod = forloop.index | modulo:2 %}
 
-            <div class="timeline-content {% if  mod == 0 %}timeline-content--right{% endif %}" id="{{uspech.id}}">
+            <div class="timeline-content {% if mod == 1 %}timeline-content--right{% endif %}" id="{{uspech.id}}">
               <div class="timeline-content__desc">
-                <p class="timeline-content__date">{{ uspech.date | date:"%d. %m. %Y" }}</p>
+                <!--<p class="timeline-content__date">{{ uspech.date | date:"%d. %m. %Y" }}</p>-->
                 <h2 class="timeline-content__title">{{ uspech.subject }}</h2>
                 {{ uspech.description | markdownify }}  
-                <p><button class="button" data-open="{{uspech.id}}">Čtěte více</button></p>
-                <div class="reveal" id="{{uspech.id}}" data-reveal>
+      <!--
+                <div class="reveal" data-reveal id="{{uspech.id}}">
                   <h1>{{uspech.subject}}</h1>
                   {{ uspech.description | markdownify }} 
                   <button class="close-button" data-close aria-label="Close modal" type="button">
                     <span aria-hidden="true">&times;</span>
                   </button>
-                </div>                
+                </div> 
+
+                <p><button class="button" data-open="{{uspech.id}}">Čtěte více</button></p>     -->
+
               </div>
               <div class="timeline-content__media">
                   {% if uspech.img != "" %}
