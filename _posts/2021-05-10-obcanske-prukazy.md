@@ -5,7 +5,7 @@ date:       2021-05-10
 categories: Soukromí
 comments:   true
 tags:       [soukromí, digitalizace]
-img:        profant_tiskovka.jpg
+img:        obcanka.jpg
 author:     Ondřej Profant
 ---
 
