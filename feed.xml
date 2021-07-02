@@ -1,7 +1,81 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://www.profant.eu/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.profant.eu/" rel="alternate" type="text/html" /><updated>2021-06-16T15:20:09+00:00</updated><id>https://www.profant.eu/feed.xml</id><title type="html">Profant</title><subtitle>Zápisník pirátského poslance Ondřeje Profanta, který se zaměřuje na opendata, e-government, digitalizaci společnosti a kybernetickou bezpečnost.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://www.profant.eu/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.profant.eu/" rel="alternate" type="text/html" /><updated>2021-07-02T17:33:48+00:00</updated><id>https://www.profant.eu/feed.xml</id><title type="html">Profant</title><subtitle>Zápisník pirátského poslance Ondřeje Profanta, který se zaměřuje na opendata, e-government, digitalizaci společnosti a kybernetickou bezpečnost.
 Rád bych byl, aby Česká republika byla moderním státem s rozvinutou digitální ekonomikou, kde je kladen silný důraz na vzdělávání a svobodu.
 V digitalizaci se musíme inspirovat ve Velké Britanii, Dánsku a Estonsku, řešení musí být otevřená, uživatelsky přívětivá a ohleduplná k soukromí.
-</subtitle><author><name>Ondřej Profant</name></author><entry><title type="html">Digitální COVID certifikát EU</title><link href="https://www.profant.eu/2021/evropsky-certifikat.html" rel="alternate" type="text/html" title="Digitální COVID certifikát EU" /><published>2021-06-09T00:00:00+00:00</published><updated>2021-06-09T00:00:00+00:00</updated><id>https://www.profant.eu/2021/evropsky-certifikat</id><content type="html" xml:base="https://www.profant.eu/2021/evropsky-certifikat.html">&lt;p&gt;Vláda sama uznala, že její &lt;a href=&quot;https://www.psp.cz/sqw/text/tiskt.sqw?O=8&amp;amp;CT=1225&amp;amp;CT1=0&quot;&gt;první legislativní předklad&lt;/a&gt; covid pasu je špatný, a tak ho raději stáhla. Ani 2. verze vládního návrhu zákona nebyla o mnoho lepší, proto jsme ji 9. června na půdě sněmovny nepodpořili. Podle nás není takový návrh totiž vůbec potřebný.&lt;/p&gt;
+</subtitle><author><name>Ondřej Profant</name></author><entry><title type="html">Digitalilzace zdravotnictví</title><link href="https://www.profant.eu/2021/digitalizace-zdravotnictvi.html" rel="alternate" type="text/html" title="Digitalilzace zdravotnictví" /><published>2021-06-09T07:00:00+00:00</published><updated>2021-06-09T07:00:00+00:00</updated><id>https://www.profant.eu/2021/digitalizace-zdravotnictvi</id><content type="html" xml:base="https://www.profant.eu/2021/digitalizace-zdravotnictvi.html">&lt;p&gt;Propojená, ale maximálně zabezpečená data o pacientech a jejich zdravotním stavu, lékařích, zákrocích a zdravotních zařízeních v zájmu lepší zdravotní péče. To je vize Pirátů a Starostů pro další volební období. Jak ji dosáhnout a jak do ni zapadá právě schvalovaný zákon o elektronizaci zdravotnictví?&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;h2 id=&quot;program&quot;&gt;Program&lt;/h2&gt;
+&lt;p&gt;Program &lt;a href=&quot;https://www.piratiastarostove.cz/program/propojeni-dat-v-zajmu-zdravotniku-i-pacientu/&quot;&gt;koalice Pirátů a Starostů&lt;/a&gt; jasně identifikoval problémy a definoval, jak si představujeme správnou digitalizaci zdravotnictví.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Problémy&lt;/strong&gt; současného (z větší části nedigitalizovaného či nesystematicky digitalizovaného a nepropojeného) systému jsou:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Praktická neexistence kvalitativního hodnocení zdravotní péče. Data nejsou systematicky sbírána, vyhodnocována a používána ke zlepšení kvality celého zdravotního systému - tedy prevence, diagnostiky, léčby, sledování a organizace poskytování zdravotní péče.&lt;/li&gt;
+  &lt;li&gt;Lékaři nemají k dispozici vyhovující možnosti pro sdílení dokumentací, předávání postupů či cílené vyhledávání pacientů pro preventivní programy.&lt;/li&gt;
+  &lt;li&gt;Pacienti nemají kontrolu nad svými daty, nad tím, kdo a proč k nim přistupuje. Často ani nevědí, kde všude jsou o nich záznamy vedeny.&lt;/li&gt;
+  &lt;li&gt;České zdravotnictví zveřejňuje pouze minimum otevřených dat, a tím se připravujeme o výhody, které nám jejich analýzy mohou poskytnout.&lt;/li&gt;
+  &lt;li&gt;Nemocnice a další zdravotnická zařízení jsou špatně zabezpečena proti kybernetickým útokům, a tak hrozí nejen ztráty citlivých pacientských dat, ale i paralýza fungování celých nemocnic.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;jak-na-to&quot;&gt;Jak na to?&lt;/h2&gt;
+
+&lt;p&gt;Řešení těchto problémů musí být dobře uvážené, abychom si místo nich nevytvořili další, ještě závažnější. Obstrašujícím příkladem jsou &lt;a href=&quot;https://neovlivni.cz/izip-projekt-za-22-miliardy-je-mrtvy-kdo-nese-odpovednost/&quot;&gt;elektronické knížky IZIP&lt;/a&gt;, které skončili obrovskou ztrátou, neúspěchem a zabrzděním elektronizace českého zdravotnictví o 20 let.&lt;/p&gt;
+
+&lt;p&gt;Ze strany uživatelů elektronického zdravotnictví, hlavně pacientů a lékařů, musí být systém maximálně jednoduchý na používání, &lt;strong&gt;přehledný&lt;/strong&gt;, bezešvý a &lt;strong&gt;odstraňující zbytečnou byrokracii&lt;/strong&gt;. Ze strany zabezpečení dat je pak podmínkou decentralizace celého systému tak, aby všechna data nebyla pod kontrolou jedné organizace. Dále je pak potřebné &lt;strong&gt;logování všech operací a jasná správa pacientských souhlasů&lt;/strong&gt; pro přístup k datům.&lt;/p&gt;
+
+&lt;p&gt;Požadavek na jednoduchost a bezešvost celého systému s požadavkem na decentralizaci jdou zdánlivě proti sobě. Pokud je něco decentralizované, bude to různé na různých místech a obtížné spojit. Příkladem jsou dnešní portály zdravotních pojišťoven. Ač poskytují v podstatě ty samé služby, každý vypadá a ovládá se jinak.&lt;/p&gt;
+
+&lt;p&gt;Tak tomu ale být nemusí. Pokud znáte pelikan.cz, kiwi.com či jiný agregátor letenek, víte, že si na jednom místě můžete najít a objednat letenky od mnoha leteckých společností. Přitom uživatelské rozhraní vypadá pořád stejně, dokonce vám vyhledádač najde ideální spojení při využití více leteckých společností najednou. Jak je to možné? Vyhledávač ví, jak se leteckých společností zeptat na jejich spoje a umí přijmout jejich odpovědi, které potom dá dohromady do ideální kombinace pro vás. Důležité je, že ví, jak se zeptat, v jakém formátu přijde odpověď a co znamená. A právě to definují &lt;strong&gt;datové standardy&lt;/strong&gt;, které by měly být použity pro předávání dat i ve zdravotnictví.&lt;/p&gt;
+
+&lt;p&gt;Ideální systém elektronického zdravotnictví by vypadal takto:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Uchovával by citlivá zdravotní &lt;strong&gt;data bezpečně a decentralizovaně&lt;/strong&gt; u poskytovatelů zdravotní péče. Kvalitní kryptografie by měla být samozřejmostí.&lt;/li&gt;
+  &lt;li&gt;Ke všem datům by měl existovat &lt;strong&gt;jasný souhlas pacienta&lt;/strong&gt;, co s nimi lze dělat a komu je lze poskytnout, který by se měl dát vždy online zrušit.&lt;/li&gt;
+  &lt;li&gt;Poskytovatelé péče by měly být propojeni tak, aby si mohly data &lt;strong&gt;posílat v jednotném datovém standardu&lt;/strong&gt; za předpokladu, že k tomu pacient udělil souhlas.&lt;/li&gt;
+  &lt;li&gt;Pacient by měl mít možnost pomocí jednotného uživatelského rozhraní bezešvě &lt;strong&gt;přistupovat ke všem svým datům a udělovat a odebírat souhlasy&lt;/strong&gt; s jejich sdílením.&lt;/li&gt;
+  &lt;li&gt;Zdravotnický personál by měl mít možnost přistupovat bezešvě &lt;strong&gt;ke všem datům pacienta&lt;/strong&gt;, ke kterým pacient udělil souhlas, bez ohledu na to, v kterém úložišti jsou uložena.&lt;/li&gt;
+  &lt;li&gt;Všechny &lt;strong&gt;operace nad daty budou logovány&lt;/strong&gt;, aby bylo jasné, kdo, kdy a k jakým datům přistupuje. Pacienti tak budou mít přehled o tom, jak se s jejich daty nakládá.&lt;/li&gt;
+  &lt;li&gt;Všichni poskytovatelé péče by měli poskytovat &lt;strong&gt;anonymizovaná zdravotní data&lt;/strong&gt;, abychom získali co nejlepší podklady pro léčbu, prevenci nemocí i lepší kontrolu nad financováním. Taková data by měla být zveřejněna ve formě otevřených dat.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;## Co na to nový zákon?&lt;/p&gt;
+
+&lt;p&gt;Ve sněmovně je nyní předložen nový zákon o elektronizaci zdravotnictví (&lt;a href=&quot;https://www.psp.cz/sqw/historie.sqw?o=8&amp;amp;T=1163&quot;&gt;ST 1163&lt;/a&gt; a &lt;a href=&quot;https://www.psp.cz/sqw/historie.sqw?o=8&amp;amp;T=1164&quot;&gt;ST 1164&lt;/a&gt;). Tvorbu zákona jsme pečlivě sledovali, v průběhu minulého roku jsme absolvovali nespočet schůzek s ředitelem Ústavu zdravotnických informací a statistiky ČR (ÚZIS) prof. Ladislavem Duškem, který zákon fakticky připravoval a mnohokrát jej připomínkovali. Zákon je spíše počátkem tvorby elektronického zdravotnictví v Česku než jeho koncem. Přináší totiž naprosto klíčové základní kameny, bez kterých eHealth nelze postavit:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;kmenové zdravotnické registry&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;registr pacientů&lt;/li&gt;
+      &lt;li&gt;registr zdravotnických pracovníků&lt;/li&gt;
+      &lt;li&gt;registr poskytovatelů zdravotních služeb&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;služby vytvářející důvěru&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;elektronická časová razítka&lt;/li&gt;
+      &lt;li&gt;elektronické pečetě&lt;/li&gt;
+      &lt;li&gt;podpisové, systémové a přístupové certifikáty&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;centrální služby elektronického zdravotnictví&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;nahlížení a zápis do zdravotnických registrů&lt;/li&gt;
+      &lt;li&gt;výměnné sítě&lt;/li&gt;
+      &lt;li&gt;správa souhlasů&lt;/li&gt;
+      &lt;li&gt;Portál elektronického zdravotnictví&lt;/li&gt;
+      &lt;li&gt;katalog služeb elektronického zdravotnictví&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;žurnál činností&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Návrh zákona přináší také &lt;strong&gt;definici standardů elektronického zdravotnictví&lt;/strong&gt;, tedy to, jak si mají poskytovatelé péče mezi sebou předávat data. A zde je právě hlavní úskalí zákona - zatímco ostatní jeho části mají platit od roku 2022, případně 2023 nebo 2024, dodržování standardů zákon vyžaduje až od roku 2032. To by znamenalo, že tu ještě &lt;strong&gt;více než 10 let nebude plně funkční systém elektronického zdravotnictví&lt;/strong&gt;! Proto pirátský poslanec Petr Třešňák &lt;a href=&quot;https://www.psp.cz/sqw/text/orig2.sqw?idd=191762&amp;amp;pdf=1&quot;&gt;navrhuje&lt;/a&gt; posun alespoň do roku 2026. Tuto změnu, kterou podpořil i sněmovní Výbor pro zdravotnictví, komentuje:&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Když vezmu co se v IT stane za jeden jediný rok, nebo si vzpomenu na telefon, který jsem používal před pěti lety nebo deseti lety, tak chtít po ministerstvu, aby vydalo závazné standardy a do 5 let se používaly, snad není tak ambiciózní.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Obecně je zákon dobrým startem pro elektronizaci zdravotnictví a Piráti ho podporují. &lt;strong&gt;I díky našemu tlaku zákon nezavádí “velkého bratra”&lt;/strong&gt; a ctí principy decentralizace. Centralizují se jenom skutečně nutné věci, zejména kmenové registry. I po jeho přijetí bude zbývat mnoho věcí dořešit - do zákona se např. nedostal index zdravotnické dokumentace či emergentní záznam. Nedořešená zůstává také telemedicína a pravidla jejího poskytování. Slabým článkem celého systému je jeho přímá kontrola ÚZISem, zakotvená přímo v zákoně. Ten přitom již nyní &lt;a href=&quot;https://www.lidovky.cz/byznys/s-daty-umi-pracovat-hodne-lidi-urady-se-presto-jejich-zverejnovani-boji-rika-novinar-jan-cibulka.A201101_095628_ln_byznys_pravo_ssu&quot;&gt;čelí kritikám z nedostatečného zveřejňování a zadržování zdravotnických dat&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Pokud by vás více zajímalo, jak probíhalo schvalování zákona na zdravotním výboru, mrkněte na &lt;a href=&quot;https://www.zdravotnickydenik.cz/2021/06/zdravotnicky-vybor-jako-garancni-schvalil-zakon-o-ehealth-lhutu-na-aplikaci-standardu-v-it-systemech-zkratil-z-deseti-na-pet-let/&quot;&gt;zdravotnickydenik.cz&lt;/a&gt;.&lt;/p&gt;</content><author><name>Bára Soukupová</name></author><category term="Digitalizace" /><category term="soukromí" /><category term="digitalizace" /><category term="zdravotnictví" /><category term="opendata" /><summary type="html">Propojená, ale maximálně zabezpečená data o pacientech a jejich zdravotním stavu, lékařích, zákrocích a zdravotních zařízeních v zájmu lepší zdravotní péče. To je vize Pirátů a Starostů pro další volební období. Jak ji dosáhnout a jak do ni zapadá právě schvalovaný zákon o elektronizaci zdravotnictví?</summary></entry><entry><title type="html">Digitální COVID certifikát EU</title><link href="https://www.profant.eu/2021/evropsky-certifikat.html" rel="alternate" type="text/html" title="Digitální COVID certifikát EU" /><published>2021-06-09T00:00:00+00:00</published><updated>2021-06-09T00:00:00+00:00</updated><id>https://www.profant.eu/2021/evropsky-certifikat</id><content type="html" xml:base="https://www.profant.eu/2021/evropsky-certifikat.html">&lt;p&gt;Vláda sama uznala, že její &lt;a href=&quot;https://www.psp.cz/sqw/text/tiskt.sqw?O=8&amp;amp;CT=1225&amp;amp;CT1=0&quot;&gt;první legislativní předklad&lt;/a&gt; covid pasu je špatný, a tak ho raději stáhla. Ani 2. verze vládního návrhu zákona nebyla o mnoho lepší, proto jsme ji 9. června na půdě sněmovny nepodpořili. Podle nás není takový návrh totiž vůbec potřebný.&lt;/p&gt;
 
 &lt;!--more--&gt;
 
@@ -591,53 +665,4 @@ c) umožnila ředitelům škol povolit přítomnost žáků závěrečných roč
 &lt;td&gt;&lt;a href=&quot;https://www.psp.cz/sqw/hlasy.sqw?G=75329&quot;&gt;Vláda&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
-&lt;/table&gt;</content><author><name>Ondřej Profant</name></author><category term="Bezpečnost" /><category term="Bezpečnost" /><summary type="html">Pandemická situace je i nadále velmi vážná. Stejně tak je ale zřejmé, že vláda řízení pandemie nezvládá. Ať už jde o pomoc podnikatelům, testování rizikových skupin, trasování kontaktů nebo nejnověji o koordinaci očkování.</summary></entry><entry><title type="html">Jak selhala registrace očkování</title><link href="https://www.profant.eu/2021/registrace-ockovani.html" rel="alternate" type="text/html" title="Jak selhala registrace očkování" /><published>2021-01-17T19:30:00+00:00</published><updated>2021-01-17T19:30:00+00:00</updated><id>https://www.profant.eu/2021/registrace-ockovani</id><content type="html" xml:base="https://www.profant.eu/2021/registrace-ockovani.html">&lt;p&gt;Konečně jsme se dočkali světla na konci dlouhého pandemického tunelu - distribuce vakcíny. Opravdového způsobu jak vrátit naše životy do normálu. Avšak i tento nadějný okamžik provází naprosté selhání vlády.&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;p&gt;15. 1. byl spuštěn rezervační systém. A objevila se v něm celá řada chyb. Milan Kubek prezident české lékařské komory k &lt;a href=&quot;https://twitter.com/CT24zive/status/1350818278134976512&quot;&gt;tomu říká následující&lt;/a&gt;: “Ten systém připravený nebyl, dělá se všechno na poslední chvíli. Už v létě bylo jasné, že budeme muset očkovat. Vláda ale teprve až na podzim začala brát epidemiologickou krizi vážně.” Pojďme se podívat, co se stalo konkrétně.&lt;/p&gt;
-
-&lt;h2 id=&quot;chyby-organizační&quot;&gt;Chyby organizační&lt;/h2&gt;
-
-&lt;p&gt;1) První otázkou je, zda je vůbec &lt;strong&gt;vhodné registrovat lidi 80+ přes internet&lt;/strong&gt;. Chápu, že systém bude sloužit i dalším skupinám obyvatel, avšak dělat ze seniorů pokusné králíky mi přijde krajně nevhodné. Zvláště když Piráti prosadili do Zákona o právu na digitální služby právo nebýt digitální.&lt;/p&gt;
-
-&lt;p&gt;2) &lt;strong&gt;Časová tíseň&lt;/strong&gt;: O důležitosti logistické operace s vakcínou se ví de facto od vypuknutí krize. Od podzimu víme, že nás od vakcíny dělí nanejvýš měsíce. Akorát naše vláda se odmítla velmi dlouho vyjádřit, jak se celá věc bude řešit v ČR. Proto se distribuce, které jsme svědky, začala řešit až okolo Vánoc. V reálu tedy na přípravu systému bylo cca 14 pracovních dní.&lt;/p&gt;
-
-&lt;p&gt;3) Díky časové tísni z bodu 2) nebyla možnost systém řádně vyzkoušet a &lt;strong&gt;otestovat&lt;/strong&gt; v širší skupině, zapracovat připomínky odborníků apod. To by měla být standardní součást procesu vývoje obdobného systému (zvláště pokud ho neumějí správně navrhnout).&lt;/p&gt;
-
-&lt;p&gt;4) &lt;strong&gt;Systém byl naroubován na systém společnosti Reservatic&lt;/strong&gt;. Na smlouvu, kterou měl NAKIT již od října. Avšak ta počítala s centrální registrací na ag testy, nikoliv na očkování. Tato úloha se velmi liší v množství předávaných osobních dat. U očkování podle skupin obyvatelstva musíte zkoumat věk, zdravotní stav a další ukazatele. Systém Reservatic byl nejspíš zvolen jen proto, že UVN ho již měla propojen se softwarem ÚZIS.&lt;/p&gt;
-
-&lt;p&gt;5) &lt;strong&gt;Špatná komunikace s médii&lt;/strong&gt;. Server iRozhlas.cz se již měsíc zajímal přesně o palčivé problémy okolo nakládání s osobními údaji, ale komunikace ze strany NAKIT byla formalistická a snažila se chyby zapírat.&lt;/p&gt;
-
-&lt;p&gt;6) Některá &lt;strong&gt;očkovací centra&lt;/strong&gt; (např. Blansko) &lt;strong&gt;nejsou integrována&lt;/strong&gt; do systému. Občané je tedy ani nenajdou v nabídce.&lt;/p&gt;
-
-&lt;p&gt;7) &lt;strong&gt;Nebyla domluva s mobilními operátory&lt;/strong&gt;, proto nestačila SMS brána jak informoval &lt;a href=&quot;https://denikn.cz/539388/infrastruktura-spusteni-ockovani-zvladla-jeli-jsme-na-dvacet-procent-s-operatory-jsme-se-bavili-tvrdi-dzurilla/?cst=ff9396291bea5aa41c82937672ada50ba64cfd6c&quot;&gt;DeníkN&lt;/a&gt;.&lt;/p&gt;
-&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p lang=&quot;cs&quot; dir=&quot;ltr&quot;&gt;Mobilní operátoři o ověřovacích SMS pro registraci k očkování nevěděli. PIN kódy tak lidem přicházely se zpožděním. O půl deváté měli operátoři Chytré karantény ve frontě 40 tisíc SMS zpráv. &lt;a href=&quot;https://t.co/v5RYPg5QwF&quot;&gt;pic.twitter.com/v5RYPg5QwF&lt;/a&gt;&lt;/p&gt;&amp;mdash; CT24zive (@CT24zive) &lt;a href=&quot;https://twitter.com/CT24zive/status/1350094469484457985?ref_src=twsrc%5Etfw&quot;&gt;January 15, 2021&lt;/a&gt;&lt;/blockquote&gt;
-
-&lt;p&gt;Odpovědnost je zcela jistě na vládě, která má zemi svěřenou do péče. Parlament jí ve všem vyšel vstříc, avšak i přesto vláda v čele s premiérem Andrejem Babišem nedokázala připravit klíčové věci včas. Zcela absurdní je výrok poslance ANO J. &lt;a href=&quot;https://twitter.com/maestrosill/status/1349857358768439297&quot;&gt;Špičáka&lt;/a&gt;, který se snaží hodit vinu na opozici, protože vládě neporadila, že má věci řešit v předstihu.&lt;/p&gt;
-
-&lt;h2 id=&quot;závažné-technické-chyby&quot;&gt;Závažné technické chyby&lt;/h2&gt;
-
-&lt;p&gt;1) Nedostatečná ochrana osobních údajů. Celý systém z logiky věci v dalších fázích bude pracovat s anamnézou klienta. Číslo pojištěnce (většinou rodné číslo) je předáváno v URL, což není bezpečná technika. Například je ukládáno v přítomných Google Analytics nebo v log souborech serverů, případného proxy serveru, může být posiláno v HTTP hlavičkách jako tzv. Referer.&lt;/p&gt;
-
-&lt;p&gt;2) Validace dat čistě v prohlížeči uživatele umožňuje &lt;a href=&quot;https://www.novinky.cz/internet-a-pc/software/clanek/kterak-se-24lety-student-k-registraci-mezi-80letymi-dostal-40347976&quot;&gt;věkové restrikce obejít&lt;/a&gt;. Běžné je řešit validaci vstupních dat u klienta v prohlížeči i na straně serveru, aby nedošlo k chybě a zároveň byl klient rychle informován.&lt;/p&gt;
-
-&lt;p&gt;4) Druhá fáze je provozována na serverech soukromé společnosti Reservatic.com. Takto částečné zapojení nedává příliš velký smysl.&lt;/p&gt;
-
-&lt;p&gt;5) &lt;strong&gt;Špatná validace rodných čísel&lt;/strong&gt;. Prvotní zprávy hovořily, že se špatně validují 9 místná rodná čísla. Vladní zmocneněc říká, že se jedná o jinou chybu u validace rodných čísel (lidé narození 31.). Tak jako tak je to problém.&lt;/p&gt;
-
-&lt;p&gt;6) Systém není provázán s centrální elektronickou identitou občanů (&lt;strong&gt;NIA&lt;/strong&gt;). To je důležité hlavně z dlouhodobého hlediska, až bude registrace přístupná širší skupině obyvatel.&lt;/p&gt;
-
-&lt;p&gt;7) Absence &lt;strong&gt;penetračních testů&lt;/strong&gt; ukazuje, že provozovatel se nestará o ochranu soukromí návštěvníků. Jejich neprovedení je jasné z počtu chyb. Toto je samozřejmě vina šibeničního termínu, za který opět může vláda.&lt;/p&gt;
-
-&lt;h2 id=&quot;chyby-v-návrhu-a-uživatelské-přívětivosti&quot;&gt;Chyby v návrhu a uživatelské přívětivosti&lt;/h2&gt;
-
-&lt;p&gt;1) Stát měl zvolit lepší doménu než &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;https://registrace.mzcr.cz&lt;/code&gt; či &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;crs.uzis.cz&lt;/code&gt;, například státní doména &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;gov.cz&lt;/code&gt; sice není ideální, avšak je krátká. Nicneříkající zkratky ministerstev nepomáhají. Stát si určitě mohl koupit lepší doménu druhého řádu.&lt;/p&gt;
-
-&lt;p&gt;2) ReCaptcha od společnosti Google nepatří na klíčový web veřejné správy. Senioři jsou nuceni klikat na obrázky a rozpoznávat, na kterých jsou fotky semaforů či hydrantů z USA! Zvláště nepochopitelné je použití captcha v momentě, kdy se ověřuje přes sms.&lt;/p&gt;
-
-&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p lang=&quot;cs&quot; dir=&quot;ltr&quot;&gt;Právě jsem mluvil s babičkou. &lt;br /&gt;&lt;br /&gt;Poněkud jí zmátlo, že při registraci na očkování musela absolvovat test z rozpoznávání hydrantů (ReCaptcha).&lt;/p&gt;&amp;mdash; Ondřej Profant (@ondrej_profant) &lt;a href=&quot;https://twitter.com/ondrej_profant/status/1350857240899682304?ref_src=twsrc%5Etfw&quot;&gt;January 17, 2021&lt;/a&gt;&lt;/blockquote&gt;
-
-&lt;p&gt;3) Systém měl být navržen tak, aby nebyly třeba 2 šestimístné piny. Ideální by byl stav, kdy by uživatel mohl objednat i další rodinné příslušníky.&lt;/p&gt;
-
-&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p lang=&quot;cs&quot; dir=&quot;ltr&quot;&gt;U Francouzů se zbláznili. Registrace na dvě kliknutí a při jednom přihlášení rovnou zaregistrovat všechny příbuzné!🤦&lt;br /&gt;&lt;br /&gt;Kde je první a druhý PIN? Kde je odeslání rodného čísla Googlu? Kde je souhlas se zasíláním obchodních sdělení? To Francie neví jak vypadá &lt;a href=&quot;https://twitter.com/hashtag/CountyForTheFuture?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#CountyForTheFuture&lt;/a&gt;? &lt;a href=&quot;https://t.co/p826Oa9kPp&quot;&gt;pic.twitter.com/p826Oa9kPp&lt;/a&gt;&lt;/p&gt;&amp;mdash; Pavel Hertl (@PavelHertl) &lt;a href=&quot;https://twitter.com/PavelHertl/status/1350478108789514241?ref_src=twsrc%5Etfw&quot;&gt;January 16, 2021&lt;/a&gt;&lt;/blockquote&gt;</content><author><name>Ondřej Profant</name></author><category term="Bezpečnost" /><category term="Bezpečnost" /><category term="Soukromí" /><summary type="html">Konečně jsme se dočkali světla na konci dlouhého pandemického tunelu - distribuce vakcíny. Opravdového způsobu jak vrátit naše životy do normálu. Avšak i tento nadějný okamžik provází naprosté selhání vlády.</summary></entry></feed>
+&lt;/table&gt;</content><author><name>Ondřej Profant</name></author><category term="Bezpečnost" /><category term="Bezpečnost" /><summary type="html">Pandemická situace je i nadále velmi vážná. Stejně tak je ale zřejmé, že vláda řízení pandemie nezvládá. Ať už jde o pomoc podnikatelům, testování rizikových skupin, trasování kontaktů nebo nejnověji o koordinaci očkování.</summary></entry></feed>
