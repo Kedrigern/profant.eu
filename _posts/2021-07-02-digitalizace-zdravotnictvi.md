@@ -44,7 +44,7 @@ Ideální systém elektronického zdravotnictví by vypadal takto:
 - Všechny **operace nad daty budou logovány**, aby bylo jasné, kdo, kdy a k jakým datům přistupuje. Pacienti tak budou mít přehled o tom, jak se s jejich daty nakládá.
 - Všichni poskytovatelé péče by měli poskytovat **anonymizovaná zdravotní data**, abychom získali co nejlepší podklady pro léčbu, prevenci nemocí i lepší kontrolu nad financováním. Taková data by měla být zveřejněna ve formě otevřených dat.
 
- ## Co na to nový zákon?
+## Co na to nový zákon?
 
  Ve sněmovně je nyní předložen nový zákon o elektronizaci zdravotnictví ([ST 1163](https://www.psp.cz/sqw/historie.sqw?o=8&T=1163) a [ST 1164](https://www.psp.cz/sqw/historie.sqw?o=8&T=1164)). Tvorbu zákona jsme pečlivě sledovali, v průběhu minulého roku jsme absolvovali nespočet schůzek s ředitelem Ústavu zdravotnických informací a statistiky ČR (ÚZIS) prof. Ladislavem Duškem, který zákon fakticky připravoval a mnohokrát jej připomínkovali. Zákon je spíše počátkem tvorby elektronického zdravotnictví v Česku než jeho koncem. Přináší totiž naprosto klíčové základní kameny, bez kterých eHealth nelze postavit:
  - **kmenové zdravotnické registry**
