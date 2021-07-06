@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Digitalilzace zdravotnictví"
+title:      "Digitalizace zdravotnictví"
 date:       2021-06-09 08:00:00 +0100
 categories: Digitalizace
 comments:   true
