@@ -2,7 +2,7 @@
 layout:     post
 title:      "Prague Pride: Oslava jinakosti"
 date:       2019-08-09 10:00:00 +0100
-categories: Piráti
+categories: Lidská-práva
 comments:   true
 tags:       [demokracie, demonstrace, Piráti, rovnoprávnost]
 img:        vlajka_pride.jpg
