@@ -1,7 +1,303 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://www.profant.eu/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.profant.eu/" rel="alternate" type="text/html" /><updated>2021-08-19T10:17:10+00:00</updated><id>https://www.profant.eu/feed.xml</id><title type="html">Profant</title><subtitle>Zápisník pirátského poslance Ondřeje Profanta, který se zaměřuje na opendata, e-government, digitalizaci společnosti a kybernetickou bezpečnost.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://www.profant.eu/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.profant.eu/" rel="alternate" type="text/html" /><updated>2021-09-24T11:45:33+00:00</updated><id>https://www.profant.eu/feed.xml</id><title type="html">Profant</title><subtitle>Zápisník pirátského poslance Ondřeje Profanta, který se zaměřuje na opendata, e-government, digitalizaci společnosti a kybernetickou bezpečnost.
 Rád bych byl, aby Česká republika byla moderním státem s rozvinutou digitální ekonomikou, kde je kladen silný důraz na vzdělávání a svobodu.
 V digitalizaci se musíme inspirovat ve Velké Britanii, Dánsku a Estonsku, řešení musí být otevřená, uživatelsky přívětivá a ohleduplná k soukromí.
-</subtitle><author><name>Ondřej Profant</name></author><entry><title type="html">Digitalizace zdravotnictví</title><link href="https://www.profant.eu/2021/digitalizace-zdravotnictvi.html" rel="alternate" type="text/html" title="Digitalizace zdravotnictví" /><published>2021-06-09T07:00:00+00:00</published><updated>2021-06-09T07:00:00+00:00</updated><id>https://www.profant.eu/2021/digitalizace-zdravotnictvi</id><content type="html" xml:base="https://www.profant.eu/2021/digitalizace-zdravotnictvi.html">&lt;p&gt;Propojená, ale maximálně zabezpečená data o pacientech a jejich zdravotním stavu, lékařích, zákrocích a zdravotních zařízeních v zájmu lepší zdravotní péče. To je vize Pirátů a Starostů pro další volební období. Jak ji dosáhnout a jak do ni zapadá právě schvalovaný zákon o elektronizaci zdravotnictví?&lt;/p&gt;
+</subtitle><author><name>Ondřej Profant</name></author><entry><title type="html">Digitální revoluce - co nás čeká v příštích letech</title><link href="https://www.profant.eu/2021/digitalni-revoluce.html" rel="alternate" type="text/html" title="Digitální revoluce - co nás čeká v příštích letech" /><published>2021-09-24T07:00:00+00:00</published><updated>2021-09-24T07:00:00+00:00</updated><id>https://www.profant.eu/2021/digitalni-revoluce</id><content type="html" xml:base="https://www.profant.eu/2021/digitalni-revoluce.html">&lt;p&gt;Legislativa týkající se digitalizace a eGovernmentu doznala v uplynulém období revolučních změn. Byla schválena pětice digitalizačních zákonů, které zcela změnily paradigma eGovernmentu v Česku.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;Na konci roku 2019 byly schváleny &lt;a href=&quot;https://www.zakonyprolidi.cz/cs/2020-12&quot;&gt;Zákon o právu na digitální služby&lt;/a&gt;, zákon k &lt;a href=&quot;https://www.zakonyprolidi.cz/cs/2020-47&quot;&gt;digitální technické mapě&lt;/a&gt; a zákon k &lt;a href=&quot;https://www.zakonyprolidi.cz/cs/2020-49&quot;&gt;bankovním identitám&lt;/a&gt;. V roce 2021 pak sněmovna schválila další digitalizační zákon, tzv. &lt;a href=&quot;https://www.zakonyprolidi.cz/cs/2021-261&quot;&gt;DEPO&lt;/a&gt; a zákon &lt;a href=&quot;https://www.zakonyprolidi.cz/cs/2021-325&quot;&gt;o elektronizaci zdravotnictví&lt;/a&gt;. V roce 2021 byl také zveřejněn a postupně doplňován &lt;a href=&quot;https://pma3.gov.cz/katalog-sluzeb/info&quot;&gt;Katalog služeb&lt;/a&gt;, tedy jakýsi seznam všech agend a úkonů veřejné správy a zároveň harmonogram jejich digitalizace. Tyto zákony mají často dělenou účinnost, tedy některá jejich ustanovení jsou již účinná a na jiná si ještě počkáme. Zde je přehled toho, jaká digitalizační opatření již platí a co nás čeká v dalších letech.&lt;/p&gt;
+
+&lt;p&gt;Velká část níže popsaných ustanovení se týká &lt;strong&gt;&lt;a href=&quot;https://www.zakonyprolidi.cz/cs/2020-12&quot;&gt;Zákona o právu na digitální služby&lt;/a&gt;&lt;/strong&gt;. Ač se tento zákon vztahuje na všechny orgány veřejné moci, obsahuje některé výjimky (§ 14):&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Územní samosprávný celek při výkonu samostatné působnosti má právo, nikoli povinnost poskytovat digitální služby podle tohoto zákona.&lt;/li&gt;
+  &lt;li&gt;Škola a školské zařízení poskytují digitální službu pouze u úkonu, u kterého je poskytnutí v digitální podobě vyznačeno v katalogu služeb.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;U velké části agend v přenesené působnosti digitalizaci plánuje patřičné ministerstvo, často prostřednictvím centralizovaného samoobslužného portálu. Obce a kraje jsou tak odpovědné hlavně za digitalizaci činností v samosprávné působnosti, u níchž je však digitalizace podle tohoto zákona pouze dobrovolná.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Detailní rozbor balíčku DEPO, &lt;a href=&quot;https://www.openczeg.cz/clanky/2021/09/09/detailni-rozbor-depo.html&quot;&gt;přinesl server #OPENCZEG&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Více k jednotlivým zákonům zde na blogu:&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;em&gt;&lt;a href=&quot;https://www.profant.eu/2019/zpds.html&quot;&gt;Zákon o právu na digitální služby&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;&lt;a href=&quot;https://www.profant.eu/2019/dtm.html&quot;&gt;Digitální technická mapa&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;&lt;a href=&quot;https://www.profant.eu/2019/sonia.html&quot;&gt;Bankovní identity&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;&lt;a href=&quot;https://www.pirati.cz/tiskove-zpravy/ridicaky-doma-digitalizacni-zakon.html&quot;&gt;DEPO&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;&lt;a href=&quot;https://www.profant.eu/2020/katalog-sluzeb.html&quot;&gt;Katalog služeb&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;platné-od-roku-2021-a-dříve&quot;&gt;Platné od roku 2021 a dříve&lt;/h2&gt;
+
+&lt;h3 id=&quot;zákon-č-122020-sb-o-právu-na-digitální-služby&quot;&gt;Zákon č. 12/2020 Sb., o právu na digitální služby&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.zakonyprolidi.cz/cs/2020-12#p4&quot;&gt;§ 4 - Právo činit digitální úkon&lt;/a&gt;&lt;/strong&gt;
+  Pro služby vedené v katalogu služeb jako digitalizované.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.zakonyprolidi.cz/cs/2020-12#p9&quot;&gt;§ 9 - Právo prokázání právní skutečnosti&lt;/a&gt;&lt;/strong&gt;
+  Pokud již je údaje v systému veřejné správy, není třeba je dokládat jinak.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.zakonyprolidi.cz/cs/2020-12#p11&quot;&gt;§ 11 - Právo na informace v souvislosti s poskytováním digitálních služeb&lt;/a&gt;&lt;/strong&gt;
+  Možnost výpisů z informačních systémů a upozornění na termíny výměny dokladů.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.zakonyprolidi.cz/cs/2020-12#p12&quot;&gt;§ 12 - Právo na elektronickou identifikaci a autentizaci&lt;/a&gt;&lt;/strong&gt;
+  Pokud není stanovena úroveň záruky prostředku pro elektronickou identifikaci, uživatel má právo použítek prostředek v úrovni minimálně značná.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.zakonyprolidi.cz/cs/2020-12#p13&quot;&gt;§ 13 - Právo na technologickou neutralitu&lt;/a&gt;&lt;/strong&gt;
+  Služby jsou poskytovány nezávisle na konkrétní technologii, výstupy jsou v otevřeném strojově čitelném formátu.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;zákon-č-2612021-sb-kterým-se-mění-některé-zákony-v-souvislosti-s-další-elektronizací-postupů-orgánů-veřejné-moci-depo&quot;&gt;Zákon č. 261/2021 Sb., kterým se mění některé zákony v souvislosti s další elektronizací postupů orgánů veřejné moci (DEPO)&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://www.zakonyprolidi.cz/cs/2021-261#cast74&quot;&gt;Pravidla a bezpečnostní úrovně cloud computingu&lt;/a&gt;&lt;/strong&gt;
+  &lt;em&gt;&lt;a href=&quot;https://www.zakonyprolidi.cz/cs/2000-365&quot;&gt;Zákon č. 365/2000 Sb.&lt;/a&gt;, o informačních systémech veřejné správy&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;zákon-č-492020-sb---bankovní-identita&quot;&gt;Zákon č. 49/2020 Sb. - bankovní identita&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://www.zakonyprolidi.cz/cs/2020-49&quot;&gt;Celý zákon -  Zákon č. 49/2020 Sb.&lt;/a&gt;&lt;/strong&gt;
+  Možnost použít bankovní identity, tedy přihlášení internetovému bankovnictví, pro přístup ke službám eGovernmentu.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;platné-od-roku-2022&quot;&gt;Platné od roku 2022&lt;/h2&gt;
+
+&lt;h3 id=&quot;zákon-č-122020-sb-o-právu-na-digitální-služby-1&quot;&gt;Zákon č. 12/2020 Sb., o právu na digitální služby&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.zakonyprolidi.cz/cs/2020-12#p5&quot;&gt;§ 5 - Právo na osvědčení digitálního úkonu&lt;/a&gt;&lt;/strong&gt; (od 1. 2. 2022)
+  Uživatel má právo na bezodkladné elektronické osvědčení digitálního úkonu, opatřené kvalifikovanou elektonickou pečetí a časovým razítkem.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.zakonyprolidi.cz/cs/2020-12#p6&quot;&gt;§ 6 - Právo na nahrazení úředně ověřeného podpisu nebo uznávaného elektronického podpisu&lt;/a&gt;&lt;/strong&gt; (od 1. 7. 2022)
+  Vlastoruční podpis lze nahradit záznamem informačního systému o určitých parametrech.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.zakonyprolidi.cz/cs/2020-12#p7&quot;&gt;§ 7 - Právo na využívání údajů&lt;/a&gt;&lt;/strong&gt; (od 1. 2. 2022)
+  Mezi úřady putují data, nikoliv lidé. Úřad nevyžaduje data, která už jsou v systémech. Uživatelé mohou udělit oprávnění k využívání údajů v rozsahu a trvání podle své volby na základě vlastního rozhodnutí nebo na základě žádosti úřadu.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.zakonyprolidi.cz/cs/2020-12#p8&quot;&gt;§ 8 - Právo na zápis práva, povinnosti nebo právní skutečnosti&lt;/a&gt;&lt;/strong&gt; (od 1. 2. 2022)
+   Uživatel má právo na zápis práva, povinnosti nebo právní skutečnosti, která se jej týká a vyplývá z úkonu úřadu uvedeného v katalogu služeb, do registru práv a povinností.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.zakonyprolidi.cz/cs/2020-12#p10&quot;&gt;§ 10 - Právo na zápis kontaktního údaje&lt;/a&gt;&lt;/strong&gt; (od 1. 2. 2022)
+   Zápis centrálních kontaktních údajů - emailu a telefonního čísla - do základních registrů&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.zakonyprolidi.cz/cs/2020-12/zneni-20220701#p12a&quot;&gt;§ 12a - Právo na elektronickou identifikaci a autentizaci&lt;/a&gt;&lt;/strong&gt; (od 1. 7. 2022)
+   Uživatel má právo na informaci, zda kombinace identifikačních údajů, které mu o sobě poskytla jiná osoby odpovídá kombinaci údajů vedených v registru obyvatel Příprava na zrušení používání rodných čísel.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;zákon-č-2612021-sb-kterým-se-mění-některé-zákony-v-souvislosti-s-další-elektronizací-postupů-orgánů-veřejné-moci-depo-1&quot;&gt;Zákon č. 261/2021 Sb., kterým se mění některé zákony v souvislosti s další elektronizací postupů orgánů veřejné moci (DEPO)&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://www.zakonyprolidi.cz/cs/2021-261&quot;&gt;Celý balíček - Zákon č. 261/2021 Sb.&lt;/a&gt;&lt;/strong&gt; (od 1. 2. 2022)
+  Zejména proškrtání zmocňovacích paragrafů v mnoha zákonech, nově bude zmocnění řešeno formou správního řízení.&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.zakonyprolidi.cz/cs/2021-261#cast133&quot;&gt;Povinné dodávání do datových schránek PFO a PO&lt;/a&gt;&lt;/strong&gt; (od 1. 1. 2022)
+  Datové schránky firem a podnikatelů nepůjdou již znepřístupnit pro příjem od jiných osob. To dosud některé firmy dělaly a nešlo je tak kontaktovat datovou schránkou.&lt;/p&gt;
+
+    &lt;p&gt;&lt;em&gt;&lt;a href=&quot;https://www.zakonyprolidi.cz/cs/2008-300/zneni-20230701#p18a&quot;&gt;Zákon č. 300/2008 Sb.&lt;/a&gt;, o elektronických úkonech a autorizované konverzi dokumentů&lt;/em&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;katalog-služeb---služby-poskytované-digitálně&quot;&gt;Katalog služeb - služby poskytované digitálně&lt;/h3&gt;
+&lt;h4 id=&quot;český-statistický-úřad&quot;&gt;Český statistický úřad&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Zpřístupnění údajů vedených v Registru ekonomických subjektů&lt;/strong&gt; přes datovou schránku a Czech POINT (od 1. 2. 2022)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;ministerstvo-vnitra&quot;&gt;Ministerstvo vnitra&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Digitální poskytování matričních agend&lt;/strong&gt; přes datovou schránku či s elektronickým podpisem (od 1. 7. 2022)
+    &lt;ul&gt;
+      &lt;li&gt;změna jména a příjmení,&lt;/li&gt;
+      &lt;li&gt;zápis do matriční knihy,&lt;/li&gt;
+      &lt;li&gt;návrh na určení otcovství,&lt;/li&gt;
+      &lt;li&gt;povolení uzavření manželství,…&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Legalizace&lt;/strong&gt; přes datovou schránku či s elektronickým podpisem (od 1. 7. 2022)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;ministerstvo-zemědělství&quot;&gt;Ministerstvo zemědělství&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Některé služby rostlinolékařské péče a podle zákona o hnojivech&lt;/strong&gt; přes samoobslužný portál či s elektronickým podpisem (od 31. 12. 2022)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;platné-od-roku-2023&quot;&gt;Platné od roku 2023&lt;/h2&gt;
+
+&lt;h3 id=&quot;zákon-č-2612021-sb-kterým-se-mění-některé-zákony-v-souvislosti-s-další-elektronizací-postupů-orgánů-veřejné-moci-depo-2&quot;&gt;Zákon č. 261/2021 Sb., kterým se mění některé zákony v souvislosti s další elektronizací postupů orgánů veřejné moci (DEPO)&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.zakonyprolidi.cz/cs/2021-261#cast164&quot;&gt;Sbírka zákonů a mezinárodní smluv&lt;/a&gt;&lt;/strong&gt; (od 1. 1. 2023)
+  Nově bude elektronická, dostupná jako otevřená data.&lt;/p&gt;
+
+    &lt;p&gt;&lt;em&gt;&lt;a href=&quot;https://www.zakonyprolidi.cz/cs/2016-222/zneni-20230101&quot;&gt;Zákon č. 222/2016 Sb.&lt;/a&gt;, o Sbírce zákonů a mezinárodních smluv&lt;/em&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.zakonyprolidi.cz/cs/2021-261#cast133&quot;&gt;Zřízení datové schránky po přihlášení NIA&lt;/a&gt;&lt;/strong&gt; (od 1. 1. 2023)
+  Bude možné ji deaktivovat.&lt;/p&gt;
+
+    &lt;p&gt;&lt;em&gt;&lt;a href=&quot;https://www.zakonyprolidi.cz/cs/2008-300/zneni-20230701#p3&quot;&gt;Zákon č. 300/2008 Sb.&lt;/a&gt;, o elektronických úkonech a autorizované konverzi dokumentů&lt;/em&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.zakonyprolidi.cz/cs/2021-261#cast133&quot;&gt;Povinné zřízení datových schránek právnickým osobám a podnikajícím fyzickým osobám&lt;/a&gt;&lt;/strong&gt; (od 31. 3. 2023)&lt;/p&gt;
+
+    &lt;p&gt;&lt;em&gt;&lt;a href=&quot;https://www.zakonyprolidi.cz/cs/2008-300/zneni-20230701#p4&quot;&gt;Zákon č. 300/2008 Sb.&lt;/a&gt;, o elektronických úkonech a autorizované konverzi dokumentů&lt;/em&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.zakonyprolidi.cz/cs/2021-261#cast48&quot;&gt;Informace zveřejňované způsobem umožňujícím dálkový přístup&lt;/a&gt;&lt;/strong&gt; (od 31. 12. 2023)
+  Všechny registry, které jsou na základě zákona každému přístupné, musí zveřejňovat neosobní data jako open data.&lt;/p&gt;
+
+    &lt;p&gt;&lt;em&gt;&lt;a href=&quot;https://www.zakonyprolidi.cz/cs/1999-106/zneni-20220201#p5a&quot;&gt;Zákon č. 106/1999 Sb.&lt;/a&gt;, o svobodném přístupu k informacím&lt;/em&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;zákon-č-472020-sb---digitální-technická-mapa&quot;&gt;Zákon č. 47/2020 Sb. - Digitální technická mapa&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://www.zakonyprolidi.cz/cs/2020-47/&quot;&gt;Celý zákon - Zákon č. 47/2020 Sb.&lt;/a&gt;&lt;/strong&gt; (od 1. 7. 2023)
+    &lt;ul&gt;
+      &lt;li&gt;digitálních technické mapy krajů&lt;/li&gt;
+      &lt;li&gt;informační systém digitální mapy veřejné správy&lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;p&gt;&lt;em&gt;&lt;a href=&quot;https://www.zakonyprolidi.cz/cs/1994-200/zneni-20230701#p4b&quot;&gt;Zákon č. 200/1994 Sb.&lt;/a&gt;, o zeměměřičství&lt;/em&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;zákon-č-2832021-sb-stavební-zákon&quot;&gt;Zákon č. 283/2021 Sb., stavební zákon&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://www.zakonyprolidi.cz/cs/2021-283/zneni-20230701#p267&quot;&gt;Celý zákon - Zákon č. 283/2021 Sb.&lt;/a&gt;&lt;/strong&gt; (od 1. 7. 2023)
+    &lt;ul&gt;
+      &lt;li&gt;portál stavebníka&lt;/li&gt;
+      &lt;li&gt;národní geoportál územního plánování&lt;/li&gt;
+      &lt;li&gt;evidence stavebních postupů&lt;/li&gt;
+      &lt;li&gt;evidence elektronických dokumentací&lt;/li&gt;
+      &lt;li&gt;informační systém identifikačního čísla stavby&lt;/li&gt;
+      &lt;li&gt;informační systém stavebního řízení&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;katalog-služeb---služby-poskytované-digitálně-1&quot;&gt;Katalog služeb - služby poskytované digitálně&lt;/h3&gt;
+&lt;h4 id=&quot;český-úřad-zeměměřický-a-katastrální&quot;&gt;Český úřad zeměměřický a katastrální&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Žádosti na poskytování dat a mapových děl&lt;/strong&gt; přes datovou schránku či s elektronickým podpisem (od 1. 9. 2023)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;ministerstvo-dopravy&quot;&gt;Ministerstvo dopravy&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Žádosti týkající se Registru silničních vozidel&lt;/strong&gt; s elektronickým podpisem (od 1. 9. 2023)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;ministerstvo-financí&quot;&gt;Ministerstvo financí&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Některé služby z agend spoření, penzijního připojištění, daňových poradců a evidence tržeb&lt;/strong&gt; přes datovou schránku či s elektronickým podpisem (od 1. 9. 2023)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;ministerstvo-práce-a-sociálních-věcí&quot;&gt;Ministerstvo práce a sociálních věcí&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Žádosti v agendě sociálního zabezpečení&lt;/strong&gt; přes datovou schránku či s elektronickým pospisem (od 1. 9. 2023) a přes samoobslužný portál (od 1. 12. 2023)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;ministerstvo-průmyslu-a-obchodu&quot;&gt;Ministerstvo průmyslu a obchodu&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Služby v agendě zahraničního obchodu&lt;/strong&gt; přes samoobslužný portál (od 1. 1. 2023)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;ministerstvo-spravedlnosti&quot;&gt;Ministerstvo spravedlnosti&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Výpisy z rejstříků&lt;/strong&gt; přes datovou schránku či s elektronickým pospisem (od 1. 9. 2023)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;ministerstvo-školství-mládeže-a-tělovýchovy&quot;&gt;Ministerstvo školství, mládeže a tělovýchovy&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Žádosti v oblasti výkonu ústavní výchovy nebo ochranné výchovy ve školských zařízeních&lt;/strong&gt; přes datovou schránku či s elektronickým pospisem (od 1. 9. 2023)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;ministerstvo-vnitra-1&quot;&gt;Ministerstvo vnitra&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Žádosti v oblasti archivnictví a spisové služby a datových schránek&lt;/strong&gt; s elektronickým podpisem (od 1. 9. 2023)&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Žádosti v oblasti cizinecké agendy&lt;/strong&gt; datovou schránkou či s elektronickým podpisem (od 1. 9. 2023)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;ministerstvo-zdravotnictví&quot;&gt;Ministerstvo zdravotnictví&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Žádosti v některých agendách&lt;/strong&gt; s elektronickým podpisem (od 1. 9. 2023)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;ministerstvo-zemědělství-1&quot;&gt;Ministerstvo zemědělství&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Žádosti a ohlášení dle zákona o zemědělství&lt;/strong&gt; přes samoobslužný portál (od 1. 1. 2023) a datovou schránku (od 1. 9. 2023)&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Žádosti v agendě oběhu osiva a sadby&lt;/strong&gt; přes samoobslužný portál (od 31. 12. 2023)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;platné-od-roku-2024&quot;&gt;Platné od roku 2024&lt;/h2&gt;
+
+&lt;h3 id=&quot;katalog-služeb---služby-poskytované-digitálně-2&quot;&gt;Katalog služeb - služby poskytované digitálně&lt;/h3&gt;
+
+&lt;h4 id=&quot;český-telekomunikační-úřad&quot;&gt;Český telekomunikační úřad&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;služby ve více agendách&lt;/strong&gt; přes samoobslužný portál (od 1. 7. 2024)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;ministerstvo-vnitra-2&quot;&gt;Ministerstvo vnitra&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Vydání API klíče ke katalogu služeb veřejné správy&lt;/strong&gt; přes datovou schránku, samoobslužný portál či s elekktronickým podpisem (od 1. 1. 2024)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;ministerstvo-životního-prostředí&quot;&gt;Ministerstvo životního prostředí&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Služby v agendě nakládání s geneticky modifikovanými organismy&lt;/strong&gt; přes samoobslužný portál (od 1. 1. 2024)
+    &lt;h2 id=&quot;platné-od-roku-2025&quot;&gt;Platné od roku 2025&lt;/h2&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;zákon-č-122020-sb-o-právu-na-digitální-služby-2&quot;&gt;Zákon č. 12/2020 Sb., o právu na digitální služby&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://www.zakonyprolidi.cz/cs/2020-12/zneni-20250101#p12a&quot;&gt;Zrušení poskytování údaje o rodném čísle podle §12a&lt;/a&gt;&lt;/strong&gt; (od 1. 1. 2025)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;zákon-č-2612021-sb-kterým-se-mění-některé-zákony-v-souvislosti-s-další-elektronizací-postupů-orgánů-veřejné-moci-depo-3&quot;&gt;Zákon č. 261/2021 Sb., kterým se mění některé zákony v souvislosti s další elektronizací postupů orgánů veřejné moci (DEPO)&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.zakonyprolidi.cz/cs/2021-261#cast135&quot;&gt;Mechanismus opravy nesprávného údaje v systému&lt;/a&gt;&lt;/strong&gt; (od 1. 1. 2025)&lt;/p&gt;
+
+    &lt;p&gt;&lt;em&gt;&lt;a href=&quot;https://www.zakonyprolidi.cz/cs/2009-111/zneni-20250101#p8&quot;&gt;Zákon č. 111/2009 Sb.&lt;/a&gt;, o základních registrech&lt;/em&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.zakonyprolidi.cz/cs/2021-261#cast73&quot;&gt;Zrušení povinnosti vozit s sebou řidičský a technický průkaz&lt;/a&gt;&lt;/strong&gt; (od 1. 7. 2025)
+  Pouze v rámci Česka a pro řidiče v českých registrech.&lt;/p&gt;
+
+    &lt;p&gt;&lt;em&gt;&lt;a href=&quot;https://www.zakonyprolidi.cz/cs/2000-361/zneni-20250701#p6&quot;&gt;Zákon č. 361/2000 Sb.&lt;/a&gt;, o provozu na pozemních komunikacích&lt;/em&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;katalog-služeb---služby-poskytované-digitálně-3&quot;&gt;Katalog služeb - služby poskytované digitálně&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Digitálně dostupné budou všechny digitalizovatelné služby.&lt;/strong&gt; (od 1. 2. 2025).&lt;/p&gt;</content><author><name>Bára Soukupová</name></author><category term="digitalizace" /><category term="digitalizace" /><category term="egovernment" /><summary type="html">Legislativa týkající se digitalizace a eGovernmentu doznala v uplynulém období revolučních změn. Byla schválena pětice digitalizačních zákonů, které zcela změnily paradigma eGovernmentu v Česku.</summary></entry><entry><title type="html">Digitalizace zdravotnictví</title><link href="https://www.profant.eu/2021/digitalizace-zdravotnictvi.html" rel="alternate" type="text/html" title="Digitalizace zdravotnictví" /><published>2021-06-09T07:00:00+00:00</published><updated>2021-06-09T07:00:00+00:00</updated><id>https://www.profant.eu/2021/digitalizace-zdravotnictvi</id><content type="html" xml:base="https://www.profant.eu/2021/digitalizace-zdravotnictvi.html">&lt;p&gt;Propojená, ale maximálně zabezpečená data o pacientech a jejich zdravotním stavu, lékařích, zákrocích a zdravotních zařízeních v zájmu lepší zdravotní péče. To je vize Pirátů a Starostů pro další volební období. Jak ji dosáhnout a jak do ni zapadá právě schvalovaný zákon o elektronizaci zdravotnictví?&lt;/p&gt;
 
 &lt;!--more--&gt;
 
@@ -506,41 +802,4 @@ Se skupinou dalších poslanců jsme po konzultacích s Ministerstvem vnitra př
 
 &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/fBoG5HC5Cn8&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
-&lt;p&gt;Současně chci být více přístupný prostřednictvím živých streamů, kterými chci nejen přitáhnout pozornost k tématům souvisejícím s informatikou nebo politikou a jejich průniky, ale také vést smysluplnou debatu s diváky a odpovídat na jejich dotazy.&lt;/p&gt;</content><author><name>Ondřej Profant</name></author><category term="Piráti" /><category term="Piráti" /><summary type="html">Zaujmout mladší generaci s odbornými politickými tématy je náročné, ačkoliv se častokrát přímo dotýkají jejich práce, studia nebo zájmů. Rozhodl jsem proto vydat se na internet se svým novým virtuálním avatarem, se kterým jsem spustil vzdělávací kanál na YouTube a plánuji i streamovat na Twitchi.</summary></entry><entry><title type="html">Pirátské primární volby</title><link href="https://www.profant.eu/2021/primarky.html" rel="alternate" type="text/html" title="Pirátské primární volby" /><published>2021-02-14T15:30:00+00:00</published><updated>2021-02-14T15:30:00+00:00</updated><id>https://www.profant.eu/2021/primarky</id><content type="html" xml:base="https://www.profant.eu/2021/primarky.html">&lt;p&gt;U Pirátů o stranických funkcích a nominacích spolurozhodují rovným hlasem všichni členové v našich primárních volbách. Každý člen se tak podílí na směřování strany. Tím se odlišujeme od našich politických konkurentů, kteří si s vnitrostranickou demokracií moc hlavu nelámou.&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;p&gt;Přestože naše primárky stále probíhají, rád bych se k nim krátce vyjádřil. Jsou totiž důležitou součástí pirátské vnitřní demokratické struktury, která nás činí odolnou vůči nežádoucím vlivům při sestavování kandidátní listiny. Zároveň jsou primární volby dalším prvkem participativního rozhodování, které v Pirátech už od našeho vzniku uplatňujeme.&lt;/p&gt;
-
-&lt;p&gt;Tento způsob výběru kandidátů není na české politické scéně příliš obvyklý. Piráti jediní navíc primární volby mají po celou dobu od svého založení, kromě toho budeme mít primární volby i pro případné vládní pozice. Díky tomu jsme při sestování kandidátní listiny vždy maximálně transparentní. Přirozeně také využíváme moderní technologie, které celý proces výrazně usnadňují. Dáváme tak najevo, že tento způsob politického rozhodování prostřednictvím nových metod a technických prostředků zkoušíme sami na sobě. Primární volby přispívají k posilování a kultivování demokratických principů uvnitř strany.&lt;/p&gt;
-
-&lt;p&gt;Naše primární volby jsou kromě toho otevřené, takže se do nich může přihlásit kdokoliv, včetně nestraníků nebo členů jiných politických uskupení. To se děje naprosto běžně a opět to ukazuje, že Piráti nefungují jako uzavřená partaj, kde o kandidátech rozhoduje předseda strany nebo její nejužší vedení – nýbrž jako otevřená občanská platforma, kde má pro svou kandidaturu každý naprosto rovné podmínky.&lt;/p&gt;
-
-&lt;p&gt;Já jsem měl tu čest ve svém domovském krajském sdružení získat při volbě čelních míst podporu pro 3. místo pražské pirátské kandidátky (celkově tedy 4. místo na koaliční kandidátní listině se STAN). Zde je má kandidátská řeč, se kterou jsem se o přízeň svých stranických kolegů ucházel (mé &lt;a href=&quot;https://forum.pirati.cz/viewtopic.php?f=349&amp;amp;t=55269&quot;&gt;nominační vlákno&lt;/a&gt; a &lt;a href=&quot;https://forum.pirati.cz/viewtopic.php?f=349&amp;amp;t=55247&quot;&gt;rozprava k volbě&lt;/a&gt; jsou veřejně dostupné na pirátském fóru):&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Vážené krajské forum,&lt;br /&gt;
-rád bych vás požádal o podporu v rámci primárních voleb kandidátní listiny do sněmovních voleb 2021. Po pečlivém zvážení jsem se rozhodl kandidovat od 3. místa dále. Ačkoliv si nesmírně vážím shromážděné podpory, kterou jsem v tak velké míře neočekával a pro mě osobně hodně znamená, svou roli na kandidátce spatřuji spíše jako expert pro svou oblast než jako lídr nebo zastupující lídr. Má největší přednost tkví v odborných tématech a v důsledné práci na digitalizaci, ve které bych ve Sněmovně rád pokračoval.&lt;br /&gt;
-&lt;strong&gt;O mně&lt;/strong&gt;&lt;br /&gt;
-Je mi 32 let, Piráty jsem pomáhal zakládat jako člen přípravného výboru, ve straně jsem tedy již skoro 12 let. Za tu dobu jsem zažil veškeré fáze její existence a mohu tak hrdě prohlásit, že se nám v našich hlavních tématech úspěšně daří držet kurz a přinášíme tím do české politiky trochu té naděje a pokroku. U Pirátů jsem působil ve spoustě vnitrostranických funkcích (předseda KS Praha, vedoucí TO, člen RV, člen RP…). Piráty jsem reprezentoval od roku 2014 jako zastupitel na MHMP, kde jsme jako zastupitelský klub obdrželi cenu za otevřené fungování. V říjnu 2017 jsem byl zvolen do Poslanecké sněmovny, kde jsem se ihned zhostil řešení mně nejbližších témat, tedy především digitalizace a Egovernmentu.&lt;br /&gt;
-Podrobnější informace o mé historii si můžete přečíst u mě &lt;a href=&quot;https://www.profant.eu/bio/&quot;&gt;na blogu&lt;/a&gt; nebo na mém profilu na &lt;a href=&quot;https://www.pirati.cz/lide/ondrej-profant/&quot;&gt;Pirati.cz&lt;/a&gt;. V případě zájmu si na mém blogu můžete přečíst také krátké zamyšlení o tom, co mě v roce 2009 vedlo ke &lt;a href=&quot;https://www.profant.eu/2017/proc-jsem-se-stal-piratem.html&quot;&gt;vstupu do politiky a budování Pirátské strany&lt;/a&gt;.&lt;br /&gt;
-&lt;strong&gt;Témata&lt;/strong&gt;&lt;br /&gt;
-Hlavním tématem, kterému se věnuji a chci v tom pokračovat, je &lt;strong&gt;digitální transformace&lt;/strong&gt;. Čili jak úspěšně převést celý stát, tedy jeho procesy, uvažování úředníků a IT systémy od analogových a papírových postupů a myšlení k plně digitálnímu prostředí. Pro tuto transformaci je nezbytné se dále věnovat kyberbezpečnosti, veřejným zakázkám, ochraně soukromí a procesům veřejné správy.&lt;br /&gt;
-K tomuto svému dlouhodobému hlavnímu tématu jsem si časem přibral ještě jeden důležitý okruh - &lt;strong&gt;lidská práva&lt;/strong&gt;. Do těch spadá již zmíněná ochrana soukromí nebo nepřetržitý boj Pirátů proti cenzuře internetu. Zároveň jsem se seznámil s tím, jak moc tupá byrokracie (špatně nastavené procesy) škodí lidem. Proto jsem se vrhl do boje za svobodu žen vybrat si své přijmení a za ukončení barbarských sterilizací trans lidí, které by v civilizované společnosti neměly být vůbec zvažovány, natožpak přímo zákonem vyžadovány.&lt;br /&gt;
-&lt;strong&gt;Vize pro příští volební období&lt;/strong&gt;&lt;br /&gt;
-V tomto volebním období se nám podařilo prosadit triádu revolučních digitálizačních zákonů: Zákon o právu na digitální služby (ZPDS), Digitální technické mapy (DTM) a bankovní a soukromoprávní identity v egovernmentu (SONIA). Do dvou měsíců by měl ještě přibýt další balík vylepšení, tzv. DEPO. Tím se digitalizace z pohledu legislativy posune ohromný krok vpřed.&lt;br /&gt;
-To je však jen podmínka nutná. Aby se tyto vize naplnily a došlo k již zmíněné digitální transformaci, je potřeba kvalitně naplnit katalog služeb, respektovat odborné útvary (ochrana soukromí, kyberbezpečnost) a zodpovědně soutěžit IT systémy. A z předchozích zkušeností víme, že to se zatím v této zemi příliš nedařilo. Je proto nutné dohlédnout na to, aby rozumně připravené zákony, strategie a plány byly efektivně realizovány. Této úlohy se naštěstí lze zhostit jak z pozice vládní strany, tak i z opozice. Jako vedoucí resortního týmu Informatika se připravuje na veškeré možné eventuality.&lt;br /&gt;
-Rád bych ale pokračoval i v řešení lidskoprávních témat. Pokud mi to časové vytížení jen trochu dovolí, chtěl bych více otevřít téma platové nerovnosti (nebo se alespoň podílet na odstranění tohoto problémů).&lt;br /&gt;
-&lt;strong&gt;Odvedená práce&lt;/strong&gt;&lt;br /&gt;
-Práce poslance zdaleka není jen o tématech, které chce. Za uplynulé 3 roky jsem zpravodajoval 14 tisků, podal 26 pozměňovacích návrhů, stal jsem se spolupředkladatelem 44 zákonů a hlasoval jsem v 6679 hlasováních pléna. Na &lt;a href=&quot;https://www.profant.eu/&quot;&gt;mém webu je 107 článků&lt;/a&gt; a na pirátských webech je víc jak &lt;a href=&quot;https://www.profant.eu/medialni-vystupy/&quot;&gt;dvě stovky tiskových zpráv&lt;/a&gt;, na kterých jsem se podílel.&lt;br /&gt;
-&lt;strong&gt;Nejzajímavějších 23 výsledků&lt;/strong&gt; naleznete na &lt;a href=&quot;https://www.pirati.cz/vysledky/#type=own&amp;amp;datefilter5=all&amp;amp;resorty-select=resort-finance%2Cresort-informatika%2Cresort-vnitro-a-bezpecnost%2Cresort-spravedlnost%2Cresort-skolstvi%2Cresort-prace-a-socialnich-veci%2Cresort-zivotni-prostredi%2Cresort-zemedelstvi%2Cresort-prumysl-a-obchod%2Cresort-evropska-unie-zahranici-obrana%2Cresort-doprava-a-logistika%2Cresort-zdravotnictvi%2Cresort-kultura%2Cresort-mistni-rozvoj&amp;amp;poslanci-select=ondrej-profant&amp;amp;cycletype=state&amp;amp;grouptype=poslanec&quot;&gt;pirati.cz/vysledky&lt;/a&gt;. Každý měsíc také publikuji &lt;strong&gt;podrobný report&lt;/strong&gt; a jednou za čtvrt roku je &lt;a href=&quot;https://www.profant.eu/kategorie/#report&quot;&gt;vydávám na webu&lt;/a&gt;.&lt;br /&gt;
-&lt;strong&gt;Mé klady a zápory&lt;/strong&gt;&lt;br /&gt;
-Za svůj významný klad považuji své konzistentní a konsensuální působení po celou dobu svého členství ve straně. Konflikty se vždy snažím deeskalovat, i když to někdy nemusí být snadné. Jsem týmový hráč - což je poznat na způsobu mé práce. Vedu dva resortní týmy, mnoho výsledků sdílím společně s dalšími poslanci, se kterými úzce spolupracuji (tedy například Ivan Bartoš, František Kopřiva a Lenka Kozlová, ale samozřejmě i další). Mám široký tým spolupracovníků a dobrovolníků, na které se nestydím obrátit, když něčemu nerozumím. Jelikož prosazuji politiku založenou na skutečných datech, vždy se cítím lépe, když tématu rozumím opravdu do hloubky a mám svůj postoj podložený fakty. &lt;br /&gt;
-Nikdo není dokonalý. Jsem si vědom, že v mnoha ohledech mám co zlepšovat. Své největší rezervy spatřuji ve svých mediálních výstupech. Pomalu se v nich snažím zlepšit (a děkuji MO za pomoc). Stejně tak si uvědomuji své mezery v oblasti své sebeprezentace, což bych rád řešil absolvováním mediálních školení. Také si uvědomuji, že bych se měl zaměřit na procvičování cizích jazyků (zejména pak gramatiky a výslovnosti). Zde bych si chtěl předsevzít, že čas mezi navolením kandidátky a začátkem ostré kampaně stravím pečlivou prací na sobě a svých komunikačních dovednostech. Myslím, že jsem dosáhl stavu, kdy je můj tým připraven jednat více samostatně, a tak to nebude na úkor mých povinností.&lt;br /&gt;
-&lt;strong&gt;Závěr&lt;/strong&gt;&lt;br /&gt;
-Závěrem bych všem moc rád poděkoval za podporu. Tak intenzivní podporu v tak krátkém času jsem vážně nečekal. Budu rád, pokud by mi lidé, kteří hlasují proti mé nominaci, napsali zpětnou vazbu, abych se mohl zlepšit. Rád se také zajdu představit na schůzi vašeho MS (počítám s P10, kam zval Jirka). Těším se na vaše otázky.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/img/posts/temata.jpg&quot; alt=&quot;Politická témata&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Nic z toho, čeho se mi podařilo v uplynulých letech dosáhnout, by ale nebylo možné bez mého týmu. Konkrétně bych rád jmenovitě zmínil &lt;strong&gt;Dana Koláře, Báru Soukupovou, Jana Hamala Dvořáka, Ivora Kollára, Adama Skořepu, Zuzanu Böhmovou, Martin Archalouse&lt;/strong&gt; a &lt;strong&gt;Věru Marušiakovou&lt;/strong&gt;. Za pomoc, radu a podporu jsem vděčný i všem mým dalším spolupracovníkům, dobrovolníkům a odborníkům, se kterými jsem měl to potěšení pracovat.&lt;/p&gt;</content><author><name>Ondřej Profant</name></author><category term="Piráti" /><category term="Piráti" /><summary type="html">U Pirátů o stranických funkcích a nominacích spolurozhodují rovným hlasem všichni členové v našich primárních volbách. Každý člen se tak podílí na směřování strany. Tím se odlišujeme od našich politických konkurentů, kteří si s vnitrostranickou demokracií moc hlavu nelámou.</summary></entry></feed>
+&lt;p&gt;Současně chci být více přístupný prostřednictvím živých streamů, kterými chci nejen přitáhnout pozornost k tématům souvisejícím s informatikou nebo politikou a jejich průniky, ale také vést smysluplnou debatu s diváky a odpovídat na jejich dotazy.&lt;/p&gt;</content><author><name>Ondřej Profant</name></author><category term="Piráti" /><category term="Piráti" /><summary type="html">Zaujmout mladší generaci s odbornými politickými tématy je náročné, ačkoliv se častokrát přímo dotýkají jejich práce, studia nebo zájmů. Rozhodl jsem proto vydat se na internet se svým novým virtuálním avatarem, se kterým jsem spustil vzdělávací kanál na YouTube a plánuji i streamovat na Twitchi.</summary></entry></feed>
