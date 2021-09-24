@@ -30,6 +30,8 @@ U velké části agend v přenesené působnosti digitalizaci plánuje patřičn
 - *[DEPO](https://www.pirati.cz/tiskove-zpravy/ridicaky-doma-digitalizacni-zakon.html)*
 - *[Katalog služeb](https://www.profant.eu/2020/katalog-sluzeb.html)*
 
+------------------------------------------
+
 ## Platné od roku 2021 a dříve
 
 ### Zákon č. 12/2020 Sb., o právu na digitální služby
@@ -59,6 +61,8 @@ U velké části agend v přenesené působnosti digitalizaci plánuje patřičn
 
 - **[Celý zákon -  Zákon č. 49/2020 Sb.](https://www.zakonyprolidi.cz/cs/2020-49)**
     Možnost použít bankovní identity, tedy přihlášení internetovému bankovnictví, pro přístup ke službám eGovernmentu.
+
+--------------------------------------------------------
 
 ## Platné od roku 2022
 
@@ -107,6 +111,8 @@ U velké části agend v přenesené působnosti digitalizaci plánuje patřičn
 #### Ministerstvo zemědělství
 - **Některé služby rostlinolékařské péče a podle zákona o hnojivech** přes samoobslužný portál či s elektronickým podpisem (od 31. 12. 2022)
 
+-------------------------------------------
+
 ## Platné od roku 2023
 
 ### Zákon č. 261/2021 Sb., kterým se mění některé zákony v souvislosti s další elektronizací postupů orgánů veřejné moci (DEPO)
@@ -149,6 +155,8 @@ U velké části agend v přenesené působnosti digitalizaci plánuje patřičn
     - informační systém identifikačního čísla stavby
     - informační systém stavebního řízení
 
+------------------------------------------------------
+
 ### Katalog služeb - služby poskytované digitálně
 #### Český úřad zeměměřický a katastrální
 - **Žádosti na poskytování dat a mapových děl** přes datovou schránku či s elektronickým podpisem (od 1. 9. 2023)
@@ -190,7 +198,7 @@ U velké části agend v přenesené působnosti digitalizaci plánuje patřičn
 - **Žádosti a ohlášení dle zákona o zemědělství** přes samoobslužný portál (od 1. 1. 2023) a datovou schránku (od 1. 9. 2023)
 - **Žádosti v agendě oběhu osiva a sadby** přes samoobslužný portál (od 31. 12. 2023)
 
-
+---------------------------------------
 
 ## Platné od roku 2024
 
@@ -206,6 +214,9 @@ U velké části agend v přenesené působnosti digitalizaci plánuje patřičn
 #### Ministerstvo životního prostředí
 
 - **Služby v agendě nakládání s geneticky modifikovanými organismy** přes samoobslužný portál (od 1. 1. 2024)
+
+-----------------------------------
+
 ## Platné od roku 2025
 
 ### Zákon č. 12/2020 Sb., o právu na digitální služby
