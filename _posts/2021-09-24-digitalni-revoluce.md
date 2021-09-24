@@ -155,8 +155,6 @@ U velké části agend v přenesené působnosti digitalizaci plánuje patřičn
     - informační systém identifikačního čísla stavby
     - informační systém stavebního řízení
 
-------------------------------------------------------
-
 ### Katalog služeb - služby poskytované digitálně
 #### Český úřad zeměměřický a katastrální
 - **Žádosti na poskytování dat a mapových děl** přes datovou schránku či s elektronickým podpisem (od 1. 9. 2023)
