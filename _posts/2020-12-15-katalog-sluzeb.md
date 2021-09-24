@@ -13,7 +13,7 @@ Když byl před více než rokem schválen Sněmovnou Zákon o právu na digitá
 
 <!--more-->
 
-Katalog služeb má obsahovat soupis všech služeb, které ministerstva poskytují. Jak [uvádí ředitel odboru eGovernmentu Roman Vrba](https://www.egovernment.cz/inpage/katalog-sluzeb-a-digizakon/) obsahuje katalog všechny služby, které stát poskytuje. Tedy jak služby na žádost, tak služby poskytované z vlastní úřední povinnosti. A to služby digitální i nedigitální, tedy i ty, které není možné digitalizovat, a proto nikdy digitální nebudou. Finální verzi tohoto katalogu musí vláda zveřejnit do 1. února 2020.
+Katalog služeb má obsahovat soupis všech služeb, které ministerstva poskytují. Jak [uvádí ředitel odboru eGovernmentu Roman Vrba](https://www.egovernment.cz/inpage/katalog-sluzeb-a-digizakon/) obsahuje katalog všechny služby, které stát poskytuje. Tedy jak služby na žádost, tak služby poskytované z vlastní úřední povinnosti. A to služby digitální i nedigitální, tedy i ty, které není možné digitalizovat, a proto nikdy digitální nebudou. Finální verzi tohoto katalogu musí vláda zveřejnit do 1. února 2021.
 
 Verze, která šla minulý týden do meziresortního připomínkového řízení, se však tomuto ideálu ani zdaleka neblíží. Seznam 663 služeb se na první pohled může zdát jako dostačující, avšak bližší zkoumání odhalí, že jde spíše o náhodnou, neúplnou změť agend, než o systematický soupis. Vina v tomto případě není na odboru eGovernmentu Ministerstva vnitra, který celý katalog připravuje, ale na jednotlivých ministerstvech. Těm ani několik měsíců připravy nestačilo k tomu, aby sepsala, co vlastně dělají.
 
