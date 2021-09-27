@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://www.profant.eu/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.profant.eu/" rel="alternate" type="text/html" /><updated>2021-09-24T13:35:00+00:00</updated><id>https://www.profant.eu/feed.xml</id><title type="html">Profant</title><subtitle>Zápisník pirátského poslance Ondřeje Profanta, který se zaměřuje na opendata, e-government, digitalizaci společnosti a kybernetickou bezpečnost.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://www.profant.eu/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.profant.eu/" rel="alternate" type="text/html" /><updated>2021-09-27T11:26:28+00:00</updated><id>https://www.profant.eu/feed.xml</id><title type="html">Profant</title><subtitle>Zápisník pirátského poslance Ondřeje Profanta, který se zaměřuje na opendata, e-government, digitalizaci společnosti a kybernetickou bezpečnost.
 Rád bych byl, aby Česká republika byla moderním státem s rozvinutou digitální ekonomikou, kde je kladen silný důraz na vzdělávání a svobodu.
 V digitalizaci se musíme inspirovat ve Velké Britanii, Dánsku a Estonsku, řešení musí být otevřená, uživatelsky přívětivá a ohleduplná k soukromí.
 </subtitle><author><name>Ondřej Profant</name></author><entry><title type="html">Vláda dostala Českou poštu do závažných finančních problémů. Dramatickou situaci jsem řešil s jejím generálním ředitelem.</title><link href="https://www.profant.eu/2021/ceska-posta.html" rel="alternate" type="text/html" title="Vláda dostala Českou poštu do závažných finančních problémů. Dramatickou situaci jsem řešil s jejím generálním ředitelem." /><published>2021-09-24T07:00:00+00:00</published><updated>2021-09-24T07:00:00+00:00</updated><id>https://www.profant.eu/2021/ceska-posta</id><content type="html" xml:base="https://www.profant.eu/2021/ceska-posta.html">&lt;p&gt;Státní podnik Česká pošta čelí závažným finančním problémům a chystá rozsáhlou reorganizaci. Chybí mu jasná strategie, moderní možnosti řízení a navíc funguje ve značné nejistotě. Tento podnik si musel vzít významný komerční úvěr na více než 5 miliard Kč, který ho stojí na úrocích a dalších nákladech 100 milionů Kč ročně. Podpory ze strany Ministerstva vnitra či financí se nedočkal a tak vypsal výběrové řízení na outsourcing některých svých služeb. Během posledního měsíce nás rovněž kontaktovala celá řada znepokojených zaměstnanců pošty. Z tohoto důvodu jsem se společně s našim analytikem Januszem Koniecznym setkal s generálním ředitelem České pošty Romanem Knapem, abychom současnou situaci pošty podrobně vyhodnotili a pokusili se najít řešení.&lt;/p&gt;
@@ -108,7 +108,7 @@ V digitalizaci se musíme inspirovat ve Velké Britanii, Dánsku a Estonsku, ře
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.zakonyprolidi.cz/cs/2020-12/zneni-20220701#p12a&quot;&gt;§ 12a - Právo na elektronickou identifikaci a autentizaci&lt;/a&gt;&lt;/strong&gt; (od 1. 7. 2022)
-   Uživatel má právo na informaci, zda kombinace identifikačních údajů, které mu o sobě poskytla jiná osoby odpovídá kombinaci údajů vedených v registru obyvatel Příprava na zrušení používání rodných čísel.&lt;/p&gt;
+   Uživatel má právo na informaci, zda kombinace identifikačních údajů, které mu o sobě poskytla jiná osoby odpovídá kombinaci údajů vedených v registru obyvatel. Příprava na zrušení používání rodných čísel.&lt;/p&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
 
@@ -281,7 +281,7 @@ V digitalizaci se musíme inspirovat ve Velké Britanii, Dánsku a Estonsku, ře
 
 &lt;h4 id=&quot;ministerstvo-vnitra-2&quot;&gt;Ministerstvo vnitra&lt;/h4&gt;
 &lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Vydání API klíče ke katalogu služeb veřejné správy&lt;/strong&gt; přes datovou schránku, samoobslužný portál či s elekktronickým podpisem (od 1. 1. 2024)&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Vydání API klíče ke katalogu služeb veřejné správy&lt;/strong&gt; přes datovou schránku, samoobslužný portál či s elektronickým podpisem (od 1. 1. 2024)&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h4 id=&quot;ministerstvo-životního-prostředí&quot;&gt;Ministerstvo životního prostředí&lt;/h4&gt;
