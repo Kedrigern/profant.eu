@@ -84,7 +84,7 @@ U velké části agend v přenesené působnosti digitalizaci plánuje patřičn
      Zápis centrálních kontaktních údajů - emailu a telefonního čísla - do základních registrů
 
 - **[§ 12a - Právo na elektronickou identifikaci a autentizaci](https://www.zakonyprolidi.cz/cs/2020-12/zneni-20220701#p12a)** (od 1. 7. 2022)
-     Uživatel má právo na informaci, zda kombinace identifikačních údajů, které mu o sobě poskytla jiná osoby odpovídá kombinaci údajů vedených v registru obyvatel Příprava na zrušení používání rodných čísel.
+     Uživatel má právo na informaci, zda kombinace identifikačních údajů, které mu o sobě poskytla jiná osoby odpovídá kombinaci údajů vedených v registru obyvatel. Příprava na zrušení používání rodných čísel.
 
 ### Zákon č. 261/2021 Sb., kterým se mění některé zákony v souvislosti s další elektronizací postupů orgánů veřejné moci (DEPO)
 - **[Celý balíček - Zákon č. 261/2021 Sb.](https://www.zakonyprolidi.cz/cs/2021-261)** (od 1. 2. 2022)
@@ -207,7 +207,7 @@ U velké části agend v přenesené působnosti digitalizaci plánuje patřičn
 - **služby ve více agendách** přes samoobslužný portál (od 1. 7. 2024)
 
 #### Ministerstvo vnitra
-- **Vydání API klíče ke katalogu služeb veřejné správy** přes datovou schránku, samoobslužný portál či s elekktronickým podpisem (od 1. 1. 2024)
+- **Vydání API klíče ke katalogu služeb veřejné správy** přes datovou schránku, samoobslužný portál či s elektronickým podpisem (od 1. 1. 2024)
 
 #### Ministerstvo životního prostředí
 
