@@ -9,7 +9,7 @@ img:        tel-aviv.jpg
 author:     Ondřej Profant
 ---
 
-Ve dnech 27. 2. až 3. 3. jsem se vypravil na služební cestu do Izraele, kde jsem zastupoval vicepremiéra pro digitalizaci Ivan Bartoše. Měl jsem příležitost se blíže seznámit s izraelským přístupem k egovernmentu a vývoji nových technologií, včetně velmi inspirativních příkladů spolupráce mezi státními složkami a neziskovým či soukromým sektorem.
+Ve dnech 27. 2. až 3. 3. jsem se vypravil na služební cestu do Izraele, kde jsem zastupoval vicepremiéra pro digitalizaci Ivana Bartoše. Měl jsem příležitost se blíže seznámit s izraelským přístupem k egovernmentu a vývoji nových technologií, včetně velmi inspirativních příkladů spolupráce mezi státními složkami a neziskovým či soukromým sektorem.
 
 <!--more-->
 
