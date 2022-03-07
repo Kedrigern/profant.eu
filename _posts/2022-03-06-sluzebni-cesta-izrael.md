@@ -59,6 +59,6 @@ Následoval přesun do další budovy ministerstva zdravotnictví, kde jsem mohl
 
 Následovala pro mě jedna z nejzajímavějších schůzek s Government ICT Authority. Jedná se o organizaci, která zajišťuje služby egovernmentu v Izraeli. Například se jim podařilo sjednotit státní weby. To je něco, co bychom také potřebovali. Dalším velmi úspěšným projektem je systém pro uživatelsky přívětivé vytváření formulářů. Sami si naprogramovali tuto platformu a dneska si úředníci na jednotlivých ministerstvech umějí “naklikat” formulář dle svých potřeb. To umožňuje rychlé tempo aktualizování a vydávání nových formulářů (cca jeden nový každý pracovní den). U nás se mnohdy stává, že triviální formulář představuje vyhlašování veřejné zakázky za nemalé peníze. Dále provozují velmi úspěšný centrální platební systém, centrální systém identit občanů a obdobu našich základních registrů.
 
-Zavěrem dne jsem se zúčasnil recepce na české ambasádě, kde byla přítomna i obchodní delegace a izraelští partneři, mezi jinými i investor cyber areál v Beer Shevě.
+Zavěrem dne jsem se zúčasnil recepce na české ambasádě, kde byla přítomna i obchodní delegace a izraelští partneři, mezi jinými i investor cyber areál v Beer Shevě. Dále třeba bývalý izraelský velvyslanec v ČR či zásstupci CZ.nic, kteř tu byli hledat nové obchodní příležitosti pro otevřený a svobodný router Turris.
 
 Ještě v noci jsem se nočním letem vrátil zpátky do ČR. Ze své cesty jsem si přinesl spoustu pozitivních a inspirativních podnětů i zážitků.
