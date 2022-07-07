@@ -1,7 +1,52 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://www.profant.eu/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.profant.eu/" rel="alternate" type="text/html" /><updated>2022-07-07T14:41:14+00:00</updated><id>https://www.profant.eu/feed.xml</id><title type="html">Profant</title><subtitle>Zápisník pirátského poslance Ondřeje Profanta, který se zaměřuje na opendata, e-government, digitalizaci společnosti a kybernetickou bezpečnost.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://www.profant.eu/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.profant.eu/" rel="alternate" type="text/html" /><updated>2022-07-07T14:54:14+00:00</updated><id>https://www.profant.eu/feed.xml</id><title type="html">Profant</title><subtitle>Zápisník pirátského poslance Ondřeje Profanta, který se zaměřuje na opendata, e-government, digitalizaci společnosti a kybernetickou bezpečnost.
 Rád bych byl, aby Česká republika byla moderním státem s rozvinutou digitální ekonomikou, kde je kladen silný důraz na vzdělávání a svobodu.
 V digitalizaci se musíme inspirovat ve Velké Britanii, Dánsku a Estonsku, řešení musí být otevřená, uživatelsky přívětivá a ohleduplná k soukromí.
-</subtitle><author><name>Ondřej Profant</name></author><entry><title type="html">Význam Pirátů ve vládě</title><link href="https://www.profant.eu/2022/vyznam-piratu-ve-vlade.html" rel="alternate" type="text/html" title="Význam Pirátů ve vládě" /><published>2022-06-05T10:00:00+00:00</published><updated>2022-06-05T10:00:00+00:00</updated><id>https://www.profant.eu/2022/vyznam-piratu-ve-vlade</id><content type="html" xml:base="https://www.profant.eu/2022/vyznam-piratu-ve-vlade.html">&lt;p&gt;“Mají vůbec Piráti ve vládě význam?” Tuto otázku jsem po volbách slyšel často a vlastně jsem ji kladl i sám sobě. Dnes jsem schopen říct, že mají. A že je dobře, že jsme se rozhodli na nabídku vstupu do vlády přistoupit.&lt;/p&gt;
+</subtitle><author><name>Ondřej Profant</name></author><entry><title type="html">Bankovní identita není všespásná</title><link href="https://www.profant.eu/2022/bankovni-identity.html" rel="alternate" type="text/html" title="Bankovní identita není všespásná" /><published>2022-07-07T14:00:00+00:00</published><updated>2022-07-07T14:00:00+00:00</updated><id>https://www.profant.eu/2022/bankovni-identity</id><content type="html" xml:base="https://www.profant.eu/2022/bankovni-identity.html">&lt;p&gt;Soukromoprávní identity umožňující přístup ke službám egovernmentu znamenají významný posun pro digitalizaci státu. Přesto je jejich používání i vinou legislativních překážek stále nedokonalé.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;h1 id=&quot;bankovní-identita-není-všespásná&quot;&gt;Bankovní identita není všespásná&lt;/h1&gt;
+
+&lt;p&gt;Využití soukromoprávních identit pro přístup ke službám egovernmentu je ohromným krok vpřed. Dlouho jsme měli velmi prostý problém. Měli jsme online služby, ale neměl je kdo používat. Zkušenosti ze zahraničí nám jasně ukázaly cestu – spolupracujme s institucemi, které již klienty mají ztožněné. Zde se nabízí silně regulované odvětví bank (ještě před přijetím zákona měly klienty ztotožněné proti základním registrům). Nutno též zmínit, že jsou i jiné subjekty, které poskytují identity. Zvláště pak mojeID od cz.nic je skvělým příkladem nezavislé identity, která narozdíl od bank splňuje i nejvyšší bezpečnostní úroveň pro komunikaci se zahraničním egovernmentem napříč EU. Plný výčet poskytovatelů nalezenete na portálu &lt;a href=&quot;https://info.identitaobcana.cz/idp/&quot;&gt;identitaObcana.cz&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;dvě-vady-na-kráse&quot;&gt;Dvě vady na kráse&lt;/h2&gt;
+
+&lt;p&gt;I tento významný krok vpřed má však své mouchy. Obě jsou přímo v zákoně č. &lt;a href=&quot;https://www.zakonyprolidi.cz/cs/1992-21#p38ad&quot;&gt;21/1992 Sb.&lt;/a&gt; o bankách:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;§ 38ad
+(1) Přístup do informačního systému veřejné správy nebo elektronické aplikace s využitím prostředku pro elektronickou identifikaci splňujícího požadavky podle § 38ac odst. 1 se považuje za přístup se &lt;strong&gt;zaručenou&lt;/strong&gt; identitou podle zákona o informačních systémech veřejné správy.
+(2) &lt;strong&gt;Státní orgán a orgán územního samosprávného celku&lt;/strong&gt; jsou oprávněny použít prostředek pro elektronickou identifikaci vydaný bankou, pobočkou zahraniční banky nebo poskytovatelem identifikačních služeb pro účely prokázání totožnosti, které vyžaduje právní předpis nebo výkon působnosti, pouze prostřednictvím kvalifikovaného systému.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Prvním problémem bankovních identit je, že se banky bojí nejvyšší úrovně. Identita má tři úrovně zabezpečení: nízkou, značnou a vysokou. V praxi služby nejčastěji využívají značnou. Vysoká je potřeba například pro přeshraniční komunikaci. Tento problém je zatím spíše teoretický, neb drtivá většina služeb si vystačí s úrovní značná. K tomuto kompromisu došlo z důvodu obavy bank ze zodpovědnosti za úkony činěné v nejvyšší úrovni. Což je teoreticky cokoliv, v praxi však třeba katastr je chráněn ještě ochrannými lhůtami, čili zneužití není záležitostí “přihlásím se a odkliknu”.&lt;/p&gt;
+
+&lt;p&gt;Druhý probléme je však mnohem palčivější. Definice “Státní orgán a orgán územního samosprávného celku” znamená státní orgán, obce a kraje. V tomto výčtu viditelně a záměrně chybí soukromoprávní subjekty, avšak také vysoce nezávislé subjekty, které jsou však zřízeny státem např. fondy. Zvláště patrné je to pak u &lt;a href=&quot;https://www.sfzp.cz/&quot;&gt;Státního fondu životního prostředí&lt;/a&gt;, který vypisuje program &lt;a href=&quot;https://novazelenausporam.cz/&quot;&gt;Zelená úsporám&lt;/a&gt;. Nebo třeba u Státního fondu dopravní infrastruktury, který provozuje portál edalnice, přes který se kupuje dalniční známka.&lt;/p&gt;
+
+&lt;p&gt;Tento problém vznikl záměrně. Banky pochopitlně chtějí vydělat, a tak soukromoprávní identity nejsou zahrnuty v zákoně. Koneckonců je to soukromoprávní vztah mezi bankou a někým jiným, kdo potřebuje identifikovat klienta. Připojení se tedy řídí &lt;a href=&quot;https://www.bankid.cz/cenik&quot;&gt;ceníkem&lt;/a&gt;. Je ale nesmysl, aby státní fondy platily bankám za ztotožnění oproti státnímu registru obyvatel.&lt;/p&gt;
+
+&lt;h2 id=&quot;jak-tedy-požádat-o-zelenou-úsporám&quot;&gt;Jak tedy požádat o zelenou úsporám?&lt;/h2&gt;
+
+&lt;p&gt;Jak tedy podat žádost o zelenou úsporám či jinou službu státního fondu? Naštěstí toto omezení jde obejít. I když je to poněkud kostrbaté.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Pomocí bankovní identity se přihlásíte na https://www.identitaobcana.cz&lt;/li&gt;
+  &lt;li&gt;Zde najdete nadpis &lt;strong&gt;Mobilní klíč eGovernmentu&lt;/strong&gt; a v něm odkaz: &lt;strong&gt;Připojení Mobilního klíče eGovernmentu&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;Na odkaze si stáhnete aplikaci Mobilní klíč eGovernmentu&lt;/li&gt;
+  &lt;li&gt;Tuto aplikaci si propojíte se svou identitou&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/posts/mobilni-klic.png&quot; alt=&quot;Jak získat mobilní klíč&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Nyní máte dva možné způsoby, jak se přihlašovat. Prostřednictvím bankovní identity od banky a aplikací mobilní klíč. Tato aplikace vám však bude fungovat právě i u státních fondů, čili s ní můžete např. podat žádost v programu Zelená úsporám.&lt;/p&gt;
+
+&lt;p&gt;Pokud aplikaci nechcete víc používat, tak ji můžete na té samé stránce i odpojit. Například pokud se bojíte zneužití vašeho mobilu.&lt;/p&gt;
+
+&lt;h2 id=&quot;kdy-se-to-změní&quot;&gt;Kdy se to změní?&lt;/h2&gt;
+
+&lt;p&gt;Jelikož je toto zaneseno přímo v zákoně, tak to může změnit pouze Parlament. Ten projednává mnoho věci, je proto obvykle lepší se připojit k nějaké již probíhající změně daného zákona.&lt;/p&gt;
+
+&lt;p&gt;Poslanecká sněmovna je však zpomalena obstrukcemi od ANO a SPD, čili je velmi těžké podobné drobné vylepšení protlačit. Při nejbližší příležitosti tuto změnu ale určitě předložíme.&lt;/p&gt;</content><author><name>Ondřej Profant</name></author><category term="Egovernment" /><category term="Egovernment" /><category term="Digitalizace" /><summary type="html">Soukromoprávní identity umožňující přístup ke službám egovernmentu znamenají významný posun pro digitalizaci státu. Přesto je jejich používání i vinou legislativních překážek stále nedokonalé.</summary></entry><entry><title type="html">Význam Pirátů ve vládě</title><link href="https://www.profant.eu/2022/vyznam-piratu-ve-vlade.html" rel="alternate" type="text/html" title="Význam Pirátů ve vládě" /><published>2022-06-05T10:00:00+00:00</published><updated>2022-06-05T10:00:00+00:00</updated><id>https://www.profant.eu/2022/vyznam-piratu-ve-vlade</id><content type="html" xml:base="https://www.profant.eu/2022/vyznam-piratu-ve-vlade.html">&lt;p&gt;“Mají vůbec Piráti ve vládě význam?” Tuto otázku jsem po volbách slyšel často a vlastně jsem ji kladl i sám sobě. Dnes jsem schopen říct, že mají. A že je dobře, že jsme se rozhodli na nabídku vstupu do vlády přistoupit.&lt;/p&gt;
 
 &lt;!--more--&gt;
 
@@ -342,310 +387,4 @@ Třetí den začal veletrh CyberTech Global Tel Aviv 2022. Podobné veletrhy jso
 
 &lt;p&gt;Česká pošta je velmi závislá na Českém telekomunikačním úřadě, který ji uděluje licence pro poskytování poštovních služeb. Když v roce 2017 byla zamítnuta její žádost o udělení licence na 5leté období, byl na poslední chvíli verdikt úřadem změněn, aby pošta mohla fungovat. Česká pošta je nyní v obrovské nejistotě, neboť neví, zdali stát bude po ní požadovat služby v současném rozsahu anebo zdali ji bude někdo na poslední chvíli zachraňovat stejně jako tomu bylo minule. Začíná dokonce uvažovat o outsourcingu svých služeb, což vede ke značné nervozitě jejích zaměstnanců. Pošta navíc potřebuje prostředky na řešení platových nerovnosti zaměstnanců.&lt;/p&gt;
 
-&lt;p&gt;Během setkání jsme vyjádřili rovněž znepokojení nad právě vypsanou zakázkou na outsourcing dopravy poštovních služeb. Pokud dojde k ukončení logistické dopravní sítě pošty, nebude již cesty zpět a pošta bude muset mít pojistky, aby postavení soukromé společnosti nebylo zneužito. Je nutné proto disponovat nezávislou a objektivní analýzou při uvažování o tomto outsourcingu. Pan Knap ovšem sdělil, že záměrem ředitele není propouštět zaměstnance a je připraven tuto veřejnou soutěž případně zrušit.&lt;/p&gt;</content><author><name>Ondřej Profant</name></author><category term="pošta" /><category term="pošta" /><summary type="html">Státní podnik Česká pošta čelí závažným finančním problémům a chystá rozsáhlou reorganizaci. Chybí mu jasná strategie, moderní možnosti řízení a navíc funguje ve značné nejistotě. Tento podnik si musel vzít významný komerční úvěr na více než 5 miliard Kč, který ho stojí na úrocích a dalších nákladech 100 milionů Kč ročně. Podpory ze strany Ministerstva vnitra či financí se nedočkal a tak vypsal výběrové řízení na outsourcing některých svých služeb. Během posledního měsíce nás rovněž kontaktovala celá řada znepokojených zaměstnanců pošty. Z tohoto důvodu jsem se společně s našim analytikem Januszem Koniecznym setkal s generálním ředitelem České pošty Romanem Knapem, abychom současnou situaci pošty podrobně vyhodnotili a pokusili se najít řešení.</summary></entry><entry><title type="html">Digitální revoluce - co nás čeká v příštích letech</title><link href="https://www.profant.eu/2021/digitalni-revoluce.html" rel="alternate" type="text/html" title="Digitální revoluce - co nás čeká v příštích letech" /><published>2021-09-24T07:00:00+00:00</published><updated>2021-09-24T07:00:00+00:00</updated><id>https://www.profant.eu/2021/digitalni-revoluce</id><content type="html" xml:base="https://www.profant.eu/2021/digitalni-revoluce.html">&lt;p&gt;Legislativa týkající se digitalizace a eGovernmentu doznala v uplynulém období revolučních změn. Byla schválena pětice digitalizačních zákonů, které zcela změnily paradigma eGovernmentu v Česku.&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;p&gt;Na konci roku 2019 byly schváleny &lt;a href=&quot;https://www.zakonyprolidi.cz/cs/2020-12&quot;&gt;Zákon o právu na digitální služby&lt;/a&gt;, zákon k &lt;a href=&quot;https://www.zakonyprolidi.cz/cs/2020-47&quot;&gt;digitální technické mapě&lt;/a&gt; a zákon k &lt;a href=&quot;https://www.zakonyprolidi.cz/cs/2020-49&quot;&gt;bankovním identitám&lt;/a&gt;. V roce 2021 pak sněmovna schválila další digitalizační zákon, tzv. &lt;a href=&quot;https://www.zakonyprolidi.cz/cs/2021-261&quot;&gt;DEPO&lt;/a&gt; a zákon &lt;a href=&quot;https://www.zakonyprolidi.cz/cs/2021-325&quot;&gt;o elektronizaci zdravotnictví&lt;/a&gt;. V roce 2021 byl také zveřejněn a postupně doplňován &lt;a href=&quot;https://pma3.gov.cz/katalog-sluzeb/info&quot;&gt;Katalog služeb&lt;/a&gt;, tedy jakýsi seznam všech agend a úkonů veřejné správy a zároveň harmonogram jejich digitalizace. Tyto zákony mají často dělenou účinnost, tedy některá jejich ustanovení jsou již účinná a na jiná si ještě počkáme. Zde je přehled toho, jaká digitalizační opatření již platí a co nás čeká v dalších letech.&lt;/p&gt;
-
-&lt;p&gt;Velká část níže popsaných ustanovení se týká &lt;strong&gt;&lt;a href=&quot;https://www.zakonyprolidi.cz/cs/2020-12&quot;&gt;Zákona o právu na digitální služby&lt;/a&gt;&lt;/strong&gt;. Ač se tento zákon vztahuje na všechny orgány veřejné moci, obsahuje některé výjimky (§ 14):&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Územní samosprávný celek při výkonu samostatné působnosti má právo, nikoli povinnost poskytovat digitální služby podle tohoto zákona.&lt;/li&gt;
-  &lt;li&gt;Škola a školské zařízení poskytují digitální službu pouze u úkonu, u kterého je poskytnutí v digitální podobě vyznačeno v katalogu služeb.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;U velké části agend v přenesené působnosti digitalizaci plánuje patřičné ministerstvo, často prostřednictvím centralizovaného samoobslužného portálu. Obce a kraje jsou tak odpovědné hlavně za digitalizaci činností v samosprávné působnosti, u níchž je však digitalizace podle tohoto zákona pouze dobrovolná.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Detailní rozbor balíčku DEPO, &lt;a href=&quot;https://www.openczeg.cz/clanky/2021/09/09/detailni-rozbor-depo.html&quot;&gt;přinesl server #OPENCZEG&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Více k jednotlivým zákonům zde na blogu:&lt;/em&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;em&gt;&lt;a href=&quot;https://www.profant.eu/2019/zpds.html&quot;&gt;Zákon o právu na digitální služby&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;&lt;a href=&quot;https://www.profant.eu/2019/dtm.html&quot;&gt;Digitální technická mapa&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;&lt;a href=&quot;https://www.profant.eu/2019/sonia.html&quot;&gt;Bankovní identity&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;&lt;a href=&quot;https://www.pirati.cz/tiskove-zpravy/ridicaky-doma-digitalizacni-zakon.html&quot;&gt;DEPO&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;&lt;a href=&quot;https://www.profant.eu/2020/katalog-sluzeb.html&quot;&gt;Katalog služeb&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;platné-od-roku-2021-a-dříve&quot;&gt;Platné od roku 2021 a dříve&lt;/h2&gt;
-
-&lt;h3 id=&quot;zákon-č-122020-sb-o-právu-na-digitální-služby&quot;&gt;Zákon č. 12/2020 Sb., o právu na digitální služby&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.zakonyprolidi.cz/cs/2020-12#p4&quot;&gt;§ 4 - Právo činit digitální úkon&lt;/a&gt;&lt;/strong&gt;
-  Pro služby vedené v katalogu služeb jako digitalizované.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.zakonyprolidi.cz/cs/2020-12#p9&quot;&gt;§ 9 - Právo prokázání právní skutečnosti&lt;/a&gt;&lt;/strong&gt;
-  Pokud již je údaje v systému veřejné správy, není třeba je dokládat jinak.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.zakonyprolidi.cz/cs/2020-12#p11&quot;&gt;§ 11 - Právo na informace v souvislosti s poskytováním digitálních služeb&lt;/a&gt;&lt;/strong&gt;
-  Možnost výpisů z informačních systémů a upozornění na termíny výměny dokladů.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.zakonyprolidi.cz/cs/2020-12#p12&quot;&gt;§ 12 - Právo na elektronickou identifikaci a autentizaci&lt;/a&gt;&lt;/strong&gt;
-  Pokud není stanovena úroveň záruky prostředku pro elektronickou identifikaci, uživatel má právo použítek prostředek v úrovni minimálně značná.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.zakonyprolidi.cz/cs/2020-12#p13&quot;&gt;§ 13 - Právo na technologickou neutralitu&lt;/a&gt;&lt;/strong&gt;
-  Služby jsou poskytovány nezávisle na konkrétní technologii, výstupy jsou v otevřeném strojově čitelném formátu.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;zákon-č-2612021-sb-kterým-se-mění-některé-zákony-v-souvislosti-s-další-elektronizací-postupů-orgánů-veřejné-moci-depo&quot;&gt;Zákon č. 261/2021 Sb., kterým se mění některé zákony v souvislosti s další elektronizací postupů orgánů veřejné moci (DEPO)&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://www.zakonyprolidi.cz/cs/2021-261#cast74&quot;&gt;Pravidla a bezpečnostní úrovně cloud computingu&lt;/a&gt;&lt;/strong&gt;
-  &lt;em&gt;&lt;a href=&quot;https://www.zakonyprolidi.cz/cs/2000-365&quot;&gt;Zákon č. 365/2000 Sb.&lt;/a&gt;, o informačních systémech veřejné správy&lt;/em&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;zákon-č-492020-sb---bankovní-identita&quot;&gt;Zákon č. 49/2020 Sb. - bankovní identita&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://www.zakonyprolidi.cz/cs/2020-49&quot;&gt;Celý zákon -  Zákon č. 49/2020 Sb.&lt;/a&gt;&lt;/strong&gt;
-  Možnost použít bankovní identity, tedy přihlášení internetovému bankovnictví, pro přístup ke službám eGovernmentu.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;platné-od-roku-2022&quot;&gt;Platné od roku 2022&lt;/h2&gt;
-
-&lt;h3 id=&quot;zákon-č-122020-sb-o-právu-na-digitální-služby-1&quot;&gt;Zákon č. 12/2020 Sb., o právu na digitální služby&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.zakonyprolidi.cz/cs/2020-12#p5&quot;&gt;§ 5 - Právo na osvědčení digitálního úkonu&lt;/a&gt;&lt;/strong&gt; (od 1. 2. 2022)
-  Uživatel má právo na bezodkladné elektronické osvědčení digitálního úkonu, opatřené kvalifikovanou elektonickou pečetí a časovým razítkem.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.zakonyprolidi.cz/cs/2020-12#p6&quot;&gt;§ 6 - Právo na nahrazení úředně ověřeného podpisu nebo uznávaného elektronického podpisu&lt;/a&gt;&lt;/strong&gt; (od 1. 7. 2022)
-  Vlastoruční podpis lze nahradit záznamem informačního systému o určitých parametrech.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.zakonyprolidi.cz/cs/2020-12#p7&quot;&gt;§ 7 - Právo na využívání údajů&lt;/a&gt;&lt;/strong&gt; (od 1. 2. 2022)
-  Mezi úřady putují data, nikoliv lidé. Úřad nevyžaduje data, která už jsou v systémech. Uživatelé mohou udělit oprávnění k využívání údajů v rozsahu a trvání podle své volby na základě vlastního rozhodnutí nebo na základě žádosti úřadu.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.zakonyprolidi.cz/cs/2020-12#p8&quot;&gt;§ 8 - Právo na zápis práva, povinnosti nebo právní skutečnosti&lt;/a&gt;&lt;/strong&gt; (od 1. 2. 2022)
-   Uživatel má právo na zápis práva, povinnosti nebo právní skutečnosti, která se jej týká a vyplývá z úkonu úřadu uvedeného v katalogu služeb, do registru práv a povinností.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.zakonyprolidi.cz/cs/2020-12#p10&quot;&gt;§ 10 - Právo na zápis kontaktního údaje&lt;/a&gt;&lt;/strong&gt; (od 1. 2. 2022)
-   Zápis centrálních kontaktních údajů - emailu a telefonního čísla - do základních registrů&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.zakonyprolidi.cz/cs/2020-12/zneni-20220701#p12a&quot;&gt;§ 12a - Právo na elektronickou identifikaci a autentizaci&lt;/a&gt;&lt;/strong&gt; (od 1. 7. 2022)
-   Uživatel má právo na informaci, zda kombinace identifikačních údajů, které mu o sobě poskytla jiná osoby odpovídá kombinaci údajů vedených v registru obyvatel. Příprava na zrušení používání rodných čísel.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;zákon-č-2612021-sb-kterým-se-mění-některé-zákony-v-souvislosti-s-další-elektronizací-postupů-orgánů-veřejné-moci-depo-1&quot;&gt;Zákon č. 261/2021 Sb., kterým se mění některé zákony v souvislosti s další elektronizací postupů orgánů veřejné moci (DEPO)&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://www.zakonyprolidi.cz/cs/2021-261&quot;&gt;Celý balíček - Zákon č. 261/2021 Sb.&lt;/a&gt;&lt;/strong&gt; (od 1. 2. 2022)
-  Zejména proškrtání zmocňovacích paragrafů v mnoha zákonech, nově bude zmocnění řešeno formou správního řízení.&lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.zakonyprolidi.cz/cs/2021-261#cast133&quot;&gt;Povinné dodávání do datových schránek PFO a PO&lt;/a&gt;&lt;/strong&gt; (od 1. 1. 2022)
-  Datové schránky firem a podnikatelů nepůjdou již znepřístupnit pro příjem od jiných osob. To dosud některé firmy dělaly a nešlo je tak kontaktovat datovou schránkou.&lt;/p&gt;
-
-    &lt;p&gt;&lt;em&gt;&lt;a href=&quot;https://www.zakonyprolidi.cz/cs/2008-300/zneni-20230701#p18a&quot;&gt;Zákon č. 300/2008 Sb.&lt;/a&gt;, o elektronických úkonech a autorizované konverzi dokumentů&lt;/em&gt;&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;katalog-služeb---služby-poskytované-digitálně&quot;&gt;Katalog služeb - služby poskytované digitálně&lt;/h3&gt;
-&lt;h4 id=&quot;český-statistický-úřad&quot;&gt;Český statistický úřad&lt;/h4&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Zpřístupnění údajů vedených v Registru ekonomických subjektů&lt;/strong&gt; přes datovou schránku a Czech POINT (od 1. 2. 2022)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;ministerstvo-vnitra&quot;&gt;Ministerstvo vnitra&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Digitální poskytování matričních agend&lt;/strong&gt; přes datovou schránku či s elektronickým podpisem (od 1. 7. 2022)
-    &lt;ul&gt;
-      &lt;li&gt;změna jména a příjmení,&lt;/li&gt;
-      &lt;li&gt;zápis do matriční knihy,&lt;/li&gt;
-      &lt;li&gt;návrh na určení otcovství,&lt;/li&gt;
-      &lt;li&gt;povolení uzavření manželství,…&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Legalizace&lt;/strong&gt; přes datovou schránku či s elektronickým podpisem (od 1. 7. 2022)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;ministerstvo-zemědělství&quot;&gt;Ministerstvo zemědělství&lt;/h4&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Některé služby rostlinolékařské péče a podle zákona o hnojivech&lt;/strong&gt; přes samoobslužný portál či s elektronickým podpisem (od 31. 12. 2022)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;platné-od-roku-2023&quot;&gt;Platné od roku 2023&lt;/h2&gt;
-
-&lt;h3 id=&quot;zákon-č-2612021-sb-kterým-se-mění-některé-zákony-v-souvislosti-s-další-elektronizací-postupů-orgánů-veřejné-moci-depo-2&quot;&gt;Zákon č. 261/2021 Sb., kterým se mění některé zákony v souvislosti s další elektronizací postupů orgánů veřejné moci (DEPO)&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.zakonyprolidi.cz/cs/2021-261#cast164&quot;&gt;Sbírka zákonů a mezinárodní smluv&lt;/a&gt;&lt;/strong&gt; (od 1. 1. 2023)
-  Nově bude elektronická, dostupná jako otevřená data.&lt;/p&gt;
-
-    &lt;p&gt;&lt;em&gt;&lt;a href=&quot;https://www.zakonyprolidi.cz/cs/2016-222/zneni-20230101&quot;&gt;Zákon č. 222/2016 Sb.&lt;/a&gt;, o Sbírce zákonů a mezinárodních smluv&lt;/em&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.zakonyprolidi.cz/cs/2021-261#cast133&quot;&gt;Zřízení datové schránky po přihlášení NIA&lt;/a&gt;&lt;/strong&gt; (od 1. 1. 2023)
-  Bude možné ji deaktivovat.&lt;/p&gt;
-
-    &lt;p&gt;&lt;em&gt;&lt;a href=&quot;https://www.zakonyprolidi.cz/cs/2008-300/zneni-20230701#p3&quot;&gt;Zákon č. 300/2008 Sb.&lt;/a&gt;, o elektronických úkonech a autorizované konverzi dokumentů&lt;/em&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.zakonyprolidi.cz/cs/2021-261#cast133&quot;&gt;Povinné zřízení datových schránek právnickým osobám a podnikajícím fyzickým osobám&lt;/a&gt;&lt;/strong&gt; (od 31. 3. 2023)&lt;/p&gt;
-
-    &lt;p&gt;&lt;em&gt;&lt;a href=&quot;https://www.zakonyprolidi.cz/cs/2008-300/zneni-20230701#p4&quot;&gt;Zákon č. 300/2008 Sb.&lt;/a&gt;, o elektronických úkonech a autorizované konverzi dokumentů&lt;/em&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.zakonyprolidi.cz/cs/2021-261#cast48&quot;&gt;Informace zveřejňované způsobem umožňujícím dálkový přístup&lt;/a&gt;&lt;/strong&gt; (od 31. 12. 2023)
-  Všechny registry, které jsou na základě zákona každému přístupné, musí zveřejňovat neosobní data jako open data.&lt;/p&gt;
-
-    &lt;p&gt;&lt;em&gt;&lt;a href=&quot;https://www.zakonyprolidi.cz/cs/1999-106/zneni-20220201#p5a&quot;&gt;Zákon č. 106/1999 Sb.&lt;/a&gt;, o svobodném přístupu k informacím&lt;/em&gt;&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;zákon-č-472020-sb---digitální-technická-mapa&quot;&gt;Zákon č. 47/2020 Sb. - Digitální technická mapa&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://www.zakonyprolidi.cz/cs/2020-47/&quot;&gt;Celý zákon - Zákon č. 47/2020 Sb.&lt;/a&gt;&lt;/strong&gt; (od 1. 7. 2023)
-    &lt;ul&gt;
-      &lt;li&gt;digitálních technické mapy krajů&lt;/li&gt;
-      &lt;li&gt;informační systém digitální mapy veřejné správy&lt;/li&gt;
-    &lt;/ul&gt;
-
-    &lt;p&gt;&lt;em&gt;&lt;a href=&quot;https://www.zakonyprolidi.cz/cs/1994-200/zneni-20230701#p4b&quot;&gt;Zákon č. 200/1994 Sb.&lt;/a&gt;, o zeměměřičství&lt;/em&gt;&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;zákon-č-2832021-sb-stavební-zákon&quot;&gt;Zákon č. 283/2021 Sb., stavební zákon&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://www.zakonyprolidi.cz/cs/2021-283/zneni-20230701#p267&quot;&gt;Celý zákon - Zákon č. 283/2021 Sb.&lt;/a&gt;&lt;/strong&gt; (od 1. 7. 2023)
-    &lt;ul&gt;
-      &lt;li&gt;portál stavebníka&lt;/li&gt;
-      &lt;li&gt;národní geoportál územního plánování&lt;/li&gt;
-      &lt;li&gt;evidence stavebních postupů&lt;/li&gt;
-      &lt;li&gt;evidence elektronických dokumentací&lt;/li&gt;
-      &lt;li&gt;informační systém identifikačního čísla stavby&lt;/li&gt;
-      &lt;li&gt;informační systém stavebního řízení&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;katalog-služeb---služby-poskytované-digitálně-1&quot;&gt;Katalog služeb - služby poskytované digitálně&lt;/h3&gt;
-&lt;h4 id=&quot;český-úřad-zeměměřický-a-katastrální&quot;&gt;Český úřad zeměměřický a katastrální&lt;/h4&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Žádosti na poskytování dat a mapových děl&lt;/strong&gt; přes datovou schránku či s elektronickým podpisem (od 1. 9. 2023)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;ministerstvo-dopravy&quot;&gt;Ministerstvo dopravy&lt;/h4&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Žádosti týkající se Registru silničních vozidel&lt;/strong&gt; s elektronickým podpisem (od 1. 9. 2023)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;ministerstvo-financí&quot;&gt;Ministerstvo financí&lt;/h4&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Některé služby z agend spoření, penzijního připojištění, daňových poradců a evidence tržeb&lt;/strong&gt; přes datovou schránku či s elektronickým podpisem (od 1. 9. 2023)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;ministerstvo-práce-a-sociálních-věcí&quot;&gt;Ministerstvo práce a sociálních věcí&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Žádosti v agendě sociálního zabezpečení&lt;/strong&gt; přes datovou schránku či s elektronickým pospisem (od 1. 9. 2023) a přes samoobslužný portál (od 1. 12. 2023)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;ministerstvo-průmyslu-a-obchodu&quot;&gt;Ministerstvo průmyslu a obchodu&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Služby v agendě zahraničního obchodu&lt;/strong&gt; přes samoobslužný portál (od 1. 1. 2023)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;ministerstvo-spravedlnosti&quot;&gt;Ministerstvo spravedlnosti&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Výpisy z rejstříků&lt;/strong&gt; přes datovou schránku či s elektronickým pospisem (od 1. 9. 2023)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;ministerstvo-školství-mládeže-a-tělovýchovy&quot;&gt;Ministerstvo školství, mládeže a tělovýchovy&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Žádosti v oblasti výkonu ústavní výchovy nebo ochranné výchovy ve školských zařízeních&lt;/strong&gt; přes datovou schránku či s elektronickým pospisem (od 1. 9. 2023)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;ministerstvo-vnitra-1&quot;&gt;Ministerstvo vnitra&lt;/h4&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Žádosti v oblasti archivnictví a spisové služby a datových schránek&lt;/strong&gt; s elektronickým podpisem (od 1. 9. 2023)&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Žádosti v oblasti cizinecké agendy&lt;/strong&gt; datovou schránkou či s elektronickým podpisem (od 1. 9. 2023)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;ministerstvo-zdravotnictví&quot;&gt;Ministerstvo zdravotnictví&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Žádosti v některých agendách&lt;/strong&gt; s elektronickým podpisem (od 1. 9. 2023)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;ministerstvo-zemědělství-1&quot;&gt;Ministerstvo zemědělství&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Žádosti a ohlášení dle zákona o zemědělství&lt;/strong&gt; přes samoobslužný portál (od 1. 1. 2023) a datovou schránku (od 1. 9. 2023)&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Žádosti v agendě oběhu osiva a sadby&lt;/strong&gt; přes samoobslužný portál (od 31. 12. 2023)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;platné-od-roku-2024&quot;&gt;Platné od roku 2024&lt;/h2&gt;
-
-&lt;h3 id=&quot;katalog-služeb---služby-poskytované-digitálně-2&quot;&gt;Katalog služeb - služby poskytované digitálně&lt;/h3&gt;
-
-&lt;h4 id=&quot;český-telekomunikační-úřad&quot;&gt;Český telekomunikační úřad&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;služby ve více agendách&lt;/strong&gt; přes samoobslužný portál (od 1. 7. 2024)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;ministerstvo-vnitra-2&quot;&gt;Ministerstvo vnitra&lt;/h4&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Vydání API klíče ke katalogu služeb veřejné správy&lt;/strong&gt; přes datovou schránku, samoobslužný portál či s elektronickým podpisem (od 1. 1. 2024)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;ministerstvo-životního-prostředí&quot;&gt;Ministerstvo životního prostředí&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Služby v agendě nakládání s geneticky modifikovanými organismy&lt;/strong&gt; přes samoobslužný portál (od 1. 1. 2024)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;platné-od-roku-2025&quot;&gt;Platné od roku 2025&lt;/h2&gt;
-
-&lt;h3 id=&quot;zákon-č-122020-sb-o-právu-na-digitální-služby-2&quot;&gt;Zákon č. 12/2020 Sb., o právu na digitální služby&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://www.zakonyprolidi.cz/cs/2020-12/zneni-20250101#p12a&quot;&gt;Zrušení poskytování údaje o rodném čísle podle §12a&lt;/a&gt;&lt;/strong&gt; (od 1. 1. 2025)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;zákon-č-2612021-sb-kterým-se-mění-některé-zákony-v-souvislosti-s-další-elektronizací-postupů-orgánů-veřejné-moci-depo-3&quot;&gt;Zákon č. 261/2021 Sb., kterým se mění některé zákony v souvislosti s další elektronizací postupů orgánů veřejné moci (DEPO)&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.zakonyprolidi.cz/cs/2021-261#cast135&quot;&gt;Mechanismus opravy nesprávného údaje v systému&lt;/a&gt;&lt;/strong&gt; (od 1. 1. 2025)&lt;/p&gt;
-
-    &lt;p&gt;&lt;em&gt;&lt;a href=&quot;https://www.zakonyprolidi.cz/cs/2009-111/zneni-20250101#p8&quot;&gt;Zákon č. 111/2009 Sb.&lt;/a&gt;, o základních registrech&lt;/em&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.zakonyprolidi.cz/cs/2021-261#cast73&quot;&gt;Zrušení povinnosti vozit s sebou řidičský a technický průkaz&lt;/a&gt;&lt;/strong&gt; (od 1. 7. 2025)
-  Pouze v rámci Česka a pro řidiče v českých registrech.&lt;/p&gt;
-
-    &lt;p&gt;&lt;em&gt;&lt;a href=&quot;https://www.zakonyprolidi.cz/cs/2000-361/zneni-20250701#p6&quot;&gt;Zákon č. 361/2000 Sb.&lt;/a&gt;, o provozu na pozemních komunikacích&lt;/em&gt;&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;katalog-služeb---služby-poskytované-digitálně-3&quot;&gt;Katalog služeb - služby poskytované digitálně&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;Digitálně dostupné budou všechny digitalizovatelné služby.&lt;/strong&gt; (od 1. 2. 2025).&lt;/p&gt;</content><author><name>Bára Soukupová</name></author><category term="digitalizace" /><category term="digitalizace" /><category term="egovernment" /><summary type="html">Legislativa týkající se digitalizace a eGovernmentu doznala v uplynulém období revolučních změn. Byla schválena pětice digitalizačních zákonů, které zcela změnily paradigma eGovernmentu v Česku.</summary></entry></feed>
+&lt;p&gt;Během setkání jsme vyjádřili rovněž znepokojení nad právě vypsanou zakázkou na outsourcing dopravy poštovních služeb. Pokud dojde k ukončení logistické dopravní sítě pošty, nebude již cesty zpět a pošta bude muset mít pojistky, aby postavení soukromé společnosti nebylo zneužito. Je nutné proto disponovat nezávislou a objektivní analýzou při uvažování o tomto outsourcingu. Pan Knap ovšem sdělil, že záměrem ředitele není propouštět zaměstnance a je připraven tuto veřejnou soutěž případně zrušit.&lt;/p&gt;</content><author><name>Ondřej Profant</name></author><category term="pošta" /><category term="pošta" /><summary type="html">Státní podnik Česká pošta čelí závažným finančním problémům a chystá rozsáhlou reorganizaci. Chybí mu jasná strategie, moderní možnosti řízení a navíc funguje ve značné nejistotě. Tento podnik si musel vzít významný komerční úvěr na více než 5 miliard Kč, který ho stojí na úrocích a dalších nákladech 100 milionů Kč ročně. Podpory ze strany Ministerstva vnitra či financí se nedočkal a tak vypsal výběrové řízení na outsourcing některých svých služeb. Během posledního měsíce nás rovněž kontaktovala celá řada znepokojených zaměstnanců pošty. Z tohoto důvodu jsem se společně s našim analytikem Januszem Koniecznym setkal s generálním ředitelem České pošty Romanem Knapem, abychom současnou situaci pošty podrobně vyhodnotili a pokusili se najít řešení.</summary></entry></feed>
