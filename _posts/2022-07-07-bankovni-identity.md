@@ -22,8 +22,10 @@ Využití soukromoprávních identit pro přístup ke službám egovernmentu je 
 I tento významný krok vpřed má však své mouchy. Obě jsou přímo v zákoně č. [21/1992 Sb.][] o bankách:
 
 > § 38ad
-(1) Přístup do informačního systému veřejné správy nebo elektronické aplikace s využitím prostředku pro elektronickou identifikaci splňujícího požadavky podle § 38ac odst. 1 se považuje za přístup se **zaručenou** identitou podle zákona o informačních systémech veřejné správy.
-(2) **Státní orgán a orgán územního samosprávného celku** jsou oprávněny použít prostředek pro elektronickou identifikaci vydaný bankou, pobočkou zahraniční banky nebo poskytovatelem identifikačních služeb pro účely prokázání totožnosti, které vyžaduje právní předpis nebo výkon působnosti, pouze prostřednictvím kvalifikovaného systému.
+> 
+> (1) Přístup do informačního systému veřejné správy nebo elektronické aplikace s využitím prostředku pro elektronickou identifikaci splňujícího požadavky podle § 38ac odst. 1 se považuje za přístup se **zaručenou** identitou podle zákona o informačních systémech veřejné správy.
+>
+> (2) **Státní orgán a orgán územního samosprávného celku** jsou oprávněny použít prostředek pro elektronickou identifikaci vydaný bankou, pobočkou zahraniční banky nebo poskytovatelem identifikačních služeb pro účely prokázání totožnosti, které vyžaduje právní předpis nebo výkon působnosti, pouze prostřednictvím kvalifikovaného systému.
 
 Prvním problémem bankovních identit je, že se banky bojí nejvyšší úrovně. Identita má tři úrovně zabezpečení: nízkou, značnou a vysokou. V praxi služby nejčastěji využívají značnou. Vysoká je potřeba například pro přeshraniční komunikaci. Tento problém je zatím spíše teoretický, neb drtivá většina služeb si vystačí s úrovní značná. K tomuto kompromisu došlo z důvodu obavy bank ze zodpovědnosti za úkony činěné v nejvyšší úrovni. Což je teoreticky cokoliv, v praxi však třeba katastr je chráněn ještě ochrannými lhůtami, čili zneužití není záležitostí "přihlásím se a odkliknu".
 
