@@ -17,4 +17,4 @@ Za Piráty [kandiduje vyvážený mix osobností](https://praha8.pirati.cz/volby
 
 Jako odborný garant pro [Otevřenou a moderní radnici](https://praha8.pirati.cz/volby/2022-komunalni/otevrena-a-moderni-radnice.html) chci přispět ke zlepšení úrovně poskytovaných služeb a komunikace úřadu s občany. Mezi to patří i zvýšená míra transparence a participace rozhodování prostřednictvím využití moderních nástrojů a vyvození vyšší politické zodpovědnosti za jednotlivá rozhodnutí členů Rady. Samozřejmostí je pak kontrola veřejných zakázek na informační a komunikační technologie, aby Praha 8 zbytečně neutrácela za předražené systémy a nevýhodné licenční smlouvy.
 
-Pirátský přístup k politice založený na otevřenosti a poctivosti má své místo i na komunální úrovni. Nezapomeňte proto přijít k volbám. Rozhoduje se totiž i o vás.
+Pirátský přístup k politice založený na otevřenosti a poctivosti má své místo i na komunální úrovni. Nezapomeňte proto přijít k volbám. Rozhoduje se totiž i o vás. Vzhledem k volebnímu systému je také důležité kroužkovat celou kandidátní listinu, aby hlasy zbytečně nepropadávaly.
