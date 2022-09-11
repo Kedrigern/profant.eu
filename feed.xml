@@ -1,7 +1,100 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://www.profant.eu/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.profant.eu/" rel="alternate" type="text/html" /><updated>2022-09-08T17:32:39+00:00</updated><id>https://www.profant.eu/feed.xml</id><title type="html">Profant</title><subtitle>Zápisník pirátského poslance Ondřeje Profanta, který se zaměřuje na opendata, e-government, digitalizaci společnosti a kybernetickou bezpečnost.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://www.profant.eu/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.profant.eu/" rel="alternate" type="text/html" /><updated>2022-09-11T18:54:21+00:00</updated><id>https://www.profant.eu/feed.xml</id><title type="html">Profant</title><subtitle>Zápisník pirátského poslance Ondřeje Profanta, který se zaměřuje na opendata, e-government, digitalizaci společnosti a kybernetickou bezpečnost.
 Rád bych byl, aby Česká republika byla moderním státem s rozvinutou digitální ekonomikou, kde je kladen silný důraz na vzdělávání a svobodu.
 V digitalizaci se musíme inspirovat ve Velké Britanii, Dánsku a Estonsku, řešení musí být otevřená, uživatelsky přívětivá a ohleduplná k soukromí.
-</subtitle><author><name>Ondřej Profant</name></author><entry><title type="html">Podpora pirátské kandidátní listiny na Praze 8</title><link href="https://www.profant.eu/2022/kandidatura-praha8.html" rel="alternate" type="text/html" title="Podpora pirátské kandidátní listiny na Praze 8" /><published>2022-09-07T15:00:00+00:00</published><updated>2022-09-07T15:00:00+00:00</updated><id>https://www.profant.eu/2022/kandidatura-praha8</id><content type="html" xml:base="https://www.profant.eu/2022/kandidatura-praha8.html">&lt;p&gt;V nadcházejících komunálních volbách 23. a 24. září jsem se rozhodl podpořit pirátskou kandidátní listinu na Praze 8, na které kandiduji z desátého místa. Má úloha garanta pro oblast IT spočívá především v odborné podpoře našich zastupitelů a kandidátů za účelem zlepšení transparence, komunikace a vnitřního fungování zastupitelstva a úřadu městské části.&lt;/p&gt;
+</subtitle><author><name>Ondřej Profant</name></author><entry><title type="html">Digitální a informační agentura</title><link href="https://www.profant.eu/2022/dia.html" rel="alternate" type="text/html" title="Digitální a informační agentura" /><published>2022-09-11T17:00:00+00:00</published><updated>2022-09-11T17:00:00+00:00</updated><id>https://www.profant.eu/2022/dia</id><content type="html" xml:base="https://www.profant.eu/2022/dia.html">&lt;p&gt;Digitální transformace Česka konečně startuje. Nejedná se o nějaký jeden nový informační systém, přejmenování jedné pozice či něco podobného. Jedná se o opravdovou institucionální změnu na základě zkušeností od nás i ze zahraničí.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;h2 id=&quot;historie&quot;&gt;Historie&lt;/h2&gt;
+
+&lt;p&gt;Před 13 lety byly spuštěny klíčové projekty: Základní registry, Czechpoint a Datové schránky. Projekty na svou dobu velmi revoluční. Technicky spíše podprůměrné, avšak doba ještě nepřála moderním IT postupům.&lt;/p&gt;
+
+&lt;p&gt;Těsně předtím bylo zrušeno &lt;a href=&quot;https://cs.wikipedia.org/wiki/Ministerstvo_informatiky_%C4%8Cesk%C3%A9_republiky&quot;&gt;ministerstvo informatiky&lt;/a&gt; (MI). Což v té době to dávalo smysl. Ministerstvo samo o sobě nebylo navrženo dobře - bylo slabé, nedisponovalo klíčovými pravomocemi. V té době nejspíš nikdo ani nevěděl, jaké pravomoci by mělo mít.&lt;/p&gt;
+
+&lt;p&gt;Po zrušení MI, v letech 2007-2022, byla digitalizace agendou ministerstva vnitra. Tam za těch 15 nezaznamenala žádný výrazný posun (kromě dvou výjimek, o těch dále) . Celá sekce fungovala přísně úřednicky. Pohledem zvenku neměla ambice digitalizovat ČR jako celek, namísto toho oprašovala systémy, které měla ve správě. A ani to se zcela nedařilo, základní registry jsou dnes v žalostném stavu, kdy potřebují víc jak jednogenerační obměnu HW i SW. Neexistovala politická podpora a ambice. Vše jelo samospádem.&lt;/p&gt;
+
+&lt;p&gt;Dvě zmíněné pozitivní výjimky za sebou zanechali dva ředitelé odborů MVČR. Roman Vrba vytvořil a projektově vedl Portál občana. Platformu postavenou na moderních technologiích, která záplatuje jednu z velkých bolístek českého egov - roztříštěnost. Na jednom portálu, v jednom UX provedení se sbíhá velké množství služeb státu. Inu, vyzkoušejte si to sami: portal.gov.cz. Spolu s Portálem vznikl &lt;a href=&quot;https://designsystem.gov.cz/&quot;&gt;design systém&lt;/a&gt;, jednotný design, který lze nasadit pro všechny weby státní správy. Druhým ředitelem je Petr Kuchař, který budoval Odbor hlavního architekta egovernmentu. Podařilo se připravit &lt;a href=&quot;https://archi.gov.cz/&quot;&gt;rozsáhlou koncepci&lt;/a&gt; a podařilo se vnést enterprise architekturu do projektů. Všechny zbylé projekty (např. jednotná &lt;a href=&quot;https://www.identitaobcana.cz&quot;&gt;Identita občana&lt;/a&gt;) jsou dílem Evropské unie. Za všechny tyto aktivity, které vznikly odporu navzdory, patří všem zúčastněným velký dík.&lt;/p&gt;
+
+&lt;p&gt;V minulém volebním období se také silně posunula legislativa. Do té doby jsme měli legislativu, která měla tendenci popisovat zamýšlené informační systémy do vysokých detailů, včetně podrobností jejich architektury. Tedy legislativa tvořila zbytečné výrazně svazující podmínky u běžných provozních věcí (věci nešlo dělat jinak beze změny zákona). Což je naprosto omezující a v důsledku i škodlivé. Přitom v praxi je potřeba jenom to, aby zákon určil správce agend a k nim příslušících agendových informačních systémů a definoval, kdo má nárok na zpracování osobních údajů.&lt;/p&gt;
+
+&lt;p&gt;Co se změnilo? Na základě široké politické shody byl schválen zákon &lt;a href=&quot;https://www.zakonyprolidi.cz/cs/2020-12&quot;&gt;12/2020 Sb. o právu na digitální služby&lt;/a&gt;, který zcela změnil paradigma. Garantuje občanům nárok na služby státu digitálně, inventarizuje služby a vše zastřešuje. Také byla schválena zákonná pravidla pro používání cloudu ve státní správě.&lt;/p&gt;
+
+&lt;p&gt;Největší slabinou zákona o právu na digitální službu jsou specifické resortní zákony, které někdy digitalizaci vysloveně blokují (popisují proces do detailů, takže ho nelze změnit).&lt;/p&gt;
+
+&lt;h2 id=&quot;hlavní-problémy-egovernmentu&quot;&gt;Hlavní problémy egovernmentu&lt;/h2&gt;
+
+&lt;p&gt;Hlavní problémy egovernmentu v ČR jsou až notoricky známe:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Resortismus&lt;/strong&gt;: resorty spolu nespolupracují. Jeden bojuje s vendor lock-inem, druhý stejný produkt nakupuje. Jeden vytvoří moderní rozhraní, druhý ho odmítne použít.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Roztříštěnost&lt;/strong&gt;: Přirozeně se zkopírovaly gesce a dané resorty poskytují své služby, mnohdy však zcela duplicitní. Dlouho nebyla jednotná identita. Některé resorty mají dodneška problém vydat výpis z jednoduché databáze, kterou vedou. Pro občana je to matoucí a hraničí to až s nepoužitelností. Odstrašujícím příkladem je třeba &lt;a href=&quot;https://www.rzp.cz&quot;&gt;Registr živnostenských oprávnění&lt;/a&gt; a jeho UX.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Neschopnost adaptovat moderní postupy&lt;/strong&gt;: Toto je víceméně obecná vlastnost z podstaty věci konzervativní veřejné správy. V případě digitalizace to bylo ještě umocněno tím, že byla utopena v jednom z největších resortů, který ze své podstaty primárně řeší policii. V praxi hlavně žádné experimenty či změny.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Neschopnost změny&lt;/strong&gt;: Naše veřejné instituce se nemění. Přitom soukromý sektor i jiné státy neustále přizpůsobují svou organizační strukturu výzvám doby. Bankovní domy už mají běžně sdílená centra služeb, zatímco u státu si každá “pobočka“ (ministerstvo) buduje své služby sama apod.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Nedotaženost projektů&lt;/strong&gt;: Projekty jsou vlastně jen úkoly ve spisové službě. Nehledí se na ně jako na projekt, který má nějaké cíle a má přinést konkrétní benefity. Úkolem je například elektronický výpis. Ale nikdo uvnitř už se neptá, zda ho klient dostane rychle, pohodlně, jak ho případně reklamuje… Neznamená přece, že je úkol splněn, když na obskurní stránce popíšeme, že můžete na ještě obskurnější stránce na něco kliknout a výpis nám přijde Datovou schránkou.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Strach z neúspěchu&lt;/strong&gt;: Moderní firmy i státy aplikují princip “fail fast”. Tedy neboj se neuspět, ale včas to zjisti a přines užitečnou zkušenost: “tudy ne”. ČR naopak aplikuje až neuvěřitelnou opatrnost a úředníci radši nedělají nic, nebo dělají mnohokrát nepovedený leč zaběhlý postup, než aby vyzkoušeli cokoliv nového. Byť je např. daná inovace osvědčena v několika sousedních zemích.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Předražení jednotlivých projektů&lt;/strong&gt;: Projekty jsou drahé. A to zvláště v celkových nákladech. Není nic špatného zaplatit za kvalitní dlouhotrvající práci. Ale my často dostáváme podprůměrný SW za ceny, které víceméně jinde nevidíme. Tento jev ještě umocňuje, že daný SW mnohdy nesplní co slíbil (např. nedojde k plné automatizaci procesu). Další bolístkou jsou celkové náklady. Zcela elementární způsob jak ušetřit je nechat centrální systémy dělat svou práci a psát jen drobné rejstříky, což je většinou to, co jednotlivé resorty potřebují. Namísto toho mnohdy vidíme duplikaci s centrálními sdílenými systémy.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;My naopak chceme veřejnou správu, která je&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;stát pro občana, ne naopak&lt;/li&gt;
+  &lt;li&gt;důvěřující i důvěryhodná&lt;/li&gt;
+  &lt;li&gt;moderně a daty řízená&lt;/li&gt;
+  &lt;li&gt;motivující k inovacím a efektivitě&lt;/li&gt;
+  &lt;li&gt;efektivní, automatizovaná&lt;/li&gt;
+  &lt;li&gt;agilní a akceschopná&lt;/li&gt;
+  &lt;li&gt;jednoduše proklientská&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;dia&quot;&gt;DIA&lt;/h2&gt;
+
+&lt;p&gt;Problémů je, jak jsme viděli, opravdu hodně. Nejde předpokládat, že jeden člověk s drobným týmem může z měsíce na měsíc všechny odstranit. Navíc se o potřebě změny v kuloárech hovoří již dlouho.&lt;/p&gt;
+
+&lt;p&gt;Proto jsme poslední půlrok připravovali opravdovou systémovou změnu. Ta v červenci prošla meziresortním připomínkovým řízením, v srpnu vládou a v září prvním čtením v Poslanecké sněmovně. Zhmotněna je v &lt;a href=&quot;https://www.psp.cz/sqw/historie.sqw?o=9&amp;amp;t=287&quot;&gt;sněmovním tisku 287&lt;/a&gt; (&lt;a href=&quot;https://www.psp.cz/sqw/text/orig2.sqw?idd=215725&quot;&gt;samotný materiál a důvodová zpráva&lt;/a&gt;; &lt;a href=&quot;https://www.psp.cz/sqw/text/orig2.sqw?idd=215727&quot;&gt;RIA&lt;/a&gt;). Do projektu je zapojeno 80 lidí z různých resortů.&lt;/p&gt;
+
+&lt;p&gt;Hlavní změny jsou:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;vyčlěnění Správy základních registrů a 2 odborů MVČR do samostatné instituce - Digitální a informační agentury (DIA)&lt;/li&gt;
+  &lt;li&gt;DIA je ústředním orgánem státní správy&lt;/li&gt;
+  &lt;li&gt;DIA má vlastní rozpočet&lt;/li&gt;
+  &lt;li&gt;DIA má ve správě zákony týkající se digitalizace&lt;/li&gt;
+  &lt;li&gt;DIA je samostatným připomínkovým místem v meziresortním připomínkovém řízení&lt;/li&gt;
+  &lt;li&gt;OHA v rámci DIA má širší kompetence - posuzuje projekty z hlediska ekonomického, z hlediska uživatelské přívětivosti, práce s daty atd.&lt;/li&gt;
+  &lt;li&gt;DIA převezme informační systémy, které jsou sdíleny napříč veřejnou správou: základní registry, Czechpoint, Portál občana a další. Některé ne hned.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Hlavní úkoly jsou:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;DIA převezme úkoly plynoucí ze zákona o právu na digitální služby a z programového prohlášení vlády v oblasti digitalizace.&lt;/li&gt;
+  &lt;li&gt;Planujeme pomáhat přímo dalším rezortům. Například přímou pomocí s navržením informačního systému, aby to neskončilo mrzením - jak je to naneštěstí běžné.&lt;/li&gt;
+  &lt;li&gt;V neposlední řadě chceme pořádně rozvíjet centrální sdílené systémy (např. základní registry), tak, aby nebyly úzkým hrdlem českého egov.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;inspirace-núkibem&quot;&gt;Inspirace NÚKIBem&lt;/h3&gt;
+
+&lt;p&gt;Kromě inspirace Dánskem, Izralem či Velkou Británií se inspirujeme českým Národním úřadem pro kybernetickou a informační bezpečnost (NÚKIB). Ten je také ústředním orgánem, obdobné velikosti (personální a finanční), ředitele jmenuje vláda. Co pro nás ale bylo klíčové, je kultura a mentální nastavení. Vedení NÚKIB bere kybernetickou bezpečnost ČR jako svoji odpovědnost. Je jasné, že to nemá na starost nikdo jiný a jejich prostředky jsou určeny přesně na to. Princip jasné zaměřené odpovědnosti (single responsibility). To je ve velkém kontrastu proti velkému resortu, který má i objektivně důležitější jiné zájmy.&lt;/p&gt;
+
+&lt;p&gt;Zároveň vidíme jasnou linii odpovědnosti. Politickou odpovědnost nese vždy ministr jakožto člen vlády. Ten představí svoji vizi. Na té se shodne s ředitelem DIA, který na ní začne pracovat. Ministr určuje kurz, kterým ředitel DIA kormidluje svůj úřad. . Z mých zkušeností je taková shoda výrazně častější. Pokud neshodnou, ministr má právo vládě předložit jméno nového ředitele, který bude jeho vizi sdílet. Už však nemůže vyměnit řadové úředníky a zaměstnance DIA (např. ty, kteří vydávají odborná stanoviska OHA). Ředitel samozřejmě bude vybrán v otevřeném výběrovém řízení. To mi přijde jako vyvážený přístup mezi politickou odpovědností a dlouhodobou stabilitou. Jen tak se lze vyhnout neřízenému chaosu, jaký jsme v mnoha případech mohli vidět v COVIDové krizi.&lt;/p&gt;
+
+&lt;p&gt;Obecně se dá říci, že moderní společnost směřuje spíš k menším institucím s jasně definovanými cíli. Doba obřích úředních molochů je za nmi, a státní správa se musí přizpůsobit.&lt;/p&gt;
+
+&lt;h2 id=&quot;bude-to-stačit&quot;&gt;Bude to stačit?&lt;/h2&gt;
+
+&lt;p&gt;Samozřejmě tato změna sama o sobě nestačí. Jak by řekli matematici, jedná se o podmínku nutnou, nikoliv postačující. Víceméně základní kameny jsou rozloženy dobře, ale chyběla organizovaná síla, která by dotahovala projekty do použitelné podoby. Teď máme robustní legislativní základy, základní informační systémy, ale čeká nás:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;generační obměna centrálních sdílených informačních systémů&lt;/li&gt;
+  &lt;li&gt;oprava legislativních překážek v resortně specifických zákonech&lt;/li&gt;
+  &lt;li&gt;spolupráce s resorty na navrhnutí digital born řešení pro jejich procesy&lt;/li&gt;
+  &lt;li&gt;přinesení nové agilnější kultury dovnitř veřejné správy&lt;/li&gt;
+  &lt;li&gt;jednotné UX a brand služeb&lt;/li&gt;
+  &lt;li&gt;centrální callcentrum, které pomůže klientům&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Pokud chceme změny, nesmíme se změn bát.&lt;/p&gt;</content><author><name>Ondřej Profant</name></author><category term="Digitalizace" /><category term="Egovernment" /><category term="Digitalizace" /><category term="Piráti" /><summary type="html">Digitální transformace Česka konečně startuje. Nejedná se o nějaký jeden nový informační systém, přejmenování jedné pozice či něco podobného. Jedná se o opravdovou institucionální změnu na základě zkušeností od nás i ze zahraničí.</summary></entry><entry><title type="html">Podpora pirátské kandidátní listiny na Praze 8</title><link href="https://www.profant.eu/2022/kandidatura-praha8.html" rel="alternate" type="text/html" title="Podpora pirátské kandidátní listiny na Praze 8" /><published>2022-09-07T15:00:00+00:00</published><updated>2022-09-07T15:00:00+00:00</updated><id>https://www.profant.eu/2022/kandidatura-praha8</id><content type="html" xml:base="https://www.profant.eu/2022/kandidatura-praha8.html">&lt;p&gt;V nadcházejících komunálních volbách 23. a 24. září jsem se rozhodl podpořit pirátskou kandidátní listinu na Praze 8, na které kandiduji z desátého místa. Má úloha garanta pro oblast IT spočívá především v odborné podpoře našich zastupitelů a kandidátů za účelem zlepšení transparence, komunikace a vnitřního fungování zastupitelstva a úřadu městské části.&lt;/p&gt;
 
 &lt;!--more--&gt;
 
@@ -359,20 +452,4 @@ Třetí den začal veletrh CyberTech Global Tel Aviv 2022. Podobné veletrhy jso
 
 &lt;p&gt;Myslím na mé přátele na Ukrajině.&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;Převzato z &lt;a href=&quot;https://www.facebook.com/ondrej.profant/posts/10220839617766944&quot;&gt;Facebooku&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content><author><name>Ondřej Profant</name></author><category term="Zahraničí" /><category term="Ukrajina" /><category term="zahraničí" /><category term="lidská práva" /><summary type="html">Ukrajina byla napadena Ruskem a začalo krveprolití, které si teď nejspíš ani neumíme představit.</summary></entry><entry><title type="html">30 let internetu v České republice</title><link href="https://www.profant.eu/2022/30-let-internetu.html" rel="alternate" type="text/html" title="30 let internetu v České republice" /><published>2022-02-10T19:00:00+00:00</published><updated>2022-02-10T19:00:00+00:00</updated><id>https://www.profant.eu/2022/30-let-internetu</id><content type="html" xml:base="https://www.profant.eu/2022/30-let-internetu.html">&lt;p&gt;Vystoupil jsem na konferenci sdružení CESNET “30 let internetu v České republice”. Na konferenci se vzpomínalo na začátky internetu, probíral se jeho dosavadní vývoj a došlo i na zamyšlení nad další digitální budoucností. Zdravici zaslal i “otec internetu” Vint Cerf.&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;p&gt;Záznam &lt;a href=&quot;https://www.30letinternetu.cz/akce/konference-30-let-internetu-v-ceske-republice/&quot;&gt;konference&lt;/a&gt; a přepis mého projevu:&lt;/p&gt;
-
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/BeYy3gEeeyA&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;Dovolte mi smeknout a vzdát hold před vámi, kteří jste se zasadili o internet v tehdejší Československé republice.&lt;/p&gt;
-
-&lt;p&gt;Je to krok, spíše tedy skok, vpřed který jen těžko opravdu doceníme.&lt;/p&gt;
-
-&lt;p&gt;Po 30 letech jsou naše životy zcela jiné. Téměř všichni jsme neustále online a služby poskytované přes internet nám ulehčují život. Nemluvě o posledních 2 letech, které naučily širokou veřejnost pojmy jako home working a home office.&lt;/p&gt;
-
-&lt;p&gt;Internet je příkladem inovace, která nás posouvá vpřed. Otevírá zcela nová odvětví a propojuje svět. Má však i stinné stránky. Společnost nejen spojuje, ale může ji i rozdělovat. Věřím však, že se jedná o něco, s čím se pouze musíme naučit pracovat, a následně pozitivní stránka převáží.&lt;/p&gt;
-
-&lt;p&gt;Chtěl bych apelovat ještě na jednu klíčovou věc. Internet vznikl jako decentralizovaný a technologie v něm použité byly otevřené. Někdo to může nazývat chaos, já v tom vidím design. Design svobody. A přál bych si, aby takový byl i nadále.&lt;/p&gt;</content><author><name>Ondřej Profant</name></author><category term="Internet" /><category term="Internet" /><category term="Piráti" /><category term="digitalizace" /><summary type="html">Vystoupil jsem na konferenci sdružení CESNET “30 let internetu v České republice”. Na konferenci se vzpomínalo na začátky internetu, probíral se jeho dosavadní vývoj a došlo i na zamyšlení nad další digitální budoucností. Zdravici zaslal i “otec internetu” Vint Cerf.</summary></entry></feed>
+&lt;p&gt;&lt;em&gt;Převzato z &lt;a href=&quot;https://www.facebook.com/ondrej.profant/posts/10220839617766944&quot;&gt;Facebooku&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content><author><name>Ondřej Profant</name></author><category term="Zahraničí" /><category term="Ukrajina" /><category term="zahraničí" /><category term="lidská práva" /><summary type="html">Ukrajina byla napadena Ruskem a začalo krveprolití, které si teď nejspíš ani neumíme představit.</summary></entry></feed>
