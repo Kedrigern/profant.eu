@@ -1,9 +1,0 @@
-.page {
-  padding: 3rem 0;
-}
-
-.page__headline {
-  @include headerStyle('h2', super);
-
-  margin-bottom: 2rem;
-}

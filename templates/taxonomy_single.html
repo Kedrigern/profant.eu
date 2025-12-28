@@ -1,0 +1,73 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="container py-5">
+    <div class="row">
+        <div class="col-lg-8">
+
+            <div class="d-flex align-items-center mb-4 pb-2 border-bottom">
+                <h1 class="mb-0 me-3">{{ term.name }}</h1>
+                <span class="badge bg-secondary">{{ term.pages | length }} článků</span>
+            </div>
+
+            {% for page in paginator.pages %}
+            <div class="card mb-4 border-0 shadow-sm blog-post-card">
+                <div class="row g-0">
+                    <div class="col-md-4">
+                        {% if page.extra.img %}
+                        <img src="{{ get_url(path="assets/img/posts/" ~ page.extra.img) }}" class="img-fluid rounded-start h-100 object-fit-cover" alt="{{ page.title }}">
+                        {% else %}
+                        <div class="bg-light h-100 d-flex align-items-center justify-content-center text-muted p-4">
+                            <i class="fa fa-file-text-o fa-3x"></i>
+                        </div>
+                        {% endif %}
+                    </div>
+                    <div class="col-md-8">
+                        <div class="card-body">
+                            <h5 class="card-title">
+                                <a href="{{ page.permalink }}" class="text-decoration-none text-dark stretched-link">{{ page.title }}</a>
+                            </h5>
+                            <p class="card-text text-muted small">
+                                <i class="fa fa-calendar me-1"></i> {{ page.date | date(format="%d. %m. %Y") }}
+                            </p>
+                            <p class="card-text">
+                                {% if page.summary %}
+                                    {{ page.summary | striptags | safe }}
+                                {% else %}
+                                    {{ page.content | striptags | truncate(length=180) | safe }}
+                                {% endif %}
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            {% endfor %}
+
+            <nav class="my-5" aria-label="Stránkování kategorie">
+                <ul class="pagination justify-content-center">
+                    {% if paginator.previous %}
+                    <li class="page-item">
+                        <a class="page-link" href="{{ paginator.previous }}">&laquo; Předchozí</a>
+                    </li>
+                    {% endif %}
+
+                    <li class="page-item disabled">
+                        <span class="page-link text-dark">Strana {{ paginator.current_index }} z {{ paginator.number_pagers }}</span>
+                    </li>
+
+                    {% if paginator.next %}
+                    <li class="page-item">
+                        <a class="page-link" href="{{ paginator.next }}">Další &raquo;</a>
+                    </li>
+                    {% endif %}
+                </ul>
+            </nav>
+
+        </div>
+
+        <div class="col-lg-4">
+             {% include "partials/rbar.html" %}
+        </div>
+    </div>
+</div>
+{% endblock content %}

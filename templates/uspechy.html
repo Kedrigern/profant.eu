@@ -1,0 +1,66 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="container py-5">
+    <div class="row">
+        <div class="col-lg-10 mx-auto">
+            <h1 class="mb-5 text-center display-5 fw-bold">Dosažené úspěchy</h1>
+
+            {% set data = load_data(path="data/uspechy.yaml") %}
+
+            <div class="timeline">
+                {% for item in data %}
+                <div class="timeline-item position-relative mb-5 ps-md-5">
+
+                    <div class="timeline-marker position-absolute start-0 top-0 bg-white border border-4 border-primary rounded-circle d-none d-md-flex align-items-center justify-content-center shadow-sm" style="width: 3.5rem; height: 3.5rem; z-index: 1;">
+                        <i class="fa fa-{{ item.icon | default(value="check") }} text-primary fs-5"></i>
+                    </div>
+
+                    <div class="timeline-line position-absolute bg-light d-none d-md-block" style="width: 4px; left: 1.6rem; top: 3.5rem; bottom: -3rem; z-index: 0;"></div>
+
+                    <div class="card shadow-sm border-0">
+                        <div class="card-body p-4">
+                            <div class="d-flex justify-content-between align-items-center mb-3 flex-wrap gap-2">
+                                <h3 class="h5 card-title mb-0 fw-bold">{{ item.subject }}</h3>
+                                <span class="badge bg-light text-dark border">
+                                    {{ item.date | date(format="%Y") }}
+                                </span>
+                            </div>
+
+                            <div class="card-text text-secondary">
+                                {{ item.description | markdown | safe }}
+                            </div>
+
+                            {% if item.img %}
+                            <div class="mt-3">
+                                {% if item.img is starting_with("http") %}
+                                    <img src="{{ item.img }}" class="img-fluid rounded" alt="{{ item.subject }}">
+                                {% else %}
+                                    {# Pokud je cesta relativní, ujistíme se, že funguje #}
+                                    <img src="{{ get_url(path=item.img | trim_start_matches(pat="/")) }}" class="img-fluid rounded" alt="{{ item.subject }}">
+                                {% endif %}
+                            </div>
+                            {% endif %}
+
+                            {% if item.link %}
+                            <div class="mt-3">
+                                {% if item.link is string %}
+                                    <a href="{{ item.link }}" class="btn btn-sm btn-outline-primary">Více info</a>
+                                {% else %}
+                                    {# Pokud je link pole (v YAML) #}
+                                    {% for l in item.link %}
+                                        <a href="{{ l }}" class="btn btn-sm btn-outline-primary me-1">Odkaz {{ loop.index }}</a>
+                                    {% endfor %}
+                                {% endif %}
+                            </div>
+                            {% endif %}
+                        </div>
+                    </div>
+                </div>
+                {% endfor %}
+            </div>
+
+        </div>
+    </div>
+</div>
+{% endblock content %}

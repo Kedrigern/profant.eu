@@ -1,0 +1,140 @@
+<div class="card mb-4 shadow-sm border-0">
+    <div class="card-header bg-dark text-white">
+        O mně
+    </div>
+    <div class="card-body">
+        <p class="card-text small">
+            IT specialista se zkušenostmi poslance, náměstka ministr pro digitalizaci a, Pirát. Bojuji za digitalizaci, svobodu internetu a otevřená data.
+        </p>
+        <a href="{{ get_url(path="bio") }}" class="btn btn-sm btn-outline-dark w-100">Více o mně</a>
+    </div>
+</div>
+
+<div class="card mb-4 shadow-sm border-0">
+    <div class="card-body">
+        <h5 class="card-title h6 mb-3">Kde mě najdete</h5>
+        <div class="d-grid gap-2">
+            <a href="{{ config.extra.mastodon_url }}" class="btn btn-outline-primary btn-sm text-start">
+                <i class="fa-brands fa-mastodon me-2"></i> Mastodon
+            </a>
+            <a href="{{ config.extra.bluesky_url }}" class="btn btn-outline-info btn-sm text-start">
+                <i class="fa-brands fa-bluesky me-2"></i> Bluesky
+            </a>
+        </div>
+    </div>
+</div>
+
+<div class="card mb-4 shadow-sm border-0">
+    <div class="card-header bg-white fw-bold d-flex justify-content-between align-items-center">
+        <span>Aktuálně</span>
+        <i class="fa-brands fa-mastodon text-primary"></i>
+    </div>
+    <div class="list-group list-group-flush" id="mastodon-feed">
+        <div class="p-3 text-center text-muted small">
+            <i class="fa-solid fa-spinner fa-spin"></i> Načítám...
+        </div>
+    </div>
+    <div class="card-footer bg-white border-top-0">
+        <a href="{{ config.extra.mastodon_url }}" class="btn btn-sm btn-light w-100 text-muted">Zobrazit více</a>
+    </div>
+</div>
+
+<div class="card mb-4 shadow-sm border-0">
+    <div class="card-header bg-white fw-bold">
+        Vybrané články
+    </div>
+    <div class="list-group list-group-flush">
+        <a href="{{ get_url(path="2022-07-07-bankovni-identity") }}" class="list-group-item list-group-item-action small border-0">
+            <i class="fa-solid fa-chevron-right me-2 text-primary small"></i>
+            Bankovní identita není všespásná
+        </a>
+        <a href="{{ get_url(path="2019-11-26-zpds") }}" class="list-group-item list-group-item-action small border-0">
+            <i class="fa-solid fa-chevron-right me-2 text-primary small"></i>
+            Zákon o právu na digitální služby
+        </a>
+    </div>
+</div>
+
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+    const INSTANCE = "https://mastodon.pirati.cz";
+    const USERNAME = "keddie";
+    const LIMIT = 5; // Zvýšil jsem limit, ať je větší šance, že se načte něco s textem
+
+    const feedContainer = document.getElementById('mastodon-feed');
+
+    // 1. Získat ID účtu
+    fetch(`${INSTANCE}/api/v1/accounts/lookup?acct=${USERNAME}`)
+        .then(response => {
+            if (!response.ok) throw new Error("Účet nenalezen");
+            return response.json();
+        })
+        .then(account => {
+            // 2. Stáhnout statusy
+            return fetch(`${INSTANCE}/api/v1/accounts/${account.id}/statuses?limit=${LIMIT}&exclude_replies=true`);
+        })
+        .then(response => response.json())
+        .then(data => {
+            if (!Array.isArray(data)) throw new Error("API nevrátilo seznam");
+
+            feedContainer.innerHTML = "";
+
+            // Zobrazíme max 3 příspěvky (i když jsme stáhli 5, pro jistotu)
+            data.slice(0, 3).forEach(toot => {
+
+                // --- KLÍČOVÁ OPRAVA ZDE ---
+                // Pokud je to Reblog (sdílení), použijeme vnořený objekt 'reblog'
+                const isReblog = !!toot.reblog;
+                const post = isReblog ? toot.reblog : toot;
+
+                // Formátování data
+                const date = new Date(toot.created_at).toLocaleDateString('cs-CZ');
+
+                // Vytvoření elementu
+                const link = document.createElement('a');
+                link.className = "list-group-item list-group-item-action border-0 p-3";
+                link.href = toot.url; // Odkaz vede na váš "akční" post (tedy i na reblog)
+                link.target = "_blank";
+                link.rel = "noopener";
+
+                // Ikonka pro reblog
+                const reblogBadge = isReblog
+                    ? '<span class="text-success small mb-1 d-block"><i class="fa-solid fa-retweet me-1"></i> Sdíleno</span>'
+                    : '';
+
+                // Obsah
+                let content = post.content;
+
+                // Pokud je obsah prázdný (jen obrázek), dáme zástupný text
+                if (!content && post.media_attachments && post.media_attachments.length > 0) {
+                    content = "<p><em>[Obrázek/Média]</em></p>";
+                }
+
+                link.innerHTML = `
+                    <div class="d-flex justify-content-between align-items-baseline mb-1">
+                        ${reblogBadge}
+                        <small class="text-muted ms-auto"><i class="fa-regular fa-clock me-1"></i>${date}</small>
+                    </div>
+                    <div class="mastodon-content text-dark" style="font-size: 0.9rem;">
+                        ${content}
+                    </div>
+                `;
+                feedContainer.appendChild(link);
+            });
+        })
+        .catch(error => {
+            console.error(error);
+            feedContainer.innerHTML = '<div class="p-3 text-center text-muted small">Nelze načíst feed.</div>';
+        });
+});
+</script>
+
+<style>
+/* Stylování obsahu z Mastodonu */
+.mastodon-content p { margin-bottom: 0.5rem; }
+.mastodon-content p:last-child { margin-bottom: 0; }
+.mastodon-content a { color: #0d6efd; text-decoration: none; } /* Odkazy uvnitř textu */
+.mastodon-content a:hover { text-decoration: underline; }
+.mastodon-content .invisible { display: none; }
+.mastodon-content .ellipsis { display: none; }
+</style>

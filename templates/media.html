@@ -1,0 +1,108 @@
+{% extends "base.html" %} {% block content %}
+<div class="container py-5">
+    <div class="row">
+        <div class="col-lg-10 mx-auto">
+            <h1 class="mb-4 display-5 fw-bold text-center">Mediální výstupy</h1>
+
+            <p class="lead text-center mb-5">
+                Přehled mediálních výstupů týkajících se práce Ondřeje Profanta.
+            </p>
+
+            {% set media = load_data(path="data/media.csv", format="csv") %}
+
+            <div class="card shadow-sm border-0 mb-5">
+                <div class="card-body p-0">
+                    <div class="table-responsive">
+                        <table
+                            class="table table-hover table-striped mb-0 align-middle"
+                        >
+                            <thead class="table-dark">
+                                <tr>
+                                    <th style="width: 15%">Datum</th>
+                                    <th style="width: 60%">Název</th>
+                                    <th style="width: 25%">Témata</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                {# Projdeme záznamy #} {% for row in
+                                media.records | reverse %} {# Kontrola, zda
+                                řádek není prázdný (má alespoň 1 sloupec) #} {%
+                                if row | length > 0 %}
+                                <tr>
+                                    <td class="text-nowrap text-muted small">
+                                        {# Sloupec 0: date #} {{ row[0] |
+                                        date(format="%d. %m. %Y") }}
+                                    </td>
+                                    <td>
+                                        {# Sloupec 4: url, Sloupec 1: title #}
+                                        <a
+                                            href="{{ row[4] }}"
+                                            class="fw-bold text-decoration-none text-dark d-block"
+                                        >
+                                            {{ row[1] }}
+                                            <i
+                                                class="fa fa-external-link ms-1 small text-muted opacity-50"
+                                            ></i>
+                                        </a>
+                                    </td>
+                                    <td>
+                                        {# Sloupec 3: tags #} {% if row[3] %} {%
+                                        for tag in row[3] | split(pat=",") %}
+                                        <span
+                                            class="badge bg-light text-secondary border fw-normal"
+                                            >{{ tag }}</span
+                                        >
+                                        {% endfor %} {% endif %}
+                                    </td>
+                                </tr>
+                                {% endif %} {% endfor %}
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+
+            <div class="card bg-light border-0 p-4">
+                <h3 class="h5 mb-3">Další články v jednotlivých médiích:</h3>
+                <div class="d-flex flex-wrap gap-2">
+                    <a
+                        href="https://www.irozhlas.cz/zpravy-tag/ondrej-profant"
+                        class="btn btn-outline-secondary btn-sm"
+                        >iRozhlas</a
+                    >
+                    <a
+                        href="https://ihned.cz/?search%5Bwhat%5D=profant&p=000000_search#result"
+                        class="btn btn-outline-secondary btn-sm"
+                        >iHned</a
+                    >
+                    <a
+                        href="https://wiki.idnes.cz/ondrej-profant-014-/politici.aspx?klic=456752"
+                        class="btn btn-outline-secondary btn-sm"
+                        >iDnes</a
+                    >
+                    <a
+                        href="https://zpravy.aktualne.cz/hledani/?query=profant"
+                        class="btn btn-outline-secondary btn-sm"
+                        >Aktualne.cz</a
+                    >
+                    <a
+                        href="http://neovlivni.cz/tag/ondrej-profant/"
+                        class="btn btn-outline-secondary btn-sm"
+                        >Neovlivní</a
+                    >
+                    <a
+                        href="https://www.google.com/search?q=ond%C5%99ej+profant+inurl%3Adenik.cz"
+                        class="btn btn-outline-secondary btn-sm"
+                        >Deník.cz</a
+                    >
+                    <a
+                        href="https://www.google.com/search?q=ond%C5%99ej+profant+inurl%3Alupa"
+                        class="btn btn-outline-secondary btn-sm"
+                        >Lupa.cz</a
+                    >
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock content %}

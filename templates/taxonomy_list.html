@@ -1,0 +1,26 @@
+{% extends "base.html" %} {% block content %}
+<div class="container py-5">
+    <div class="row">
+        <div class="col-lg-8 mx-auto text-center">
+            <h1 class="mb-5 text-capitalize">{{ taxonomy.name }}</h1>
+
+            <div class="d-flex flex-wrap justify-content-center gap-2">
+                {% for term in terms %}
+                <a
+                    href="{{ term.permalink }}"
+                    class="btn btn-outline-dark position-relative"
+                >
+                    {{ term.name }}
+                    <span
+                        class="position-absolute top-0 start-100 translate-middle badge rounded-pill bg-danger"
+                    >
+                        {{ term.pages | length }}
+                        <span class="visually-hidden">článků</span>
+                    </span>
+                </a>
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock content %}

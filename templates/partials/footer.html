@@ -1,0 +1,25 @@
+<footer class="bg-dark text-light py-5 mt-auto">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-4 mb-3">
+                <h5 class="text-uppercase mb-3">{{ config.extra.author }}</h5>
+                <ul class="list-unstyled">
+                    <li><i class="fa fa-chevron-right me-2 small"></i><a href="https://www.pirati.cz">Pirátská strana</a></li>
+                    <li><i class="fa fa-chevron-right me-2 small"></i><a href="mailto:{{ config.extra.email }}">Kontakt</a></li>
+                </ul>
+            </div>
+            <div class="col-md-4 mb-3">
+                </div>
+            <div class="col-md-4 mb-3">
+                <h5 class="text-uppercase mb-3">Dále</h5>
+                <ul class="list-unstyled">
+                    <li><i class="fa fa-chevron-right me-2 small"></i><a href="{{ get_url(path="medialni-vystupy") }}">Mediální výstupy</a></li>
+                </ul>
+            </div>
+        </div>
+        <div class="border-top border-secondary pt-3 mt-3 text-center small text-muted">
+            &copy; {{ now() | date(format="%Y") }} {{ config.extra.author }} &bull;
+            <a href="http://creativecommons.org/licenses/by/3.0/cz/" target="_blank">CC BY 3.0 CZ</a>
+        </div>
+    </div>
+</footer>

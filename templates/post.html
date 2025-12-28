@@ -1,0 +1,64 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="container py-5">
+    <div class="row">
+
+        <div class="col-lg-8">
+            <article class="blog-post">
+
+                <header class="mb-4">
+                    <h1 class="fw-bolder mb-1">{{ page.title }}</h1>
+                    <div class="text-muted fst-italic mb-2">
+                        <i class="fa fa-calendar me-1"></i> {{ page.date | date(format="%d. %m. %Y") }}
+                        {% if page.extra.author %}
+                            &bull; <i class="fa fa-user me-1"></i> {{ page.extra.author }}
+                        {% endif %}
+                    </div>
+
+                    {% if page.taxonomies.categories %}
+                        <div class="mb-2">
+                        {% for cat in page.taxonomies.categories %}
+                            <a href="{{ get_taxonomy_url(kind="categories", name=cat) }}" class="badge bg-secondary text-decoration-none link-light">{{ cat }}</a>
+                        {% endfor %}
+                        </div>
+                    {% endif %}
+                </header>
+
+                {% if page.extra.img %}
+                <figure class="mb-4">
+                    <img class="img-fluid rounded shadow-sm w-100" src="{{ get_url(path="assets/img/posts/" ~ page.extra.img) }}" alt="{{ page.title }}">
+                </figure>
+                {% endif %}
+
+                <section class="mb-5 content-body">
+                    {{ page.content | safe }}
+                </section>
+
+                <nav class="d-flex justify-content-between border-top pt-3">
+                    <div>
+                        {% if page.lower %}
+                        <a href="{{ page.lower.permalink }}" class="btn btn-outline-dark btn-sm">
+                            &laquo; Předchozí článek
+                        </a>
+                        {% endif %}
+                    </div>
+                    <div>
+                        {% if page.higher %}
+                        <a href="{{ page.higher.permalink }}" class="btn btn-outline-dark btn-sm">
+                            Další článek &raquo;
+                        </a>
+                        {% endif %}
+                    </div>
+                </nav>
+
+            </article>
+        </div>
+
+        <div class="col-lg-4 mt-5 mt-lg-0">
+             {% include "partials/rbar.html" %}
+        </div>
+
+    </div>
+</div>
+{% endblock content %}
