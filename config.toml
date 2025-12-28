@@ -1,0 +1,25 @@
+base_url = "https://www.profant.eu"
+title = "Profant"
+description = "Zápisník pirátského poslance Ondřeje Profanta..."
+default_language = "cs"
+generate_feeds = true
+feed_limit = 30
+compile_sass = true
+taxonomies = [
+    {name = "categories", feed = true, paginate_by = 10},
+    {name = "tags", feed = true, paginate_by = 10},
+]
+
+[extra]
+author = "Ondřej Profant"
+email = "ondrej.profant@pirati.cz"
+twitter_username = "ondrej_profant"
+github_username = "kedrigern"
+facebook_username = "ondrej.profant"
+mastodon_url = "https://mastodon.pirati.cz/@keddie"
+bluesky_url = "https://bsky.app/profile/ondrej-profant.bsky.social"
+keywords = "Ondřej Profant, opendata, opensource, piráti"
+img = "/assets/img/ondrej-profant.jpg"
+
+[markdown]
+highlight_code = true

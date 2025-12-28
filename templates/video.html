@@ -1,0 +1,60 @@
+{% extends "base.html" %}
+
+<article class="page post" itemtype="https://schema.org/Article" itemscope>
+    <div class="row">
+        <div class="col-12 col">
+            <div
+                itemprop="author"
+                itemtype="http://schema.org/Person"
+                itemscope
+            >
+                <span itemprop="name" class="post__author"
+                    >{{ page.author }}</span
+                >
+            </div>
+            <h1 itemprop="headline" class="page__headline">{{ page.title }}</h1>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-12 col-md-8 col">
+            {% if page.video %}
+            <div class="responsive-embed widescreen">
+                <iframe
+                    width="560"
+                    height="315"
+                    src="{{ page.video }}"
+                    frameborder="0"
+                    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+                    allowfullscreen
+                ></iframe>
+            </div>
+            {% endif %}
+
+            <p class="post__excerpt content-block">
+                <meta
+                    itemprop="datePublished"
+                    content="{{ page.date | date(format="%+") }}"
+                />
+                <i>{{ page.date | date(format="%d. %m. %Y") }}</i> &mdash;
+                <span itemprop="description"
+                    >{{ page.excerpt | strip_html }}</span
+                >
+            </p>
+
+            <div id="content" class="post__content content-block">
+                {{ page.content | replace(from=page.summary, to="") | safe }}
+            </div>
+
+            {% if page.comments %}
+            <div class="post__comments">
+                {% include "partials/disqus.html" %}
+            </div>
+            {% endif %}
+        </div>
+
+        <div class="col-md-4 col show-for-medium">
+            {% include "partials/rbar.html" %}
+        </div>
+    </div>
+</article>

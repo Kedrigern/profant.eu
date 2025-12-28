@@ -1,0 +1,14 @@
+<aside
+    class="article-note float-md-end ms-md-4 mb-3 p-3 bg-light border rounded shadow-sm col-md-5 col-12"
+>
+    <div
+        class="fw-bold border-bottom pb-2 mb-2 text-muted small text-uppercase"
+    >
+        <i class="fa fa-info-circle me-1"></i> Info
+    </div>
+
+    <div class="note-content small">
+        {# body je proměnná obsahující text uvnitř shortcodu #} {{ body |
+        markdown | safe }}
+    </div>
+</aside>

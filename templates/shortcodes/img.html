@@ -1,0 +1,28 @@
+{# 1. Bezpečné načtení proměnných (pokud nejsou zadány, použije se default) #}
+{% set alignment = align | default(value="center") %} {% set text_alt = alt |
+default(value="") %} {% set text_title = title | default(value="") %} {# 2.
+Definice základních tříd #} {% set img_class = "img-fluid rounded shadow-sm
+mb-3" %} {% set figure_class = "d-block mb-3" %} {# 3. Logika zarovnání
+(používáme proměnnou 'alignment') #} {% if alignment == "right" %} {# Zarovnání
+doprava + obtékání na desktopu #} {% set figure_class = figure_class ~ "
+float-md-end ms-md-4 col-md-5" %} {% elif alignment == "left" %} {# Zarovnání
+doleva + obtékání na desktopu #} {% set figure_class = figure_class ~ "
+float-md-start me-md-4 col-md-5" %} {% else %} {# Výchozí stav: na střed, bez
+obtékání #} {% set figure_class = figure_class ~ " mx-auto" %} {% endif %} {# 4.
+Vykreslení HTML #}
+<figure class="{{ figure_class }}">
+    {# Zpracování cesty k obrázku #} {% if src is starting_with("http") %} {%
+    set final_src = src %} {% else %} {% set clean_src = src |
+    trim_start_matches(pat="/") %} {% set final_src = get_url(path=clean_src) %}
+    {% endif %}
+
+    <img
+        src="{{ final_src }}"
+        alt="{{ text_alt }}"
+        class="{{ img_class }} w-100"
+    />
+
+    {% if text_title %}
+    <figcaption class="figure-caption text-center">{{ text_title }}</figcaption>
+    {% endif %}
+</figure>

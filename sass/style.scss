@@ -1,0 +1,73 @@
+/* sass/style.scss */
+
+// 1. Hero sekce a Tagcloud
+.hero-section {
+    background:
+        linear-gradient(rgba(255, 255, 255, 0.9), rgba(255, 255, 255, 0.9)),
+        url("/assets/img/design/cover.jpg");
+    background-size: cover;
+    background-position: center;
+    padding: 3rem 0;
+    margin-bottom: 2rem;
+    border-bottom: 1px solid #dee2e6;
+}
+
+.tag-cloud {
+    text-align: center;
+    line-height: 1.8;
+
+    a {
+        text-decoration: none;
+        color: #6c757d; // Secondary color
+        transition:
+            color 0.2s,
+            font-size 0.2s;
+
+        &:hover {
+            color: #000;
+            text-decoration: underline;
+        }
+    }
+}
+
+.navbar-nav .nav-link {
+    font-weight: 600; /* Polotučné */
+    font-size: 1.1rem; /* Mírně zvětšíme pro lepší čitelnost */
+}
+
+// 2. Blog Post (Seznam)
+.blog-post-card {
+    transition: transform 0.2s;
+
+    &:hover {
+        transform: translateY(-2px);
+        box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15) !important;
+    }
+
+    .img-fluid {
+        object-fit: cover;
+        height: 100%;
+        min-height: 200px;
+    }
+}
+
+// 3. Timeline (Úspěchy) - Jednoduchý vertikální design
+.timeline {
+    position: relative;
+    padding: 1rem 0;
+}
+
+// 4. Footer
+footer {
+    font-size: 0.9rem;
+
+    a {
+        color: #adb5bd; // Gray-500
+        text-decoration: none;
+
+        &:hover {
+            color: #fff;
+            text-decoration: underline;
+        }
+    }
+}

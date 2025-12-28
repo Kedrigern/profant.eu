@@ -1,0 +1,35 @@
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark shadow-sm">
+    <div class="container">
+        <a class="navbar-brand d-flex align-items-center" href="{{ get_url(path="@/_index.md") }}">
+            <img src="{{ get_url(path="assets/img/brand/logo_napis_white.svg") }}" alt="Piráti" height="30" class="me-2">
+            <span class="fw-light border-start border-secondary ps-2">{{ config.extra.author }}</span>
+        </a>
+
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarContent">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="navbarContent">
+            <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
+                <li class="nav-item"><a class="nav-link" href="{{ get_url(path="bio") }}">Bio</a></li>
+                <li class="nav-item"><a class="nav-link" href="{{ get_url(path="transparentnost") }}">Otevřenost</a></li>
+                <li class="nav-item"><a class="nav-link" href="{{ get_url(path="uspechy") }}">Úspěchy</a></li>
+            </ul>
+
+            <div class="d-flex ms-lg-3 align-items-center">
+                <a class="text-white mx-2" href="{{ config.extra.mastodon_url }}" title="Mastodon" rel="me">
+                    <i class="fa-brands fa-mastodon fa-lg"></i>
+                </a>
+                <a class="text-white mx-2" href="{{ config.extra.bluesky_url }}" title="Bluesky" rel="me">
+                    <i class="fa-brands fa-bluesky fa-lg"></i>
+                </a>
+                <a class="text-white mx-2" href="https://facebook.com/{{ config.extra.facebook_username }}" title="Facebook">
+                    <i class="fa-brands fa-facebook fa-lg"></i>
+                </a>
+                <a class="text-white mx-2" href="{{ get_url(path="atom.xml") }}" title="RSS Feed">
+                    <i class="fa-solid fa-rss fa-lg"></i>
+                </a>
+            </div>
+        </div>
+    </div>
+</nav>
