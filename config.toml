@@ -20,6 +20,8 @@ mastodon_url = "https://mastodon.pirati.cz/@keddie"
 bluesky_url = "https://bsky.app/profile/ondrej-profant.bsky.social"
 keywords = "Ondřej Profant, opendata, opensource, piráti"
 img = "/assets/img/ondrej-profant.jpg"
+matomo_url = "https://matomo.pirati.cz/"
+matomo_site_id = "7"
 
 [markdown]
 highlight_code = true
