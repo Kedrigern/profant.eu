@@ -25,3 +25,4 @@ matomo_site_id = "7"
 
 [markdown]
 highlight_code = true
+insert_anchor_links = "right"

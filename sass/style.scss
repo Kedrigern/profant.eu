@@ -71,3 +71,29 @@ footer {
         }
     }
 }
+/* sass/style.scss */
+
+.zola-anchor {
+    font-size: 0.6em !important; /* Zmenšení: 60 % velikosti textu nadpisu */
+    opacity: 0.2; /* Zprůhlednění: Je vidět jen velmi slabě (jako duch) */
+    text-decoration: none !important; /* Žádné podtržení */
+    margin-left: 0.5rem; /* Malý odstup od textu */
+    transition: opacity 0.2s ease-in-out;
+    border: none !important;
+
+    /* Když se na odkaz najede myší, zobrazí se naplno */
+    &:hover {
+        opacity: 1;
+        cursor: pointer;
+    }
+}
+
+/* Volitelné: Pokud chcete, aby se sponka zvýraznila už když najedete na nadpis */
+h1:hover .zola-anchor,
+h2:hover .zola-anchor,
+h3:hover .zola-anchor,
+h4:hover .zola-anchor,
+h5:hover .zola-anchor,
+h6:hover .zola-anchor {
+    opacity: 0.6; /* Při najetí na nadpis se trochu rozsvítí */
+}
