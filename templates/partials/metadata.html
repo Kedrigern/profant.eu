@@ -1,0 +1,68 @@
+{# templates/partials/metadata.html #} {# --- 1. PŘÍPRAVA DAT (Title,
+Description, Image) --- #} {# TITULEK #} {% set og_title = config.title %} {% if
+page and page.title %} {% set og_title = page.title %} {% elif section and
+section.title %} {% set og_title = section.title %} {% endif %} {# POPIS
+(Robustní logika) #} {% set og_desc = config.description %} {% if page %} {#
+JSME NA ČLÁNKU #} {% if page.description %} {% set og_desc = page.description %}
+{% elif page.summary %} {% set og_desc = page.summary | striptags | trim |
+truncate(length=300) %} {% endif %} {% elif section %} {# JSME NA HOMEPAGE NEBO
+V SEKCI #} {% if section.description %} {% set og_desc = section.description %}
+{% endif %} {% endif %} {# OBRÁZEK #} {% set og_image = config.extra.img %} {%
+if page and page.extra.img %} {% if page.extra.img is starting_with("/") or
+page.extra.img is starting_with("http") %} {% set og_image = page.extra.img %}
+{% else %} {% set og_image = "/assets/img/" ~ page.extra.img %} {% endif %} {%
+endif %} {# Absolutní URL pro obrázek #} {% set og_image_url =
+get_url(path=og_image) %} {# --- 2. VÝPIS META TAGŮ --- #} {# Základní OG #}
+<meta property="og:title" content="{{ og_title }}" />
+<meta property="og:description" content="{{ og_desc }}" />
+<meta
+    property="og:type"
+    content="{% if page and page.date %}article{% else %}website{% endif %}"
+/>
+<meta
+    property="og:url"
+    content="{{ current_url | default(value=config.base_url) }}"
+/>
+<meta property="og:image" content="{{ og_image_url }}" />
+<meta property="og:site_name" content="{{ config.title }}" />
+
+{# Twitter Card #}
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="{{ og_title }}" />
+<meta name="twitter:description" content="{{ og_desc }}" />
+<meta name="twitter:image" content="{{ og_image_url }}" />
+{% if config.extra.twitter_username %}
+<meta name="twitter:creator" content="@{{ config.extra.twitter_username }}" />
+{% endif %} {# Autorství (Multi-platformní) #}
+<meta name="author" content="{{ config.extra.author }}" />
+
+{% if page and page.date %}
+<meta
+    property="article:published_time"
+    content="{{ page.date | date(format='%Y-%m-%d') }}"
+/>
+
+{# Array autorů pro různé sítě #}
+<meta property="article:author" content="{{ config.extra.author }}" />
+
+{% if config.extra.facebook_username %}
+<meta
+    property="article:author"
+    content="https://www.facebook.com/{{ config.extra.facebook_username }}"
+/>
+{% endif %} {% if config.extra.linkedin_username %}
+<meta
+    property="article:author"
+    content="https://www.linkedin.com/in/{{ config.extra.linkedin_username }}"
+/>
+{% endif %} {% if page.taxonomies and page.taxonomies.categories %}
+<meta
+    property="article:section"
+    content="{{ page.taxonomies.categories[0] }}"
+/>
+{% endif %} {% endif %} {# Fediverse (Mastodon) #} {% if
+config.extra.fediverse_creator %}
+<meta name="fediverse:creator" content="{{ config.extra.fediverse_creator }}" />
+{% endif %} {% if config.extra.mastodon_url %}
+<link rel="me" href="{{ config.extra.mastodon_url }}" />
+{% endif %}

@@ -5,65 +5,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>{% block title %}{{ config.title }}{% endblock title %}</title>
     <meta name="description" content="{{ config.description }}">
+    {% include "partials/metadata.html" %}
 
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css">
     <link rel="stylesheet" href="{{ get_url(path="style.css") }}">
-
-    {# --- SOCIAL META TAGS (Open Graph + Twitter Card) --- #}
-
-    {# 1. Definice proměnných (Title, Description, Image) #}
-    {% set og_title = config.title %}
-    {% if page.title %}
-        {% set og_title = page.title %}
-    {% endif %}
-
-    {% set og_desc = config.description %}
-    {% if page.description %}
-        {% set og_desc = page.description %}
-    {% elif page.summary %}
-        {# Pokud není description, vezmeme perex a odstraníme HTML značky #}
-        {% set og_desc = page.summary | striptags | truncate(length=200) %}
-    {% endif %}
-
-    {# Logika pro obrázek: #}
-    {# a) Defaultní z configu #}
-    {% set og_image = config.extra.img %}
-    {# b) Pokud má článek vlastní obrázek #}
-    {% if page.extra.img %}
-        {# Pokud je v 'img' jen název souboru (bez cesty), přidáme cestu k assets #}
-        {% if page.extra.img is starting_with("/") or page.extra.img is starting_with("http") %}
-                {% set og_image = page.extra.img %}
-        {% else %}
-                {# Předpokládáme, že obrázky článků jsou v assets/img/ #}
-                {% set og_image = "/assets/img/" ~ page.extra.img %}
-        {% endif %}
-    {% endif %}
-
-    {# Vytvoření absolutní URL pro obrázek (nutné pro sociální sítě) #}
-    {% set og_image_url = get_url(path=og_image) %}
-
-
-    {# 2. Samotné Meta Tagy #}
-    <meta property="og:title" content="{{ og_title }}">
-    <meta property="og:description" content="{{ og_desc }}">
-    <meta property="og:type" content="{% if page.date %}article{% else %}website{% endif %}">
-    <meta property="og:url" content="{{ current_url | default(value=config.base_url) }}">
-    <meta property="og:image" content="{{ og_image_url }}">
-    <meta property="og:site_name" content="{{ config.title }}">
-
-    {# Twitter Card (používá i Bluesky, Slack, Discord) #}
-    <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="{{ og_title }}">
-    <meta name="twitter:description" content="{{ og_desc }}">
-    <meta name="twitter:image" content="{{ og_image_url }}">
-
-    {# Autorství (volitelné) #}
-    {% if config.extra.twitter_username %}
-    <meta name="twitter:creator" content="@{{ config.extra.twitter_username }}">
-    {% endif %}
-
-    {# --- END SOCIAL META TAGS --- #}
 </head>
 <body class="d-flex flex-column min-vh-100">
 

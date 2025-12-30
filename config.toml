@@ -13,9 +13,11 @@ taxonomies = [
 [extra]
 author = "Ondřej Profant"
 email = "ondrej.profant@pirati.cz"
+fediverse_creator = "@keddie@mastodon.pirati.cz"
 twitter_username = "ondrej_profant"
 github_username = "kedrigern"
 facebook_username = "ondrej.profant"
+linkedin_username = "ondrej-profant"
 mastodon_url = "https://mastodon.pirati.cz/@keddie"
 bluesky_url = "https://bsky.app/profile/ondrej-profant.bsky.social"
 keywords = "Ondřej Profant, opendata, opensource, piráti"
