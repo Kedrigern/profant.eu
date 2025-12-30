@@ -14,10 +14,10 @@
     <div class="card-body">
         <h5 class="card-title h6 mb-3">Kde mě najdete</h5>
         <div class="d-grid gap-2">
-            <a href="{{ config.extra.mastodon_url }}" class="btn btn-outline-primary btn-sm text-start">
+            <a href="{{ config.extra.mastodon_url }}" class="btn btn-outline-primary btn-sm text-start" rel="me">
                 <i class="fa-brands fa-mastodon me-2"></i> Mastodon
             </a>
-            <a href="{{ config.extra.bluesky_url }}" class="btn btn-outline-info btn-sm text-start">
+            <a href="{{ config.extra.bluesky_url }}" class="btn btn-outline-info btn-sm text-start" rel="me">
                 <i class="fa-brands fa-bluesky me-2"></i> Bluesky
             </a>
         </div>
@@ -29,11 +29,13 @@
         <span>Aktuálně</span>
         <i class="fa-brands fa-mastodon text-primary"></i>
     </div>
+
     <div class="list-group list-group-flush" id="mastodon-feed">
         <div class="p-3 text-center text-muted small">
             <i class="fa-solid fa-spinner fa-spin"></i> Načítám...
         </div>
     </div>
+
     <div class="card-footer bg-white border-top-0">
         <a href="{{ config.extra.mastodon_url }}" class="btn btn-sm btn-light w-100 text-muted">Zobrazit více</a>
     </div>
@@ -54,23 +56,21 @@
         </a>
     </div>
 </div>
-
 <script>
 document.addEventListener("DOMContentLoaded", function() {
     const INSTANCE = "https://mastodon.pirati.cz";
     const USERNAME = "keddie";
-    const LIMIT = 5; // Zvýšil jsem limit, ať je větší šance, že se načte něco s textem
+    const LIMIT = 5;
 
     const feedContainer = document.getElementById('mastodon-feed');
 
-    // 1. Získat ID účtu
     fetch(`${INSTANCE}/api/v1/accounts/lookup?acct=${USERNAME}`)
         .then(response => {
             if (!response.ok) throw new Error("Účet nenalezen");
             return response.json();
         })
         .then(account => {
-            // 2. Stáhnout statusy
+            // Stahujeme statusy
             return fetch(`${INSTANCE}/api/v1/accounts/${account.id}/statuses?limit=${LIMIT}&exclude_replies=true`);
         })
         .then(response => response.json())
@@ -79,47 +79,62 @@ document.addEventListener("DOMContentLoaded", function() {
 
             feedContainer.innerHTML = "";
 
-            // Zobrazíme max 3 příspěvky (i když jsme stáhli 5, pro jistotu)
+            // Zobrazíme max 3 příspěvky
             data.slice(0, 3).forEach(toot => {
-
-                // --- KLÍČOVÁ OPRAVA ZDE ---
-                // Pokud je to Reblog (sdílení), použijeme vnořený objekt 'reblog'
                 const isReblog = !!toot.reblog;
                 const post = isReblog ? toot.reblog : toot;
 
                 // Formátování data
-                const date = new Date(toot.created_at).toLocaleDateString('cs-CZ');
+                const date = new Date(toot.created_at).toLocaleDateString('cs-CZ', {
+                    day: 'numeric', month: 'numeric', year: 'numeric'
+                });
 
-                // Vytvoření elementu
-                const link = document.createElement('a');
-                link.className = "list-group-item list-group-item-action border-0 p-3";
-                link.href = toot.url; // Odkaz vede na váš "akční" post (tedy i na reblog)
-                link.target = "_blank";
-                link.rel = "noopener";
+                // --- 1. NÁHLEDOVÁ KARTA (Link Preview) ---
+                let cardHtml = "";
+                if (post.card && post.card.url) {
+                    // Pokud má post náhled odkazu (Card)
+                    const cardImg = post.card.image
+                        ? `<div class="card-img-top" style="background-image: url('${post.card.image}'); height: 120px; background-size: cover; background-position: center;"></div>`
+                        : '';
 
-                // Ikonka pro reblog
-                const reblogBadge = isReblog
-                    ? '<span class="text-success small mb-1 d-block"><i class="fa-solid fa-retweet me-1"></i> Sdíleno</span>'
-                    : '';
-
-                // Obsah
-                let content = post.content;
-
-                // Pokud je obsah prázdný (jen obrázek), dáme zástupný text
-                if (!content && post.media_attachments && post.media_attachments.length > 0) {
-                    content = "<p><em>[Obrázek/Média]</em></p>";
+                    cardHtml = `
+                        <a href="${post.card.url}" target="_blank" rel="noopener" class="mastodon-card d-block mt-2 border rounded text-decoration-none text-dark overflow-hidden">
+                            ${cardImg}
+                            <div class="p-2 bg-light">
+                                <div class="small fw-bold text-truncate">${post.card.title}</div>
+                                <div class="small text-muted text-truncate" style="font-size: 0.8em;">${post.card.provider_name || 'Odkaz'}</div>
+                            </div>
+                        </a>
+                    `;
+                }
+                // Pokud nemá kartu, ale má aspoň obrázky (Media Attachments)
+                else if (post.media_attachments && post.media_attachments.length > 0) {
+                     cardHtml = `<div class="mt-2"><i class="fa-regular fa-image text-muted me-1"></i><small class="text-muted">Příloha (${post.media_attachments.length})</small></div>`;
                 }
 
-                link.innerHTML = `
-                    <div class="d-flex justify-content-between align-items-baseline mb-1">
-                        ${reblogBadge}
-                        <small class="text-muted ms-auto"><i class="fa-regular fa-clock me-1"></i>${date}</small>
+                // Header pro reblog
+                const reblogBadge = isReblog
+                    ? '<div class="text-success small mb-1"><i class="fa-solid fa-retweet me-1"></i> Sdíleno</div>'
+                    : '';
+
+                // Vytvoření elementu
+                const item = document.createElement('div');
+                item.className = "list-group-item border-0 p-3 border-bottom";
+
+                // Sestavení HTML
+                item.innerHTML = `
+                    ${reblogBadge}
+                    <div class="mastodon-content text-dark small">
+                        ${post.content}
                     </div>
-                    <div class="mastodon-content text-dark" style="font-size: 0.9rem;">
-                        ${content}
+                    ${cardHtml}
+                    <div class="d-flex justify-content-end mt-2">
+                        <a href="${toot.url}" target="_blank" rel="noopener" class="text-muted small text-decoration-none">
+                            <i class="fa-regular fa-clock me-1"></i> ${date}
+                        </a>
                     </div>
                 `;
-                feedContainer.appendChild(link);
+                feedContainer.appendChild(item);
             });
         })
         .catch(error => {
@@ -130,11 +145,35 @@ document.addEventListener("DOMContentLoaded", function() {
 </script>
 
 <style>
-/* Stylování obsahu z Mastodonu */
-.mastodon-content p { margin-bottom: 0.5rem; }
-.mastodon-content p:last-child { margin-bottom: 0; }
-.mastodon-content a { color: #0d6efd; text-decoration: none; } /* Odkazy uvnitř textu */
-.mastodon-content a:hover { text-decoration: underline; }
-.mastodon-content .invisible { display: none; }
-.mastodon-content .ellipsis { display: none; }
+/* CSS pro úpravu vzhledu Mastodon obsahu */
+.mastodon-content p {
+    margin-bottom: 0.5rem;
+}
+.mastodon-content p:last-child {
+    margin-bottom: 0;
+}
+
+/* Odkazy uvnitř textu příspěvku */
+.mastodon-content a {
+    color: #0d6efd !important; /* Vynutíme modrou barvu */
+    text-decoration: none;
+    word-break: break-word;
+}
+.mastodon-content a:hover {
+    text-decoration: underline;
+}
+
+/* Náhledová karta */
+.mastodon-card:hover {
+    background-color: #f8f9fa;
+    opacity: 0.9;
+}
+
+/* Skrytí technických elementů, které Mastodon API posílá pro čtečky */
+.mastodon-content .invisible {
+    display: none;
+}
+.mastodon-content .ellipsis {
+    /* Ellipsis necháme, je to ta část "..." v dlouhém odkazu */
+}
 </style>
