@@ -1,17 +1,66 @@
-{# templates/partials/metadata.html #} {# --- 1. PŘÍPRAVA DAT (Title,
-Description, Image) --- #} {# TITULEK #} {% set og_title = config.title %} {% if
-page and page.title %} {% set og_title = page.title %} {% elif section and
-section.title %} {% set og_title = section.title %} {% endif %} {# POPIS
-(Robustní logika) #} {% set og_desc = config.description %} {% if page %} {#
-JSME NA ČLÁNKU #} {% if page.description %} {% set og_desc = page.description %}
-{% elif page.summary %} {% set og_desc = page.summary | striptags | trim |
-truncate(length=300) %} {% endif %} {% elif section %} {# JSME NA HOMEPAGE NEBO
-V SEKCI #} {% if section.description %} {% set og_desc = section.description %}
-{% endif %} {% endif %} {# OBRÁZEK #} {% set og_image = config.extra.img %} {%
-if page and page.extra.img %} {% if page.extra.img is starting_with("/") or
-page.extra.img is starting_with("http") %} {% set og_image = page.extra.img %}
-{% else %} {% set og_image = "/assets/img/" ~ page.extra.img %} {% endif %} {%
-endif %} {# Absolutní URL pro obrázek #} {% set og_image_url =
+{# templates/partials/metadata.html #}
+{# --- 1. PŘÍPRAVA DAT (Title, Description, Image) --- #}
+{# TITULEK #}
+{% set og_title = config.title %}
+{% if page and page.title %}
+    {% set og_title = page.title %}
+{% elif section and section.title %}
+{% set og_title = section.title %} {% endif %}
+
+
+{# POPIS (Description) #}
+{% set og_desc = config.description %}
+
+{% if page %}
+    {# JSME NA ČLÁNKU #}
+
+    {# 1. Nejprve zkusíme zpracovat perex (pokud existuje) #}
+    {% set clean_summary = "" %}
+    {% if page.summary %}
+        {% set clean_summary = page.summary | striptags | trim %}
+    {% endif %}
+
+    {# 2. Rozhodovací strom #}
+    {% if page.description %}
+        {# A) Ručně zadaný description #}
+        {% set og_desc = page.description %}
+
+    {% elif clean_summary | length > 0 %}
+        {# B) Máme perex a po očištění v něm zbyl text -> Použijeme ho #}
+        {% set og_desc = clean_summary | truncate(length=300) %}
+
+    {% else %}
+        {# C) Nemáme perex (nebo byl jen obrázek) -> Bereme začátek obsahu #}
+        {% set og_desc = page.content | striptags | trim | truncate(length=300) %}
+    {% endif %}
+
+{% elif section %}
+    {# ... sekce ... #}
+    {% if section.description %}
+        {% set og_desc = section.description %}
+    {% endif %}
+{% endif %}
+
+{# OBRÁZEK (Image) #}
+{% set og_image = config.extra.img %}
+
+{% if page and page.extra.img %}
+    {# 1. Absolutní cesta (uživatel zadal celou URL nebo cestu od kořene) #}
+    {% if page.extra.img is starting_with("http") or page.extra.img is starting_with("/") %}
+         {% set og_image = page.extra.img %}
+
+    {# 2. Cesta s podsložkou (uživatel zadal 'posts/obrazek.jpg') #}
+    {% elif page.extra.img is starting_with("posts/") %}
+         {% set og_image = "/assets/img/" ~ page.extra.img %}
+
+    {# 3. Pouze název souboru (uživatel zadal 'obrazek.jpg') #}
+    {# Zde předpokládáme, že pokud jde o článek, obrázek je ve složce posts/ #}
+    {% else %}
+         {% set og_image = "/assets/img/posts/" ~ page.extra.img %}
+    {% endif %}
+{% endif %}
+
+{# Absolutní URL pro obrázek #} {% set og_image_url =
 get_url(path=og_image) %} {# --- 2. VÝPIS META TAGŮ --- #} {# Základní OG #}
 <meta property="og:title" content="{{ og_title }}" />
 <meta property="og:description" content="{{ og_desc }}" />

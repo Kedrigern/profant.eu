@@ -17,6 +17,8 @@ title: "Digitalizace 2022–2024: Od resortismu k systémové architektuře"
 
 V letech 2022–2024 jsem zastával roli náměstka vicepremiéra pro digitalizaci. Mým cílem nebylo jen převádět papírové formuláře do PDF, ale změnit samotný způsob, jakým stát funguje. Digitalizace je totiž o celkové transformaci procesů, ne jen o jejich "naskenování". V tomto textu shrnuji, co se povedlo, kde jsme narazili na staré dluhy a co musí následovat.
 
+<!-- more -->
+
 Programové prohlášení vlády v oblasti digitalizace se na podzim 2024 podařilo splnit na 77 %. To je však jen statistika. Důležitější je, že jsme stát posunuli ze starého nastavení do moderní éry.
 
 ## 1. Systémová změna: Konec resortismu
