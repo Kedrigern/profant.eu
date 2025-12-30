@@ -1,6 +1,6 @@
 base_url = "https://www.profant.eu"
 title = "Profant"
-description = "Zápisník pirátského poslance Ondřeje Profanta..."
+description = "Ondřej Profant: IT specialista se zkušenostmi poslance, náměstka ministr pro digitalizaci a Pirát. Bojuji za digitalizaci, svobodu internetu a otevřená data."
 default_language = "cs"
 generate_feeds = true
 feed_limit = 30
