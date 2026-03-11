@@ -1,20 +1,30 @@
 /* sass/style.scss */
 
+$primary: #0f766e;
+
+@import "bootstrap/bootstrap";
+
 // 1. Hero sekce a Tagcloud
 .hero-section {
     background-image:
-        linear-gradient(rgba(255, 255, 255, 0.9), rgba(255, 255, 255, 0.9)),
+        linear-gradient(rgba(255, 255, 255, 0.95), rgba(245, 245, 245, 0.85)),
         url("/assets/img/design/cover.jpg");
     background-size: cover;
     background-position: center;
     padding: 3rem 0;
     margin-bottom: 2rem;
-    border-bottom: 1px solid var(--bs-border-color);
+    border-bottom: 3px solid var(--bs-primary);
 
     [data-bs-theme="dark"] & {
+        /* Temný, hluboký oceánový gradient s 85% krytím */
         background-image:
-            linear-gradient(rgba(33, 37, 41, 0.9), rgba(33, 37, 41, 0.9)),
+            linear-gradient(rgba(10, 35, 40, 0.85), rgba(15, 20, 25, 0.9)),
             url("/assets/img/design/cover.jpg");
+        border-bottom: 3px solid rgba(var(--bs-primary-rgb), 0.3);
+
+        img.rounded-circle {
+            border-color: rgba(var(--bs-primary-rgb), 0.5);
+        }
     }
 }
 
@@ -30,7 +40,7 @@
             font-size 0.2s;
 
         &:hover {
-            color: var(--bs-body-color);
+            color: var(--bs-primary);
             text-decoration: underline;
         }
     }
@@ -108,4 +118,40 @@ h4:hover .zola-anchor,
 h5:hover .zola-anchor,
 h6:hover .zola-anchor {
     opacity: 0.6; /* Při najetí na nadpis se trochu rozsvítí */
+}
+
+/* --- Mastodon Feed --- */
+.mastodon-content p {
+    margin-bottom: 0.5rem;
+}
+.mastodon-content p:last-child {
+    margin-bottom: 0;
+}
+
+/* Odkazy uvnitř textu příspěvku */
+.mastodon-content a {
+    color: var(
+        --bs-primary
+    ) !important; /* Použije naši zkompilovanou barvu z Bootstrapu */
+    text-decoration: none;
+    word-break: break-word;
+}
+.mastodon-content a:hover {
+    text-decoration: underline;
+}
+
+/* Náhledová karta */
+.mastodon-card {
+    transition: background-color 0.2s;
+}
+.mastodon-card:hover {
+    background-color: var(
+        --bs-tertiary-bg
+    ); /* Responzivní pozadí Bootstrapu místo #f8f9fa */
+    opacity: 0.9;
+}
+
+/* Skrytí technických elementů */
+.mastodon-content .invisible {
+    display: none;
 }
