@@ -49,7 +49,7 @@
                                         {# Sloupec 3: tags #} {% if row[3] %} {%
                                         for tag in row[3] | split(pat=",") %}
                                         <span
-                                            class="badge bg-light text-secondary border fw-normal"
+                                            class="badge bg-body-tertiary text-secondary border fw-normal"
                                             >{{ tag }}</span
                                         >
                                         {% endfor %} {% endif %}
@@ -62,7 +62,7 @@
                 </div>
             </div>
 
-            <div class="card bg-light border-0 p-4">
+            <div class="card bg-body-tertiary border-0 p-4">
                 <h3 class="h5 mb-3">Další články v jednotlivých médiích:</h3>
                 <div class="d-flex flex-wrap gap-2">
                     <a

@@ -1,18 +1,20 @@
 <div class="card mb-4 shadow-sm border-0">
-    <div class="card-header bg-dark text-white">
+    <div class="card-header bg-body-tertiary fw-bold">
         O mně
     </div>
     <div class="card-body">
         <p class="card-text small">
             IT specialista se zkušenostmi poslance, náměstka ministr pro digitalizaci a Pirát. Bojuji za digitalizaci, svobodu internetu a otevřená data.
         </p>
-        <a href="{{ get_url(path="bio") }}" class="btn btn-sm btn-outline-dark w-100">Více o mně</a>
+        <a href="{{ get_url(path="bio") }}" class="btn btn-sm btn-outline-secondary w-100">Více o mně</a>
     </div>
 </div>
 
 <div class="card mb-4 shadow-sm border-0">
+    <div class="card-header bg-body-tertiary fw-bold">
+        Kde mě najdete
+    </div>
     <div class="card-body">
-        <h5 class="card-title h6 mb-3">Kde mě najdete</h5>
         <div class="d-grid gap-2">
             <a href="{{ config.extra.mastodon_url }}" class="btn btn-outline-primary btn-sm text-start" rel="me">
                 <i class="fa-brands fa-mastodon me-2"></i> Mastodon
@@ -25,7 +27,7 @@
 </div>
 
 <div class="card mb-4 shadow-sm border-0">
-    <div class="card-header bg-white fw-bold d-flex justify-content-between align-items-center">
+    <div class="card-header bg-body-tertiary fw-bold d-flex justify-content-between align-items-center">
         <span>Aktuálně</span>
         <i class="fa-brands fa-mastodon text-primary"></i>
     </div>
@@ -36,13 +38,13 @@
         </div>
     </div>
 
-    <div class="card-footer bg-white border-top-0">
-        <a href="{{ config.extra.mastodon_url }}" class="btn btn-sm btn-light w-100 text-muted">Zobrazit více</a>
+    <div class="card-footer bg-body-tertiary border-top-0">
+        <a href="{{ config.extra.mastodon_url }}" class="btn btn-sm btn-outline-secondary w-100">Zobrazit více</a>
     </div>
 </div>
 
 <div class="card mb-4 shadow-sm border-0">
-    <div class="card-header bg-white fw-bold">
+    <div class="card-header bg-body-tertiary fw-bold">
         Vybrané články
     </div>
     <div class="list-group list-group-flush">
@@ -98,13 +100,13 @@ document.addEventListener("DOMContentLoaded", function() {
                         : '';
 
                     cardHtml = `
-                        <a href="${post.card.url}" target="_blank" rel="noopener" class="mastodon-card d-block mt-2 border rounded text-decoration-none text-dark overflow-hidden">
-                            ${cardImg}
-                            <div class="p-2 bg-light">
-                                <div class="small fw-bold text-truncate">${post.card.title}</div>
-                                <div class="small text-muted text-truncate" style="font-size: 0.8em;">${post.card.provider_name || 'Odkaz'}</div>
-                            </div>
-                        </a>
+                      <a href="${post.card.url}" target="_blank" rel="noopener" class="mastodon-card d-block mt-2 border rounded text-decoration-none text-body-emphasis overflow-hidden">
+                          ${cardImg}
+                          <div class="p-2 bg-body-tertiary">
+                              <div class="small fw-bold text-truncate">${post.card.title}</div>
+                              <div class="small text-muted text-truncate" style="font-size: 0.8em;">${post.card.provider_name || 'Odkaz'}</div>
+                          </div>
+                      </a>
                     `;
                 }
                 // Pokud nemá kartu, ale má aspoň obrázky (Media Attachments)
@@ -124,7 +126,7 @@ document.addEventListener("DOMContentLoaded", function() {
                 // Sestavení HTML
                 item.innerHTML = `
                     ${reblogBadge}
-                    <div class="mastodon-content text-dark small">
+                    <div class="mastodon-content text-body small">
                         ${post.content}
                     </div>
                     ${cardHtml}
@@ -155,17 +157,18 @@ document.addEventListener("DOMContentLoaded", function() {
 
 /* Odkazy uvnitř textu příspěvku */
 .mastodon-content a {
-    color: #0d6efd !important; /* Vynutíme modrou barvu */
+    color: var(--bs-link-color) !important; /* Responzivní Bootstrap barva pro odkazy */
     text-decoration: none;
     word-break: break-word;
 }
 .mastodon-content a:hover {
+    color: var(--bs-link-hover-color) !important;
     text-decoration: underline;
 }
 
 /* Náhledová karta */
 .mastodon-card:hover {
-    background-color: #f8f9fa;
+    background-color: var(--bs-secondary-bg); /* Responzivní pozadí */
     opacity: 0.9;
 }
 

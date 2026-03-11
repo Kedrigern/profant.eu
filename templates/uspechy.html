@@ -16,13 +16,13 @@
                         <i class="fa fa-{{ item.icon | default(value="check") }} text-primary fs-5"></i>
                     </div>
 
-                    <div class="timeline-line position-absolute bg-light d-none d-md-block" style="width: 4px; left: 1.6rem; top: 3.5rem; bottom: -3rem; z-index: 0;"></div>
+                    <div class="timeline-line position-absolute bg-body-tertiary d-none d-md-block" style="width: 4px; left: 1.6rem; top: 3.5rem; bottom: -3rem; z-index: 0;"></div>
 
                     <div class="card shadow-sm border-0">
                         <div class="card-body p-4">
                             <div class="d-flex justify-content-between align-items-center mb-3 flex-wrap gap-2">
                                 <h3 class="h5 card-title mb-0 fw-bold">{{ item.subject }}</h3>
-                                <span class="badge bg-light text-dark border">
+                                <span class="badge bg-body-tertiary text-dark border">
                                     {{ item.date | date(format="%Y") }}
                                 </span>
                             </div>

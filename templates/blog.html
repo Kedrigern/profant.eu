@@ -29,14 +29,14 @@
                         {% if page.extra.img %}
                         <img src="{{ get_url(path="assets/img/posts/" ~ page.extra.img) }}" class="img-fluid rounded-start" alt="{{ page.title }}">
                         {% else %}
-                        <div class="bg-light h-100 d-flex align-items-center justify-content-center text-muted">
+                        <div class="bg-body-tertiary h-100 d-flex align-items-center justify-content-center text-muted">
                             <i class="fa fa-file-text-o fa-3x"></i>
                         </div>
                         {% endif %}
                     </div>
                     <div class="col-md-8">
                         <div class="card-body">
-                            <h5 class="card-title"><a href="{{ page.permalink }}" class="text-decoration-none text-dark">{{ page.title }}</a></h5>
+                            <h5 class="card-title"><a href="{{ page.permalink }}" class="text-decoration-none text-body-emphasis">{{ page.title }}</a></h5>
                             {% if page.date %}
                             <p class="card-text text-muted small">
                                 <i class="fa fa-calendar me-1"></i> {{ page.date | date(format="%d. %m. %Y") }}
