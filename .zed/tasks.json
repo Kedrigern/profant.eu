@@ -1,0 +1,16 @@
+[
+  {
+    "label": "Serve",
+    "command": "zola serve",
+    "use_new_terminal": false,
+    "allow_concurrent_runs": false,
+    "reveal": "always",
+    "hide": "never",
+    "shell": {
+      "program": "sh",
+    },
+    "show_summary": true,
+    "show_command": true,
+    "tags": ["ci", "ruff"],
+  },
+]
