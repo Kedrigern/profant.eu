@@ -43,6 +43,7 @@
             matomoSiteId: "{{ config.extra.matomo_site_id }}"
         };
     </script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js"></script>
     <script src="{{ get_url(path="js/main.js") }}"></script>
     {% if page and page.extra.customjs %}
         {% if page.extra.customjs == "redmineTable.html" %}
