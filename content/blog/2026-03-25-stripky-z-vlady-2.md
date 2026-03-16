@@ -1,5 +1,5 @@
 ---
-date: 2026-03-11
+date: 2026-03-16
 draft: true
 extra:
   author: Ondřej Profant
@@ -8,13 +8,12 @@ extra:
   layout: post
 taxonomies:
   categories:
-  - Vlada
+  - vlada
   tags:
-title: "Greendeal / Střípky z vlády 1: Škodíme si navzájem"
+title: "Střípky z vlady"
 ---
 
-
-V letech 2022–2024 jsem zastával roli náměstka vicepremiéra pro digitalizaci. V této serii se pokusím poodhalit nějaké ty historky z pozadí fungování státního kolosu. 
+V letech 2022–2024 jsem zastával roli náměstka vicepremiéra pro digitalizaci. V této serii se pokusím poodhalit nějaké ty historky z pozadí fungování státního kolosu.
 
 <!-- more -->
 
