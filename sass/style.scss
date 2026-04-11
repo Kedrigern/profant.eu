@@ -120,6 +120,23 @@ h6:hover .zola-anchor {
     opacity: 0.6; /* Při najetí na nadpis se trochu rozsvítí */
 }
 
+/* --- Blockquote --- */
+blockquote {
+    border-left: 4px solid var(--bs-primary);
+    padding: 0.5rem 1rem;
+    margin-bottom: 1.5rem;
+    background-color: rgba(var(--bs-primary-rgb), 0.05);
+    border-radius: 0 0.25rem 0.25rem 0;
+
+    [data-bs-theme="dark"] & {
+        background-color: rgba(var(--bs-primary-rgb), 0.1);
+    }
+
+    p:last-child {
+        margin-bottom: 0;
+    }
+}
+
 /* --- Mastodon Feed --- */
 .mastodon-content p {
     margin-bottom: 0.5rem;
