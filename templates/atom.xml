@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="{{ lang | default(value=config.default_language) }}">
+    <title>{{ config.title }}</title>
+    {%- if config.description %}
+    <subtitle>{{ config.description }}</subtitle>
+    {%- endif %}
+    <link href="{{ feed_url | safe }}" rel="self" type="application/atom+xml"/>
+    <link href="{{ config.base_url | safe }}"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <id>{{ feed_url | safe }}</id>
+    <updated>{{ last_updated | date(format="%Y-%m-%dT%H:%M:%S%:z") }}</updated>
+    {%- for page in pages %}
+    <entry xml:lang="{{ page.lang | default(value=config.default_language) }}">
+        <title>{{ page.title }}</title>
+        <published>{{ page.date | date(format="%Y-%m-%dT%H:%M:%S%:z") }}</published>
+        <updated>{{ page.updated | default(value=page.date) | date(format="%Y-%m-%dT%H:%M:%S%:z") }}</updated>
+        <link href="{{ page.permalink | safe }}" type="text/html"/>
+        <id>{{ page.permalink | safe }}</id>
+        <summary type="html"><![CDATA[{{ page.summary | default(value=page.description | default(value="")) | safe }}]]></summary>
+        <content type="html"><![CDATA[{{ page.content | safe }}]]></content>
+        {%- if page.taxonomies.categories %}
+            {%- for cat in page.taxonomies.categories %}
+            <category term="{{ cat }}"/>
+            {%- endfor %}
+        {%- endif %}
+        {%- if page.taxonomies.tags %}
+            {%- for tag in page.taxonomies.tags %}
+            <category term="{{ tag }}"/>
+            {%- endfor %}
+        {%- endif %}
+        <author>
+            <name>{% if page.extra.author %}{{ page.extra.author }}{% elif config.extra.author %}{{ config.extra.author }}{% else %}{{ config.title }}{% endif %}</name>
+        </author>
+    </entry>
+    {%- endfor %}
+</feed>
