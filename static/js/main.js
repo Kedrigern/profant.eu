@@ -55,8 +55,32 @@ document.addEventListener("DOMContentLoaded", function () {
         }
 
         const reblogBadge = isReblog
-          ? '<div class="text-success small mb-1"><i class="fa-solid fa-retweet me-1"></i> Sdíleno</div>'
+          ? `<div class="text-success small mb-1"><i class="fa-solid fa-retweet me-1"></i> Sdíleno od <strong>${post.account.display_name || post.account.username}</strong></div>`
           : "";
+
+        // Úprava vzhledu pro citované příspěvky (quote-inline RE:)
+        let content = post.content;
+
+        if (post.quote && post.quote.quoted_status) {
+          const qs = post.quote.quoted_status;
+          const authorName = qs.account.display_name || qs.account.username;
+
+          content = content.replace(
+            /<p class="quote-inline">RE:\s*<a[^>]+>.*?<\/a><\/p>/gi,
+            `<div class="small mb-2 p-2 bg-body-tertiary rounded border-start border-primary border-3">
+              <div class="fw-bold mb-1">
+                <i class="fa-solid fa-quote-left text-muted me-1"></i>
+                <a href="${qs.url}" target="_blank" rel="noopener" class="text-decoration-none text-body">${authorName}</a>
+              </div>
+              <div class="text-muted">${qs.content}</div>
+            </div>`,
+          );
+        } else {
+          content = content.replace(
+            /<p class="quote-inline">RE:\s*(<a[^>]+>).*?<\/a><\/p>/gi,
+            '<div class="small mb-2 p-2 bg-body-tertiary rounded border-start border-primary border-3"><i class="fa-solid fa-quote-left text-muted me-1"></i> $1Citovaný příspěvek</a></div>',
+          );
+        }
 
         const item = document.createElement("div");
         item.className =
@@ -65,11 +89,11 @@ document.addEventListener("DOMContentLoaded", function () {
         item.innerHTML = `
                     ${reblogBadge}
                     <div class="mastodon-content text-body small">
-                        ${post.content}
+                        ${content}
                     </div>
                     ${cardHtml}
                     <div class="d-flex justify-content-end mt-2">
-                        <a href="${toot.url}" target="_blank" rel="noopener" class="text-muted small text-decoration-none">
+                        <a href="${toot.url}" target="_blank" rel="noopener" class="text-muted text-decoration-none" style="font-size: 0.75em;">
                             <i class="fa-regular fa-clock me-1"></i> ${date}
                         </a>
                     </div>
