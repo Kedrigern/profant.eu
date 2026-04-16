@@ -13,7 +13,7 @@ document.addEventListener("DOMContentLoaded", function () {
     })
     .then((account) =>
       fetch(
-        `${INSTANCE}/api/v1/accounts/${account.id}/statuses?limit=${LIMIT}&exclude_replies=true`,
+        `${INSTANCE}/api/v1/accounts/${account.id}/statuses?limit=${LIMIT}&exclude_replies=true&exclude_reblogs=true`,
       ),
     )
     .then((response) => response.json())
@@ -22,23 +22,26 @@ document.addEventListener("DOMContentLoaded", function () {
 
       feedContainer.innerHTML = "";
 
-      data.slice(0, 3).forEach((toot) => {
-        const isReblog = !!toot.reblog;
-        const post = isReblog ? toot.reblog : toot;
+      data
+        .filter((toot) => !toot.in_reply_to_id && !toot.in_reply_to_account_id)
+        .slice(0, 3)
+        .forEach((toot) => {
+          const isReblog = !!toot.reblog;
+          const post = isReblog ? toot.reblog : toot;
 
-        const date = new Date(toot.created_at).toLocaleDateString("cs-CZ", {
-          day: "numeric",
-          month: "numeric",
-          year: "numeric",
-        });
+          const date = new Date(toot.created_at).toLocaleDateString("cs-CZ", {
+            day: "numeric",
+            month: "numeric",
+            year: "numeric",
+          });
 
-        let cardHtml = "";
-        if (post.card && post.card.url) {
-          const cardImg = post.card.image
-            ? `<div class="card-img-top" style="background-image: url('${post.card.image}'); height: 120px; background-size: cover; background-position: center;"></div>`
-            : "";
+          let cardHtml = "";
+          if (post.card && post.card.url) {
+            const cardImg = post.card.image
+              ? `<div class="card-img-top" style="background-image: url('${post.card.image}'); height: 120px; background-size: cover; background-position: center;"></div>`
+              : "";
 
-          cardHtml = `
+            cardHtml = `
                         <a href="${post.card.url}" target="_blank" rel="noopener" class="mastodon-card d-block mt-2 border rounded text-decoration-none text-body-emphasis overflow-hidden">
                             ${cardImg}
                             <div class="p-2 bg-body-tertiary">
@@ -47,46 +50,77 @@ document.addEventListener("DOMContentLoaded", function () {
                             </div>
                         </a>
                     `;
-        } else if (
-          post.media_attachments &&
-          post.media_attachments.length > 0
-        ) {
-          cardHtml = `<div class="mt-2"><i class="fa-regular fa-image text-muted me-1"></i><small class="text-muted">Příloha (${post.media_attachments.length})</small></div>`;
-        }
+          } else if (
+            post.media_attachments &&
+            post.media_attachments.length > 0
+          ) {
+            cardHtml = `
+                        <div class="mt-2 d-grid gap-2">
+                            ${post.media_attachments
+                              .map((attachment) => {
+                                const previewUrl =
+                                  attachment.preview_url || attachment.url;
+                                const fullUrl =
+                                  attachment.url || attachment.preview_url;
+                                const description =
+                                  attachment.description ||
+                                  "Příloha k příspěvku";
 
-        const reblogBadge = isReblog
-          ? `<div class="text-success small mb-1"><i class="fa-solid fa-retweet me-1"></i> Sdíleno od <strong>${post.account.display_name || post.account.username}</strong></div>`
-          : "";
+                                if (
+                                  attachment.type === "image" ||
+                                  attachment.type === "gifv"
+                                ) {
+                                  return `
+                                    <a href="${fullUrl}" target="_blank" rel="noopener" class="d-block border rounded overflow-hidden text-decoration-none">
+                                        <img src="${previewUrl}" alt="${description}" class="img-fluid w-100" loading="lazy">
+                                    </a>
+                                  `;
+                                }
 
-        // Úprava vzhledu pro citované příspěvky (quote-inline RE:)
-        let content = post.content;
+                                return `
+                                  <a href="${fullUrl}" target="_blank" rel="noopener" class="d-inline-flex align-items-center text-decoration-none small">
+                                      <i class="fa-regular fa-paperclip me-2"></i>${description}
+                                  </a>
+                                `;
+                              })
+                              .join("")}
+                        </div>
+                    `;
+          }
 
-        if (post.quote && post.quote.quoted_status) {
-          const qs = post.quote.quoted_status;
-          const authorName = qs.account.display_name || qs.account.username;
+          const reblogBadge = isReblog
+            ? `<div class="text-success small mb-1"><i class="fa-solid fa-retweet me-1"></i> Sdíleno od <strong>${post.account.display_name || post.account.username}</strong></div>`
+            : "";
 
-          content = content.replace(
-            /<p class="quote-inline">RE:\s*<a[^>]+>.*?<\/a><\/p>/gi,
-            `<div class="small mb-2 p-2 bg-body-tertiary rounded border-start border-primary border-3">
+          // Úprava vzhledu pro citované příspěvky (quote-inline RE:)
+          let content = post.content;
+
+          if (post.quote && post.quote.quoted_status) {
+            const qs = post.quote.quoted_status;
+            const authorName = qs.account.display_name || qs.account.username;
+
+            content = content.replace(
+              /<p class="quote-inline">RE:\s*<a[^>]+>.*?<\/a><\/p>/gi,
+              `<div class="small mb-2 p-2 bg-body-tertiary rounded border-start border-primary border-3">
               <div class="fw-bold mb-1">
                 <i class="fa-solid fa-quote-left text-muted me-1"></i>
                 <a href="${qs.url}" target="_blank" rel="noopener" class="text-decoration-none text-body">${authorName}</a>
               </div>
               <div class="text-muted">${qs.content}</div>
             </div>`,
-          );
-        } else {
-          content = content.replace(
-            /<p class="quote-inline">RE:\s*(<a[^>]+>).*?<\/a><\/p>/gi,
-            '<div class="small mb-2 p-2 bg-body-tertiary rounded border-start border-primary border-3"><i class="fa-solid fa-quote-left text-muted me-1"></i> $1Citovaný příspěvek</a></div>',
-          );
-        }
+            );
+          } else {
+            content = content.replace(
+              /<p class="quote-inline">RE:\s*(<a[^>]+>).*?<\/a><\/p>/gi,
+              '<div class="small mb-2 p-2 bg-body-tertiary rounded border-start border-primary border-3"><i class="fa-solid fa-quote-left text-muted me-1"></i> $1Citovaný příspěvek</a></div>',
+            );
+          }
 
-        const item = document.createElement("div");
-        item.className =
-          "list-group-item bg-transparent border-0 p-3 border-bottom"; // bg-transparent kvůli tmavému režimu
+          const item = document.createElement("div");
+          item.className =
+            "list-group-item bg-transparent border-0 p-3 border-bottom"; // bg-transparent kvůli tmavému režimu
 
-        item.innerHTML = `
+          item.innerHTML = `
                     ${reblogBadge}
                     <div class="mastodon-content text-body small">
                         ${content}
@@ -98,8 +132,8 @@ document.addEventListener("DOMContentLoaded", function () {
                         </a>
                     </div>
                 `;
-        feedContainer.appendChild(item);
-      });
+          feedContainer.appendChild(item);
+        });
     })
     .catch((error) => {
       console.error(error);
