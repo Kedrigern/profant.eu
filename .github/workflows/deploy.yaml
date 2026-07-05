@@ -5,6 +5,13 @@ on:
     branches:
       - main
 
+permissions:
+  contents: read
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
 jobs:
   build:
     runs-on: ubuntu-slim
@@ -16,6 +23,8 @@ jobs:
         uses: taiki-e/install-action@v2
         with:
           tool: zola@0.21.0
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
       - name: Build
         run: zola build
       - name: Upload artifact
