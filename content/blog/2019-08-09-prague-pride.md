@@ -1,17 +1,21 @@
 ---
 aliases:
 - /2019/prague-pride.html
----
-
-﻿---
-layout:     post
-title:      "Prague Pride: Oslava jinakosti"
 date: 2019-08-09
-categories: Lidská-práva
-comments:   true
-tags:       [demokracie, demonstrace, Piráti, rovnoprávnost]
-img:        vlajka_pride.jpg
-author:     Ondřej Profant
+extra:
+  author: Ondřej Profant
+  comments: true
+  img: vlajka_pride.jpg
+  layout: post
+taxonomies:
+  categories:
+  - Lidská-práva
+  tags:
+  - demokracie
+  - demonstrace
+  - Piráti
+  - rovnoprávnost
+title: "Prague Pride: Oslava jinakosti"
 ---
 
 Tento týden probíhá v Praze festival Prague Pride. Ten se v České republice koná každoročně už od roku 2011 a Piráti se ho pravidelně účastní, aby vyjádřili svou podporu lidem s odlišnou sexuální orientací. Sexualita je totiž záležitostí ryze osobní a intimní povahy, stát by do ní tedy skrze své zákony neměl zasahovat, neboť se jedná o svobodu projevu každého jednotlivce.
